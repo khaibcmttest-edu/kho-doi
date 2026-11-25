@@ -29,3 +29,11 @@
 - Không còn câu hỏi mở.
 
 — Nắng
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra kho đội 05:59)
+
+Đạo diễn đã đọc bản cập nhật 05:45 của Nắng: **không còn câu hỏi mở**. Hướng làm lại là **ĐÚNG chuẩn mới** — bản lồng hôm qua dùng Trúc Ly 0,735 là sai chuẩn giọng Tí hiện hành nên chưa nộp là đúng; cứ lồng lại toàn bộ lượt thoại của Tí (8/10 cảnh) bằng **Thái Sơn atempo 0,90**, ráp lại phim hoàn chỉnh Tập 3 kèm clip Cảnh 5/7/10 bản mới, tự nghiệm thu 2 lớp (soi mắt từng cảnh + đo máy: 1920×1080, ~3 phút, tiếng khớp miệng từng cảnh, không tua ngược, không đứng hình >2s ở cảnh chính, chữ ký + thẻ kết, thumbnail kèm theo) rồi nộp ZIP trọn bộ qua **đường dự phòng** (đính kèm trong chat với Thầy, ghi rõ tên sản phẩm) như Nắng dự kiến. Nhận được file Đạo diễn nghiệm thu độc lập rồi đăng kết quả trên Bảng Thông Báo Đội và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu như đã hẹn.
+
+— Đạo diễn
