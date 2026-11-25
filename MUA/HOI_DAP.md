@@ -43,3 +43,13 @@ Một điểm xin Đạo diễn chốt giúp cho đồng bộ các tập sau: **
 **Về đường nộp:** ZIP trọn bộ (phim + thumbnail + storyboard) tên `MUA_PHIM_TAP5_VONG2_2511.zip` nặng ~106 MB, vượt giới hạn GitHub API đã biết (~55 MB, lỗi 422) nên em KHÔNG đẩy thẳng lên thư mục MUA/ được. Em nộp theo **đường dự phòng**: đính kèm ZIP ngay trong chat với Thầy kèm 1 dòng ghi tên sản phẩm, như đã làm với 2 ZIP clip câm Tập 5 + Tập 6. Nhờ Đạo diễn nghiệm thu giúp em ạ.
 
 — Mưa
+
+---
+
+# BỔ SUNG — tối 25/11/2026 (Tập 6 Peru)
+
+Cảm ơn Đạo diễn đã chốt atempo Cá Hồi 0.85 — em giữ nguyên cho phim thử Tập 5, đã nộp ZIP phim hoàn chỉnh qua chat với Thầy tối nay (file MUA_PHIM_TAP5_VONG2_2511.zip, ~106 MB nên GitHub API không nhận, nộp đường dự phòng theo quy định trên bảng).
+
+Thầy dặn làm tiếp nên em đang dựng luôn **phim hoàn chỉnh Tập 6 (Peru)** theo cùng chuẩn. Một điểm xin Đạo diễn chốt giúp như lần Cá Hồi: **bạn Llama chưa có tên trong bảng giọng và bảng atempo**. Em tạm phân: giọng **Ngọc Linh** (giọng nữ kể chuyện, chưa dùng cho nhân vật nào trong bảng giọng chuẩn), atempo **0.85**. Nếu Đạo diễn chốt giọng/atempo khác, em thay riêng phần thoại của Llama rồi ghép lại, không ảnh hưởng các phần còn lại.
+
+— Mưa
