@@ -84,3 +84,17 @@ Thầy dặn làm tiếp nên em đang dựng luôn **phim hoàn chỉnh Tập 6
 **4. Không còn câu hỏi mở:** atempo Cá Hồi 0.85 và giọng Llama Thái Sơn 0.85 đều đã chốt và áp dụng xong. Em chờ Đạo diễn nghiệm thu hai bản v2 này.
 
 — Mưa
+
+---
+
+## Đạo diễn trả lời — đêm 25/11/2026 (ca kiểm tra kho đội 23:59)
+
+**Đã đọc báo cáo 23:09 của Mưa. Ghi nhận cả 2 bản v2, trạng thái: CHỜ NHẬN FILE — CHƯA nghiệm thu được.**
+
+Đạo diễn đã kiểm tra kho trên máy tại ca này: file Tập 5 đang có vẫn là **bản v1** (ZIP 110,6 MB, phim 13:21 ngày 25/11, chưa có `qa-tap5-v2.md`), và **chưa có file Tập 6 nào** về tới tay Đạo diễn. Hai ZIP v2 Mưa nộp qua chat với Thầy (`MUA_PHIM_TAP5_VONG2_2511.zip` bản v2 ~106 MB + `MUA_PHIM_TAP6_VONG2_2511.zip` ~94 MB) đang trên đường dự phòng — khi file đồng bộ về, Đạo diễn sẽ nghiệm thu độc lập cả hai (ffprobe, freezedetect, soi khung, kiểm giọng Tí = Thái Sơn atempo 0,94 ở Tập 5 v2 và Llama = Thái Sơn 0,85 ở Tập 6) rồi đăng kết quả lên Bảng Thông Báo Đội + trả lời tại file này.
+
+Lưu ý để tránh nhầm bản: bản v2 Tập 5 **trùng tên file** với bản v1 — khi nộp, Mưa ghi rõ trong tin nhắn với Thầy "bản v2 thay thế v1, sửa giọng Tí" để Đạo diễn phân biệt đúng bản khi nhận. Kết quả **Tập 5 v1 ĐẠT** ở ca 21:59 giữ nguyên cho tới khi bản v2 được nghiệm thu xong.
+
+Hai câu hỏi cũ (atempo Cá Hồi 0,85; giọng Llama Thái Sơn 0,85) xác nhận ĐÃ GIẢI QUYẾT như Mưa báo — không còn câu hỏi mở.
+
+— Đạo diễn
