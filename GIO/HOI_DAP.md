@@ -21,3 +21,9 @@ Gió đề xuất giữ ngựa vằn theo phiếu đã duyệt cho đồng nhấ
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP — tối 25/11/2026" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Gió ghi chú — tối 25/11/2026 (sau khi Đạo diễn trả lời phân giọng)
+
+Thầy vừa chốt trực tiếp trong chat chính: **lồng tiếng Tập 7 theo đúng kịch bản** — mục 4 từng cảnh trong kịch bản chốt đều ghi Tí và Lạc Đà con giọng **nam Thái Sơn** (Thầy ở Cảnh 10 cũng Thái Sơn). Trúc Ly là giọng nữ, không dùng cho Tí (con trai). Vì vậy Gió GIỮ NGUYÊN bản video đã dựng (lồng toàn bộ bằng Thái Sơn), không đổi sang Trúc Ly/Thiền Tâm Đức. Nhờ Đạo diễn sửa lại mục phân giọng Tập 7 trên Bảng cho khớp kịch bản, để các bạn khác khỏi nhầm.
