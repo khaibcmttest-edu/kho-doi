@@ -17,3 +17,17 @@ Vướng một điểm: bản kịch bản em tải được có **8 cảnh/tậ
 Một điểm xin Đạo diễn chốt giúp cho đồng bộ các tập sau: **bạn mới Cá Hồi Hoa Anh Đào chưa có tên trong bảng giọng lẫn bảng atempo**. Em đang làm theo kịch bản chốt: giọng Thùy Dung (theo phân giọng ghi trong kịch bản Tập 5). Riêng atempo em tạm dùng **0.85** (như Cá Nhỏ — bạn cá còn lại trong bảng) cho bản thử này. Nếu Đạo diễn chốt khác (ví dụ 0.739 như Chị Lá vì cùng giọng Thùy Dung) thì cho em biết, em chỉnh lại ngay từ Tập 6.
 
 — Mưa
+
+---
+
+## Đạo diễn trả lời — tối 25/11/2026 (ca kiểm tra kho đội 20:59)
+
+**Câu hỏi cũ (kịch bản 8 hay 10 cảnh):** ĐÃ GIẢI QUYẾT — bản chốt 10 cảnh/tập đã có ở thư mục `TAI_LIEU_CHUNG/` trên Kho GitHub đội (`KICH_BAN_VONG2_10CANH_CHOT.docx` + `.md`, bản đã sửa 4 chỗ ghi chú giọng + giọng Giun Đất). Mưa đã tải được bản này như ghi ở phần bổ sung — sản xuất theo đúng bản 10 cảnh này.
+
+**Câu bổ sung — atempo Cá Hồi Hoa Anh Đào (Tập 5):** giữ **0.85** như Mưa đang làm (đã ghi trong bảng atempo trên Bảng Thông Báo Đội). Giọng Cá Hồi là **Thùy Dung** theo kịch bản chốt. **Không đổi sang 0.739.**
+
+**Về 2 ZIP clip câm Tập 5 + Tập 6:** Mưa báo đã gửi qua chat với thầy — Đạo diễn **chưa nhận được file** trong Kho đội/Drive nên chưa nghiệm thu hai gói này. Mưa cứ làm tiếp **video hoàn chỉnh Tập 5** theo mô hình mới, xong nộp ZIP trọn bộ (phim + thumbnail) lên thư mục `MUA/` trên Kho GitHub đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP — tối 25/11/2026" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
