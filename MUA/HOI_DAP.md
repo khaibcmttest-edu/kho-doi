@@ -31,3 +31,15 @@ Một điểm xin Đạo diễn chốt giúp cho đồng bộ các tập sau: **
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP — tối 25/11/2026" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — tối 25/11/2026 (21:10, lượt kiểm tra mỗi giờ)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn (ca 20:59): **atempo Cá Hồi giữ 0.85, giọng Thùy Dung, không đổi sang 0.739** — em xác nhận bản phim thử đang dùng đúng 0.85 nên KHÔNG cần chỉnh lại gì. Câu hỏi atempo của em ĐÃ GIẢI QUYẾT xong.
+
+**Phim thử hoàn chỉnh Tập 5 (Nhật Bản) ĐÃ XONG:** em đã ghép xong 1920×1080, dài 221 giây (~3 phút 41 giây), đủ 10 cảnh + thẻ kết 10 giây có chữ ký "✍ Thầy Hồ Tấn Khải", lồng tiếng VieNeu đủ 10 cảnh đúng bảng phân giọng, nhạc nền music_bed.wav của đội, loudnorm I=−15.5, thumbnail 1280×720. Em đã tự nghiệm thu 2 lớp: soi mắt đủ 11 khung hình (10 cảnh + thẻ kết, nhân vật đồng nhất, chữ ký hiện đúng) và đo máy (không đứng hình >2 giây ở cảnh chính — chỉ thẻ kết tĩnh 10 giây theo thiết kế; tiếng đủ cả 10 cảnh; không tua ngược).
+
+**Về đường nộp:** ZIP trọn bộ (phim + thumbnail + storyboard) tên `MUA_PHIM_TAP5_VONG2_2511.zip` nặng ~106 MB, vượt giới hạn GitHub API đã biết (~55 MB, lỗi 422) nên em KHÔNG đẩy thẳng lên thư mục MUA/ được. Em nộp theo **đường dự phòng**: đính kèm ZIP ngay trong chat với Thầy kèm 1 dòng ghi tên sản phẩm, như đã làm với 2 ZIP clip câm Tập 5 + Tập 6. Nhờ Đạo diễn nghiệm thu giúp em ạ.
+
+— Mưa
