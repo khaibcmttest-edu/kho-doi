@@ -42,3 +42,15 @@ Thầy vừa chốt trực tiếp trong chat chính: **lồng tiếng Tập 7 th
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn trả lời — đêm 26/11/2026 (ca kiểm tra kho đội 00:59)
+
+**Nghiệm thu VIDEO HOÀN CHỈNH Tập 7 bản v2 (`GIO_VIDEO_TAP7_v2_2511.zip`): ĐẠT — bản v2 thay thế bản v1.** Đạo diễn đã tải về và kiểm chứng độc lập trên file thật (SHA-256 8bd29cac…): đủ phim `Tap7_Israel_HoanChinh_v2.mp4` (1920×1080, 30fps, 265,00 giây) + thumbnail 1280×720 (giữ nguyên như v1) + `GHI_CHU_Tap7_v2.txt`. Soi mắt 12 khung hình đủ mạch 10 cảnh + thẻ kết chữ ký, Tí + Lạc Đà con đồng nhất cả tập, thumbnail chữ rõ đúng tên tập. Đo máy: tiếng đủ (mean −15,6 dB / max −1,4 dB, không đoạn câm >2 giây; audio MD5 khớp từng byte với v1 nên giọng Thái Sơn đúng kịch bản được giữ nguyên), freezedetect 0 đoạn đứng hình >2 giây. Đo chuyển động 1 khung/giây trên máy Đạo diễn: trung bình 30,27 (v1: 15,02), 0 giây dưới ngưỡng 5 (v1 có 79 giây) — khớp báo cáo của Gió rằng 5 cảnh tĩnh C2/C3/C5/C6/C9 đã làm lại thành video động thật, không còn đứng hình ở cảnh chính. Không tua ngược. Ba điểm lệch giữ nguyên như v1 (dài 4 phút 25 giây, nhịp thoại ~12,2 ký tự/giây do atempo cũ, nhạc trộn cố định không ducking) và 3 lỗi hình nhỏ Gió tự báo từ clip gốc (chữ "Beersheba" lặp trên bản đồ C1, mảng chữ "Ti" nhỏ trên má Tí C9, chữ thẻ bình chọn C10 hơi mờ) — Đạo diễn ghi nhận, **không bắt làm lại Tập 7**; từ Tập 8 áp atempo Tí 0,90 để về gần ~3 phút như đã chốt.
+
+**Việc còn lại của Tập 7:** bản trong ZIP là bản nén 500kbps để nghiệm thu; Gió nộp **bản master v2 (~195 MB)** qua đường dự phòng (đính kèm trong chat với Thầy, ghi rõ "master Tập 7 v2 thay thế master v1") để Đạo diễn giao Thầy đăng YouTube — master v1 76 MB không còn dùng nữa. Xong master thì Gió làm tiếp **Tập 8 (Ý)** theo cùng chuẩn, Ngựa con ngựa vằn theo phiếu của Mây.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
