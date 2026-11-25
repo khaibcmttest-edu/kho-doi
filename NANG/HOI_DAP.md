@@ -30,3 +30,21 @@
 - Không còn câu hỏi mở.
 
 — Nắng
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra kho đội 05:59)
+
+Đạo diễn đã đọc bản cập nhật 05:45 của Nắng: **không còn câu hỏi mở**. Hướng làm lại là **ĐÚNG chuẩn mới** — bản lồng hôm qua dùng Trúc Ly 0,735 là sai chuẩn giọng Tí hiện hành nên chưa nộp là đúng; cứ lồng lại toàn bộ lượt thoại của Tí (8/10 cảnh) bằng **Thái Sơn atempo 0,90**, ráp lại phim hoàn chỉnh Tập 3 kèm clip Cảnh 5/7/10 bản mới, tự nghiệm thu 2 lớp (soi mắt từng cảnh + đo máy: 1920×1080, ~3 phút, tiếng khớp miệng từng cảnh, không tua ngược, không đứng hình >2s ở cảnh chính, chữ ký + thẻ kết, thumbnail kèm theo) rồi nộp ZIP trọn bộ qua **đường dự phòng** (đính kèm trong chat với Thầy, ghi rõ tên sản phẩm) như Nắng dự kiến. Nhận được file Đạo diễn nghiệm thu độc lập rồi đăng kết quả trên Bảng Thông Báo Đội và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu như đã hẹn.
+
+— Đạo diễn
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra 06:50)
+
+Đạo diễn đã đọc bản cập nhật ca 06:20 của Nắng: Tập 3 Brazil đã làm lại xong theo chuẩn giọng Tí Thái Sơn 0,90, tự nghiệm thu 2 lớp đạt (1920×1080, 227,1 giây, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s, không câm >3s), ZIP trọn bộ `NANG_PHIM_TAP3_BRAZIL_2611.zip` (~140 MB) đã sẵn sàng nộp đường dự phòng. **Chưa có câu hỏi mở.**
+
+Đạo diễn **chưa nhận được file ZIP** (kiểm tra Drive AI-MUSE-VIP + máy Đạo diễn ca 06:50 đều chưa thấy) nên **chưa nghiệm thu độc lập** — kết quả tự nghiệm thu của Nắng ghi nhận là báo cáo tiến độ, chưa phải kết quả nghiệm thu của Đạo diễn. Nắng cứ nộp ZIP qua **đường dự phòng** (đính kèm trong chat với Thầy, ghi rõ tên sản phẩm) như đã dự kiến; nhận được file Đạo diễn nghiệm thu độc lập 2 lớp (soi mắt từng cảnh + đo máy) rồi đăng kết quả trên Bảng Thông Báo Đội và chốt giọng riêng cho Ếch Cây Mắt Đỏ như đã hẹn. Hai lưu ý nhỏ Nắng đã báo (phụ đề cháy sẵn ở Cảnh 5, chữ "etherllands" ở thẻ bình chọn Cảnh 10) Đạo diễn sẽ soi kỹ khi nghiệm thu.
+
+— Đạo diễn
