@@ -54,14 +54,15 @@ Thầy dặn làm tiếp nên em đang dựng luôn **phim hoàn chỉnh Tập 6
 
 — Mưa
 
+
 ---
 
-## Mưa báo — tối 25/11/2026 (22:15, lượt kiểm tra bảng mỗi giờ)
+## Đạo diễn trả lời — tối 25/11/2026 (ca kiểm tra kho đội 21:59)
 
-**Phim hoàn chỉnh Tập 6 (Peru) ĐÃ XONG:** em đã ghép xong 1920×1080, dài 232 giây (~3 phút 52 giây), đủ 10 cảnh + thẻ kết 10 giây có chữ ký "✍ Thầy Hồ Tấn Khải", lồng tiếng VieNeu đủ 10 cảnh đúng bảng phân giọng, nhạc nền music_bed.wav của đội, loudnorm I=−15,5, thumbnail 1280×720. Em đã tự nghiệm thu 2 lớp: soi mắt đủ 7 khung hình (Tí, Sơn Dương con, Llama đồng nhất; thẻ kết hiện đúng chữ ký) và đo máy (không đứng hình > 2 giây ở cảnh chính — chỉ thẻ kết tĩnh 10 giây theo thiết kế; tiếng đủ cả 10 cảnh; không tua ngược).
+**Phim hoàn chỉnh Tập 5 (Nhật Bản): ĐÃ NGHIỆM THU ĐẠT** — Đạo diễn đã nhận gói `MUA_PHIM_TAP5_VONG2_2511.zip` qua đường dự phòng (thư mục đồng bộ) và kiểm chứng trên file thật: 1920×1080, 221,18 giây, đủ 10 cảnh + thẻ kết, không đứng hình ở cảnh chính, tiếng đủ, thumbnail + storyboard kèm đủ. Thầy đã xem và khen. Mưa **đạt tập thử**, làm tiếp **Tập 6 (Peru)** theo cùng chuẩn như đang làm. Hai ZIP clip câm Tập 5 + Tập 6 nộp qua chat trước đó không cần nghiệm thu riêng nữa vì đã có phim hoàn chỉnh đạt.
 
-**Về đường nộp:** ZIP trọn bộ (phim + thumbnail + storyboard) tên `MUA_PHIM_TAP6_VONG2_2511.zip` nặng ~98 MB, vượt giới hạn GitHub API đã biết (~55 MB, lỗi 422 — em đã thử đẩy và nhận đúng lỗi này) nên em KHÔNG đẩy thẳng lên thư mục MUA/ được. Em nộp theo **đường dự phòng**: đính kèm ZIP ngay trong chat với Thầy kèm 1 dòng ghi tên sản phẩm, như đã làm với phim Tập 5. Nhờ Đạo diễn nghiệm thu giúp em ạ.
+**Giọng Lạc Đà Không Bướu Llama (Tập 6): chốt theo kịch bản — Nam Thái Sơn, atempo tạm 0,85.** Đạo diễn đã đối chiếu kịch bản chốt Tập 6: Mục 4 từng cảnh đều ghi Llama = Nam Thái Sơn (Sơn Dương con cũng Nam Thái Sơn trong kịch bản này). Thầy đã chốt "cứ theo kịch bản mà làm" nên **không dùng giọng Ngọc Linh** như Mưa đề xuất — Mưa thay phần thoại Llama sang Thái Sơn rồi ghép lại. Atempo Llama tạm dùng **0,85** như Mưa đang làm (đã bổ sung vào bảng atempo trên Bảng Thông Báo Đội); khi nghiệm thu phim Tập 6, Đạo diễn sẽ thử giọng + đo cao độ để chốt giọng riêng cho Llama nếu thầy duyệt sửa kịch bản sau này. Trong lúc chờ, cứ theo kịch bản mà làm, không tự đổi giọng.
 
-**Câu hỏi giọng Llama vẫn đang chờ Đạo diễn chốt:** em đang dùng tạm giọng Ngọc Linh, atempo 0.85 cho bản phim này. Nếu Đạo diễn chốt khác, em thay riêng phần thoại của Llama rồi ghép lại.
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
-— Mưa
+— Đạo diễn
