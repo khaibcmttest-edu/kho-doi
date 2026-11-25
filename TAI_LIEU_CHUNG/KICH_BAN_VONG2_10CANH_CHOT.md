@@ -193,7 +193,7 @@ TẬP 3: BRAZIL (RỪNG MƯA AMAZON) — "MÊ CUNG XANH RỪNG MƯA AMAZON"
 - Tổng số ký tự thoại thuần: 2,904 ký tự (nằm trong chuẩn 2.900–3.200 ký tự)
 - Lựa chọn bình chọn cuối tập: Hà Lan · Nhật Bản · Peru
 Cảnh 1 — Khỉ con háo hức dẫn đường tới Brazil
-- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con) cheering in front of a glowing world map pointing to Brazil Amazon rainforest, 3D Pixar-style animation.
+- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con) cheering in front of a glowing world map pointing to Brazil Amazon rainforest, 3D Pixar-style animation.
 - 2. Hành động: Khỉ con nhảy nhót vui sướng khi điểm đến Tập 3 gọi tên rừng mưa Amazon ở Brazil – đúng quê hương rừng rậm của Khỉ con.
 - 3. Lời thoại: 
 Giọt Nước Tí: Khỉ con ơi, chuẩn bị hành lý đi thôi! Khán giả đã bình chọn Brazil là điểm đến Tập 3 rồi! Rừng mưa Amazon nóng ẩm quanh năm, đúng sở trường leo trèo của bạn luôn!
@@ -201,7 +201,7 @@ Khỉ con: Hoan hô! Tứ chi linh hoạt và chiếc đuôi dài của mình si
 - 4. 🎤 Giọng đọc (VieNeu): Giọt Nước Tí (Nam Thái Sơn) + Khỉ con (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền sôi động, âm hưởng Samba vui tươi (nhạc AI không bản quyền).
 Cảnh 2 — Lạc giữa mê cung tầng tán và cơn mưa rào
-- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con) looking up at towering giant rainforest trees with huge buttress roots during a sudden warm tropical rain shower in Amazon, 3D Pixar-style animation.
+- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con) looking up at towering giant rainforest trees with huge buttress roots during a sudden warm tropical rain shower in Amazon, 3D Pixar-style animation.
 - 2. Hành động: Tí và Khỉ con ngước nhìn những thân cây cổ thụ cao vút với bộ rễ bạnh vè khổng lồ giữa cơn mưa rào nhiệt đới bất chợt.
 - 3. Lời thoại: 
 Giọt Nước Tí: Ôi chao, cây ở đây cao chọc trời luôn Khỉ con ơi! Mà mới nắng chang chang đã đổ mưa rào ào ào rồi, rậm rạp thế này tụi mình tìm đường lên tầng tán kiểu gì đây?
@@ -209,7 +209,7 @@ Khỉ con: Nhìn kìa Tí, gốc cây nào cũng có những tấm rễ bạnh v
 - 4. 🎤 Giọng đọc (VieNeu): Giọt Nước Tí (Nam Thái Sơn) + Khỉ con (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Tiếng mưa rừng rào rào, tiếng chim hót vang vọng.
 Cảnh 3 — Ếch Cây Mắt Đỏ xuất hiện trên tán lá
-- 1. Prompt hình (EN): A small cute vibrant green tree frog character with bright red big eyes, orange sticky toe pads, blue-and-yellow striped sides, friendly wide smile (Ech Cay Mat Do) clinging upside down on a glossy green leaf, greeting a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con) in the Amazon canopy, 3D Pixar-style animation.
+- 1. Prompt hình (EN): A small cute vibrant green tree frog character with bright red big eyes, orange sticky toe pads, blue-and-yellow striped sides, friendly wide smile (Ech Cay Mat Do) clinging upside down on a glossy green leaf, greeting a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con) in the Amazon canopy, 3D Pixar-style animation.
 - 2. Hành động: Ếch Cây Mắt Đỏ bám ngược trên mặt lá bóng loáng, bật nhảy xuống chào đón Tí và Khỉ con.
 - 3. Lời thoại: 
 Ếch Cây Mắt Đỏ: Ộp ộp! Chào hai vị khách quý đến với rừng mưa Amazon! Mình là Ếch Cây Mắt Đỏ, hướng dẫn viên tầng tán rừng nhiệt đới của các bạn đây!
@@ -217,7 +217,7 @@ Khỉ con: Trời ơi, bạn bám ngược trên mặt lá trơn tuột mà khô
 - 4. 🎤 Giọng đọc (VieNeu): Ếch Cây Mắt Đỏ (Nam Thái Sơn) + Khỉ con (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền vui nhộn, tinh nghịch.
 Cảnh 4 — Thi đu dây leo qua tán rừng [CẢNH MỚI]
-- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con) and A small cute vibrant green tree frog character with bright red big eyes, orange sticky toe pads, blue-and-yellow striped sides, friendly wide smile (Ech Cay Mat Do) having a funny vine-swinging contest in the Amazon canopy, Ti slipping off the vine and sliding down a giant glossy leaf like a water slide, laughing, 3D Pixar-style animation.
+- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con) and A small cute vibrant green tree frog character with bright red big eyes, orange sticky toe pads, blue-and-yellow striped sides, friendly wide smile (Ech Cay Mat Do) having a funny vine-swinging contest in the Amazon canopy, Ti slipping off the vine and sliding down a giant glossy leaf like a water slide, laughing, 3D Pixar-style animation.
 - 2. Hành động: Khỉ con rủ Tí thi đu dây leo qua tán rừng, Ếch Cây Mắt Đỏ làm trọng tài; Tí đu được nửa đường thì tay trơn tuột khỏi dây, rơi trúng chiếc lá to rồi trượt xuống như cầu trượt nước, cả ba cười vang.
 - 3. Lời thoại: 
 Khỉ con: Thi đu dây nè Tí! Ai đu qua tán lá kia nhanh nhất mà không rơi thì thắng, Ếch làm trọng tài công bằng nhé!
@@ -225,7 +225,7 @@ Giọt Nước Tí: Mình đu đây, xem nhé! Ơ... tay mình trơn quá, tuộ
 - 4. 🎤 Giọng đọc (VieNeu): Khỉ con (Nam Thái Sơn) + Giọt Nước Tí (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền sôi động, tiếng lá xào xạc vui tai (nhạc AI không bản quyền).
 Cảnh 5 — Bí mật lá mũi nhọn, rễ bạnh vè và giác bám
-- 1. Prompt hình (EN): Close-up educational 3D animation showing water droplets sliding rapidly off a pointed drip-tip leaf, massive buttress roots anchoring a tall tree in shallow soil, and glowing orange sticky toe pads of Ech Cay Mat Do, watched by a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con), 3D Pixar-style animation.
+- 1. Prompt hình (EN): Close-up educational 3D animation showing water droplets sliding rapidly off a pointed drip-tip leaf, massive buttress roots anchoring a tall tree in shallow soil, and glowing orange sticky toe pads of Ech Cay Mat Do, watched by a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti) and a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con), 3D Pixar-style animation.
 - 2. Hành động: Cận cảnh giọt nước trượt nhanh qua chóp lá nhọn, rễ bạnh vè bám mặt đất và giác bám ở ngón chân Ếch Cây.
 - 3. Lời thoại: 
 Ếch Cây Mắt Đỏ: Đầu ngón chân tớ có các giác bám tiết dịch dính giúp leo trèo thoăn thoắt trên tán lá ướt! Còn cây rừng mưa có rễ bạnh vè để giữ vững thân cao trên tầng đất ẩm mỏng, phiến lá rộng có chóp nhọn như máng xối để thoát nước mưa thật nhanh, tránh nấm mốc phát triển đấy!
@@ -233,7 +233,7 @@ Giọt Nước Tí: Ra là vậy, cấu tạo nào cũng hợp lý tuyệt đố
 - 4. 🎤 Giọng đọc (VieNeu): Ếch Cây Mắt Đỏ (Nam Thái Sơn) + Giọt Nước Tí (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền khám phá khoa học, hiệu ứng giọt nước rơi.
 Cảnh 6 — Khám phá cấu trúc phân tầng rừng mưa
-- 1. Prompt hình (EN): Wide vertical camera pan through the 5 lush layers of the Amazon rainforest from dark forest floor up to sunlit emergent canopy, with glowing layer labels, as a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con), and Ech Cay Mat Do swing upward on vines, 3D Pixar-style animation.
+- 1. Prompt hình (EN): Wide vertical camera pan through the 5 lush layers of the Amazon rainforest from dark forest floor up to sunlit emergent canopy, with glowing layer labels, as a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con), and Ech Cay Mat Do swing upward on vines, 3D Pixar-style animation.
 - 2. Hành động: Cả ba đu dây leo đi từ tầng thảm tươi tối mờ lên tầng tán rực nắng, quan sát sự phân tầng sinh vật rõ rệt.
 - 3. Lời thoại: 
 Khỉ con: Càng lên cao ánh sáng càng chan hòa, còn dưới sát mặt đất lại râm mát hẳn! Sao cây cối ở đây lại xếp thành nhiều tầng cao thấp khác nhau vậy bạn Ếch?
@@ -241,7 +241,7 @@ Khỉ con: Càng lên cao ánh sáng càng chan hòa, còn dưới sát mặt đ
 - 4. 🎤 Giọng đọc (VieNeu): Khỉ con (Nam Thái Sơn) + Ếch Cây Mắt Đỏ (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền hùng vĩ, tiếng gió xào xạc qua tán lá.
 Cảnh 7 — Mô hình Nông lâm kết hợp ca cao dưới tán rừng
-- 1. Prompt hình (EN): Lush sustainable agroforestry farm in Brazil where cacao trees with colorful pods grow harmoniously beneath tall native Amazon shade trees, visited by a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con), and Ech Cay Mat Do, 3D Pixar-style animation.
+- 1. Prompt hình (EN): Lush sustainable agroforestry farm in Brazil where cacao trees with colorful pods grow harmoniously beneath tall native Amazon shade trees, visited by a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con), and Ech Cay Mat Do, 3D Pixar-style animation.
 - 2. Hành động: Cả ba tham quan vườn ca cao trĩu quả được trồng xen canh ngay dưới bóng mát của những cây rừng bản địa.
 - 3. Lời thoại: 
 Giọt Nước Tí: A, những quả ca cao màu vàng cam mọc ngay trên thân cây kìa! Người dân Brazil không chặt phá rừng để làm rẫy mà trồng ca cao ngay dưới tán rừng ạ?
@@ -249,7 +249,7 @@ Giọt Nước Tí: A, những quả ca cao màu vàng cam mọc ngay trên thâ
 - 4. 🎤 Giọng đọc (VieNeu): Giọt Nước Tí (Nam Thái Sơn) + Ếch Cây Mắt Đỏ (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền ấm áp, tươi sáng.
 Cảnh 8 — Trồng thử một cây ca cao con [CẢNH MỚI]
-- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con) and A small cute vibrant green tree frog character with bright red big eyes, orange sticky toe pads, blue-and-yellow striped sides, friendly wide smile (Ech Cay Mat Do) planting a tiny cacao seedling together under the shade of tall Amazon trees, Ti watering it with a drop of himself and shrinking a little, giggling, 3D Pixar-style animation.
+- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con) and A small cute vibrant green tree frog character with bright red big eyes, orange sticky toe pads, blue-and-yellow striped sides, friendly wide smile (Ech Cay Mat Do) planting a tiny cacao seedling together under the shade of tall Amazon trees, Ti watering it with a drop of himself and shrinking a little, giggling, 3D Pixar-style animation.
 - 2. Hành động: Cả ba cùng trồng thử một cây ca cao con dưới tán rừng; Tí xung phong tưới nước bằng chính một giọt của mình nên nhỏ lại một tí, Khỉ con và Ếch Cây vỗ tay cổ vũ cây mau lớn.
 - 3. Lời thoại: 
 Ếch Cây Mắt Đỏ: Trồng thử một cây ca cao con nè Tí! Đào hố, đặt cây, lấp đất rồi tưới nước là xong!
@@ -265,7 +265,7 @@ Giọt Nước Tí: Sổ tay hành trình lại thêm kiến thức quý! Bài h
 - 4. 🎤 Giọng đọc (VieNeu): Giọt Nước Tí (Nam Thái Sơn)
 - 5. Ghi chú nhạc sạch bản quyền: Nhạc nền tổng kết nhẹ nhàng.
 Cảnh 10 — Bình chọn Tập 4 & Lời kết chuẩn
-- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khi con), and Ech Cay Mat Do waving goodbye beside three floating voting cards for Tập 4 (Netherlands, Japan, Peru) and an open Biology textbook icon, 3D Pixar-style animation.
+- 1. Prompt hình (EN): a cute translucent blue water droplet character with big round expressive eyes, rosy cheeks and tiny arms and legs (Ti), a cute playful brown baby monkey character with big bright eyes and a curly tail (Khỉ con), and Ech Cay Mat Do waving goodbye beside three floating voting cards for Tập 4 (Netherlands, Japan, Peru) and an open Biology textbook icon, 3D Pixar-style animation.
 - 2. Hành động: Giọt Nước Tí, Khỉ con và Ếch Cây Mắt Đỏ vẫy tay chào; ba thẻ bình chọn Tập 4 hiện lên cùng biểu tượng mở SGK và nút đăng ký kênh.
 - 3. Lời thoại: 
 Giọt Nước Tí: Rời rừng rậm nhiệt đới, có một đất nước nằm thấp hơn cả mực nước biển nhưng lại là cường quốc xuất khẩu hoa và rau quả hàng đầu thế giới! Bình chọn Tập 4 nào: Hà Lan, Nhật Bản hay Peru! Đừng quên mở sách giáo khoa Sinh học 12 bài Quần xã sinh vật, bấm đăng ký kênh và bật chuông nhé!
