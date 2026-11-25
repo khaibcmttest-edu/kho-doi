@@ -27,3 +27,18 @@ Gió đề xuất giữ ngựa vằn theo phiếu đã duyệt cho đồng nhấ
 ## Gió ghi chú — tối 25/11/2026 (sau khi Đạo diễn trả lời phân giọng)
 
 Thầy vừa chốt trực tiếp trong chat chính: **lồng tiếng Tập 7 theo đúng kịch bản** — mục 4 từng cảnh trong kịch bản chốt đều ghi Tí và Lạc Đà con giọng **nam Thái Sơn** (Thầy ở Cảnh 10 cũng Thái Sơn). Trúc Ly là giọng nữ, không dùng cho Tí (con trai). Vì vậy Gió GIỮ NGUYÊN bản video đã dựng (lồng toàn bộ bằng Thái Sơn), không đổi sang Trúc Ly/Thiền Tâm Đức. Nhờ Đạo diễn sửa lại mục phân giọng Tập 7 trên Bảng cho khớp kịch bản, để các bạn khác khỏi nhầm.
+
+
+---
+
+## Đạo diễn trả lời — tối 25/11/2026 (ca kiểm tra kho đội 21:59)
+
+**Về phân giọng Tập 7:** Gió ghi đúng — Đạo diễn đã đối chiếu lại kịch bản chốt `KICH_BAN_VONG2_10CANH_CHOT` (Mục 4 từng cảnh Tập 7 đều ghi Tí = Nam Thái Sơn, Lạc Đà con = Nam Thái Sơn, Thầy Cảnh 10 = Nam Thái Sơn). Thầy đã chốt "cứ theo kịch bản mà làm" nên bản video Gió lồng toàn bộ bằng Thái Sơn là **đúng kịch bản**. Mục phân giọng Tập 7 trên Bảng Thông Báo Đội đã sửa lại cho khớp kịch bản (bỏ ghi chú cũ Tí = Trúc Ly / Lạc Đà con = Thiền Tâm Đức cho riêng Tập 7 này). Ghi chú thêm: dàn giọng chuẩn Vòng 1 có Lạc Đà con = Thiền Tâm Đức, khác kịch bản Vòng 2 — việc này Đạo diễn đã báo thầy trong kết quả ca này, **chờ thầy chốt** có sửa kịch bản các tập sau hay giữ nguyên theo kịch bản; trong lúc chờ, cứ theo kịch bản từng tập mà làm, không tự đổi giọng.
+
+**Nghiệm thu VIDEO HOÀN CHỈNH Tập 7 (`GIO_VIDEO_TAP7_2511.zip`): ĐẠT tập thử.** Đạo diễn đã tải về và kiểm chứng độc lập trên file thật: đủ phim `Tap7_Israel_HoanChinh.mp4` (1920×1080, 30fps, 264,99 giây) + thumbnail 1280×720. Soi mắt 12 khung hình đủ mạch 10 cảnh (bản đồ Israel → đồi Negev → rễ sâu/lá bạc → thi tìm nước → nhà máy tái chế nước → cảm biến IoT → vườn cam/lựu cảnh ăn tiền → Tí chạy trong ống tưới → sổ tay → bình chọn Ý/Việt Nam → thẻ kết chữ ký), Tí + Lạc Đà con đồng nhất cả tập. Đo máy: tiếng đủ (mean −15,6 dB / max −1,4 dB, loudnorm đúng chuẩn), không đoạn câm >2 giây, freezedetect không có đoạn đứng hình >2 giây ở cảnh chính (thẻ kết tĩnh theo thiết kế), không tua ngược. Ba điểm lệch Gió tự báo (dài 4 phút 25 giây do atempo Tí 0,735 cũ cho nhịp ~12,2 ký tự/giây; nhạc trộn cố định không ducking) — Đạo diễn ghi nhận, **không bắt làm lại Tập 7** vì giọng đúng vai theo kịch bản, thoại rõ, không dính lỗi cấm. Từ **Tập 8 trở đi** Gió áp atempo mới trên bảng: **Tí (Thái Sơn) 0,90**, Lạc Đà con theo kịch bản từng tập, Thầy 0,95 — để thời lượng về gần mốc ~3 phút.
+
+**Việc còn lại của Tập 7:** bản nộp trên kho đội là bản nén 500kbps để nghiệm thu; Gió nộp thêm **bản master 76 MB** qua đường dự phòng (đính kèm ZIP trong chat với thầy như Mưa đã làm với Tập 5, vì file nặng không đẩy thẳng GitHub API được) để Đạo diễn giao thầy đăng YouTube. Xong master thì Gió làm tiếp **Tập 8 (Ý)** theo cùng chuẩn, Ngựa con dùng **ngựa vằn theo phiếu của Mây** như đã chốt.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
