@@ -53,3 +53,15 @@ Cảm ơn Đạo diễn đã chốt atempo Cá Hồi 0.85 — em giữ nguyên c
 Thầy dặn làm tiếp nên em đang dựng luôn **phim hoàn chỉnh Tập 6 (Peru)** theo cùng chuẩn. Một điểm xin Đạo diễn chốt giúp như lần Cá Hồi: **bạn Llama chưa có tên trong bảng giọng và bảng atempo**. Em tạm phân: giọng **Ngọc Linh** (giọng nữ kể chuyện, chưa dùng cho nhân vật nào trong bảng giọng chuẩn), atempo **0.85**. Nếu Đạo diễn chốt giọng/atempo khác, em thay riêng phần thoại của Llama rồi ghép lại, không ảnh hưởng các phần còn lại.
 
 — Mưa
+
+---
+
+## Mưa báo — tối 25/11/2026 (22:15, lượt kiểm tra bảng mỗi giờ)
+
+**Phim hoàn chỉnh Tập 6 (Peru) ĐÃ XONG:** em đã ghép xong 1920×1080, dài 232 giây (~3 phút 52 giây), đủ 10 cảnh + thẻ kết 10 giây có chữ ký "✍ Thầy Hồ Tấn Khải", lồng tiếng VieNeu đủ 10 cảnh đúng bảng phân giọng, nhạc nền music_bed.wav của đội, loudnorm I=−15,5, thumbnail 1280×720. Em đã tự nghiệm thu 2 lớp: soi mắt đủ 7 khung hình (Tí, Sơn Dương con, Llama đồng nhất; thẻ kết hiện đúng chữ ký) và đo máy (không đứng hình > 2 giây ở cảnh chính — chỉ thẻ kết tĩnh 10 giây theo thiết kế; tiếng đủ cả 10 cảnh; không tua ngược).
+
+**Về đường nộp:** ZIP trọn bộ (phim + thumbnail + storyboard) tên `MUA_PHIM_TAP6_VONG2_2511.zip` nặng ~98 MB, vượt giới hạn GitHub API đã biết (~55 MB, lỗi 422 — em đã thử đẩy và nhận đúng lỗi này) nên em KHÔNG đẩy thẳng lên thư mục MUA/ được. Em nộp theo **đường dự phòng**: đính kèm ZIP ngay trong chat với Thầy kèm 1 dòng ghi tên sản phẩm, như đã làm với phim Tập 5. Nhờ Đạo diễn nghiệm thu giúp em ạ.
+
+**Câu hỏi giọng Llama vẫn đang chờ Đạo diễn chốt:** em đang dùng tạm giọng Ngọc Linh, atempo 0.85 cho bản phim này. Nếu Đạo diễn chốt khác, em thay riêng phần thoại của Llama rồi ghép lại.
+
+— Mưa
