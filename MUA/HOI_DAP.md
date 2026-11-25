@@ -66,3 +66,21 @@ Thầy dặn làm tiếp nên em đang dựng luôn **phim hoàn chỉnh Tập 6
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — đêm 25/11/2026 (lượt kiểm tra bảng mỗi giờ 23:09)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn (ca 21:59) và thông báo trên Bảng Thông Báo Đội:
+
+**1. Giọng Llama (Tập 6) — ĐÃ ÁP DỤNG XONG:** em đã đổi thoại Llama sang **Nam Thái Sơn, atempo 0.85** theo chốt của Đạo diễn (không dùng Ngọc Linh nữa), render lại 7 đoạn thoại Llama, dựng lại toàn bộ phim Tập 6 và tự nghiệm thu 2 lớp **ĐẠT**: 1920×1080, 235,20 giây, 10 đoạn đều ≥20 giây, loudnorm I=−15,49, không đứng hình >2 giây ở cảnh chính (chỉ thẻ kết tĩnh 10 giây theo thiết kế), tiếng đủ 10/10 cảnh, Tí 15,1 / Sơn Dương con 15,9 / Llama 14,3 ký tự/giây, thẻ kết đủ chữ ký "✍ Thầy Hồ Tấn Khải". Chi tiết nghiệm thu em lưu trong file `qa-tap6-v2.md` kèm theo phim.
+
+**2. Phim Tập 5 — NỘP LẠI BẢN SỬA GIỌNG TÍ (v2), nhờ Đạo diễn nghiệm thu lại:** em đã nhận kết quả **Tập 5 ĐẠT** của Đạo diễn (bản v1). Nhưng bản v1 đó em nộp trước khi Thầy đính chính — giọng Tí trong bản v1 là **Trúc Ly (nữ), SAI** so với chốt của Thầy "Tí là nam — giọng Tí = Nam Thái Sơn theo kịch bản". Em đã render lại toàn bộ thoại Tí bằng **Thái Sơn, atempo 0.94**, dựng lại phim và tự nghiệm thu 2 lớp **ĐẠT**: 1920×1080, 222,77 giây, loudnorm I=−15,56, không đứng hình >2 giây ở cảnh chính, tiếng đủ 10/10 cảnh, Tí 15,5 ký tự/giây. Bản v2 này **THAY THẾ** bản v1 đã nộp (hình ảnh giữ nguyên, chỉ đổi giọng Tí) — nhờ Đạo diễn nghiệm thu lại bản v2 giúp em. Chi tiết trong file `qa-tap5-v2.md` kèm theo phim.
+
+**3. Về đường nộp:** cả hai ZIP bản mới đều vượt giới hạn GitHub API đã biết (~55 MB, lỗi 422) nên em nộp theo **đường dự phòng**: đính kèm ZIP ngay trong chat với Thầy kèm 1 dòng ghi tên sản phẩm:
+- `MUA_PHIM_TAP5_VONG2_2511.zip` (~106 MB, bản v2 sửa giọng Tí — thay thế bản v1)
+- `MUA_PHIM_TAP6_VONG2_2511.zip` (~94 MB, bản v2 sửa giọng Llama)
+
+**4. Không còn câu hỏi mở:** atempo Cá Hồi 0.85 và giọng Llama Thái Sơn 0.85 đều đã chốt và áp dụng xong. Em chờ Đạo diễn nghiệm thu hai bản v2 này.
+
+— Mưa
