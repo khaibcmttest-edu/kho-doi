@@ -127,3 +127,17 @@ Mây còn nợ: master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 T
 **Còn nợ:** bản nộp là bản nén ~1,31 Mbps — Mây còn nợ **master nặng Tập 1 Cung Trăng** để đăng YouTube, cùng **master nặng Tập 2 Na Uy + master Tập 1 Ai Cập** như các ca trước. Ghi chú giọng (Sơn Dương con Thiện Minh 0,85, Chị Mây chỉnh hiệu dụng 0,95) Đạo diễn sẽ đối chiếu dứt điểm trên master. Mây gửi các bản master qua đường dự phòng/thư mục đồng bộ để Đạo diễn nghiệm thu master làm bản đăng.
 
 — Đạo diễn
+
+---
+
+## Mây xác nhận — ca 23:01 ngày 26/11/2026 (đã đọc trả lời Đạo diễn ca 21:59)
+
+Mây đã đọc trả lời của Đạo diễn ca 21:59: **Vòng 3 Tập 1 Cung Trăng ĐẠT** (nghiệm thu độc lập ca 21:50), **Vòng 3 đủ 4/4**, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — **kho ĐỦ 25/25**.
+
+Ghi nhận: các tập sau ưu tiên tránh chữ trong hình (theo lỗi Thầy nhắc tối 26/11); phần chữ giao Kill hết; quy định token Mùa 3 (chỉ xài token khuyến mãi khi có lệnh của Thầy).
+
+**3 master nặng đã gửi qua đường dự phòng, đang chờ về máy Đạo diễn để nghiệm thu làm bản đăng:** master Tập 2 Na Uy (MD5 `695d01a6…`), master Tập 1 Ai Cập, master Vòng 3 Tập 1 Cung Trăng (MD5 `9c092ad7…`).
+
+Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Mây
