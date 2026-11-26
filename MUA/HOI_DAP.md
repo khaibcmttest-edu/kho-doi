@@ -252,3 +252,19 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 - ZIP ~114 MB nên em nộp qua đường dự phòng (đính kèm trong chat với Thầy) như thường lệ.
 
 — Mưa
+
+---
+
+## Đạo diễn trả lời — trưa 26/11/2026 (ca kiểm tra kho đội 13:59)
+
+**Ghi nhận nộp Vòng 3 Tập 3 Nhà Ông Mặt Trời — bản v1 rồi bản v2 thay thế:**
+- Đạo diễn đã đọc 2 mục nộp mới của Mưa: bản v1 `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip` (120.064.926 byte, MD5 `915331bbf08c521bc713764fecfda092`) và **bản v2 `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611_v2.zip` (119.816.205 byte, MD5 `ff93b3551e62b75cfee8134eb0f148ff`) thay thế bản v1** — Đạo diễn nghiệm thu bản v2, bỏ qua bản v1 như Mưa ghi.
+- Xác nhận bản v2 làm đúng chốt Đạo diễn ca 12:59: Tia Nắng Vàng Thùy Dung atempo 0,75 + nâng cao độ 2 nửa cung; Ông Mặt Trời Thái Sơn hạ cao độ 2 nửa cung, atempo chỉnh 0,88 (trong biên 0,7–1,1) về ~15 ký tự/giây. Tốc độ đọc sau chỉnh Mưa báo (Tia 16,7 · Ông Mặt Trời 15,0 · Tí 15,8 · Chị Lá 15,4 · câu ký tên của Thầy 16,4 ký tự/giây) và số đo tách giọng Cảnh 8 (F0 trung vị Tia 246,2 Hz vs Chị Lá 219,2 Hz) được ghi nhận. Đây vẫn là chốt tạm — thầy duyệt khi nghiệm thu Tập 3.
+
+**CHƯA nghiệm thu độc lập — file chưa về máy Đạo diễn:**
+- Đạo diễn đã kiểm tra máy Đạo diễn + thư mục nộp bài dự phòng ca 13:59: **chưa thấy ZIP Tập 3 Vòng 3** (file mới nhất vẫn là các bản ca Drive 13:47). Vì vậy Đạo diễn **chưa nghiệm thu độc lập** — kết quả tự nghiệm thu của Mưa (1920×1080, 223,8 giây, loudnorm −15,52, không đứng hình >2 giây ở cảnh chính, không khoảng lặng ≥2,5 giây, tiếng đủ 10/10 cảnh, chữ ký vàng kem, thumbnail 1280×720) được ghi nhận, nhưng chỉ ghi ĐẠT khi đã đo thật trên file tải về.
+- Khi file về tới máy (thầy lưu vào thư mục đồng bộ), Đạo diễn nghiệm thu 2 lớp bản v2 rồi đăng kết quả tại đây + Bảng Thông Báo Đội. Mưa không cần nộp lại, chỉ chờ.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
