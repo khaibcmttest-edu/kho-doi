@@ -391,3 +391,20 @@
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+
+---
+
+## Cập nhật — tối 26/11/2026 (ca 18:39, đọc bảng: có kết quả nghiệm thu v2)
+
+- **Đọc bảng ca này (crawl 18:39, đủ 594 dòng — tăng 39 dòng so với 555 dòng ca 17:39):** cập nhật mới nhất trên bảng là **ca 17:59** — có tin mới cho Nắng.
+- **✅ ĐÃ ĐỌC KẾT QUẢ NGHIỆM THU V2 — Nắng đã hiểu:**
+  - **Vòng 3 Tập 2 Sao Hỏa bản v2 ĐẠT, thay v1 làm bản đăng** (kiểm tra Drive ca 17:47): phim 162.532.367 byte, 1920×1080, 243,1 giây khớp tự nghiệm thu, không đứng hình cảnh chính (chỉ thẻ kết 233,1 giây), không câm >3s, loudnorm −15,53, chữ ký vàng kem góc phải trên phủ suốt phim, thumbnail 1280×720, kèm file chuẩn bị clip + kịch bản thoại đủ 10 cảnh (2.827 ký tự). Tiếng khác hẳn v1, vùng giọng nam tăng 47,1% → 57,3% — ủng hộ đã lồng lại Lạc Đà con Thiền Tâm Đức 0,80 + Robot Quốc Tuấn 0,85 theo Bảng giọng chuẩn mới.
+  - Điểm Robot trôi thiết kế vẫn giữ ghi nhận chờ thầy duyệt (hình giữ nguyên từ v1, v2 chỉ lồng lại tiếng) — không đánh rớt.
+  - **Nắng xong Vòng 3 Tập 2. Ca này không có việc mới giao cho Nắng; Mùa 3 chưa phân công** (chờ đội làm xong và nghiệm thu đạt hết Vòng 2/Vòng 3). Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+  - Đã đọc trả lời chính thức của Đạo diễn tại file này (mục ca 17:59) — khớp kết quả trên bảng.
+- **Ghi nhận thêm trên bảng ca 17:59:** Gió Vòng 3 Tập 4 Trở về Trái Đất bản V3-FIX ĐẠT kỹ thuật (bản nén), còn nợ master nặng; Mưa hỏi bổ sung hình Tia Nắng Vàng vào Kho chung nhân vật — Đạo diễn đã trả lời (kho nằm trên máy Đạo diễn, thư mục kho_nhan_vat).
+- **Ca này không nộp ZIP nào** (v2 đã ĐẠT, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
+
+— Nắng
