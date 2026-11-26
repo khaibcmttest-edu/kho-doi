@@ -77,3 +77,41 @@ Mây còn nợ: master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 T
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mây nộp — tối 26/11/2026: Phim hoàn chỉnh Vòng 3 Tập 1 Cung Trăng (Vòng 3 Ký Sự)
+
+**Nộp qua đường dự phòng (chat với Thầy) cùng bản master, tối 26/11.**
+
+- ZIP: `MAY_M2V3_TAP1_CUNG_TRANG_2611.zip` — 39.218.912 B, MD5 `11583518079a5d5a131927542bf8ac98`
+  (trong ZIP: phim 1200k `TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4` + thumbnail `TAP1_CUNG_TRANG_THUMBNAIL.jpg` + storyboard `V3T1_STORYBOARD_TACH_THOAI.md`).
+- Master: `TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4` — 127.246.897 B, MD5 `9c092ad73c10ae3371f9670d5daaaf76`,
+  1920×1080, 30fps, 239,15 giây (10 đoạn + thẻ kết 10s).
+
+**Tự nghiệm thu 2 lớp — ĐẠT:**
+- Loudnorm đo độc lập trên master: **−15,59 LUFS** (đích −15,5), TP −1,27, LRA 9,70.
+- Không đứng hình >2s ở cảnh chính (freezedetect 0–229,01s); không lặng chết >2,5s (silencedetect −50dB);
+  tiếng đủ cả 10 cảnh (mean volume −15,2 đến −16,9 dB, đồng nhất).
+- Soi mắt 1 khung/cảnh + thẻ kết + thumbnail: nhân vật đúng khóa — Thỏ Ngọc (thỏ trắng, tai dài hồng trong,
+  mắt nâu to, dây chuyền trăng lưỡi liềm vàng, ủng bạc sao trắng) giữ nguyên suốt phim; chữ ký PNG góc phải trên,
+  vàng kem đậm, không hộp nền, suốt phim; thẻ kết nền khung cảnh cuối + "Cảm ơn các em đã theo dõi!" +
+  "Hẹn gặp lại ở Tập 2 — Sao Hỏa!"; thumbnail 1280×720 có chữ ("TẬP 1: CUNG TRĂNG" + "Sự sống cần nước và không khí").
+
+**Ghi chú giọng (quy trình Mưa — chỉnh atempo ngoài bảng phải ghi rõ):**
+- Lồng theo BẢNG GIỌNG CHUẨN TOÀN SERIES (Thầy chốt 15:36 26/11): Tí Thái Sơn 0,90; Ông Mặt Trời Minh Triết 0,814;
+  Chị Mây Mỹ Duyên 0,85; Thỏ Ngọc Đoan Trang 0,85; Sơn Dương con Thiện Minh 0,85; Thầy Thái Sơn 0,95.
+- Sơn Dương con lồng lại 3 câu từ giọng cũ Thái Sơn sang **Thiện Minh 0,85** (đúng bảng mới).
+- 2 câu Chị Mây (Mỹ Duyên) đọc chậm nên chỉnh thêm atempo ×1,12 (hiệu dụng **0,95**, trong biên 0,7–1,1).
+
+**Bổ sung hình chuẩn Thỏ Ngọc vào Kho chung nhân vật (chốt nhân vật Mùa 3):**
+- Gửi kèm trong thư mục MAY/: khung chuẩn `MAY_THO_NGOC_KHUNG_CHUAN_2611.png` (keyframe Cảnh 5 V3T1,
+  Thỏ Ngọc toàn thân, vẫy tay) + mô tả khóa EN `MAY_THO_NGOC_MO_TA_KHOA_EN_2611.md`.
+  Nhờ Đạo diễn chép vào Kho chung nhân vật và cập nhật KHO_NHAN_VAT.md.
+
+**Ghi chú kỹ thuật (để Đạo diễn khỏi lo khi thấy log lạ):**
+- Build V3T1 bị 2 tiến trình trùng nhau lúc 20:04 (ca hourly) và 20:12 (luồng chính) — em đã dừng bản trùng,
+  chỉ còn 1 tiến trình. Log build ca 20:01 ghi "film_raw: 93,42s" là SỐ ĐO SAI — file thật 229,06s,
+  em đã kiểm chứng bằng 3 khung hình (C1/C6/C10) rồi mới ráp tiếp từ checkpoint đó; bản nộp là bản ráp lại hoàn chỉnh.
+
+— Mây
