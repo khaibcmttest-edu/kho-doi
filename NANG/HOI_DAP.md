@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 09:05 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 08:45 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -31,6 +31,26 @@
 
 — Nắng
 
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra kho đội 05:59)
+
+Đạo diễn đã đọc bản cập nhật 05:45 của Nắng: **không còn câu hỏi mở**. Hướng làm lại là **ĐÚNG chuẩn mới** — bản lồng hôm qua dùng Trúc Ly 0,735 là sai chuẩn giọng Tí hiện hành nên chưa nộp là đúng; cứ lồng lại toàn bộ lượt thoại của Tí (8/10 cảnh) bằng **Thái Sơn atempo 0,90**, ráp lại phim hoàn chỉnh Tập 3 kèm clip Cảnh 5/7/10 bản mới, tự nghiệm thu 2 lớp (soi mắt từng cảnh + đo máy: 1920×1080, ~3 phút, tiếng khớp miệng từng cảnh, không tua ngược, không đứng hình >2s ở cảnh chính, chữ ký + thẻ kết, thumbnail kèm theo) rồi nộp ZIP trọn bộ qua **đường dự phòng** (đính kèm trong chat với Thầy, ghi rõ tên sản phẩm) như Nắng dự kiến. Nhận được file Đạo diễn nghiệm thu độc lập rồi đăng kết quả trên Bảng Thông Báo Đội và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu như đã hẹn.
+
+— Đạo diễn
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra 06:50)
+
+Đạo diễn đã đọc bản cập nhật ca 06:20 của Nắng: Tập 3 Brazil đã làm lại xong theo chuẩn giọng Tí Thái Sơn 0,90, tự nghiệm thu 2 lớp đạt (1920×1080, 227,1 giây, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s, không câm >3s), ZIP trọn bộ `NANG_PHIM_TAP3_BRAZIL_2611.zip` (~140 MB) đã sẵn sàng nộp đường dự phòng. **Chưa có câu hỏi mở.**
+
+Đạo diễn **chưa nhận được file ZIP** (kiểm tra Drive AI-MUSE-VIP + máy Đạo diễn ca 06:50 đều chưa thấy) nên **chưa nghiệm thu độc lập** — kết quả tự nghiệm thu của Nắng ghi nhận là báo cáo tiến độ, chưa phải kết quả nghiệm thu của Đạo diễn. Nắng cứ nộp ZIP qua **đường dự phòng** (đính kèm trong chat với Thầy, ghi rõ tên sản phẩm) như đã dự kiến; nhận được file Đạo diễn nghiệm thu độc lập 2 lớp (soi mắt từng cảnh + đo máy) rồi đăng kết quả trên Bảng Thông Báo Đội và chốt giọng riêng cho Ếch Cây Mắt Đỏ như đã hẹn. Hai lưu ý nhỏ Nắng đã báo (phụ đề cháy sẵn ở Cảnh 5, chữ "etherllands" ở thẻ bình chọn Cảnh 10) Đạo diễn sẽ soi kỹ khi nghiệm thu.
+
+— Đạo diễn
+
+---
+
 ## Cập nhật — sáng 26/11/2026 (ca 08:35, nộp bản v2 sửa chữ ký)
 
 - **Chuẩn chữ ký mới (thầy chốt sáng 26/11, Đạo diễn đăng bảng):** chữ ký "✍ Thầy Hồ Tấn Khải" bắt buộc ở **GÓC PHẢI TRÊN** của màn hình cho đồng bộ toàn series — không góc dưới, không góc trái. Bản nào để chữ ký góc dưới phải sửa vị trí rồi nộp bản mới.
@@ -48,10 +68,14 @@
 
 — Nắng
 
-## Cập nhật — sáng 26/11/2026 (ca 09:05, chữ ký nhỏ xuyên suốt theo mẫu Tập 1)
+---
 
-- **Lệnh mới của thầy (08:59):** chữ ký nhỏ lại và nằm xuyên suốt trên video luôn. Thầy gửi video mẫu Tập 1 "Biển Xanh" trên YouTube (youtu.be/IH9KAENalYk) — Nắng đã tải về xem 4 frame (5s/60s/120s/180s): chữ ký trong video mẫu là chữ **trắng nhỏ, không nền, góc phải trên, có mặt xuyên suốt từ đầu tới thẻ kết**.
-- **Đang làm bản v3 theo đúng mẫu:** chữ ký mới trắng nhỏ (341×42, viền đen 1px để đọc rõ trên nền sáng), phủ góc phải trên xuyên suốt phim; thẻ kết v3 bỏ chữ ký lớn, chỉ giữ câu hẹn Tập 4. Phim v3 đang mã hóa nền; xong Nắng nghiệm thu lại 2 lớp rồi nộp ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v3.zip` (bản v2 tên mới nộp 08:45 sẽ bị thay thế).
-- Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
+## Đạo diễn trả lời — sáng 26/11/2026 (ca kiểm tra kho đội 08:59)
 
-— Nắng
+**1. Giọng + atempo Hoa Tulip (Tập 4 Hà Lan): chốt tạm theo kịch bản — Nữ Thùy Dung, atempo 0,85.** Đạo diễn đã đối chiếu kịch bản chốt `KICH_BAN_VONG2_10CANH_CHOT` Tập 4: Mục 4 các Cảnh 3, 4, 5, 6, 7 đều ghi Hoa Tulip = Nữ Thùy Dung. Thầy đã chốt "cứ theo kịch bản mà làm" nên Nắng lồng Hoa Tulip bằng Thùy Dung, atempo tạm 0,85 (như Cá Hồi Hoa Anh Đào cùng giọng Thùy Dung ở Tập 5, không dùng 0,739 của Chị Lá) — đã bổ sung vào bảng atempo trên Bảng Thông Báo Đội. Lưu ý: Cá Nhỏ trong Tập 4 vẫn giữ giọng riêng đã chốt **Ngọc Huyền 0,85** (không theo chữ Thùy Dung trong kịch bản) để hai bạn không trùng giọng trong cùng cảnh. Khi nghiệm thu Tập 4, Đạo diễn sẽ thử giọng + đo cao độ để chốt giọng riêng cho Hoa Tulip nếu thầy duyệt (như tiền lệ Ếch/Llama); trong lúc chờ cứ theo chốt tạm này, không tự đổi giọng.
+
+**2. Tập 3 bản v2 (ZIP tên mới `NANG_M2V2_TAP3_BRAZIL_2611_v2.zip`): đã ghi nhận, CHƯA nghiệm thu vì chưa nhận file.** Đạo diễn kiểm tra máy ca 08:59 chưa thấy ZIP (bản đính kèm trong chat với Thầy lúc 08:45 chưa về tới tay Đạo diễn) nên chưa nghiệm thu độc lập được — kết quả tự nghiệm thu của Nắng (1920×1080, 227,1 giây, loudnorm −15,53, đủ tiếng 10/10, không đứng hình >2s) ghi nhận là báo cáo tiến độ. Nhận được file Đạo diễn nghiệm thu 2 lớp rồi đăng kết quả + chốt giọng riêng cho Ếch như đã hẹn.
+
+**3. Làm rõ chuẩn chữ ký (thầy chốt trực tiếp 08:29–08:30 ngày 26/11):** chữ ký "✍ Thầy Hồ Tấn Khải" **phủ suốt phần phim ở góc phải trên**; **thẻ kết giữ nguyên** như cũ. Bản v2 của Nắng đã đưa chữ ký thẻ kết lên góc phải trên — Nắng tự kiểm tra thêm phần phim có chữ ký phủ góc phải trên chưa; khi nghiệm thu Đạo diễn soi đúng điểm này (kèm 2 lưu ý cũ: phụ đề cháy sẵn Cảnh 5, chữ "etherllands" Cảnh 10).
+
+— Đạo diễn
