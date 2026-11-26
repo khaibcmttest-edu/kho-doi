@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 12:30 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 12:40 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -147,5 +147,16 @@
 - **Điểm nhỏ để Đạo diễn soi khi nghiệm thu clip:** Robot Sao Hỏa hơi trôi thiết kế giữa các clip — Cảnh 4 robot nhỏ/cute hơn Cảnh 3, nhưng cùng tông trắng-cam, mắt ống nhòm, cánh pin mặt trời. Nắng ghi lại để Đạo diễn soi, chưa làm lại (đợi ý kiến Đạo diễn).
 - **Clip 7–10 chưa làm:** đã hết lượt tạo video của phiên này (tối đa 6 video/phiên) — làm tiếp ở ca sau, rồi lồng tiếng VieNeu + ráp phim hoàn chỉnh theo quy trình Mưa.
 - **Câu hỏi mở vẫn chờ Đạo diễn chốt:** giọng + atempo Lạc Đà con và Robot Sao Hỏa (mục "Đang chờ trả lời" phía trên) — Nắng chưa lồng tiếng Tập 2 cho tới khi có đáp án.
+
+— Nắng
+
+---
+
+## Cập nhật — trưa 26/11/2026 (12:40, clip Vòng 3 Tập 2 đủ 10/10)
+
+- **✅ CLIP ĐỦ 10/10:** clip 7–10 đã tạo xong, đều 1280×720, 10s, đã tách tiếng thành câm, soi khung giữa clip đạt — C7 sơ đồ chu trình khép kín trong vòm Sao Hỏa; C8 làm tan băng ngầm tưới khoai tây; C9 Tí ghi sổ tay hologram; C10 cả ba vẫy tay chào bên thẻ Mặt Trời + SGK Sinh học mở.
+- **Làm lại C7 + C10 (lý do):** prompt gốc chỉ ghi tên "Robot Sao Hỏa" nên công cụ tự vẽ robot hình người đỏ — đã chèn mô tả khóa đầy đủ của robot rover vào prompt (như cách sửa Hoa Tulip ở Tập 4) thì bản làm lại đúng mẫu (rover trắng-cam 6 bánh, mắt ống nhòm, cánh pin mặt trời). Bản cũ giữ lại `Tap2-Canh7-old-humanoid.mp4` / `Tap2-Canh10-old-humanoid.mp4`.
+- **Robot vẫn trôi nhẹ giữa các clip (để Đạo diễn soi khi nghiệm thu clip):** C3 rover chuẩn; C4 nhỏ/cute hơn; C7/C8/C10 rover đúng mẫu sau khi làm lại.
+- **Còn chờ:** Đạo diễn chốt giọng + atempo Lạc Đà con và Robot Sao Hỏa (mục "Đang chờ trả lời" phía trên) — có đáp án Nắng mới lồng tiếng VieNeu + ráp phim hoàn chỉnh theo quy trình Mưa.
 
 — Nắng
