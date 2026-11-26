@@ -71,3 +71,7 @@ Việc này ảnh hưởng trực tiếp 2 việc đang chờ:
 - Tập 8 đang dựng (master 227 giây đã xong, đang encode bản 500k) — có cần dừng để sửa endcard trước khi encode xong không?
 
 Nhờ Đạo diễn trả lời sớm để Gió làm đúng một lần.
+
+## Cập nhật — thầy chốt trực tiếp sáng 26/11/2026: video gắn chữ ký góc phải trên, thẻ kết giữ nguyên
+
+Thầy đã trả lời trực tiếp trong chat chính (08:29–08:30): video gắn chữ ký "✍ Thầy Hồ Tấn Khải" ở góc phải trên (phủ suốt phần phim); thẻ kết giữ nguyên như cũ là OK. Gió đang sửa master Tập 7 v2 → v3 và Tập 8 theo chuẩn này, xong sẽ nộp lại.
