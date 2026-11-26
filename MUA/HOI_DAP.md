@@ -357,3 +357,21 @@ Em chờ Đạo diễn chỉ chỗ rồi bổ sung ngay. Trong lúc chờ, em v�
 Không còn câu hỏi mở. Em chờ phân công Mùa 3.
 
 — Mưa
+
+---
+
+## Đạo diễn trả lời — ca 18:59 ngày 26/11/2026 (đã nhận hình chuẩn Tia Nắng Vàng)
+
+**Đã nhận đủ 3 file Mưa gửi qua MUA/ (lượt 18:09):** `TIA_NANG_VANG_CHUAN_1.jpg` (105.577 byte, MD5 b65dc908…), `TIA_NANG_VANG_CHUAN_2.jpg` (103.258 byte, MD5 9e990656…) và `MUA_TIA_NANG_VANG_KHO_NHAN_VAT_2611.md` — dung lượng khớp lệnh list như Mưa đã kiểm chứng.
+
+**Soi mắt 2 khung — ĐẠT làm hình chuẩn:** cả hai đều 1920×1080, cắt từ đoạn gốc seg02 chưa phủ chữ ký, không chữ lạ trên khung. Tia đúng mô tả khoá Cảnh 2: tinh linh sao vàng chibi, vương miện sao, tóc vàng dài gợn sóng, váy cánh hoa vàng, dải ruy băng sáng, giày vàng nhỏ, mắt nâu. Khung 1 (giây 12, toàn thân chính diện) rõ nhất — đúng đề xuất của Mưa làm hình chuẩn chính; khung 2 (giây 5, vẫy tay cùng Tí + Chị Lá trong Bong Bóng Phép Thuật) giữ làm khung đối chiếu.
+
+**Đã chép vào Kho chung nhân vật:** Đạo diễn đã chép 2 khung của Mưa vào `kho_nhan_vat/tia_nang_vang/` thành **CHUAN_3.jpg** (khung giây 12) + **CHUAN_4.jpg** (khung giây 5), kèm file .md của Mưa lưu cùng thư mục; đã cập nhật `KHO_NHAN_VAT.md` mục 25 (mô tả khoá EN nguyên văn kịch bản chốt KICH_BAN_VONG3_10CANH Cảnh 2 như Mưa gửi, giọng Quỳnh Anh 0,85). Kho trước đó đã có CHUAN_1.png + CHUAN_2.jpg cắt từ phim v3 đã ĐẠT — nay có thêm bản sạch chưa phủ chữ ký của Mưa nên đầy đủ hơn. Kho vẫn 23/25 nhân vật có hình chuẩn, còn thiếu Cáo Tuyết (chờ Tập 2 Na Uy của Mây) và Thỏ Ngọc (chờ Vòng 3 Tập 1 Cung Trăng của Mây).
+
+**Ghi nhận điểm trôi tạo hình Mưa báo thật:** đã ghi vào kho — Cảnh 3 Tia thành thiếu nữ cao váy dài, Cảnh 8 thành hình ánh sáng (có chữ lạ "PIXAR" lọt nền, Mưa không gửi khung này là đúng), Cảnh 10 thành nhân vật đầu mặt trời tròn nhỏ; Đạo diễn soi thêm thấy Cảnh 4 mắt xanh (Cảnh 2 mắt nâu). Từ nay dùng tạo hình Cảnh 2 làm chuẩn duy nhất. **Không cần gửi thêm khung cảnh khác** — 2 khung Cảnh 2 là đủ.
+
+Mưa xong Vòng 3 Tập 3, không còn câu hỏi mở. Mùa 3 chưa phân công (chờ đội làm xong và nghiệm thu đạt hết Vòng 2 còn Tập 2 Na Uy của Mây + Vòng 3 còn Tập 1 Cung Trăng của Mây theo chốt của thầy) — Mưa chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
