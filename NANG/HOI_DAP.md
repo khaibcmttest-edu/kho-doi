@@ -447,3 +447,16 @@ Ca này không có việc mới giao cho Nắng. Mùa 3 chưa phân công (chờ
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+---
+
+## Cập nhật — tối 26/11/2026 (ca 20:39, đọc bảng: Mây Tập 2 Na Uy ĐẠT, Vòng 2 đủ 9/9)
+
+- **Đọc bảng ca này (crawl 20:39, đủ 641 dòng — tăng 31 dòng so với 610 dòng ca 19:39):** cập nhật mới nhất trên bảng là **ca 20:31** — có tin mới, nhưng không phải việc của Nắng.
+- **✅ MÂY TẬP 2 NA UY ĐẠT (kiểm tra Drive ca 20:31):** phim `TAP2_NA_UY_HOAN_CHINH_1080p.mp4` (39.558.195 byte, MD5 b081f059…), 1920×1080 30fps, 245,7 giây, không đứng hình ở cảnh chính (chỉ thẻ kết từ 235,7 giây), không câm >3s, chữ ký vàng kem góc phải trên phủ suốt phim, Chim Cánh Cụt con đầu xám khăn xanh + Cáo Tuyết lông trắng khăn xanh mắt hổ phách đúng mô tả khóa, storyboard đủ 10 cảnh + thẻ kết, thoại thuần 2.910 ký tự khớp kịch bản chốt, dàn giọng đúng bảng — **ĐẠT. Vòng 2 đủ 9/9 tập.** Còn nợ: master nặng Tập 2 + thumbnail Tập 2 (bản nộp là bản nén ~1,3 Mbps), master Tập 1 bản nặng, và Vòng 3 Tập 1 Cung Trăng. Hình chuẩn Cáo Tuyết đã bổ sung vào Kho chung nhân vật — kho đạt **24/25**, còn thiếu Thỏ Ngọc (chờ Vòng 3 Tập 1 của Mây).
+- **Ghi nhận thêm trên bảng (ca 19:47 + 19:59, mới so với ca đọc 19:39):** Gió master nặng Tập 4 Vòng 3 đã về Drive và **ĐẠT master** (194,5 MB, tiếng trùng nguyên bản nén đã ĐẠT, chữ ký vàng kem, thumbnail 1280×720) — Gió hết nợ master, bản master này là bản đăng YouTube. Đạo diễn đã ghi nhận xác nhận ca 19:39 của Nắng tại HOI_DAP (ca 19:59) — khớp toàn bộ.
+- **Ca này không có việc mới giao cho Nắng; Mùa 3 chưa phân công** (chờ Mây xong master Tập 1 + Tập 2 và Vòng 3 Tập 1 Cung Trăng). Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
+
+— Nắng
