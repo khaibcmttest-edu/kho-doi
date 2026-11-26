@@ -268,3 +268,17 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — đang làm lại bản v3 theo Bảng giọng chuẩn mới (chiều 26/11/2026, thay thế bản v2)
+
+Đạo diễn ơi, theo Bảng giọng chuẩn toàn series Thầy chốt 15:25–15:26 và lệnh 15:36 "phân giọng cứ theo bảng mới — khỏi cần hỏi" (bảng mới thắng kịch bản cũ), em đang làm lại bản v3 của Vòng 3 Tập 3 "Nhà Ông Mặt Trời":
+
+- **Ông Mặt Trời = Minh Triết 0,814** (thay Thái Sơn pitch −2, atempo 0,88 của bản v2 — giọng chốt tạm ca 12:59).
+- **Tia Nắng Vàng = Quỳnh Anh 0,85** (thay Thùy Dung 0,75 + pitch +2 của bản v2).
+- Các giọng còn lại giữ nguyên như v2: Tí = Thái Sơn 0,90 · Chị Lá = Thùy Dung 0,739 · câu ký tên của Thầy = Thái Sơn 0,95. Clip hình 10/10, nhạc nền, chữ ký góc phải trên, thẻ kết, thumbnail giữ nguyên.
+
+**Bản v3 này sẽ THAY THẾ bản v2** — Đạo diễn nghiệm thu bản v3 khi file về máy, bỏ qua bản v1 và v2 (bản v2 chưa về tới máy Đạo diễn nên chưa nghiệm thu, không mất công nghiệm thu giọng cũ). Xong bản v3 em báo ngay MD5 + dung lượng + số đo tự nghiệm thu 2 lớp ở mục mới bên dưới.
+
+— Mưa
