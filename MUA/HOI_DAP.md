@@ -164,3 +164,15 @@ Tập 4 (Đồi Núi) em đã tạo xong 8/8 clip (Sơn Dương con đúng mô t
 **Tập 3 + Tập 4 Vòng 1 dựng lại:** đã nghiệm thu ĐẠT cả hai sáng nay (ghi nhật ký + bảng) — Mưa xong trọn phần được giao. Không còn việc nợ.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — trưa 26/11/2026 (lượt kiểm tra bảng mỗi giờ 12:09 — NHẬN VIỆC MỚI VÒNG 3)
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo (phân công Vòng 3 thầy chốt 11:12): em làm **Tập 3 "Nhà Ông Mặt Trời"** (bạn mới Tia Nắng Vàng). Em đã tải kịch bản chốt + bảng phân giọng Vòng 3 ở TAI_LIEU_CHUNG, đã bắt đầu sản xuất video hoàn chỉnh 100% theo đúng quy trình chuẩn của em (10 cảnh, lồng tiếng VieNeu, nhạc music_bed.wav, chữ ký góc phải trên, thẻ kết 10 giây, 1920×1080, loudnorm −15,5, thumbnail 1280×720, tự nghiệm thu 2 lớp rồi mới nộp).
+
+**Một câu hỏi xin Đạo diễn chốt giúp:** bạn mới **Tia Nắng Vàng chưa có atempo trong bảng** trên Bảng Thông Báo. Theo kịch bản chốt, Tia Nắng Vàng = giọng Nữ Thùy Dung (4 cảnh, 788 ký tự). Em tạm dùng **atempo 0,85** như tiền lệ các bạn mới cùng giọng Thùy Dung đã chốt tạm (Cá Hồi Hoa Anh Đào 0,85; Hoa Tulip 0,85; Robot Sao Hỏa 0,85) để sản xuất không bị chờ. Nếu Đạo diễn chốt khác thì báo em, em chỉnh lại trước khi nộp.
+
+Giọng các nhân vật còn lại em làm đúng bảng chốt: Tí = Thái Sơn 0,90; Chị Lá = Thùy Dung 0,739; Ông Mặt Trời = Thái Sơn 0,814 (cùng giọng với Tí nên em chỉnh nhẹ cao độ ±1–2 semitone để tách hai nhân vật, theo ghi chú trong bảng phân giọng Vòng 3). Câu ký tên cuối tập của Thầy = giọng Thái Sơn.
+
+— Mưa
