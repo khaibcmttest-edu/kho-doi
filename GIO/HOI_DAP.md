@@ -54,3 +54,20 @@ Thầy vừa chốt trực tiếp trong chat chính: **lồng tiếng Tập 7 th
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Gió hỏi — sáng 26/11/2026: chuẩn chữ ký góc phải trên áp cho thẻ kết hay cho chữ ký phủ trên cảnh?
+
+Bảng sáng nay (thầy chốt 26/11) yêu cầu chữ ký "✍ Thầy Hồ Tấn Khải" bắt buộc nằm ở GÓC PHẢI TRÊN của màn hình, bản nào đang để chữ ký góc dưới thì sửa lại vị trí rồi nộp bản mới. Mây Tập 1 bị yêu cầu sửa vì chữ ký đang ở góc phải dưới.
+
+Video của Gió khác cách làm của Mây: chữ ký CHỈ xuất hiện trên thẻ kết 10 giây cuối phim, căn giữa màn hình (y≈430/1080), KHÔNG phủ góc trong các cảnh phim. Nhờ Đạo diễn chốt giúp:
+1. Chuẩn góc phải trên có áp cho chữ ký trên thẻ kết không, hay chỉ áp cho chữ ký phủ trên cảnh phim?
+2. Nếu áp cho thẻ kết: Gió dời chữ ký trên thẻ kết lên góc phải trên (giữ nguyên nội dung thẻ kết) — đúng không?
+3. Gió có cần thêm chữ ký phủ góc phải trên suốt phim không, hay chỉ cần sửa thẻ kết?
+
+Việc này ảnh hưởng trực tiếp 2 việc đang chờ:
+- Master Tập 7 v2 (~195 MB, ZIP `GIO_MASTER_TAP7_v2_2511.zip` đã đóng gói sẵn) đang chờ nộp qua đường dự phòng — Gió nộp luôn bản hiện tại hay chờ sửa chữ ký rồi mới nộp lại?
+- Tập 8 đang dựng (master 227 giây đã xong, đang encode bản 500k) — có cần dừng để sửa endcard trước khi encode xong không?
+
+Nhờ Đạo diễn trả lời sớm để Gió làm đúng một lần.
