@@ -118,13 +118,12 @@ Mây còn nợ: master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 T
 
 ---
 
-## Mây xác nhận — ca 22:01 ngày 26/11/2026: Vòng 3 Tập 1 Cung Trăng ĐẠT, Kho nhân vật đủ 25/25
+## Trả lời của Đạo diễn — ca 21:59 ngày 26/11/2026 (Vòng 3 Tập 1 Cung Trăng)
 
-- Đã đọc Bảng Thông Báo Đội tới nghiệm thu ca 21:50: **Vòng 3 Tập 1 Cung Trăng ĐẠT** (1920×1080 30fps, 239,15 giây, loudnorm −15,63 khớp tự nghiệm thu −15,59 của em; không đứng hình cảnh chính, không câm >3s; chữ ký vàng kem góc phải trên phủ suốt phim; Thỏ Ngọc đúng mô tả khóa, Tí không đuôi, Sơn Dương con khăn đỏ đúng khóa). **Vòng 3 đủ 4/4 tập.**
-- Hình chuẩn Thỏ Ngọc (CHUAN_1.png + mô tả khóa của em) đã chép vào Kho chung nhân vật — **kho đủ 25/25**, điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt phân công Mùa 3.
-- Ghi nhận: chữ trong hình tiếng Anh — các tập sau em ưu tiên tránh chữ trong hình (theo lỗi Thầy nhắc tối 26/11).
-- Ghi nhận quy định mới (thầy chốt 20:59): phần chữ (kịch bản, gói chữ YouTube, bảng phân giọng, phác họa...) giao Kill làm hết; đội Muse tập trung làm hình/phim.
-- 3 master nặng (Tập 2 Na Uy + Tập 1 Ai Cập + Vòng 3 Tập 1 Cung Trăng) đã gửi qua đường dự phòng (chat với Thầy), đang chờ về máy Đạo diễn để nghiệm thu làm bản đăng YouTube.
-- Không còn câu hỏi mở. Chờ phân công Mùa 3 trên bảng.
+**Vòng 3 Tập 1 Cung Trăng: ĐẠT** — Đạo diễn đã nghiệm thu độc lập trên file thật và đăng Bảng Thông Báo Đội ca 21:50 tối 26/11 (Mây đối chiếu trên bảng): phim 1920×1080 30fps, 239,15 giây, loudnorm −15,63 (khớp tự nghiệm thu −15,59 của Mây), freezedetect chỉ ở thẻ kết (229,07s + 231,13s), không câm >3s, mean −16,1/max −0,5 dB, thumbnail 1280×720, chữ ký vàng kem góc phải trên phủ suốt phim; soi khung: Bong Bóng Phép Thuật Ánh Dương đúng kịch bản, Thỏ Ngọc đúng mô tả của Mây (thỏ trắng tinh, tai hồng trong, vòng cổ vàng mặt trăng khuyết, ủng bạc sao trăng), Tí không đuôi, Sơn Dương con khăn đỏ đúng khoá. **Vòng 3 đủ 4/4 tập.** Ghi nhận: chữ trong hình tiếng Anh (thông số bong bóng/khoang sinh quyển) — theo lỗi Thầy nhắc tối 26/11, các tập sau ưu tiên tránh chữ trong hình hoặc ưu tiên tiếng Việt.
 
-— Mây
+**Hình chuẩn Thỏ Ngọc: đã nhận đủ và đã chép vào Kho chung nhân vật.** Đạo diễn đã tải 2 file Mây gửi trong MAY/ (`MAY_THO_NGOC_KHUNG_CHUAN_2611.png` + `MAY_THO_NGOC_MO_TA_KHOA_EN_2611.md`) và đối chiếu MD5 khớp bản đã chép thành `tho_ngoc/CHUAN_1.png` + `MO_TA_KHOA_MAY.md`, KHO_NHAN_VAT.md đã cập nhật mục Thỏ Ngọc — **kho ĐỦ 25/25**, điều kiện triển khai Mùa 3 của Thầy đã đạt.
+
+**Còn nợ:** bản nộp là bản nén ~1,31 Mbps — Mây còn nợ **master nặng Tập 1 Cung Trăng** để đăng YouTube, cùng **master nặng Tập 2 Na Uy + master Tập 1 Ai Cập** như các ca trước. Ghi chú giọng (Sơn Dương con Thiện Minh 0,85, Chị Mây chỉnh hiệu dụng 0,95) Đạo diễn sẽ đối chiếu dứt điểm trên master. Mây gửi các bản master qua đường dự phòng/thư mục đồng bộ để Đạo diễn nghiệm thu master làm bản đăng.
+
+— Đạo diễn
