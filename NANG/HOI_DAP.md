@@ -4,9 +4,11 @@
 
 ## Đang chờ trả lời
 
-- **Giọng + atempo của Hoa Tulip (Tập 4 Hà Lan)** — Hoa Tulip là bạn mới của Tập 4, nói 5 cảnh (3, 4, 5, 6, 7). Trong danh sách giọng đã chốt + bảng atempo trên bảng chưa có giọng riêng cho Hoa Tulip. Xin Đạo diễn chốt giọng VieNeu + atempo cho Hoa Tulip để Nắng lồng tiếng Tập 4 sau khi Tập 3 được nghiệm thu. (Các giọng còn lại của Tập 4 đã có: Tí = Thái Sơn 0.90 theo chuẩn mới tối 25/11; Cá Nhỏ = Ngọc Huyền 0.85; câu Thầy ở Cảnh 10 = Thái Sơn 0.95.)
+- Không còn câu hỏi mở. (Đạo diễn đã trả lời giọng Hoa Tulip trên bảng ca 08:59 ngày 26/11 — xem mục "Đã trả lời" bên dưới.)
 
 ## Đã trả lời
+
+- **Giọng + atempo của Hoa Tulip (Tập 4 Hà Lan)** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 08:59, 26/11): chốt tạm **theo kịch bản — Nữ Thùy Dung, atempo 0.85** (kịch bản chốt Tập 4 Mục 4 Cảnh 3–7 đều ghi Thùy Dung; như Cá Hồi cùng giọng Thùy Dung, không dùng 0.739 của Chị Lá). Cá Nhỏ giữ **Ngọc Huyền 0.85** đã chốt riêng để không trùng giọng. Khi nghiệm thu Tập 4, Đạo diễn sẽ thử giọng + đo cao độ để chốt giọng riêng cho Hoa Tulip nếu thầy duyệt. Nắng sẽ lồng tiếng Tập 4 theo đáp án này sau khi Tập 3 được nghiệm thu.
 
 - **Câu kết của Thầy ở Cảnh 10 Tập 3** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 20:39, 25/11): giọng nam **Thái Sơn**, atempo **0.95** (mục "HƯỚNG DẪN ĐIỀU CHỈNH TỐC ĐỘ LỒNG TIẾNG"). Nắng đã lồng xong Cảnh 10 theo đáp án này.
 
@@ -70,6 +72,15 @@
 - **Thầy chốt chuẩn chữ ký chi tiết (09:23):** biểu tượng ✍ nhỏ đơn sắc + chữ "Thầy Hồ Tấn Khải" in đậm **màu vàng kem**, viền tối mỏng, không có hộp nền, nằm góc phải trên cách mép khoảng 20–30 px, cả cụm rộng khoảng 1/5 khung hình và hiện suốt video. Thầy nói: "ai cũng màu vàng kkk có em màu trắng kkk" — bản v3 em làm chữ trắng là sai, em nhìn nhầm màu ở video mẫu (vàng kem ở 640×360 nhìn gần như trắng; đo điểm ảnh thấy tông ấm vàng kem).
 - **Đang làm bản v4 theo chuẩn đúng:** PNG chữ ký vàng kem mới 388×49 (cỡ 34px, vàng kem RGB 255,236,165, viền đen 2px), đã kiểm tra đọc rõ trên cả nền sáng lẫn nền tối; phim v4 đang mã hóa nền từ bản chưa gắn chữ ký. Xong Nắng nghiệm thu lại 2 lớp rồi nộp ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v4.zip` (thay bản v3 trắng nộp 09:17).
 - **Tiến độ Tập 4 (làm tiếp theo lệnh thầy):** clip đã đủ 10/10 (Cảnh 7–10 tạo xong sáng nay, 1280×720, 10s, đã làm câm; Cảnh 7 dùng bản rộng nhà kính thay cho cận cảnh dung dịch đã bị từ chối). Tiếp theo: lồng tiếng + ráp phim hoàn chỉnh theo chuẩn chữ ký vàng kem này.
-- Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
+- Câu hỏi mở lúc đó: giọng + atempo của Hoa Tulip (Tập 4) — đã có đáp án ca 08:59, xem mục "Đã trả lời".
+
+— Nắng
+
+## Cập nhật — sáng 26/11/2026 (ca 09:39, đọc bảng + mã hóa xong bản v4)
+
+- **Đọc bảng ca này (crawl 09:40):** không có việc mới giao cho Nắng, không có câu trả lời hỏi đáp mới ngoài đáp án Hoa Tulip ca 08:59 đã ghi ở trên. Bảng vẫn ghi Tập 3 "Đạo diễn chưa nhận file" (bản v2 tên mới nộp 08:45) — Đạo diễn chưa cập nhật bản v3 nộp 09:17, xin Đạo diễn nhận file rồi nghiệm thu.
+- **Hoa Tulip đã có đáp án (bảng ca 08:59):** Thùy Dung 0.85 tạm — Nắng không còn câu hỏi mở. Sẽ lồng tiếng Tập 4 theo đáp án này sau khi Tập 3 được nghiệm thu.
+- **Bản v4 chữ ký vàng kem đã mã hóa xong (09:41):** phim `Tap3-Brazil-v4sig.mp4` — 1920×1080, 227,1 giây, 138.141.026 byte; âm thanh copy nguyên từ bản pre-sig (loudnorm −15,53 giữ nguyên). Đã soi 2 frame (11s + 120s): chữ ký "✍ Thầy Hồ Tấn Khải" màu vàng kem, in đậm, góc phải trên, đọc rõ cả nền sáng lẫn nền tối — đúng chuẩn thầy chốt 09:23. Đang nghiệm thu lại 2 lớp rồi nộp ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v4.zip` (thay bản v3 trắng nộp 09:17).
+- Không còn câu hỏi mở.
 
 — Nắng
