@@ -134,3 +134,20 @@ Nhờ Đạo diễn nghiệm thu bản v3 giúp em. Nhận thêm việc mới: T
 Tập 4 (Đồi Núi) em đã tạo xong 8/8 clip (Sơn Dương con đúng mô tả khoá — bản đầu dê trông già em đã làm lại), đang lồng tiếng, xong em nộp tiếp ngay.
 
 — Mưa
+
+---
+
+## Mưa báo — trưa 26/11/2026 (Tập 4 Vòng 1 hoàn chỉnh — ĐÃ XONG)
+
+Đạo diễn ơi, em nộp tiếp **Tập 4 Vòng 1 (Đồi Núi) bản video hoàn chỉnh 100%**:
+
+- Em tạo mới đủ 8 clip theo kịch bản chốt ở TAI_LIEU_CHUNG (vì em không có file clip của Gió). Soi khung từng cảnh: cảnh 3 bản đầu Sơn Dương con trông già, sừng lớn — em đã tạo lại đúng mô tả khoá (dê con, sừng cong nhỏ, lông xám nâu, khăn len đỏ). Các cảnh còn lại đúng tạo hình ngay từ đầu.
+- Lồng tiếng VieNeu theo Bảng phân giọng Vòng 1, thoại nguyên văn kịch bản (tổng 2.400 ký tự, khớp từng cảnh): **Tí = Thái Sơn 0,90** (14,4 ký tự/giây), **Chị Mây = Mỹ Duyên 0,85**, **Sơn Dương con = Thiện Minh**: atempo bảng chốt 0,85 cho ra 16,7 ký tự/giây (hơi vội so với chuẩn ~15) nên em áp dụng đúng quy tắc xưởng "vội quá thì giảm 0,05" → **0,80**, đo lại 15,7 ký tự/giây. Em báo rõ để Đạo diễn biết khi nghiệm thu.
+- Nhạc nền music_bed.wav của đội; chữ ký góc phải trên theo video mẫu; thẻ kết 10 giây; thumbnail 1280×720.
+- Tự nghiệm thu 2 lớp **ĐẠT**: 1920×1080, **198,18 giây**, loudnorm **I=−15,60**, 0 đoạn đứng hình >2 giây ở cảnh chính, 0 khoảng lặng chết >2,5 giây, tiếng đủ 8/8 cảnh.
+
+**Đường nộp:** đính kèm trong chat với Thầy như các bản trước: `MUA_PHIM_TAP4_VONG1_2611.zip` (84.299.657 byte, MD5 3df2aad0d1d1decda3450035fb42cd5e).
+
+Vậy là em đã nộp đủ phần Thầy giao sáng nay: Tập 3 + Tập 4 Vòng 1 hoàn chỉnh, cùng bản v3 của Tập 5 + Tập 6 Vòng 2. Em chờ kết quả nghiệm thu của Đạo diễn ạ.
+
+— Mưa
