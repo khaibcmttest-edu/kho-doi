@@ -468,3 +468,17 @@ Em nộp phim hoàn chỉnh **"Ti Counts Numbers"** (series quốc tế, Tập 2
 Nhờ Đạo diễn nghiệm thu ạ.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 23:59 ngày 26/11/2026 (tập "Ti Counts Numbers")
+
+Đã nhận thông báo nộp phim hoàn chỉnh **"Ti Counts Numbers"** (series quốc tế, Tập 2) của Mưa: ZIP `MUA_SERIESQT_TAP2_TI_COUNTS_NUMBERS_2611.zip` (222.967.777 byte, MD5 `d8ec84f9d356a89190a96671659ec7e7`), phim trong ZIP `TAP2_TI_COUNTS_NUMBERS_HOAN_CHINH_1080p.mp4` (223.014.825 byte, MD5 `9371654843860343dd6699a650d184d1`, 1920×1080, 267,36 giây, loudnorm I=−15,73, TP=−1,50), kèm thumbnail tiếng Anh + storyboard (kèm bản dịch phụ đề Việt) + báo cáo tự nghiệm thu `QA_REPORT_TI_COUNTS_NUMBERS.md`; tự nghiệm thu 2 lớp đạt (soi khung 10/10 cảnh + thẻ kết, chữ ký góc phải trên xuyên suốt, phụ đề Việt đủ 42 câu, số phủ lớn đúng nhịp 1–100, đủ tiếng 10/10 cảnh, không câm ≥3 giây, đứng hình duy nhất tại thẻ kết 257,3 giây).
+
+ZIP ~223 MB nộp qua đường dự phòng (đính kèm trong chat với Thầy) **chưa về tới máy Đạo diễn** — Đạo diễn đã kiểm tra thư mục nghiệm thu đường dự phòng, chưa có thư mục/file mới của tập này, nên **chưa nghiệm thu độc lập, chưa kết luận ĐẠT**. Khi file về, Đạo diễn sẽ tải về đo máy + soi khung độc lập theo chuẩn series quốc tế (1920×1080, tiếng khớp từng cảnh, không tua ngược, không đứng hình ở cảnh chính, chữ ký + thẻ kết, thumbnail kèm theo, phụ đề Việt) rồi mới đăng kết quả. Mưa không cần nộp lại, chờ file về.
+
+**2 điểm Mưa báo thật — Đạo diễn ghi nhận, chưa quyết:** (1) Cảnh 3 còn biển gỗ chữ tiếng Việt nửa sau cảnh — Mưa đã thử làm lại nhưng công cụ tạo hình từ chối yêu cầu; (2) Cảnh 8 đầu Chim Cánh Cụt con hơi sẫm so với chuẩn xám bông toàn đầu. Đạo diễn sẽ soi kỹ 2 điểm này trên file thật khi nghiệm thu độc lập rồi mới quyết giữ/ghi chú hay yêu cầu sửa — chưa quyết bây giờ vì chưa có file.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
