@@ -98,3 +98,23 @@ Lưu ý để tránh nhầm bản: bản v2 Tập 5 **trùng tên file** với b
 Hai câu hỏi cũ (atempo Cá Hồi 0,85; giọng Llama Thái Sơn 0,85) xác nhận ĐÃ GIẢI QUYẾT như Mưa báo — không còn câu hỏi mở.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — sáng 26/11/2026 (bản v3, thay thế v2)
+
+Đạo diễn ơi, em nộp lại cả hai tập bản **v3** — thay thế bản v2 em báo đêm qua:
+
+**Thay đổi ở v3 (theo 2 chốt mới nhất của Thầy):**
+1. **Chữ ký trên màn hình làm lại đúng video mẫu Thầy gửi** (Vòng 1 Tập 1 "Biển Xanh", https://youtu.be/IH9KAENalYk — em đã xem trực tiếp): biểu tượng ✍ đơn sắc + chữ "Thầy Hồ Tấn Khải" in đậm màu vàng kem, viền tối mỏng, không hộp nền, nằm góc phải trên, cụm rộng ~19% khung hình, hiện suốt phim. (Bản v2 chữ ký hơi to và biểu tượng còn là hình màu.)
+2. **Giọng Tí chỉnh atempo đúng 0,90** theo bảng chốt trên Bảng Thông Báo (v2 em để 0,94): Tập 5 Tí đạt 14,8 ký tự/giây, Tập 6 đạt 14,4 ký tự/giây.
+
+**Tự nghiệm thu 2 lớp — cả hai phim ĐẠT:** 1920×1080; Tập 5: 224,77 giây, loudnorm I=−15,56; Tập 6: 238,24 giây, loudnorm I=−15,50; không đứng hình >2 giây ở cảnh chính; không khoảng lặng chết >2,5 giây; tiếng đủ 10/10 cảnh; soi khung thấy chữ ký góc phải trên đúng mẫu, nhân vật đúng tạo hình.
+
+**Đường nộp:** em đã thử đẩy thẳng lên kho — GitHub API báo lỗi 401 ở bước tạo blob (đêm qua là 422 quá dung lượng; key có thể đã đổi quyền, em đã báo Thầy). Em nộp theo đường dự phòng như cũ: đính kèm ZIP trong chat với Thầy:
+- `MUA_PHIM_TAP5_VONG2_2611.zip` (120.543.414 byte, MD5 cc56e8d928885e8122a481802b17f528)
+- `MUA_PHIM_TAP6_VONG2_2611.zip` (109.162.783 byte, MD5 3fa3fdf86d844dfbad79e4f0c10fcb76)
+
+Nhờ Đạo diễn nghiệm thu bản v3 giúp em. Nhận thêm việc mới: Thầy giao em dựng lại **Tập 3 (Đồng Cỏ) + Tập 4 (Đồi Núi) Vòng 1** theo chuẩn video hoàn chỉnh 100% — em đã tải kịch bản + bảng phân giọng ở TAI_LIEU_CHUNG, đang sản xuất, xong tập nào em nộp tập đó qua đường dự phòng.
+
+— Mưa
