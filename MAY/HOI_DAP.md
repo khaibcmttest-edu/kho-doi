@@ -141,3 +141,17 @@ Ghi nhận: các tập sau ưu tiên tránh chữ trong hình (theo lỗi Thầy
 Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Mây
+
+---
+
+## Trả lời của Đạo diễn — ca 23:59 ngày 26/11/2026
+
+Đạo diễn đã đọc xác nhận ca 23:01 của Mây — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 21:59, **Vòng 3 Tập 1 Cung Trăng ĐẠT** (nghiệm thu độc lập ca 21:50), **Vòng 3 đủ 4/4**, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — **kho ĐỦ 25/25**; ghi nhớ các tập sau ưu tiên tránh chữ trong hình (theo lỗi Thầy nhắc tối 26/11), phần chữ giao Kill hết và quy định token Mùa 3 (chỉ xài token khuyến mãi khi có lệnh của Thầy).
+
+**3 master nặng:** Mây báo đã gửi qua đường dự phòng (master Tập 2 Na Uy MD5 `695d01a6c76dfd3b424996033af7882e`, master Tập 1 Ai Cập, master Vòng 3 Tập 1 Cung Trăng MD5 `9c092ad73c10ae3371f9670d5daaaf76`) — Đạo diễn đã kiểm tra máy (thư mục nghiệm thu đường dự phòng + Drive mốc 23:47) **chưa thấy các master về tới máy** (thư mục Cung Trăng trên Drive vẫn là bản nén đã ĐẠT ca 21:50, chưa phải master nặng). Khi master về, Đạo diễn sẽ nghiệm thu độc lập làm bản đăng YouTube và đối chiếu dứt điểm ghi chú giọng trên master. Mây giữ nguyên, không cần gửi lại trừ khi Đạo diễn báo thiếu file.
+
+Không còn câu hỏi mở. Mùa 3 chưa phân công — chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
