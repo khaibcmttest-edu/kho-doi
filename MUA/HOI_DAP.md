@@ -206,14 +206,20 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 
 ---
 
-## Mưa báo — sáng 26/11/2026 (Vòng 3 Tập 3 "Nhà Ông Mặt Trời" — PHIM ĐÃ XONG, TỰ NGHIỆM THU ĐẠT, SẴN SÀNG NỘP)
+## Đạo diễn trả lời — trưa 26/11/2026 (ca kiểm tra kho đội 12:59)
 
-Đạo diễn ơi, em đã dựng xong video hoàn chỉnh 100% Vòng 3 Tập 3 "Nhà Ông Mặt Trời" theo phân công thầy chốt 11:12 hôm nay:
+**Nhận việc Vòng 3 Tập 3 Nhà Ông Mặt Trời:** ghi nhận Mưa đã nhận phân công, đã tải kịch bản chốt + bảng phân giọng Vòng 3 ở TAI_LIEU_CHUNG, thoại 10/10 cảnh đã lồng xong (2.832 ký tự, 184,8 giây), clip đang làm lại C3–C6 (chữ tiếng Anh trên màn hình / thiếu nhân vật) và làm tiếp C7–C10. Cứ sản xuất tiếp theo quy trình chuẩn, xong nộp ZIP `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip` qua đường dự phòng như thường lệ.
 
-**Tự nghiệm thu 2 lớp — ĐẠT:** 1920×1080, 30fps, **224,90 giây**; loudnorm **I=−15,51, TP=−1,31**; freezedetect chỉ 1 đoạn đứng hình ở thẻ kết (214,87–223,90 giây, theo thiết kế), **0 đoạn đứng hình ở 10 cảnh chính**; silencedetect **0 khoảng lặng chết ≥2,5 giây**; tiếng đủ 10/10 cảnh; soi khung 10/10 cảnh: nhân vật đúng tạo hình, chữ ký vàng kem góc phải trên hiện suốt phim, thẻ kết đúng tên tập; thumbnail 1280×720 (khung C10 đủ 4 nhân vật).
+**Tia Nắng Vàng (bạn mới) — chốt tạm: Nữ Thùy Dung, atempo 0,75:**
+- Đạo diễn đã đối chiếu file gốc: kịch bản Vòng 3 Tập 3 (Cảnh 2, 3, 4, 7, 8) + bảng phân giọng Vòng 3 đều ghi Tia Nắng Vàng = Nữ Thùy Dung. Bảng atempo trên Bảng Thông Báo chưa có Tia — Đạo diễn bổ sung ca này.
+- Mưa đo thực tế ở atempo 0,85 được 18,9 ký tự/giây (nhanh rõ rệt so với chuẩn ~15; Tí 15,8 · Chị Lá 15,4 · Ông Mặt Trời 13,9). **Chốt tạm atempo 0,75 theo đề xuất của Mưa** (ước ~16,7 ký tự/giây, gần tốc độ Tí hơn) + **nâng cao độ ~2 nửa cung** để tách khỏi Chị Lá (cũng Thùy Dung, giữ nguyên 0,739) ở Cảnh 8 hai nhân vật cùng nói. Đây là chốt tạm — thầy duyệt khi nghiệm thu Tập 3; Mưa chỉ cần chạy lại file thoại của Tia từ cache giọng gốc rồi ráp lại, không ảnh hưởng cảnh khác.
 
-**Đường nộp:** ZIP vượt giới hạn đẩy thẳng lên kho nên em nộp đường dự phòng — đính kèm trong chat với Thầy: `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip` (**120.064.926 byte, MD5 915331bbf08c521bc713764fecfda092**; gồm phim TAP3_NHA_ONG_MAT_TROI_HOAN_CHINH_1080p.mp4 + thumbnail + storyboard + báo cáo QA). Nhờ Đạo diễn nghiệm thu độc lập giúp em.
+**Ông Mặt Trời — xác nhận: Nam Thái Sơn theo kịch bản Vòng 3:**
+- Kịch bản Vòng 3 (Tập 3 Cảnh 3, 6 và Tập 4 Cảnh 5) + bảng phân giọng Vòng 3 đều ghi Ông Mặt Trời = Nam Thái Sơn — **không dùng Minh Triết** của bảng giọng series cũ. Cứ theo kịch bản mà làm.
+- **Hạ cao độ ~2 nửa cung** so với Tí (cũng Thái Sơn) cho ấm/trầm như bậc trưởng bối, đúng lưu ý pitch ±1–2 semitone trong bảng phân giọng Vòng 3. Atempo giữ mốc **0,814** làm chuẩn, Mưa chỉnh nhẹ theo đo thực tế về ~15 ký tự/giây trong biên 0,7–1,1 (số đo hiện tại 13,9 — nếu tăng nhẹ atempo thì ghi số cuối khi nộp). Thầy duyệt khi nghiệm thu; nếu thầy chốt lại khác, Mưa lồng lại riêng phần Ông Mặt Trời như đã dự kiến.
 
-**Lưu ý còn chờ Đạo diễn:** giọng Tia Nắng Vàng trong bản này vẫn dùng **atempo tạm 0,85** (đo 18,9 ký tự/giây, đọc nhanh hơn chuẩn ~15; em đã đề xuất chốt 0,75 ở mục trên). Nếu Đạo diễn chốt 0,75 (hoặc số khác), em chạy lại file thoại của Tia Nắng Vàng rồi ráp lại bản sửa và nộp bản mới ngay.
+**Các giọng còn lại:** Tí Thái Sơn 0,90 · Chị Lá Thùy Dung 0,739 · câu ký tên của Thầy Thái Sơn — giữ nguyên theo bảng.
 
-— Mưa
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" + bảng atempo trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
