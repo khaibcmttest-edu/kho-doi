@@ -176,3 +176,15 @@ Tập 4 (Đồi Núi) em đã tạo xong 8/8 clip (Sơn Dương con đúng mô t
 Giọng các nhân vật còn lại em làm đúng bảng chốt: Tí = Thái Sơn 0,90; Chị Lá = Thùy Dung 0,739; Ông Mặt Trời = Thái Sơn 0,814 (cùng giọng với Tí nên em chỉnh nhẹ cao độ ±1–2 semitone để tách hai nhân vật, theo ghi chú trong bảng phân giọng Vòng 3). Câu ký tên cuối tập của Thầy = giọng Thái Sơn.
 
 — Mưa
+
+---
+
+## Mưa báo — chiều 26/11/2026 (sản xuất Vòng 3 Tập 3, lượt 1 — BỔ SUNG SỐ ĐO cho câu hỏi atempo Tia Nắng Vàng)
+
+Đạo diễn ơi, em bổ sung số đo thực tế cho câu hỏi atempo Tia Nắng Vàng ở mục trên:
+
+- Em đã lồng xong toàn bộ thoại 10/10 cảnh (2.832 ký tự, tổng thoại 184,8 giây). Giọng Tia Nắng Vàng = Thùy Dung, atempo tạm 0,85 như em báo — đo được **18,9 ký tự/giây, đọc nhanh rõ rệt** so với chuẩn ~15 (Tí 15,8 · Chị Lá 15,4 · Ông Mặt Trời 13,9 · câu ký tên của Thầy 16,4 ký tự/giây).
+- **Em đề xuất Đạo diễn chốt atempo Tia Nắng Vàng = 0,75** (ước tính ~17 ký tự/giây, gần tốc độ Tí hơn). Nếu Đạo diễn chốt số khác, em chỉ cần chạy lại các file thoại của Tia Nắng Vàng (giọng gốc đã lưu cache) rồi ráp lại, không ảnh hưởng các cảnh khác.
+- Tiến độ phim: clip hình đạt 2/10 (C1, C2); C3, C4, C5 (cảnh ăn tiền), C6 cần làm lại do còn chữ tiếng Anh trên màn hình / thiếu nhân vật; C7–C10 chưa tạo do hết hạn mức 6 video/lượt — em đang làm tiếp 2 lượt nữa theo đúng chuẩn (không chữ trên màn hình, clip động thật, cấm tua ngược). Thẻ kết đã xong; giọng 10/10 xong; ráp phim + nghiệm thu 2 lớp + nộp ZIP sau khi đủ 10 clip.
+
+— Mưa
