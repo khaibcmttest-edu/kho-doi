@@ -158,3 +158,19 @@ Gió bắt đầu dựng Tập 4 sau khi làm xong bản Tập 7 v4 + Tập 8 v2
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+---
+
+## Đạo diễn nghiệm thu — chiều 26/11/2026 (ca kiểm tra kho đội 17:59)
+
+**Vòng 3 Tập 4 Trở về Trái Đất bản V3-FIX — ĐẠT kỹ thuật (bản nén trên kho đội):**
+- ZIP `GIO_M2V3_TAP4_TRA_VE_TRAI_DAT_2611.zip` (20.154.479 byte, MD5 c59fc96fb00cdce649738097466567a8) đã tải về đo độc lập: phim `TAP4_TRA_VE_TRAI_DAT_HOAN_CHINH_1080p.mp4` (20.015.800 byte, MD5 2d8003bfc2ea30910e7d8e17e1f49d2c — khớp GHI_CHU_Tap4.txt bản nộp 500k) **1920×1080, 30fps, 229,87 giây (~3 phút 50 giây)**; loudnorm đo lại input I=−15,65 / TP −1,33 (chuẩn I=−15,5/TP=−1,5, khớp trong sai số đo), mean −15,9 dB / max −1,3 dB, không clipping.
+- **Không đứng hình:** freezedetect (n=0,003, d=2s) 0 sự kiện trên toàn phim (thẻ kết zoom chậm 1,0 → 1,35 nên không đóng băng). **Không câm:** silencedetect (−50dB, d=3s) 0 đoạn. Nhạc nền music_bed.wav dùng chung + ducking sidechain theo quy trình của Mưa như ghi chú.
+- **Soi khung 10s/30s/50s/70s/91s/111s/131s/150s/177s/207s/225s:** chữ ký vàng kem "✍ Thầy Hồ Tấn Khải" góc phải trên phủ suốt phần phim (0–219,85s), thẻ kết giữ nguyên (chữ ký căn giữa + "Cảm ơn các em đã theo dõi!" + "Đăng ký kênh Thầy Khaibcmt", không phủ góc); cảnh ăn tiền Cảnh 5 (Trái Đất vùng Goldilocks + Ông Mặt Trời + Rùa Biển con) đạt; Cảnh 9 đủ 14 nhân vật xếp hàng cảm ơn (nền mờ blurred fill, không viền đen); Cảnh 10 đã crop hết viền đen pillarbox; thumbnail 1280×720 đạt (Cá Nhỏ hồng đúng trong thumbnail); storyboard đủ 10 cảnh + thẻ kết, thoại 19 câu (~2.848 ký tự theo ghi chú, trong khung chuẩn 2.400–3.200). Dàn giọng V3 khớp Bảng giọng chuẩn toàn series (Tí Thái Sơn 0,90 · Chị Lá Thùy Dung 0,739 · Lạc Đà con Thiền Tâm Đức 0,80 · Bác Rễ Adam 0,794 · Sâu Xanh Đức Trí 0,85 · Ông Mặt Trời Minh Triết 0,814 · Rùa Biển con Thanh Bình 0,80 · Chim Cánh Cụt con Mai Anh 0,85 · Khỉ con Adam bựa 0,90 · Giun Đất Thái Sơn 0,95 · Cá Nhỏ Ngọc Huyền 0,85 · Thầy Thái Sơn 0,95).
+- **Điểm lệch ghi nhận (không chặn, chờ thầy duyệt bản đăng):** (1) Cảnh 3 cừu trắng vẫn còn thay cho Lạc Đà con (Gió đã tự báo: 2 lần sửa ảnh đều thất bại, giữ clip C3 v2 cũ); (2) Cá Nhỏ CAM trong clip các cảnh vẽ lại (công cụ video vẽ lại mặc định Nemo cam — tiền lệ đã chấp nhận riêng, thumbnail vẫn hồng đúng); (3) Sơn Dương con vắng ở Cảnh 2 và Chị Lá vắng ở Cảnh 8 (cả hai không thoại ở cảnh đó, Gió đã tự báo); (4) Chim Cánh Cụt con ở Cảnh 6 đầu đen/xám đậm + khăn xanh lá — lệch phiếu khoá (đầu xám toàn bộ + khăn xanh), Đạo diễn soi khung ghi nhận; (5) Sâu Xanh đọc chậm 10,62 ký tự/giây (Gió đã chỉnh tối đa trong biên atempo, giữ nguyên); (6) Lạc Đà con 13,00 ký tự/giây sát ngưỡng dưới.
+- **Còn nợ:** nộp **master nặng** (Tap4_TraVeTraiDat_HoanChinh.mp4, MD5 fd63f67949010a6d584733b43a5144a1 như ghi chú) qua đường dự phòng để đăng YouTube — bản trong ZIP là bản nén 500k, chỉ đủ nghiệm thu, không chuyển sang DA_DUYET theo tiền lệ. Gió xong Vòng 3 Tập 4 (tập cuối series) ở bản nén; master về Đạo diễn đối chiếu tiếng/hình trùng bản đã ĐẠT rồi chốt bản đăng.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
