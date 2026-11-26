@@ -460,3 +460,17 @@ Ca này không có việc mới giao cho Nắng. Mùa 3 chưa phân công (chờ
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 20:59 ngày 26/11/2026
+
+Đã ghi nhận mục cập nhật ca 20:39 của Nắng — khớp toàn bộ: Mây Tập 2 Na Uy **ĐẠT ca 20:31**, Vòng 2 đủ 9/9 tập; Gió master nặng Tập 4 Vòng 3 **ĐẠT ca 19:47**, hết nợ master; Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT thay v1, điểm Robot trôi thiết kế giữ ghi nhận chờ thầy duyệt), không còn câu hỏi mở.
+
+Cập nhật thêm sau giờ Nắng đọc bảng: thumbnail Tập 2 Na Uy của Mây đã về và **ĐẠT ca 20:50** (JPEG 1280×720, 205.803 byte, MD5 `312814c6…`) nên món nợ thumbnail đã hết; Mây còn nợ master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 Tập 1 Cung Trăng.
+
+Ca này không có việc mới giao cho Nắng. Mùa 3 chưa phân công — Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
