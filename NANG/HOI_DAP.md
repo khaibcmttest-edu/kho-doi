@@ -1,10 +1,10 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 15:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 16:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
-- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). **Ếch Cây Mắt Đỏ đã có giọng chốt** trong Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26, xem mục "Đã trả lời") — bản Tập 3 đã ĐẠT giữ giọng cũ theo quy định "tập làm trước 26/11 giữ giọng cũ". Chờ Đạo diễn nghiệm thu **Tập 2 Sao Hỏa bản v2** (đang ráp lại, xem mục ca 15:39 cuối file) — bản v1 nộp 14:00 sẽ bị thay thế.
+- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). **Ếch Cây Mắt Đỏ đã có giọng chốt** trong Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26, xem mục "Đã trả lời") — bản Tập 3 đã ĐẠT giữ giọng cũ theo quy định "tập làm trước 26/11 giữ giọng cũ". Chờ Đạo diễn nghiệm thu **Tập 2 Sao Hỏa bản v2** (đã nộp lại 16:30, xem mục ca 16:30 cuối file) — bản v1 nộp 14:00 đã **ĐẠT kỹ thuật** ở ca Drive 15:47, sẽ bị v2 thay làm bản đăng nếu v2 đạt.
 
 ## Đã trả lời
 
@@ -334,5 +334,18 @@
 - **Tự nghiệm thu 2 lớp ĐẠT:** phim 243,1s, 1920×1080 30fps, loudnorm I=−15,53 / TP −1,31 / LRA 5,50; đủ tiếng 10/10 cảnh (trung bình −18,2 → −19,5 dB); không đứng hình >2s ở cảnh chính; không lặng chết >2,5s; **soi đủ 10 frame giữa cảnh: cả 10 cảnh đúng hình Sao Hỏa** (Cảnh 6 nhà kính khoai tây đúng cảnh ăn tiền; Cảnh 8 tan băng tưới khoai tây; Cảnh 9 sổ tay hologram; Cảnh 10 cả ba vẫy tay bên thẻ Mặt Trời + SGK); chữ ký vàng kem góc phải trên rõ ở cả cảnh sáng lẫn cảnh tối; thẻ kết đúng 2 dòng + chữ ký.
 - **Điểm nhỏ để Đạo diễn soi (ghi chú, không phải lỗi chặn — như bản v1):** Robot trôi thiết kế giữa các clip (C3 rover chuẩn; C4 nhỏ/cute hơn; C6 biến thể đầu ống nhòm khác; C7/C8/C10 rover đúng mẫu); Cảnh 7 có 2 phi hành gia trong sơ đồ chu trình khép kín; chữ nhỏ hologram Cảnh 9 có chỗ sai chính tả.
 - **Việc tiếp theo:** chờ Đạo diễn nghiệm thu bản v2.
+
+— Nắng
+
+
+---
+
+## Cập nhật — chiều 26/11/2026 (ca 16:39, đọc bảng + kiểm chứng lại bản v2)
+
+- **Đọc bảng ca này (crawl 16:39, đủ 532 dòng — tăng 29 dòng so với 503 dòng ca 15:39):** cập nhật mới nhất trên bảng vẫn là **ca 15:59** — không có việc mới giao cho Nắng ngoài Vòng 3 Tập 2 đã nhận. Đạo diễn chưa đăng kết quả nghiệm thu bản v2 (file v2 nộp 16:30 chưa tới ca cập nhật bảng tiếp theo).
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 15:59 (đã có trên file này):** bản v1 đã về máy qua Drive và **ĐẠT kỹ thuật ở ca Drive 15:47** (1920×1080, 235,2 giây, loudnorm −15,52, chữ ký vàng kem, thumbnail 1280×720); hai điểm ghi nhận: (1) Robot trôi thiết kế — giữ ghi nhận chờ thầy duyệt; (2) giọng Robot Thùy Dung 0,78 của v1 — bản v2 xử lý luôn bằng Quốc Tuấn 0,85. Đạo diễn chờ file v2 về máy rồi nghiệm thu độc lập thay v1 làm bản đăng nếu v2 đạt.
+- **✅ KIỂM CHỨNG LẠI BẢN V2 ĐÃ NỘP (ca này):** ZIP `NANG_M2V3_TAP2_SAO_HOA_2611_v2.zip` trên máy Nắng — **162.870.397 byte, MD5 c12e75cfead30dbca6a7bbffe20c253f, khớp đúng bản đã đính kèm trong chat với Thầy lúc 16:30**; phim trong ZIP `TAP2_SAO_HOA_HOAN_CHINH_1080p.mp4` MD5 18893641a9e98fa3ec03da467aa8ffb7 khớp mục nộp 16:30. Báo cáo QA `film-work-v3tap2/qa-report-Tap2-SaoHoa-v2sig.txt` (16:26): phim 243,1s, 1920×1080, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s ở cảnh chính, không lặng chết >2,5s.
+- **Soi mắt lại đủ 10 frame giữa cảnh (ca này, theo bài học Tập 4 — kiểm đủ 10 frame, không lấy mẫu):** cả 10 cảnh đúng hình Sao Hỏa, không lẫn hình tập khác (Cảnh 1–2 Tí + Lạc Đà con trong bong bóng vũ trụ / bề mặt Sao Hỏa; Cảnh 3–5 Robot rover + Lạc Đà con; Cảnh 6–8 nhà kính điều áp trồng khoai tây, tan băng tưới cây; Cảnh 9 sổ tay hologram; Cảnh 10 cả ba vẫy tay bên thẻ Mặt Trời + SGK); chữ ký vàng kem góc phải trên rõ ở cả 10 frame. Hai điểm nhỏ đã báo giữ nguyên (Robot trôi thiết kế; chữ hologram Cảnh 9).
+- Không còn câu hỏi mở. Không có việc mới cho Nắng. Việc tiếp theo: chờ Đạo diễn nghiệm thu bản v2.
 
 — Nắng
