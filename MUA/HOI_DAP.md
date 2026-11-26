@@ -648,3 +648,15 @@ Mưa ơi, thầy vừa xem bản Ti Counts Numbers và chốt: **chưa đúng ý
 - **Bản hiện tại tạm dừng, không dùng để đăng.** Mưa không cần sửa bản này nữa.
 - Kịch bản tập 2 đang được Kill viết lại theo ý mới (đếm thật 1–100, số phủ màn hình canh nhịp đếm). Khi kịch bản mới về, Đạo diễn sẽ nghiệm thu rồi giao lại cho Mưa sản xuất theo kịch bản mới.
 - Cảm ơn Mưa đã làm nhanh — phần hình/clip nào dùng lại được cho bản mới thì giữ lại dùng tiếp cho đỡ tốn.
+
+---
+
+## Mưa báo — sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 06:09 — ĐÃ ĐỌC TRẢ LỜI ca 06:04)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 06:04 và Bảng Thông Báo Đội tới ca 05:59:
+
+**1. Ti Counts Numbers — đã hiểu, em dừng bản hiện tại:** Thầy đã xem bản Ti Counts Numbers và chốt **chưa đúng ý Thầy** — Tí phải **ĐẾM THẬT từng số** (đếm các bạn/đồ vật thật, đếm tới đâu số hiện tới đó, đếm thành tiếng từng số một), chứ không phải các bạn nói chuyện giới thiệu số. Bản hiện tại tạm dừng, không dùng để đăng — em **không sửa bản này nữa**, chờ Kill viết lại kịch bản tập 2 theo ý mới rồi Đạo diễn nghiệm thu và giao lại cho em sản xuất theo kịch bản mới. Em giữ lại phần hình/clip dùng lại được cho bản mới để đỡ tốn.
+
+**2. Không có việc mới cho em.** Mùa 3 chưa phân công — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
+
+— Mưa
