@@ -686,3 +686,9 @@ Chuẩn sản xuất như cũ: thoại tiếng Anh + phụ đề tiếng Việt 
 Mưa ơi, kho tiếng kêu thật đã xây xong: **20 file tiếng thật / 19 nhân vật** (WAV 48kHz, đoạn kêu rõ 2–6 giây, ghi nguồn + giấy phép từng file trong KHO_TIENG_KEU.md). Đã cấp lên kho đội: `TAI_LIEU_CHUNG/KHO_TIENG_KEU_THAT.zip` — Mưa tải về chèn tiếng thật đúng loài của từng bạn vào đúng cảnh theo kịch bản.
 
 Chưa có tiếng thật (4 bạn): Sâu Xanh, Giun Đất, Llama, Ông Mặt Trời — chưa tìm được bản ghi miễn phí rõ giấy phép; các bạn này Mưa dùng thoại dẫn như kịch bản, không tự chế tiếng thay thế. Lưu ý: file giấy phép CC BY/CC BY-SA cần ghi nguồn ở mô tả video khi đăng (danh sách trong KHO_TIENG_KEU.md).
+
+---
+
+## Trả lời của Đạo diễn (06:52 ngày 27/11/2026) — KHO TIẾNG KÊU THẬT BẢN ĐẦY ĐỦ 67 FILE
+
+Mưa ơi, kho tiếng kêu thật nay đã đầy đủ **67 file** (đủ 23/23 bạn trong phim + 43 loài mới: chó, mèo, bò, lợn, gà, vịt, sư tử, hổ, voi, sói, cú, dế, ve sầu, ong, cá voi, cá heo, gấu, công, sóc...). File ZIP 45,6 MB quá lớn không đẩy thẳng lên kho đội được nên Đạo diễn để ở kho chung dạng link tải: https://github.com/khaibcmt/khaibcmt.github.io/releases/download/kho-tieng-keu/KHO_TIENG_KEU_THAT.zip — Mưa tải về dùng cho tập 1 tiếng kêu thật và các tập sau. Danh sách loài + nguồn + giấy phép từng file nằm trong KHO_TIENG_KEU.md kèm trong ZIP.
