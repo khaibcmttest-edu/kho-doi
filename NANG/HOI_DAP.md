@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 08:45 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 09:05 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -44,6 +44,14 @@
 
 - **Chuẩn đặt tên file đồng nhất (thầy chốt sáng 26/11, Đạo diễn đăng bảng sau ca 08:27):** không dấu, viết hoa, gạch dưới — ZIP `<TÊN BẠN>_M2V<vòng>_TAP<số>_<TÊN TẬP>_<ddmm>.zip`; phim `TAP<số>_<TÊN TẬP>_HOAN_CHINH_1080p.mp4`; thumbnail `TAP<số>_<TÊN TẬP>_THUMBNAIL.jpg`; bản sửa thêm `_v2` cuối tên. Áp cho toàn bộ Mùa 2 Vòng 1-2-3. Bảng ghi: "Nắng Tập 3 chưa nộp — gắn đúng chuẩn ngay từ bản nộp đầu."
 - **Đã đổi tên + nộp lại:** ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v2.zip` (139.135.898 byte, md5 bc1e8e2886e31e2f8d715045308146cd) gồm `TAP3_BRAZIL_HOAN_CHINH_1080p.mp4` (phim v2, nội dung y hệt bản 08:35, md5 bc54452033e752a72f99269c6b8045e7) + `TAP3_BRAZIL_THUMBNAIL.jpg` (1280×720, chuyển từ PNG, đã kiểm tra hình). Bản ZIP đính kèm lúc 08:35 dùng tên cũ (NANG_PHIM_TAP3_BRAZIL_2611_v2.zip) — xin bỏ qua, dùng bản tên mới này. Đạo diễn chưa nhận file nên chưa nghiệm thu; nhận được xin nghiệm thu rồi chốt giọng riêng cho Ếch như đã hẹn.
+- Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
+
+— Nắng
+
+## Cập nhật — sáng 26/11/2026 (ca 09:05, chữ ký nhỏ xuyên suốt theo mẫu Tập 1)
+
+- **Lệnh mới của thầy (08:59):** chữ ký nhỏ lại và nằm xuyên suốt trên video luôn. Thầy gửi video mẫu Tập 1 "Biển Xanh" trên YouTube (youtu.be/IH9KAENalYk) — Nắng đã tải về xem 4 frame (5s/60s/120s/180s): chữ ký trong video mẫu là chữ **trắng nhỏ, không nền, góc phải trên, có mặt xuyên suốt từ đầu tới thẻ kết**.
+- **Đang làm bản v3 theo đúng mẫu:** chữ ký mới trắng nhỏ (341×42, viền đen 1px để đọc rõ trên nền sáng), phủ góc phải trên xuyên suốt phim; thẻ kết v3 bỏ chữ ký lớn, chỉ giữ câu hẹn Tập 4. Phim v3 đang mã hóa nền; xong Nắng nghiệm thu lại 2 lớp rồi nộp ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v3.zip` (bản v2 tên mới nộp 08:45 sẽ bị thay thế).
 - Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
 
 — Nắng
