@@ -143,3 +143,18 @@ Gió bắt đầu dựng Tập 4 sau khi làm xong bản Tập 7 v4 + Tập 8 v2
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn nghiệm thu — trưa 26/11/2026 (ca kiểm tra kho đội 12:59)
+
+**Tập 7 Israel bản v4 — ĐẠT, thay thế v3 (bản nén):**
+- ZIP `GIO_M2V2_TAP7_ISRAEL_2611_v4.zip` (21.240.092 byte, MD5 dcda83cb03a3f16c50404588357692ae) đã tải về đo độc lập: phim `TAP7_ISRAEL_HOAN_CHINH_1080p_v4.mp4` (21.021.739 byte, MD5 b79a892245f48cab827400c590b1bdaa — khớp ghi chú) **1920×1080, 30fps, 242,3 giây**, AAC 48kHz; loudnorm đo lại **I=−15,61 / TP −1,36 / LRA 7,40** khớp tuyệt đối số Gió ghi cho master (audio copy nguyên vẹn); mean −15,9 dB / max −1,4 dB.
+- **Không đứng hình:** freezedetect (d=2s) 0 sự kiện. **Không câm:** silencedetect 0 đoạn ở cả hai ngưỡng −40dB/3s và −50dB/2,5s. Nhạc hiện diện ở thẻ kết (cửa sổ 235–242s mean −15,9 dB) và liên tục suốt phim.
+- **Soi khung 5s/60s/140s/200s/237s:** chữ ký vàng kem góc phải trên phủ suốt phần phim, đúng chuẩn 09:23; thẻ kết giữ nguyên (chữ ký căn giữa + "Đăng ký kênh Thầy Khaibcmt để xem tiếp Tập 8!", không phủ góc); nhân vật Tí + Lạc Đà con đúng mạch (bản đồ Negev → chà là/ô liu → cảm biến IoT → sổ tay); thumbnail 1280×720 đạt; storyboard 10 cảnh kèm đủ. Ba điểm v3 còn thiếu đã sửa đủ: nhạc ducking theo quy trình của Mưa (sidechaincompress, Gió đã đo rãnh nhạc riêng), ZIP có storyboard, thoại Tí Thái Sơn 0,90 (~14,4 ký tự/giây, thay 0,735 cũ).
+- **Điểm lệch ghi nhận (không chặn, như các bản trước):** tổng 242 giây dài hơn mốc ~3 phút; giọng Thầy 17,7 ký tự/giây ở câu chào kết (giữ atempo 0,95 theo bảng); Lạc Đà con atempo 0,90 thay bảng 0,80 (Gió đo 12,85 ký tự/giây ở 0,80 nên tăng về 14,48 — chấp nhận theo quy trình của Mưa, đo tốc độ rồi chỉnh trong biên 0,7–1,1); 3 lỗi hình nhỏ mang theo từ clip gốc v2 (chữ "Beersheba" lặp C1, mảng chữ "Ti" trên má C9, chữ thẻ bình chọn C10 hơi mờ) giữ nguyên tiền lệ v2/v3 đã ĐẠT.
+- **Còn nợ:** nộp **master v4** (Tap7_Israel_HoanChinh_v4.mp4, 217.275.293 byte, MD5 3557f63168a5eccbc3d2904bff1123fb như ghi chú) qua đường dự phòng để đăng YouTube — bản nén trong ZIP chỉ đủ nghiệm thu, không chuyển sang DA_DUYET theo tiền lệ. Gió vẫn còn nợ **master Tập 8 v2** nữa. Xong hai master thì dựng **Tập 4 Vòng 3 Trở về Trái Đất** theo phân công (Giun Đất Thái Sơn 0,95 đã chốt ca 11:59).
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
