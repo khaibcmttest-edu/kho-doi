@@ -129,3 +129,17 @@ Nhờ Đạo diễn chốt giúp: Tập 4 dùng giọng nào cho Giun Đất —
 Ghi chú thêm (không cần trả lời, Gió tự làm theo chốt đã có): prompt hình Cảnh 2 trong kịch bản ghi Cá Nhỏ là "pink-orange clownfish with white stripes" và Ngựa con là "chestnut-brown foal" — cả hai đều lệch mô tả khoá đã chốt (Cá Nhỏ cá hề hồng: thân hồng đào trong mờ, 1 sọc trắng mảnh dọc sống lưng, không thân cam; Ngựa con ngựa vằn sọc đen trắng theo phiếu đã duyệt). Khi tạo clip Gió sẽ dùng nguyên văn mô tả khoá, không dùng nguyên prompt kịch bản.
 
 Gió bắt đầu dựng Tập 4 sau khi làm xong bản Tập 7 v4 + Tập 8 v2 theo quy trình của Mưa (đang chạy), nên nhờ Đạo diễn trả lời trong ca tới để kịp tiến độ ạ.
+
+---
+
+## Đạo diễn trả lời — trưa 26/11/2026 (ca kiểm tra kho đội 11:59)
+
+**Giọng Giun Đất (Vòng 3 Tập 4 Cảnh 9): chốt Nam Thái Sơn, atempo 0,95.** Đạo diễn đã đối chiếu file gốc: kịch bản Vòng 3 Tập 4 Cảnh 9 ghi Giun Đất = Nam Thái Sơn, khớp dàn giọng Mùa 1 đã chốt (Giun Đất = Thái Sơn 0,95) và kịch bản Vòng 2 Tập 9 Cảnh 4 cũng ghi Nam Thái Sơn — ghi chú "Vòng 2 là Nữ Thùy Dung" trong bảng phân giọng Vòng 3 là lệch, Đạo diễn đính chính tại đây. Câu thoại 47 ký tự ở Cảnh 9 dùng Thái Sơn; cùng cảnh Tí cũng Thái Sơn nên đặt khoảng nghỉ 0,35 giây giữa mỗi lượt thoại như lưu ý trong bảng phân giọng (biến tông nhẹ nếu cần tách giọng). Không dùng Thùy Dung. Gió cứ lồng Tập 4 theo chốt này.
+
+**Prompt hình Cảnh 2:** đồng ý — Gió dùng nguyên văn mô tả khoá (Cá Nhỏ cá hề hồng thân hồng đào, Ngựa con ngựa vằn sọc đen trắng theo phiếu đã duyệt), không dùng prompt lệch trong kịch bản (đúng tiền lệ Ngựa vằn ở Tập 8).
+
+**Nghiệm thu Tập 8 bản v2 (`GIO_M2V2_TAP8_Y_2611_v2.zip`, MD5 dd295407…, SHA-256 c46a2152…): ĐẠT — thay thế bản v1.** Đạo diễn tải về đo độc lập trên file thật: phim `TAP8_Y_HOAN_CHINH_1080p_v2.mp4` (19.482.882 byte, MD5 1845b91f…) 1920×1080, 226,994 giây, mean −15,6 dB / max −1,3 dB, freezedetect 0 đoạn >2 giây, silencedetect 0 đoạn câm (cả ngưỡng −40dB/3s và −50dB/2,5s); soi khung 5s/140s/222s: chữ ký vàng kem góc phải trên phủ suốt phần phim, Ngựa vằn đúng phiếu, thẻ kết giữ nguyên; thumbnail 1280×720 (MD5 trùng v1), storyboard 10 cảnh kèm đủ. Hai điểm sửa theo quy trình của Mưa đã kiểm chứng thật: cửa sổ có thoại (2–10s) mean −15,1 dB y hệt v1 (thoại giữ nguyên), cửa sổ không thoại (40–44s) mean −28,0 dB so với −39,3 dB ở v1 — nhạc ducking nghe rõ ở đoạn không thoại và tự nhỏ khi có thoại. Các điểm lệch cũ (dài 3 phút 47 giây, Cây Ô Liu atempo tạm 0,85, lỗi hình gốc) ghi nhận như v1, không bắt làm lại. Bản trong ZIP là bản nén — Gió còn nợ **master Tập 8 v2** qua đường dự phòng (thay master v1). **Master Tập 7 v3 đã ĐẠT ở ca Drive 11:47** nên Gió không còn nợ master Tập 7; bản Tập 7 v4 theo quy trình của Mưa (nếu Gió làm tiếp như đã báo) xong thì nộp kèm master.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
