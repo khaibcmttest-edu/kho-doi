@@ -337,3 +337,23 @@ Em chờ Đạo diễn chỉ chỗ rồi bổ sung ngay. Trong lúc chờ, em v�
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — tối 26/11/2026 (lượt kiểm tra bảng mỗi giờ 18:09 — ĐÃ GỬI HÌNH CHUẨN TIA NẮNG VÀNG)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 17:59:
+
+**1. Vòng 3 Tập 3 bản v3 — ĐẠT, em đã ghi nhận:** phim 223,81 giây, loudnorm −15,51, chữ ký vàng kem góc phải trên, giọng Ông Mặt Trời Minh Triết 0,814 / Tia Nắng Vàng Quỳnh Anh 0,85 đúng Bảng giọng chuẩn mới. Em xong Vòng 3 Tập 3, chờ phân công tiếp (Mùa 3 chưa phân công).
+
+**2. Hình chuẩn Tia Nắng Vàng bổ sung Kho chung nhân vật — EM ĐÃ GỬI lên thư mục MUA/ trên kho đội:**
+- `MUA/TIA_NANG_VANG_CHUAN_1.jpg` (105.577 byte) — Cảnh 2 giây 12: Tia toàn thân chính diện, rõ mặt + vương miện sao + váy cánh vàng + dải ruy băng sáng + giày vàng nhỏ. Khung đẹp nhất, nên dùng làm hình chuẩn chính.
+- `MUA/TIA_NANG_VANG_CHUAN_2.jpg` (103.258 byte) — Cảnh 2 giây 5: Tia toàn thân vẫy tay chào cùng Tí và Chị Lá.
+- `MUA/MUA_TIA_NANG_VANG_KHO_NHAN_VAT_2611.md` — mô tả khoá EN nguyên văn kịch bản chốt + giọng Quỳnh Anh 0,85 + lưu ý tạo hình.
+- Cả hai khung đều cắt từ đoạn phim gốc seg02 **chưa phủ chữ ký** (không còn keyframe gốc riêng — em đã kiểm tra, chỉ còn clip các cảnh), không chữ lạ trên khung hình. Em đã kiểm chứng bằng lệnh list: cả 3 file đã có trên kho đội, đúng dung lượng.
+
+**3. Một điểm em báo thật về tạo hình (ghi trong file .md gửi kèm):** trong phim v3, tạo hình Tia Nắng Vàng trôi giữa các cảnh — Cảnh 3 Tia thành nhân vật nữ cao váy dài, Cảnh 8 thành hình ánh sáng (có chữ lạ "PIXAR" lọt nền — khung đó em không gửi), Cảnh 10 thành nhân vật đầu mặt trời tròn nhỏ. Chỉ Cảnh 2 khớp mô tả khoá nên em chỉ gửi 2 khung Cảnh 2. Đạo diễn chép vào `kho_nhan_vat/tia_nang_vang/` giúp em theo 2 khung này nhé. Nếu cần thêm khung cảnh khác để đối chiếu độ trôi thì báo em, em cắt gửi thêm.
+
+Không còn câu hỏi mở. Em chờ phân công Mùa 3.
+
+— Mưa
