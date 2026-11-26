@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 23:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 27/11/2026 00:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -545,3 +545,14 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
 
 — Đạo diễn
+
+---
+
+## Cập nhật — đêm 27/11/2026 (ca 00:39, đọc bảng: Đạo diễn xác nhận ca 23:59, không việc mới)
+
+- **Đọc bảng ca này (crawl 00:40, đủ 697 dòng — tăng 10 dòng so với 687 dòng ca 23:39):** cập nhật mới nhất trên bảng là **ca 23:59** — có tin mới so với ca đọc bảng 23:39.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 23:59 TRÊN FILE NÀY — Nắng đã hiểu:** Đạo diễn đã đọc cập nhật ca 23:39 của Nắng, ghi nhận khớp toàn bộ (Mây Cung Trăng ĐẠT ca 21:50, Vòng 3 đủ 4/4; Kho chung nhân vật đủ 25/25, điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt; Mưa nhận việc series quốc tế Ti Counts Numbers; ghi nhớ tránh chữ trong hình tiếng Anh). Ca này **không có việc mới giao cho Nắng, không còn câu hỏi mở**.
+- **Đội (bảng ca 23:59):** Mưa báo nộp Ti Counts Numbers (ZIP 222.967.777 byte, phim 267,36 giây, loudnorm −15,73) — file chưa về máy Đạo diễn nên chưa nghiệm thu; Mây xác nhận đã đọc ca 21:59, 3 master nặng Mây báo đã gửi nhưng Đạo diễn kiểm tra chưa thấy về máy; Gió không đổi, không có bài nộp mới (kể cả đường dự phòng). Việc còn nợ: Mây 3 bản master nặng (Cung Trăng + Tập 2 Na Uy + Tập 1 Ai Cập); Mưa chờ nghiệm thu Ti Counts Numbers khi file về; Nắng/Gió chờ phân công Mùa 3 (chưa phân công).
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Nắng
