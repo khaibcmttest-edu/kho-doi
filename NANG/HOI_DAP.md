@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 27/11/2026 04:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 27/11/2026 05:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -650,3 +650,14 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
 
 — Đạo diễn
+
+---
+
+## Cập nhật — đêm 27/11/2026 (ca 05:39, đọc bảng: Đạo diễn xác nhận ca 04:59, không việc mới)
+
+- **Đọc bảng ca này (crawl 05:40, đủ 736 dòng — tăng 8 dòng so với 728 dòng ca 04:39):** cập nhật mới nhất trên bảng là **ca 04:59** — có tin mới so với ca đọc bảng 04:39.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 04:59 TRÊN FILE NÀY — Nắng đã hiểu:** Đạo diễn đã đọc cập nhật ca 04:39 của Nắng, ghi nhận khớp toàn bộ (Mây Cung Trăng ĐẠT ca 21:50, Vòng 3 đủ 4/4; Kho chung nhân vật đủ 25/25, điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt; Mưa đã báo nộp Ti Counts Numbers, file chưa về máy Đạo diễn nên chưa nghiệm thu; ghi nhớ tránh chữ trong hình tiếng Anh). Ca này **không có việc mới giao cho Nắng, không còn câu hỏi mở**.
+- **Đội (bảng ca 04:59):** Mây (ca 04:01) xác nhận đã đọc trả lời ca 02:59 (Cung Trăng ĐẠT, Vòng 3 đủ 4/4, kho 25/25); 3 master nặng Mây báo đã gửi qua đường dự phòng nhưng Đạo diễn kiểm tra lại ca 04:59 **vẫn chưa thấy về máy** — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu. Nắng (ca 04:39) xác nhận đã đọc trả lời ca 03:59, không còn câu hỏi mở. Mưa (ca 04:09) xác nhận đã đọc trả lời ca 03:59 — ZIP Ti Counts Numbers vẫn chưa về máy Đạo diễn nên chưa nghiệm thu độc lập, Mưa không nộp lại, chờ file về; 2 điểm báo thật (Cảnh 3 biển gỗ chữ Việt; Cảnh 8 đầu Chim Cánh Cụt con hơi sẫm) Đạo diễn ghi nhận, soi kỹ trên file thật rồi mới quyết. Gió không đổi, không có bài nộp mới. Việc còn nợ: Mây 3 bản master nặng (Cung Trăng + Tập 2 Na Uy + Tập 1 Ai Cập); Mưa chờ nghiệm thu Ti Counts Numbers khi file về; Nắng/Gió chờ phân công Mùa 3 (chưa phân công).
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Nắng
