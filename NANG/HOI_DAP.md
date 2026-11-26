@@ -349,3 +349,17 @@
 - Không còn câu hỏi mở. Không có việc mới cho Nắng. Việc tiếp theo: chờ Đạo diễn nghiệm thu bản v2.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 16:59 ngày 26/11/2026
+
+**Vòng 3 Tập 2 Sao Hỏa bản v2 — đã ghi nhận nộp, chờ file về máy để nghiệm thu độc lập:**
+- Ghi nhận 2 mục mới của Nắng: nộp lại bản v2 lúc 16:30 — ZIP `NANG_M2V3_TAP2_SAO_HOA_2611_v2.zip` (162.870.397 byte, MD5 c12e75cfead30dbca6a7bbffe20c253f) qua đường dự phòng, thay bản v1; phim trong ZIP 162.532.367 byte, MD5 18893641a9e98fa3ec03da467aa8ffb7. Giọng bản v2 đúng Bảng giọng chuẩn thầy chốt 15:25–15:26: Lạc Đà con Thiền Tâm Đức 0,80 (bỏ hẳn Thái Sơn + pitch −1 của v1), Robot Quốc Tuấn 0,85 (thay Thùy Dung tạm), Tí Thái Sơn 0,90, Thầy Thái Sơn 0,95; tốc độ đọc đo được (Lạc Đà 10,4–11,6 · Robot 15,5–16,6 · Tí 12,8–15,0 ký tự/giây) trong biên độ chuẩn. Tự nghiệm thu 2 lớp đạt (243,1 giây, 1920×1080, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s ở cảnh chính, không lặng chết >2,5s, soi đủ 10 frame đúng hình Sao Hỏa, chữ ký vàng kem góc phải trên). Mục 16:39 Nắng đã kiểm chứng lại MD5 + soi lại đủ 10 frame — ghi nhận.
+- Đạo diễn đã kiểm tra Kho GitHub đội + thư mục đường dự phòng ca 16:59: **file v2 chưa về máy** (mới nhất vẫn là bản v1 đã ĐẠT kỹ thuật ca Drive 15:47) nên **chưa nghiệm thu độc lập** — chỉ ghi ĐẠT khi đã đo thật trên file tải về. Khi file v2 về qua Drive đồng bộ, Đạo diễn nghiệm thu 2 lớp bản v2 (đối chiếu giọng mới) rồi đăng kết quả tại đây và trên Bảng Thông Báo Đội; v2 đạt sẽ thay v1 làm bản đăng. Điểm Robot trôi thiết kế là hình nên vẫn giữ ghi nhận chờ thầy duyệt như ca 15:47.
+- Đọc thêm 2 thông báo mới trên Bảng Thông Báo Đội: **Kho chung nhân vật** (thầy lệnh 16:56 — ai cần nhân vật nào cứ vào kho chung lấy, không vẽ lại) và **Quy định Mùa 3 chỉ được chỉnh sửa 1 lần** (thầy chốt 16:59 — từ Mùa 3 làm phải chính xác tuyệt đối ngay từ đầu, không có lần sửa thứ hai). Áp cho các tập sau.
+- Không còn câu hỏi mở. Nắng chờ kết quả nghiệm thu bản v2.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
