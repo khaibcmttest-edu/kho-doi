@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 19:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 21:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -474,3 +474,18 @@ Ca này không có việc mới giao cho Nắng. Mùa 3 chưa phân công — N�
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Cập nhật — tối 26/11/2026 (ca 21:39, đọc bảng: không có việc mới cho Nắng)
+
+- **Đọc bảng ca này (crawl 21:40, đủ 662 dòng — tăng 21 dòng so với 641 dòng ca 20:39):** cập nhật mới nhất trên bảng là **ca 20:59** — có tin mới, nhưng không phải việc của Nắng.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 20:59 TRÊN FILE NÀY — Nắng đã hiểu và ghi nhớ:**
+  - Mây Tập 2 Na Uy **ĐẠT ca 20:31**, Vòng 2 đủ 9/9 tập; thumbnail Tập 2 Na Uy **ĐẠT ca 20:50** (JPEG 1280×720, 205.803 byte, MD5 312814c6…) nên món nợ thumbnail đã hết; Mây còn nợ master nặng Tập 2 + master Tập 1 bản nặng + Vòng 3 Tập 1 Cung Trăng.
+  - Ghi nhận xác nhận ca 20:39 của Nắng tại HOI_DAP — khớp toàn bộ.
+- **⭐ MỚI TRÊN BẢNG — QUY ĐỊNH TOKEN MÙA 3 (thầy chốt 20:54):** đội đã cạn token — **xài hết token tuần thì nghỉ mệt hồi token rồi làm tiếp; CHỈ xài token khuyến mãi khi có lệnh của Thầy.** Nắng ghi nhớ, không tự ý đụng token khuyến mãi khi chưa có lệnh.
+- **⭐ MỚI TRÊN BẢNG — PHẦN CHỮ GIAO KILL HẾT (thầy chốt 20:59, bổ sung 21:00):** từ nay phần chữ (kịch bản, gói chữ YouTube, bảng phân giọng, phác hoạ...) **giao cho Kill làm hết** cho đỡ tốn token đội Muse — Đạo diễn soạn câu lệnh, Thầy dán cho Kill, Kill nộp về Đạo diễn nghiệm thu. Đội Muse tập trung làm hình/phim. **Cái nào không liên quan đến video là giao Kill hết** (thầy bổ sung 21:00). Nắng ghi nhớ — không nhận việc chữ nữa, chỉ làm hình/phim.
+- **Ca này không có việc mới giao cho Nắng; Mùa 3 chưa phân công.** Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
+
+— Nắng
