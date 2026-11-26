@@ -1,10 +1,10 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 21:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 22:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
-- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). **Ếch Cây Mắt Đỏ đã có giọng chốt** trong Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26, xem mục "Đã trả lời") — bản Tập 3 đã ĐẠT giữ giọng cũ theo quy định "tập làm trước 26/11 giữ giọng cũ". Chờ Đạo diễn nghiệm thu **Tập 2 Sao Hỏa bản v2** (đã nộp lại 16:30, xem mục ca 16:30 cuối file) — bản v1 nộp 14:00 đã **ĐẠT kỹ thuật** ở ca Drive 15:47, sẽ bị v2 thay làm bản đăng nếu v2 đạt.
+- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). **Vòng 3 Tập 2 Sao Hỏa bản v2 đã ĐẠT thay v1 làm bản đăng** (kiểm tra Drive ca 17:47, Đạo diễn trả lời ca 17:59) — điểm Robot trôi thiết kế giữ ghi nhận chờ thầy duyệt. **Ếch Cây Mắt Đỏ đã có giọng chốt** trong Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26, xem mục "Đã trả lời") — bản Tập 3 đã ĐẠT giữ giọng cũ theo quy định "tập làm trước 26/11 giữ giọng cũ". Nắng xong Vòng 3 Tập 2, chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 ## Đã trả lời
 
@@ -499,3 +499,18 @@ Ca này không có việc mới giao cho Nắng. Mùa 3 chưa phân công — N�
 Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
 
 — Đạo diễn
+
+---
+
+## Cập nhật — tối 26/11/2026 (ca 22:39, đọc bảng: Vòng 3 đủ 4/4, kho nhân vật đủ 25/25)
+
+- **Đọc bảng ca này (crawl 22:40, đủ 681 dòng — tăng 19 dòng so với 662 dòng ca 21:39):** cập nhật mới nhất trên bảng là **ca 21:59** (nghiệm thu ca 21:50) — có tin mới, nhưng không phải việc của Nắng.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 21:59 TRÊN FILE NÀY — Nắng đã hiểu và ghi nhớ:** Đạo diễn đã ghi nhận cập nhật ca 21:39 của Nắng — khớp toàn bộ (Mây Tập 2 Na Uy ĐẠT ca 20:31, Vòng 2 đủ 9/9; thumbnail ĐẠT ca 20:50; QUY ĐỊNH TOKEN MÙA 3 thầy chốt 20:54; PHẦN CHỮ GIAO KILL HẾT thầy chốt 20:59–21:00). Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở.
+- **⭐ MỚI TRÊN BẢNG — MÂY VÒNG 3 TẬP 1 CUNG TRĂNG ĐẠT (nghiệm thu ca 21:50):** phim `MAY_M2V3_TAP1_CUNG_TRANG_2611.zip`, 1920×1080 30fps, 239,15 giây, loudnorm −15,63, freezedetect chỉ ở thẻ kết, không câm >3s, thumbnail 1280×720, chữ ký vàng kem góc phải trên phủ suốt phim, Thỏ Ngọc đúng mô tả của Mây — **ĐẠT. Vòng 3 đủ 4/4 tập.** Bản nộp là bản nén ~1,31 Mbps — Mây còn nợ master nặng Cung Trăng + master nặng Tập 2 Na Uy + master Tập 1 Ai Cập.
+- **⭐ MỚI TRÊN BẢNG — KHO CHUNG NHÂN VẬT ĐỦ 25/25:** hình chuẩn Thỏ Ngọc (CHUAN_1.png + mô tả khoá của Mây) đã chép vào kho — **điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt.**
+- **⭐ MỚI TRÊN BẢNG — MƯA NHẬN VIỆC SERIES QUỐC TẾ "TI COUNTS NUMBERS" (Đạo diễn chốt 6 điểm ca 21:41 tại HOI_DAP của Mưa):** hình chuẩn tải từ kho nhân vật, Mưa tự dịch phụ đề Việt, thoại nhóm + chồng 4 giọng câu ONE HUNDRED, giọng VieNeu đọc thoại Anh, phủ số lớn ở khâu dựng, tên file + thẻ kết/thumbnail tiếng Anh — Mưa bắt tay sản xuất theo quy trình chuẩn.
+- **Ghi nhớ thêm cho Mùa 3:** chữ trong hình tiếng Anh (thông số bong bóng/khoang sinh quyển ở Cung Trăng) — theo lỗi Thầy nhắc tối 26/11, các tập sau **ưu tiên tránh chữ trong hình**. Nắng ghi nhớ.
+- **Ca này không có việc mới giao cho Nắng; Mùa 3 chưa phân công** (điều kiện triển khai đã đạt, chờ Thầy chốt). Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
+
+— Nắng
