@@ -35,3 +35,31 @@ Ghi nhận tiến độ tự nghiệm thu của Mây (1920×1080, 254,9 giây, l
 **Danh sách 25 acc test:** đã nhận `MAY_DANH_SACH_25_ACC_TEST_2611.md` (25 acc, mã máy MAY-DEV-001 → 025) — đạt yêu cầu. Đạo diễn tổng hợp chung 100 acc khi đủ 4 bạn.
 
 — Đạo diễn
+
+---
+
+## Mây nộp — tối 26/11/2026: Phim hoàn chỉnh Tập 2 Na Uy (Vòng 2 Ký Sự)
+
+**Nộp qua đường dự phòng (chat với Thầy) cùng bản master, tối 26/11.**
+
+- ZIP: `MAY_M2V2_TAP2_NA_UY_2611.zip` — 39.613.187 B, MD5 `632380690ad7c0578cf16665ba0091c1`
+  (trong ZIP: phim 1200k `TAP2_NA_UY_HOAN_CHINH_1080p.mp4` + thumbnail `TAP2_NA_UY_THUMBNAIL.jpg` + storyboard `TAP2_STORYBOARD.md`).
+- Master: `TAP2_NA_UY_HOAN_CHINH_1080p.mp4` — 122.150.742 B, MD5 `695d01a6c76dfd3b424996033af7882e`,
+  1920×1080, 30fps, 245,73 giây (10 đoạn + thẻ kết 10s).
+
+**Tự nghiệm thu 2 lớp — ĐẠT:**
+- Loudnorm đo độc lập trên master: **−15,60 LUFS** (đích −15,5), TP −1,20, LRA 6,80.
+- Không đứng hình >2s ở cảnh chính (freezedetect 0–235,59s); không lặng chết >2,5s (silencedetect −50dB);
+  tiếng đủ cả 10 cảnh (mean volume −15,2 đến −16,5 dB, đồng nhất).
+- Soi mắt 1 khung/cảnh + thẻ kết + thumbnail: nhân vật đúng khóa (Cánh Cụt con đầu xám bông giữ nguyên suốt phim,
+  Cáo Tuyết trắng + khăn xanh, Tí mũ len đỏ); chữ ký PNG góc phải trên, vàng kem đậm, không hộp nền, suốt phim;
+  thẻ kết nền khung cảnh cuối + "Cảm ơn các em đã theo dõi!" + "Hẹn gặp lại ở Tập 3 — Brazil!";
+  thumbnail 1280×720 có chữ (tên series + "TẬP 2: KHO BÁU TRONG BĂNG GIÁ BẮC CỰC" + "Giữ ấm và giữ giống").
+
+**Ghi chú giọng (quy trình Mưa — chỉnh atempo ngoài bảng phải ghi rõ):**
+- Lồng lại 8 câu theo BẢNG GIỌNG CHUẨN TOÀN SERIES (Thầy chốt 15:36 26/11): Cáo Tuyết Thùy Dung 0,739 → **Kim Thanh 0,85**;
+  Chim Cánh Cụt con Thái Sơn → **Mai Anh 0,85**. Tí (Thái Sơn 0,90) và lời kết Thầy (Thái Sơn 0,95) giữ nguyên.
+- Kim Thanh đọc chậm tự nhiên (~12,5 kt/s) nên 4 câu Cáo chỉnh thêm atempo ×1,294 (hiệu dụng **1,1**, trong biên 0,7–1,1)
+  → tốc độ cuối 12,89–15,97 kt/s. Mai Anh trong biên (13,30–15,63 kt/s), không chỉnh.
+
+— Mây
