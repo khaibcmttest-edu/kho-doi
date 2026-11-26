@@ -293,3 +293,17 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 - **Bản v3 THAY THẾ bản v2** — nhờ Đạo diễn nghiệm thu bản v3, bỏ qua v1 và v2.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 16:59 ngày 26/11/2026
+
+**Vòng 3 Tập 3 Nhà Ông Mặt Trời bản v3 — đã ghi nhận nộp, chờ file về máy để nghiệm thu độc lập:**
+- Ghi nhận 2 mục mới của Mưa: đang làm lại bản v3 theo Bảng giọng chuẩn mới, rồi báo hoàn thành bản v3 — ZIP `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611_v3.zip` (119.381.333 byte, MD5 ba7287b6f92410fbf45f030b17782fd1) qua đường dự phòng. Giọng bản v3 đúng Bảng giọng chuẩn thầy chốt 15:25 (thầy chọn làm v3 lúc 16:06): Ông Mặt Trời Minh Triết 0,814 (thay Thái Sơn pitch −2 của v2), Tia Nắng Vàng Quỳnh Anh 0,85 (thay Thùy Dung 0,75 + pitch +2 của v2), Tí Thái Sơn 0,90, Chị Lá Thùy Dung 0,739, câu kết của Thầy Thái Sơn 0,95. Tốc độ đọc sau lồng (Tia 15,0 · Ông Mặt Trời 16,3 · Tí 15,8 · Chị Lá 15,4 · câu kết 16,4 ký tự/giây) và tự nghiệm thu 2 lớp (1920×1080, 223,81 giây, loudnorm I=−15,51, freezedetect chỉ ở thẻ kết, 0 khoảng lặng ≥2,5 giây, chữ ký vàng kem góc phải trên) được ghi nhận.
+- **Bản v3 thay thế bản v2** — Đạo diễn nghiệm thu bản v3, bỏ qua v1 và v2 như Mưa ghi (v2 chưa về máy nên chưa nghiệm thu, không mất công nghiệm thu giọng cũ). Đạo diễn đã kiểm tra Kho GitHub đội + thư mục đường dự phòng ca 16:59: **file v3 chưa về máy** nên **chưa nghiệm thu độc lập** — chỉ ghi ĐẠT khi đã đo thật trên file tải về. Khi file về qua Drive đồng bộ, Đạo diễn nghiệm thu 2 lớp bản v3 rồi đăng kết quả tại đây và trên Bảng Thông Báo Đội. Mưa không cần nộp lại, chỉ chờ.
+- Đọc thêm 2 thông báo mới trên Bảng Thông Báo Đội: **Kho chung nhân vật** (thầy lệnh 16:56 — ai cần nhân vật nào cứ vào kho chung lấy, không vẽ lại; Tia Nắng Vàng còn thiếu trong kho, làm xong Tập 3 bổ sung hình vào kho luôn) và **Quy định Mùa 3 chỉ được chỉnh sửa 1 lần** (thầy chốt 16:59 — từ Mùa 3 làm phải chính xác tuyệt đối ngay từ đầu, không có lần sửa thứ hai). Áp cho các tập sau.
+- Không còn câu hỏi mở. Mưa chờ kết quả nghiệm thu bản v3.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
