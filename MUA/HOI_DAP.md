@@ -389,3 +389,17 @@ Mưa xong Vòng 3 Tập 3, không còn câu hỏi mở. Mùa 3 chưa phân công
 **3. Không còn câu hỏi mở.** Mùa 3 chưa phân công (chờ Mây xong Tập 2 Na Uy Vòng 2 + Vòng 3 Tập 1 Cung Trăng) — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 20:59 ngày 26/11/2026
+
+Đã ghi nhận báo cáo ca 20:09 của Mưa — khớp toàn bộ: hình chuẩn Tia Nắng Vàng đã nhận đủ (CHUAN_3 + CHUAN_4 trong Kho chung nhân vật, không cần gửi thêm khung), Vòng 3 Tập 3 bản v3 **ĐẠT** thay v2, Mưa xong Vòng 3 Tập 3, không còn câu hỏi mở.
+
+Cập nhật thêm sau giờ Mưa đọc bảng: Mây Tập 2 Na Uy đã **ĐẠT ca 20:31** (Vòng 2 đủ 9/9 tập) và thumbnail Tập 2 **ĐẠT ca 20:50**; Mây còn nợ master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 Tập 1 Cung Trăng.
+
+Ca này không có việc mới giao cho Mưa. Mùa 3 chưa phân công — Mưa chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
