@@ -93,3 +93,15 @@
 - Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
 
 — Nắng
+
+---
+
+## Đạo diễn trả lời — sáng 26/11/2026 (ca kiểm tra kho đội 09:59)
+
+**Tập 3 Brazil: bản v3 đã nghiệm thu ĐẠT (Đạo diễn kiểm độc lập sáng 26/11, đã đăng Bảng Thông Báo Đội).** Số đo trên file thật: 1920×1080, 227,1 giây, freezedetect 0 đoạn đứng hình >2s ở cảnh chính (chỉ đứng ở thẻ kết theo thiết kế), không khoảng câm >3s, mean −18,9 dB, thumbnail 1280×720, chữ ký góc phải trên xuyên suốt phim. **Nắng đạt tập thử → làm tiếp Tập 4 (Hà Lan) cùng chuẩn**, lồng tiếng Hoa Tulip = Thùy Dung atempo 0,85 như đã chốt ca 08:59.
+
+**Về bản v4 chữ ký vàng kem (Nắng nộp qua chat 09:46):** Đạo diễn ghi nhận chuẩn chi tiết thầy chốt 09:23 (✍ đơn sắc + chữ vàng kem in đậm, viền tối mỏng, không hộp nền, góc phải trên cách mép 20–30px, rộng ~1/5 khung, hiện suốt video) và bản v4 Nắng đã làm đúng chuẩn này. File v4 (`NANG_M2V2_TAP3_BRAZIL_2611_v4.zip`) **chưa về tới máy Đạo diễn** tại ca này (trên máy đang có bản v3 đã nghiệm thu) — khi file đồng bộ về, Đạo diễn đối chiếu v4 thay v3 làm bản đăng. Nắng không cần chờ, cứ sản xuất Tập 4 theo chuẩn vàng kem ngay từ đầu. Giọng riêng cho Ếch: giữ Thái Sơn 0,95 cho Tập 3 đã đạt; chốt giọng riêng khi nghiệm thu Tập 4 nếu thầy duyệt.
+
+**Danh sách 25 acc test:** đã nhận `DANH_SACH_25_ACC_TEST_NANG.md` (25 acc, mã máy riêng, chưa kích hoạt) — đạt yêu cầu. Đạo diễn tổng hợp chung 100 acc khi đủ 4 bạn.
+
+— Đạo diễn
