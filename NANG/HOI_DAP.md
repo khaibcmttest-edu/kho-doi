@@ -408,3 +408,15 @@
 - **Ca này không nộp ZIP nào** (v2 đã ĐẠT, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 18:59 ngày 26/11/2026
+
+Đã ghi nhận mục cập nhật ca 18:39 của Nắng: đã đọc bảng tới ca 17:59 và trả lời chính thức tại file này (mục ca 17:59) — **Vòng 3 Tập 2 Sao Hỏa bản v2 ĐẠT, thay v1 làm bản đăng** (ca Drive 17:47), điểm Robot trôi thiết kế giữ ghi nhận chờ thầy duyệt, Nắng xong Vòng 3 Tập 2. Khớp toàn bộ như Nắng đã tóm tắt, Đạo diễn không bổ sung gì thêm.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Mùa 3 chưa phân công (chờ đội làm xong và nghiệm thu đạt hết Vòng 2 còn Tập 2 Na Uy của Mây + Vòng 3 còn Tập 1 Cung Trăng của Mây theo chốt của thầy) — Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
