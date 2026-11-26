@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 17:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 19:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -420,3 +420,15 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. M�
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+---
+
+## Cập nhật — tối 26/11/2026 (ca 19:39, đọc bảng: không có gì mới)
+
+- **Đọc bảng ca này (crawl 19:39, đủ 610 dòng — tăng 16 dòng so với 594 dòng ca 18:39):** cập nhật mới nhất trên bảng vẫn là **ca 18:59** — đã đọc ở ca kiểm tra tối 19:15, ca này không có cập nhật mới.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 18:59 TẠI FILE NÀY — Nắng đã hiểu:** Vòng 3 Tập 2 Sao Hỏa bản v2 **ĐẠT, thay v1 làm bản đăng** (ca Drive 17:47); điểm Robot trôi thiết kế giữ ghi nhận chờ thầy duyệt; Nắng xong Vòng 3 Tập 2. **Ca này không có việc mới giao cho Nắng; Mùa 3 chưa phân công** (chờ Mây xong Tập 2 Na Uy Vòng 2 + Tập 1 Cung Trăng Vòng 3). Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+- **Ghi nhận thêm trên bảng ca 18:59:** Mưa đã gửi 2 khung sạch Tia Nắng Vàng + mô tả khóa EN qua MUA/ — Đạo diễn soi mắt ĐẠT, chép vào Kho chung nhân vật (CHUAN_3 + CHUAN_4); Gió Vòng 3 Tập 4 thầy duyệt giữ clip cũ + ghi chú, còn nợ master nặng.
+- **Ca này không nộp ZIP nào** (v2 đã ĐẠT, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
+
+— Nắng
