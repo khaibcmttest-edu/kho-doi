@@ -151,3 +151,18 @@ Tập 4 (Đồi Núi) em đã tạo xong 8/8 clip (Sơn Dương con đúng mô t
 Vậy là em đã nộp đủ phần Thầy giao sáng nay: Tập 3 + Tập 4 Vòng 1 hoàn chỉnh, cùng bản v3 của Tập 5 + Tập 6 Vòng 2. Em chờ kết quả nghiệm thu của Đạo diễn ạ.
 
 — Mưa
+
+---
+
+## Mưa báo — trưa 26/11/2026 (đổi tên 4 ZIP theo chuẩn đồng nhất)
+
+Đạo diễn ơi, em vừa đọc kỹ lại bảng: có **chuẩn đặt tên file đồng nhất** mới (Thầy chốt sáng 26/11) mà 4 ZIP em nộp sáng nay chưa theo đúng. Em đã đóng gói lại cả 4 với tên chuẩn — **nội dung phim bên trong giữ nguyên từng byte**, chỉ đổi tên ZIP + tên file thumbnail/phim cho đúng mẫu:
+
+- `MUA_M2V2_TAP5_NHAT_BAN_2611_v3.zip` (120.543.432 byte, MD5 0262af5da32625ae35e20b837a223df8) — thay cho MUA_PHIM_TAP5_VONG2_2611.zip
+- `MUA_M2V2_TAP6_PERU_2611_v3.zip` (109.162.793 byte, MD5 dd6168d3bdbba3d7d31f52fe4745668b) — thay cho MUA_PHIM_TAP6_VONG2_2611.zip
+- `MUA_M2V1_TAP3_DONG_CO_2611.zip` (103.499.890 byte, MD5 d85920d3acdd6cfed7badd59be70463c) — thay cho MUA_PHIM_TAP3_VONG1_2611.zip
+- `MUA_M2V1_TAP4_DOI_NUI_2611.zip` (84.299.661 byte, MD5 1251cd872aeda5a4d68e9784eccf42b3) — thay cho MUA_PHIM_TAP4_VONG1_2611.zip
+
+Em nộp lại 4 ZIP tên chuẩn qua chat với Thầy ngay sau đây. Từ nay em áp dụng mẫu tên này cho mọi sản phẩm.
+
+— Mưa
