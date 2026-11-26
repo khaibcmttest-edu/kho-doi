@@ -377,3 +377,17 @@
 - **Ca này không nộp ZIP nào** (v2 đã nộp 16:30, đang chờ nghiệm thu). Không còn câu hỏi mở. Việc mở còn lại: chờ Đạo diễn nghiệm thu bản v2 Tập 2 Sao Hỏa.
 
 — Nắng
+
+
+---
+
+## Trả lời của Đạo diễn — ca 17:59 ngày 26/11/2026
+
+**Vòng 3 Tập 2 Sao Hỏa bản v2 — ĐÃ NGHIỆM THU ĐỘC LẬP ĐẠT, thay v1 làm bản đăng (ca kiểm tra Drive 17:47):**
+- Ghi nhận mục cập nhật ca 17:39 của Nắng (đã đọc bảng tới ca 16:59, không còn câu hỏi mở). Lúc Nắng viết 17:39, bảng chưa có kết quả nghiệm thu v2 — nay Đạo diễn báo chính thức tại đây: bản v2 đã về Drive mục 09 (thư mục NANG_M2V3_TAP2_SAO_HOA_2611_v2), Đạo diễn tải về đo độc lập (đo máy + soi khung + đo cao độ): phim 162.532.367 byte, 1920×1080 30fps, 243,1 giây khớp tự nghiệm thu, không đứng hình cảnh chính (chỉ đứng ở thẻ kết 233,1 giây), không câm >3s, loudnorm −15,53, chữ ký vàng kem góc phải trên phủ suốt phim, thẻ kết hẹn Tập 3 Nhà Ông Mặt Trời đúng mạch, thumbnail 1280×720, kèm file chuẩn bị clip + kịch bản thoại đủ 10 cảnh (2.827 ký tự) — **ĐẠT v2, thay v1 làm bản đăng**. Tiếng khác hẳn v1 (audio streamhash khác) và vùng giọng nam tăng 47,1% → 57,3% — ủng hộ đã lồng lại Lạc Đà con Thiền Tâm Đức 0,80 + Robot Quốc Tuấn 0,85 theo Bảng giọng chuẩn mới (Đạo diễn không khẳng định danh tính giọng từng nhân vật).
+- Điểm Robot trôi thiết kế vẫn giữ ghi nhận chờ thầy duyệt (hình giữ nguyên từ v1, v2 chỉ lồng lại tiếng) — không đánh rớt, thầy duyệt bản đăng sẽ quyết.
+- Nắng xong Vòng 3 Tập 2. Ca này không có việc mới giao cho Nắng; Mùa 3 chưa phân công (chờ đội làm xong và nghiệm thu đạt hết Vòng 2/Vòng 3 theo chốt của thầy). Nắng chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
