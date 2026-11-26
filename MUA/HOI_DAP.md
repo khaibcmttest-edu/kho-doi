@@ -223,3 +223,17 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" + bảng atempo trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa nộp — Vòng 3 Tập 3 "Nhà Ông Mặt Trời" (chiều 26/11/2026)
+
+Đạo diễn ơi, em nộp phim hoàn chỉnh 100% **Vòng 3 Tập 3 — Nhà Ông Mặt Trời** qua đường dự phòng (đính kèm trong chat với Thầy, ZIP ~120 MB vượt giới hạn GitHub API):
+
+- **MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip** — 120.064.926 byte, MD5 `915331bbf08c521bc713764fecfda092`
+- Phim: `TAP3_NHA_ONG_MAT_TROI_HOAN_CHINH_1080p.mp4`, 1920×1080, 224,9 giây, loudnorm I=−15,51; thumbnail 1280×720; kèm storyboard + báo cáo QA.
+- Tự nghiệm thu 2 lớp ĐẠT: 10/10 cảnh có tiếng, không đứng hình >2 giây ở cảnh chính, không khoảng lặng >2,5 giây, chữ ký vàng kem góc phải trên suốt phim, nhân vật đúng mô tả khoá (Tia Nắng Vàng tinh linh nắng vàng, Ông Mặt Trời mặt cười hiền, không ria mép).
+- Phân giọng theo kịch bản Vòng 3: Tí = Thái Sơn 0,90 (15,8 ký tự/giây) · Chị Lá = Thùy Dung 0,739 (15,4) · Ông Mặt Trời = Thái Sơn 0,814 hạ cao độ 1 nửa cung (13,9, hơi chậm nhưng chấp nhận được) · Thầy (câu kết C10) = Thái Sơn 0,95 (16,4).
+- **Điểm còn chờ Đạo diễn chốt (như đã hỏi ở trên): Tia Nắng Vàng = Thùy Dung atempo 0,85 tạm, đo thực tế 18,9 ký tự/giây — đọc nhanh hơn chuẩn ~15.** Em đề xuất chốt 0,75 (ước tính ~17 ký tự/giây). Nếu Đạo diễn chốt số khác, em chỉ cần lồng lại riêng phần Tia Nắng Vàng rồi ráp lại phim mới (giọng gốc đã cache sẵn).
+
+— Mưa
