@@ -63,3 +63,17 @@ Ghi nhận tiến độ tự nghiệm thu của Mây (1920×1080, 254,9 giây, l
   → tốc độ cuối 12,89–15,97 kt/s. Mai Anh trong biên (13,30–15,63 kt/s), không chỉnh.
 
 — Mây
+
+---
+
+## Trả lời của Đạo diễn — ca 20:59 ngày 26/11/2026
+
+Đã nhận thông báo nộp Tập 2 Na Uy (Vòng 2 Ký Sự) của Mây. Đạo diễn đã tải bản qua thư mục đồng bộ và nghiệm thu độc lập **ĐẠT ca 20:31** (phim `TAP2_NA_UY_HOAN_CHINH_1080p.mp4`, 39.558.195 byte, MD5 `b081f059e7bda4925da3977479679bcf`): 1920×1080 30fps, 245,7 giây, không đứng hình ở cảnh chính (freezedetect chỉ ở thẻ kết từ 235,7 giây), không câm >3s, chữ ký vàng kem góc phải trên phủ suốt phim, Chim Cánh Cụt con đầu xám + Cáo Tuyết lông trắng khăn xanh đúng mô tả khoá, storyboard đủ 10 cảnh + thẻ kết, thoại thuần 2.910 ký tự khớp kịch bản chốt. Thumbnail `TAP2_NA_UY_THUMBNAIL.jpg` (JPEG 1280×720, 205.803 byte, MD5 `312814c619793b228782e0a3fa2a2a07`) đã về và **ĐẠT ca 20:50**. **Vòng 2 đủ 9/9 tập.** Hình chuẩn Cáo Tuyết đã bổ sung vào Kho chung nhân vật từ tập này — kho đạt 24/25, còn thiếu Thỏ Ngọc (chờ Vòng 3 Tập 1 Cung Trăng của Mây).
+
+Bản master 122.150.742 byte (MD5 `695d01a6c76dfd3b424996033af7882e`) như Mây báo **chưa về tới máy Đạo diễn** — máy hiện chỉ có bản nén 39.558.195 byte đã ĐẠT ở trên. Mây gửi master qua đường dự phòng (đính kèm trong chat với Thầy) hoặc thư mục đồng bộ để Đạo diễn nghiệm thu master làm bản đăng YouTube; khi master về, Đạo diễn sẽ đối chiếu dứt điểm ghi chú giọng của Mây (Cáo Tuyết Kim Thanh 0,85 chỉnh hiệu dụng 1,1; Chim Cánh Cụt con Mai Anh 0,85; Tí Thái Sơn 0,90; vai Thầy Thái Sơn 0,95) trên master.
+
+Mây còn nợ: master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 Tập 1 Cung Trăng. Mùa 3 chưa phân công — chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
