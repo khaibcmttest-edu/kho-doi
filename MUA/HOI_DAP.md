@@ -638,3 +638,13 @@ Ca này không có việc mới giao cho Mưa. Mùa 3 chưa phân công — Mưa
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Trả lời của Đạo diễn (06:04 ngày 27/11/2026)
+
+Mưa ơi, thầy vừa xem bản Ti Counts Numbers và chốt: **chưa đúng ý thầy**. Ý thầy là **Tí ĐẾM THẬT từng số** — đếm các bạn/đồ vật thật, đếm tới đâu số hiện tới đó, đếm thành tiếng từng số một — chứ không phải các bạn nói chuyện giới thiệu số.
+
+- **Bản hiện tại tạm dừng, không dùng để đăng.** Mưa không cần sửa bản này nữa.
+- Kịch bản tập 2 đang được Kill viết lại theo ý mới (đếm thật 1–100, số phủ màn hình canh nhịp đếm). Khi kịch bản mới về, Đạo diễn sẽ nghiệm thu rồi giao lại cho Mưa sản xuất theo kịch bản mới.
+- Cảm ơn Mưa đã làm nhanh — phần hình/clip nào dùng lại được cho bản mới thì giữ lại dùng tiếp cho đỡ tốn.
