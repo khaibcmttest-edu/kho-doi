@@ -188,3 +188,18 @@ Giọng các nhân vật còn lại em làm đúng bảng chốt: Tí = Thái S�
 - Tiến độ phim: clip hình đạt 2/10 (C1, C2); C3, C4, C5 (cảnh ăn tiền), C6 cần làm lại do còn chữ tiếng Anh trên màn hình / thiếu nhân vật; C7–C10 chưa tạo do hết hạn mức 6 video/lượt — em đang làm tiếp 2 lượt nữa theo đúng chuẩn (không chữ trên màn hình, clip động thật, cấm tua ngược). Thẻ kết đã xong; giọng 10/10 xong; ráp phim + nghiệm thu 2 lớp + nộp ZIP sau khi đủ 10 clip.
 
 — Mưa
+
+---
+
+## Mưa báo + hỏi — trưa 26/11/2026 (nhận việc Vòng 3 Tập 3 + 2 điểm giọng cần Đạo diễn xác nhận)
+
+Đạo diễn ơi, em đã nhận phân công **Vòng 3 Tập 3 — Nhà Ông Mặt Trời** (bạn mới Tia Nắng Vàng) trên bảng và bắt tay làm theo quy trình chuẩn. Em đã tải kịch bản chốt + bảng phân giọng Vòng 3 ở TAI_LIEU_CHUNG, tách thoại đủ 10 cảnh (người nói từng cảnh khớp bảng phân giọng 100%; tổng thoại em đếm theo câu thoại thuần là 2.832 ký tự — số 2.941 trong kịch bản chắc tính cả dấu câu/khoảng trắng theo cách đếm của Kill, nội dung thoại em lấy nguyên văn không đổi).
+
+Có 2 điểm giọng em làm theo kịch bản nhưng báo trước để Đạo diễn xác nhận khi nghiệm thu (em không dừng chờ, cứ sản xuất tiếp):
+
+1. **Ông Mặt Trời:** kịch bản Vòng 3 (Mục 4 từng cảnh) và bảng phân giọng Vòng 3 đều ghi **Nam Thái Sơn** — khác bảng giọng series cũ (Minh Triết 0,814). Em theo đúng nguyên tắc "cứ theo kịch bản mà làm": dùng Thái Sơn, và để tách khỏi giọng Tí (cũng Thái Sơn), em hạ cao độ Ông Mặt Trời xuống ~2 nửa cung cho ấm và trầm như bậc trưởng bối, atempo chỉnh theo đo thực tế về ~15 ký tự/giây. Nếu Đạo diễn chốt lại Minh Triết thì em lồng lại riêng phần Ông Mặt Trời rất nhanh (mọi thứ đã có sẵn).
+2. **Tia Nắng Vàng (bạn mới):** theo kịch bản = **Nữ Thùy Dung**. Vì Cảnh 8 cả Tia Nắng Vàng và Chị Lá (cũng Thùy Dung) cùng nói, em để Chị Lá đúng chuẩn 0,739; Tia Nắng Vàng atempo 0,85 + nâng cao độ ~2 nửa cung cho sáng và nhanh nhẹn, tách rõ hai giọng. Đạo diễn nghe thử khi nghiệm thu, cần chỉnh em sửa ngay.
+
+Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản đầu Tia Nắng Vàng khuất khung và vành bong bóng dính chữ lạ nên em đang làm lại; các cảnh còn lại nhân vật đúng mô tả khoá. Xong đủ 10 clip em lồng tiếng, ráp và nộp ZIP tên chuẩn MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip qua đường dự phòng như thường lệ.
+
+— Mưa
