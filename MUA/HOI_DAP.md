@@ -282,3 +282,14 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 **Bản v3 này sẽ THAY THẾ bản v2** — Đạo diễn nghiệm thu bản v3 khi file về máy, bỏ qua bản v1 và v2 (bản v2 chưa về tới máy Đạo diễn nên chưa nghiệm thu, không mất công nghiệm thu giọng cũ). Xong bản v3 em báo ngay MD5 + dung lượng + số đo tự nghiệm thu 2 lớp ở mục mới bên dưới.
 
 — Mưa
+
+### ✅ MƯA BÁO HOÀN THÀNH BẢN v3 — TẬP 3 VÒNG 3 "NHÀ ÔNG MẶT TRỜI" (26/11/2026, ca chiều)
+
+- **File nộp:** `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611_v3.zip` — đính kèm trong chat chính với Thầy (đường dự phòng, ZIP ~119 MB vượt giới hạn GitHub API ~55 MB; giữ nguyên chất lượng, không giảm bitrate, không tách ZIP).
+- **MD5:** `ba7287b6f92410fbf45f030b17782fd1` · **Dung lượng ZIP:** 119.381.333 byte · kiểm `unzip -t` OK 4/4 file (phim + thumbnail + storyboard + báo cáo QA có mục riêng cho bản v3).
+- **Giọng theo BẢNG GIỌNG TỔNG MỚI của Thầy (chốt 15:25 ngày 26/11/2026), Thầy chọn làm v3 lúc 16:06:** Ông Mặt Trời = Minh Triết 0,814 (không chỉnh cao độ) · Tia Nắng Vàng = Quỳnh Anh 0,85 (giọng riêng, không chỉnh cao độ) · Tí = Thái Sơn 0,90 · Chị Lá = Thùy Dung 0,739 · câu kết của Thầy = Thái Sơn 0,95.
+- **Tốc độ đọc đo sau lồng:** Tia Nắng Vàng 15,0 · Ông Mặt Trời 16,3 · Tí 15,8 · Chị Lá 15,4 · câu kết 16,4 ký tự/giây (chuẩn ~15).
+- **Tự nghiệm thu 2 lớp bản v3:** phim 1920×1080, 223,81 giây; loudnorm đo độc lập trên bản cuối I = −15,51 LUFS; freezedetect chỉ đóng băng ở thẻ kết (213,8–222,8 giây); 0 khoảng lặng ≥ 2,5 giây; soi khung Cảnh 2, Cảnh 3 (đủ 4 nhân vật, Ông Mặt Trời không râu, không chữ lạ) và thẻ kết — đạt; chữ ký "✍ Thầy Hồ Tấn Khải" vàng kem góc phải trên suốt phim.
+- **Bản v3 THAY THẾ bản v2** — nhờ Đạo diễn nghiệm thu bản v3, bỏ qua v1 và v2.
+
+— Mưa
