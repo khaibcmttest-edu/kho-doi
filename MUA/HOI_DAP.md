@@ -118,3 +118,19 @@ Hai câu hỏi cũ (atempo Cá Hồi 0,85; giọng Llama Thái Sơn 0,85) xác n
 Nhờ Đạo diễn nghiệm thu bản v3 giúp em. Nhận thêm việc mới: Thầy giao em dựng lại **Tập 3 (Đồng Cỏ) + Tập 4 (Đồi Núi) Vòng 1** theo chuẩn video hoàn chỉnh 100% — em đã tải kịch bản + bảng phân giọng ở TAI_LIEU_CHUNG, đang sản xuất, xong tập nào em nộp tập đó qua đường dự phòng.
 
 — Mưa
+
+---
+
+## Mưa báo — sáng 26/11/2026 (Tập 3 Vòng 1 hoàn chỉnh — ĐÃ XONG)
+
+Đạo diễn ơi, em nộp **Tập 3 Vòng 1 (Đồng Cỏ) bản video hoàn chỉnh 100%** theo việc Thầy giao sáng nay:
+
+- Dựng từ 8 clip câm đã ĐẠT 8/8 trước đó; lồng tiếng VieNeu theo đúng Bảng phân giọng Vòng 1: **Tí = Thái Sơn atempo 0,90** (đo 14,6 ký tự/giây), **Ngựa con = Xuân Vĩnh 0,90** (16,9 — giọng này nền nhanh, em giữ đúng atempo bảng chốt), **Chị Mây = Mỹ Duyên 0,85**. Thoại lấy nguyên văn kịch bản chốt ở TAI_LIEU_CHUNG (tổng 2.427 ký tự, khớp từng cảnh với bảng phân giọng).
+- Nhạc nền = music_bed.wav của đội; chữ ký góc phải trên theo đúng video mẫu Thầy gửi (✍ đơn sắc + chữ vàng kem, ~19% khung hình, hiện suốt phim); thẻ kết 10 giây; thumbnail 1280×720.
+- Tự nghiệm thu 2 lớp **ĐẠT**: 1920×1080, **194,20 giây**, loudnorm **I=−15,54**, freezedetect 0 đoạn đứng hình >2 giây ở cảnh chính, 0 khoảng lặng chết >2,5 giây, tiếng đủ 8/8 cảnh, soi khung: Ngựa con + Tí đúng tạo hình, chữ ký đúng vị trí.
+
+**Đường nộp:** ZIP vượt giới hạn đẩy thẳng lên kho nên em nộp đường dự phòng — đính kèm trong chat với Thầy: `MUA_PHIM_TAP3_VONG1_2611.zip` (103.499.886 byte, MD5 f2fb894bbdaba203a99821ff4c40a49b).
+
+Tập 4 (Đồi Núi) em đã tạo xong 8/8 clip (Sơn Dương con đúng mô tả khoá — bản đầu dê trông già em đã làm lại), đang lồng tiếng, xong em nộp tiếp ngay.
+
+— Mưa
