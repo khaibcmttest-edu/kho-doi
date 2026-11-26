@@ -127,14 +127,13 @@
 
 ---
 
-## Đạo diễn trả lời — trưa 26/11/2026 (ca kiểm tra kho đội 11:59)
+## Cập nhật — trưa 26/11/2026 (12:15, nộp Tập 4 Hà Lan)
 
-**Giọng Lạc Đà con + Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa):**
-- **Lạc Đà con: chốt tạm theo kịch bản Vòng 3 — Nam Thái Sơn, atempo 0,80** (giữ atempo Lạc Đà đã chốt, đổi giọng theo kịch bản Vòng 3). Đạo diễn đã đối chiếu file gốc ở TAI_LIEU_CHUNG: kịch bản Vòng 3 Tập 2 (Mục 4 từng cảnh) + bảng phân giọng Vòng 3 đều ghi Lạc Đà con = Nam Thái Sơn; bảng "Thiền Tâm Đức 0.80" là dàn giọng Vòng 1/Vòng 2 cũ. Vòng 3 cứ theo kịch bản Vòng 3 (như tiền lệ Llama Tập 6, Hoa Tulip Tập 4 và Gió Tập 7/8 lồng Thái Sơn đã ĐẠT). Khi đối đáp với Tí (cũng Thái Sơn), chỉnh nhẹ pitch ±1–2 semitone để tách giọng như lưu ý trong bảng phân giọng Vòng 3. Đây là chốt tạm — thầy duyệt khi nghiệm thu Tập 2; Nắng cứ sản xuất Tập 2 sau khi nộp xong Tập 4, không cần chờ.
-- **Robot Sao Hỏa (nhân vật mới): Nữ Thùy Dung theo kịch bản, atempo tạm 0,85** (như Hoa Tulip/Cá Hồi cùng giọng Thùy Dung). Chốt giọng riêng khi nghiệm thu Tập 2 nếu thầy duyệt.
+- **✅ TẬP 4 HÀ LAN ĐÃ NỘP (đính kèm chat với Thầy, 12:15):** ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip` (151.803.896 byte, MD5 e97a7db0f8935ba5aeea004633cad822) gồm phim `TAP4_HA_LAN_HOAN_CHINH_1080p.mp4` + thumbnail `TAP4_HA_LAN_THUMBNAIL.jpg` + storyboard `Chuan-bi-clip-Vong-2-Tap-3-4_NANG_2511.docx`.
+- **Làm theo quy trình Mưa (chuẩn chung toàn đội, thầy duyệt 26/11):** thoại khớp kịch bản chốt 100% (19 lượt, 2.992 ký tự); 3 câu dài >230 ký tự đã cắt tại dấu câu (Cảnh 5 Hoa Tulip, Cảnh 9 + 10 Tí); gaps 0,15s trong lượt / 0,4s đổi người / 0,8s đầu cảnh; ráp 1920×1080 30fps, đoạn = max(20s, thoại + 1,6s), Ken Burns phóng ~110% + trôi chậm, nhạc music_bed.wav 0,42 + ducking khi có thoại, loudnorm 2 lượt I=−15,5; thẻ kết 2 dòng ("Cảm ơn các em đã theo dõi!" + "Hẹn gặp lại ở Tập 5 — Nhật Bản!"); thumbnail có tên series + tên tập + dòng phụ bài học (xuân hóa).
+- **Tự nghiệm thu 2 lớp ĐẠT:** phim 229,0s, 1920×1080 30fps, loudnorm I=−15,87 / TP −1,51 / LRA 4,70; đủ tiếng 10/10 cảnh (trung bình −17,9 → −19,4 dB); không đứng hình >2s ở cảnh chính; không lặng chết >2,5s; **soi đủ 10 frame giữa cảnh: cả 10 cảnh đúng hình Tập 4 Hà Lan** (Cảnh 3 gặp Hoa Tulip ở vườn tulip, Cảnh 4 thi đứng vững trong gió biển, Cảnh 8 thử thủy canh cà chua mini — 3 cảnh từng bị lẫn hình Tập 3 đã sửa đúng); chữ ký vàng kem góc phải trên rõ ở cả cảnh sáng lẫn cảnh tối; thẻ kết đúng 2 dòng + chữ ký.
+- **Chỉnh khác bảng (ghi rõ theo quy trình Mưa):** Hoa Tulip atempo 0,85 → 0,78 — do đo tốc độ đọc sau atempo: ở 0,85 Hoa Tulip đọc trung bình 18,0 ký tự/giây (Cảnh 7 tới 20,6, quá vội so với chuẩn ~15); giảm 0,07 còn 0,78 thì tốc độ các cảnh còn 14,6–18,1 (trung bình ~16,5). Giọng Thùy Dung giữ nguyên theo xác nhận của Đạo diễn 08:59. Chi tiết tốc độ từng lượt ở `dub-tap4/pace.txt`.
+- **Hai điểm nhỏ để Đạo diễn soi kỹ khi nghiệm thu (ghi chú, không phải lỗi chặn):** (1) Màu cánh hoa Tulip hơi lệch giữa các clip: đỏ-vàng ở Cảnh 3 + Cảnh 10, hồng ở Cảnh 5 + 6 + 7 — cùng một tạo hình (mặt, tay lá, đầu hoa), chỉ tông màu cánh trôi theo clip; (2) Thẻ bình chọn Cảnh 10 có chữ nhỏ do công cụ tạo hình viết sai chính tả (đọc được Nhật Bản / Peru / Israel) — cùng loại với chữ "etherllands" ở Tập 3.
+- **Việc tiếp theo:** Vòng 3 Tập 2 Sao Hỏa (Robot Thám Hiểm) — chờ Đạo diễn chốt giọng + atempo Lạc Đà con và Robot Sao Hỏa (câu hỏi mở ở mục trên) rồi mới lồng tiếng.
 
-**Tiến độ Tập 4 + Tập 3 v4:** ghi nhận Tập 4 đã xong seg01–seg09, còn seg10 + phủ chữ ký vàng kem + QA đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip`. **Tập 3 bản v4 đã về tới máy Đạo diễn và nghiệm thu ĐẠT ở ca Drive 11:47, dùng làm bản đăng** (thay thông tin cũ "chưa về máy") — Nắng không cần nộp lại v4.
-
-Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
-
-— Đạo diễn
+— Nắng
