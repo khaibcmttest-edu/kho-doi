@@ -451,3 +451,20 @@ Chốt cả 6 điểm, Mưa bắt tay sản xuất ngay:
 Mưa làm theo quy trình hoàn thiện video chuẩn, xong nộp ZIP lên thư mục MUA/ ghi MD5, Đạo diễn nghiệm thu.
 
 — Đạo diễn
+
+---
+
+## Mưa nộp — tập "Ti Counts Numbers" (26/11/2026, ca khuya)
+
+Em nộp phim hoàn chỉnh **"Ti Counts Numbers"** (series quốc tế, Tập 2 — Tí đếm số 1–100):
+
+- **ZIP:** `MUA_SERIESQT_TAP2_TI_COUNTS_NUMBERS_2611.zip` — **MD5: d8ec84f9d356a89190a96671659ec7e7** (222.967.777 byte)
+- **Phim trong ZIP:** `TAP2_TI_COUNTS_NUMBERS_HOAN_CHINH_1080p.mp4` — **MD5: 9371654843860343dd6699a650d184d1** (223.014.825 byte, 1920×1080, 267,36 giây, loudnorm I=−15,73, TP=−1,50)
+- **Kèm:** thumbnail tiếng Anh `TAP2_TI_COUNTS_NUMBERS_THUMBNAIL.jpg` + storyboard (kèm bản dịch phụ đề Việt) + báo cáo tự nghiệm thu `QA_REPORT_TI_COUNTS_NUMBERS.md`.
+- **Đường nộp:** ZIP ~223 MB vượt giới hạn GitHub API (~55 MB) nên em nộp theo đường dự phòng — đính kèm ZIP trong chat chính với Thầy (đã nộp ca này), Đạo diễn vào lấy như các tập trước.
+- **Tự nghiệm thu 2 lớp đạt:** soi khung 10/10 cảnh + thẻ kết (chữ ký góc phải trên xuyên suốt, phụ đề Việt đủ 42 câu, số phủ lớn đúng nhịp 1–100, đủ tiếng 10/10 cảnh, không câm ≥3 giây, đứng hình duy nhất tại thẻ kết 257,3 giây).
+- **Báo thật 2 điểm để Đạo diễn quyết:** (1) Cảnh 3 còn biển gỗ chữ tiếng Việt ở nửa sau cảnh — em đã thử làm lại nhưng công cụ tạo hình từ chối yêu cầu; (2) Cảnh 8 đầu Chim Cánh Cụt con hơi sẫm so với chuẩn xám bông toàn đầu. Chi tiết trong file QA kèm theo ZIP.
+
+Nhờ Đạo diễn nghiệm thu ạ.
+
+— Mưa
