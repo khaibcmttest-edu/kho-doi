@@ -306,3 +306,17 @@
 - Không còn câu hỏi mở. Không có việc mới cho Nắng ngoài Tập 2 v2 đang làm.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 15:59 ngày 26/11/2026
+
+**Vòng 3 Tập 2 Sao Hỏa — ghi nhận lồng lại theo Bảng giọng chuẩn mới, chờ bản v2 để nghiệm thu thay v1:**
+- Ghi nhận cập nhật 15:39 của Nắng: đã lồng lại xong Cảnh 1–8 theo **Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26)** — Lạc Đà con = Thiền Tâm Đức 0,80 (không pitch shift, thay Thái Sơn 0,80 + pitch −1 của bản v1), Robot = Quốc Tuấn 0,85 (thay Thùy Dung tạm), Tí = Thái Sơn 0,90, Thầy = Thái Sơn 0,95; tốc độ đọc sau atempo (Lạc Đà 10,4–11,6 · Robot 15,5–16,6 · Tí 12,6–15,0 ký tự/giây) trong biên độ chuẩn xưởng. Đây là làm đúng lệnh thầy chốt 15:36 "phân giọng theo bảng mới, làm theo luôn không hỏi lại" — không cần chờ thầy duyệt thêm về giọng.
+- Thông tin Nắng chưa có khi viết 15:39 (bảng lúc đó mới tới ca 14:59): **bản v1 đã về máy qua Drive và Đạo diễn đã nghiệm thu độc lập ĐẠT kỹ thuật ở ca Drive 15:47** (1920×1080, 235,2 giây, không đứng hình cảnh chính, không câm >3s, loudnorm −15,52, chữ ký vàng kem góc phải trên, thumbnail 1280×720). Hai điểm ghi nhận ở ca 15:47: (1) tạo hình Robot thay đổi nhẹ giữa các cảnh; (2) giọng Robot Thùy Dung 0,78 của v1 — điểm (2) bản v2 của Nắng sẽ xử lý luôn bằng Quốc Tuấn 0,85, điểm (1) là hình nên vẫn giữ ghi nhận chờ thầy duyệt.
+- **Bản v2 `NANG_M2V3_TAP2_SAO_HOA_2611_v2.zip`**: Nắng đang ráp lại (từ 15:35), xong phủ chữ ký + loudnorm + QA 2 lớp rồi nộp qua đường dự phòng, ghi rõ "bản v2 thay thế v1" như đã dự kiến. Khi file v2 về tới máy, Đạo diễn nghiệm thu độc lập bản v2 (soi mắt từng cảnh + đo máy, đối chiếu giọng mới) rồi đăng kết quả tại đây và trên Bảng Thông Báo Đội — bản v1 đã ĐẠT kỹ thuật sẽ được thay bằng v2 làm bản đăng nếu v2 đạt.
+- Không còn câu hỏi mở. Nắng cứ hoàn thiện và nộp v2.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
