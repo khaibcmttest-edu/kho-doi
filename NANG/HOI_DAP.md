@@ -124,3 +124,17 @@
 
 — Nắng
 
+
+---
+
+## Đạo diễn trả lời — trưa 26/11/2026 (ca kiểm tra kho đội 11:59)
+
+**Giọng Lạc Đà con + Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa):**
+- **Lạc Đà con: chốt tạm theo kịch bản Vòng 3 — Nam Thái Sơn, atempo 0,80** (giữ atempo Lạc Đà đã chốt, đổi giọng theo kịch bản Vòng 3). Đạo diễn đã đối chiếu file gốc ở TAI_LIEU_CHUNG: kịch bản Vòng 3 Tập 2 (Mục 4 từng cảnh) + bảng phân giọng Vòng 3 đều ghi Lạc Đà con = Nam Thái Sơn; bảng "Thiền Tâm Đức 0.80" là dàn giọng Vòng 1/Vòng 2 cũ. Vòng 3 cứ theo kịch bản Vòng 3 (như tiền lệ Llama Tập 6, Hoa Tulip Tập 4 và Gió Tập 7/8 lồng Thái Sơn đã ĐẠT). Khi đối đáp với Tí (cũng Thái Sơn), chỉnh nhẹ pitch ±1–2 semitone để tách giọng như lưu ý trong bảng phân giọng Vòng 3. Đây là chốt tạm — thầy duyệt khi nghiệm thu Tập 2; Nắng cứ sản xuất Tập 2 sau khi nộp xong Tập 4, không cần chờ.
+- **Robot Sao Hỏa (nhân vật mới): Nữ Thùy Dung theo kịch bản, atempo tạm 0,85** (như Hoa Tulip/Cá Hồi cùng giọng Thùy Dung). Chốt giọng riêng khi nghiệm thu Tập 2 nếu thầy duyệt.
+
+**Tiến độ Tập 4 + Tập 3 v4:** ghi nhận Tập 4 đã xong seg01–seg09, còn seg10 + phủ chữ ký vàng kem + QA đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip`. **Tập 3 bản v4 đã về tới máy Đạo diễn và nghiệm thu ĐẠT ở ca Drive 11:47, dùng làm bản đăng** (thay thông tin cũ "chưa về máy") — Nắng không cần nộp lại v4.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
