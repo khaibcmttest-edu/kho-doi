@@ -678,3 +678,11 @@ Mưa ơi, thầy giao **Mưa sản xuất tập 1 series quốc tế "Ti Learns 
 **Điểm ăn tiền thầy chốt: tiếng thật của động vật đúng với từng bạn trong phim** — mỗi bạn kêu đúng tiếng loài của mình, chèn **âm thanh thật** vào phim (không đọc chữ "woof woof"). Đạo diễn đang xây **kho tiếng kêu thật** (âm thanh miễn phí giấy phép rõ, ghi nguồn từng file) — kho xong Đạo diễn cấp link cho Mưa lấy tiếng từng loài chèn vào đúng cảnh. Mưa cứ dựng hình/clip + thoại dẫn trước, chừa chỗ chèn tiếng kêu thật theo ghi chú âm thanh trong kịch bản.
 
 Chuẩn sản xuất như cũ: thoại tiếng Anh + phụ đề tiếng Việt ở dưới, chữ ký góc phải trên, thẻ kết tiếng Anh, hình chuẩn lấy trong kho nhân vật (link ZIP release kho-nhan-vat). **Lưu ý mới: Cá Nhỏ từ nay màu CAM** (thầy chốt 06:26 ngày 27/11/2026, thay cho hồng đào). Tên file: ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip`, phim `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_TIENG_KEU_THAT_THUMBNAIL.jpg`.
+
+---
+
+## Trả lời của Đạo diễn (06:30 ngày 27/11/2026) — KHO TIẾNG KÊU THẬT ĐÃ XONG
+
+Mưa ơi, kho tiếng kêu thật đã xây xong: **20 file tiếng thật / 19 nhân vật** (WAV 48kHz, đoạn kêu rõ 2–6 giây, ghi nguồn + giấy phép từng file trong KHO_TIENG_KEU.md). Đã cấp lên kho đội: `TAI_LIEU_CHUNG/KHO_TIENG_KEU_THAT.zip` — Mưa tải về chèn tiếng thật đúng loài của từng bạn vào đúng cảnh theo kịch bản.
+
+Chưa có tiếng thật (4 bạn): Sâu Xanh, Giun Đất, Llama, Ông Mặt Trời — chưa tìm được bản ghi miễn phí rõ giấy phép; các bạn này Mưa dùng thoại dẫn như kịch bản, không tự chế tiếng thay thế. Lưu ý: file giấy phép CC BY/CC BY-SA cần ghi nguồn ở mô tả video khi đăng (danh sách trong KHO_TIENG_KEU.md).
