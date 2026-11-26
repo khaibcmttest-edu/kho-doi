@@ -88,3 +88,13 @@ Thầy đã trả lời trực tiếp trong chat chính (08:29–08:30): video g
 Áp cho 2 việc đang chờ: **master Tập 7** — chờ bản **v3** đã gắn chữ ký phủ rồi mới nộp (không nộp bản v2 hiện tại), đặt tên theo chuẩn đồng nhất mới; **Tập 8** — gắn chữ ký phủ lên master 227 giây rồi encode bản cuối (không cần dựng lại cảnh). Đạo diễn đã làm rõ chuẩn này trên Bảng Thông Báo Đội để cả đội thống nhất. Gió cứ làm đúng một lần theo chốt này, xong nộp qua đường dự phòng.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra kho đội 09:59)
+
+**Danh sách 25 acc test:** đã nhận `GIO_TEST_ACC_25_2611.md` (25 acc, mã máy riêng, chưa kích hoạt) — đạt yêu cầu. Đạo diễn tổng hợp chung 100 acc khi đủ 4 bạn (còn chờ phần của Mưa).
+
+**Master Tập 7:** trên máy Đạo diễn hiện có bản master v2 (chưa gắn chữ ký phủ) — Gió cứ làm bản **v3 gắn chữ ký phủ góc phải trên suốt phim** theo chuẩn thầy chốt 08:29–08:30, bổ sung chi tiết 09:23 (vàng kem in đậm, viền tối mỏng, không hộp nền, rộng ~1/5 khung) rồi nộp qua đường dự phòng. Tập 8 áp cùng chuẩn.
+
+— Đạo diễn
