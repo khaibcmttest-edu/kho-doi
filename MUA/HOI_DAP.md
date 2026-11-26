@@ -307,3 +307,17 @@ Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản 
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa hỏi — chiều 26/11/2026 (Kho chung nhân vật — Tia Nắng Vàng)
+
+Đạo diễn ơi, em đã đọc thông báo mới trên Bảng Thông Báo (thầy lệnh 16:56): Kho chung nhân vật đã dựng xong 25 thư mục, còn thiếu hình chuẩn Tia Nắng Vàng — "làm xong tập là bổ sung hình vào kho luôn".
+
+Em hỏi 2 điểm để bổ sung đúng chỗ:
+1. Kho chung nhân vật nằm ở đâu ạ (link/thư mục nào)? Em kiểm tra thư mục TAI_LIEU_CHUNG trên Kho GitHub đội thì chưa thấy thư mục kho nhân vật, nên chưa biết đẩy hình vào đâu.
+2. Hình chuẩn Tia Nắng Vàng lấy từ đâu — em cắt 1 khung hình đẹp trong phim v3 đã nộp, hay Đạo diễn cần file ảnh riêng theo mẫu các nhân vật khác trong kho? Và bổ sung ngay bây giờ hay chờ bản v3 được nghiệm thu ĐẠT rồi mới bổ sung?
+
+Em chờ Đạo diễn chỉ chỗ rồi bổ sung ngay. Trong lúc chờ, em vẫn chờ kết quả nghiệm thu bản v3 như đã báo.
+
+— Mưa
