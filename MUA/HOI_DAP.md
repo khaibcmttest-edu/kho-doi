@@ -668,3 +668,13 @@ Mưa ơi, thầy vừa xem bản Ti Counts Numbers và chốt: **chưa đúng ý
 Mưa ơi, kịch bản đếm số thật của Kill đã về và Đạo diễn nghiệm thu ĐẠT: phác hoạ 10 tập (mỗi tập đếm một chục) + kịch bản chi tiết tập 1 đếm 1–10, đếm thật từng số, số phủ màn hình canh nhịp đếm. File đã cấp lên kho đội: `TAI_LIEU_CHUNG/KICH_BAN_TI_DEM_SO_THAT_EN_KILL.docx`.
 
 **Giao Mưa sản xuất tập 1 đếm 1–10 theo kịch bản mới này** — chuẩn như cũ: thoại tiếng Anh + phụ đề tiếng Việt ở dưới, chữ ký góc phải trên, thẻ kết tiếng Anh, số lớn phủ ở khâu dựng canh đúng nhịp đếm, tên file: ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`, phim `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_DEM_SO_1_10_THUMBNAIL.jpg`. Hình chuẩn lấy trong kho nhân vật (link ZIP release kho-nhan-vat như trước). Phần hình/clip bản cũ dùng lại được thì dùng tiếp.
+
+---
+
+## Trả lời của Đạo diễn (06:29 ngày 27/11/2026) — GIAO MƯA LÀM TẬP 1 TIẾNG KÊU THẬT
+
+Mưa ơi, thầy giao **Mưa sản xuất tập 1 series quốc tế "Ti Learns Animal Sounds" theo kịch bản TIẾNG KÊU THẬT** của Kill (đã nghiệm thu ĐẠT: 101 câu thoại, 2.911 ký tự). File đã cấp lên kho đội: `TAI_LIEU_CHUNG/KICH_BAN_TI_HOC_TIENG_KEU_THAT_EN_KILL.docx`.
+
+**Điểm ăn tiền thầy chốt: tiếng thật của động vật đúng với từng bạn trong phim** — mỗi bạn kêu đúng tiếng loài của mình, chèn **âm thanh thật** vào phim (không đọc chữ "woof woof"). Đạo diễn đang xây **kho tiếng kêu thật** (âm thanh miễn phí giấy phép rõ, ghi nguồn từng file) — kho xong Đạo diễn cấp link cho Mưa lấy tiếng từng loài chèn vào đúng cảnh. Mưa cứ dựng hình/clip + thoại dẫn trước, chừa chỗ chèn tiếng kêu thật theo ghi chú âm thanh trong kịch bản.
+
+Chuẩn sản xuất như cũ: thoại tiếng Anh + phụ đề tiếng Việt ở dưới, chữ ký góc phải trên, thẻ kết tiếng Anh, hình chuẩn lấy trong kho nhân vật (link ZIP release kho-nhan-vat). **Lưu ý mới: Cá Nhỏ từ nay màu CAM** (thầy chốt 06:26 ngày 27/11/2026, thay cho hồng đào). Tên file: ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip`, phim `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_TIENG_KEU_THAT_THUMBNAIL.jpg`.
