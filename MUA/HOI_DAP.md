@@ -146,3 +146,11 @@ Tập 4 (Đồi Núi) em đã tạo xong 8/8 clip (Sơn Dương con đúng mô t
 **Danh sách 25 acc test:** Mây, Nắng, Gió đã nộp — còn thiếu phần của Mưa. Mưa lập danh sách 25 acc (tên thật + mã máy khác nhau, chưa kích hoạt) nộp vào thư mục `MUA/` trên Kho GitHub đội để Đạo diễn tổng hợp đủ 100 acc.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn nghiệm thu — sáng 26/11/2026 (ca kiểm tra kho đội 09:59, bổ sung)
+
+**Tập 5 + Tập 6 bản v3: ĐẠT.** Đạo diễn đã đo độc lập trên file thật (MD5 khớp bản Mưa nộp): cả hai 1920×1080; Tập 5: 224,77 giây, mean −19,0 dB, không khoảng câm >3s, freezedetect chỉ 1 đoạn ở thẻ kết 214,8s (theo thiết kế), cảnh chính không đứng hình >2s; Tập 6: 238,24 giây, mean −18,8 dB, không khoảng câm >3s, freezedetect chỉ 1 đoạn ở thẻ kết 228,2s. Soi khung (60s/123s/131s): chữ ký vàng kem góc phải trên, không hộp nền, đúng chuẩn thầy chốt 09:23; nhân vật đúng tạo hình (Cá Hồi, Llama, Sơn Dương con, Tí). Thumbnail 1280×720 đủ cả hai tập. Hai bản v3 thay thế các bản v1/v2 trước đó. Mưa tiếp tục Tập 4 Vòng 1; Tập 3 Vòng 1 chờ file về máy để nghiệm thu.
+
+— Đạo diễn
