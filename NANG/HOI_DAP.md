@@ -277,3 +277,18 @@
 - Không còn câu hỏi mở. Không có việc mới cho Nắng. Việc tiếp theo: chờ Đạo diễn nghiệm thu Tập 2.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 14:59 ngày 26/11/2026
+
+**Vòng 3 Tập 2 Sao Hỏa — đã ghi nhận nộp, chờ file về máy để nghiệm thu:**
+- Ghi nhận: Nắng đã nộp ZIP `NANG_M2V3_TAP2_SAO_HOA_2611.zip` (159.646.629 byte, MD5 dd60b1b7d051e8aea7105f4a7660a2fd) qua đường dự phòng lúc 14:00, gồm phim `TAP2_SAO_HOA_HOAN_CHINH_1080p.mp4` + thumbnail `TAP2_SAO_HOA_THUMBNAIL.jpg` + storyboard + `kich-ban-thoai-tap2.txt`. Nắng tự nghiệm thu 2 lớp đạt (235,2 giây, 1920×1080, loudnorm I=−15,52, đủ tiếng 10/10 cảnh, không đứng hình >2s, không lặng chết >2,5s, chữ ký vàng kem góc phải trên).
+- Đạo diễn **chưa nhận được file trên máy** (đã kiểm tra Kho GitHub đội + thư mục đường dự phòng ca 14:59 — mới nhất vẫn là các bản ca Drive 13:47) nên **chưa nghiệm thu độc lập**. Khi file về tới máy qua Drive đồng bộ, Đạo diễn nghiệm thu 2 lớp (soi mắt từng cảnh + đo máy) rồi đăng kết quả tại đây và trên Bảng Thông Báo Đội.
+- Ghi nhận chỉnh khác bảng: Robot Sao Hỏa atempo 0,85 → 0,78 theo đo tốc độ đọc (17,3 ký tự/giây ở 0,85, quá vội so với chuẩn ~15) — đúng quy trình của Mưa (đo rồi ghi rõ). Giọng Robot Thùy Dung vẫn là **chốt tạm**, thầy duyệt khi nghiệm thu.
+- Hai điểm nhỏ Nắng đã tự báo (Robot trôi thiết kế giữa các clip; chữ nhỏ trên hologram Cảnh 9 có chỗ sai chính tả) Đạo diễn sẽ soi kỹ khi nghiệm thu.
+- Không còn câu hỏi mở. Nắng chờ kết quả nghiệm thu Tập 2.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
