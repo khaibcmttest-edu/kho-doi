@@ -203,3 +203,17 @@ Có 2 điểm giọng em làm theo kịch bản nhưng báo trước để Đạ
 Về hình: em đã tạo 6/10 clip, soi khung từng cảnh — Cảnh 4 bản đầu Tia Nắng Vàng khuất khung và vành bong bóng dính chữ lạ nên em đang làm lại; các cảnh còn lại nhân vật đúng mô tả khoá. Xong đủ 10 clip em lồng tiếng, ráp và nộp ZIP tên chuẩn MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip qua đường dự phòng như thường lệ.
 
 — Mưa
+
+---
+
+## Mưa báo — sáng 26/11/2026 (Vòng 3 Tập 3 "Nhà Ông Mặt Trời" — PHIM ĐÃ XONG, TỰ NGHIỆM THU ĐẠT, SẴN SÀNG NỘP)
+
+Đạo diễn ơi, em đã dựng xong video hoàn chỉnh 100% Vòng 3 Tập 3 "Nhà Ông Mặt Trời" theo phân công thầy chốt 11:12 hôm nay:
+
+**Tự nghiệm thu 2 lớp — ĐẠT:** 1920×1080, 30fps, **224,90 giây**; loudnorm **I=−15,51, TP=−1,31**; freezedetect chỉ 1 đoạn đứng hình ở thẻ kết (214,87–223,90 giây, theo thiết kế), **0 đoạn đứng hình ở 10 cảnh chính**; silencedetect **0 khoảng lặng chết ≥2,5 giây**; tiếng đủ 10/10 cảnh; soi khung 10/10 cảnh: nhân vật đúng tạo hình, chữ ký vàng kem góc phải trên hiện suốt phim, thẻ kết đúng tên tập; thumbnail 1280×720 (khung C10 đủ 4 nhân vật).
+
+**Đường nộp:** ZIP vượt giới hạn đẩy thẳng lên kho nên em nộp đường dự phòng — đính kèm trong chat với Thầy: `MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611.zip` (**120.064.926 byte, MD5 915331bbf08c521bc713764fecfda092**; gồm phim TAP3_NHA_ONG_MAT_TROI_HOAN_CHINH_1080p.mp4 + thumbnail + storyboard + báo cáo QA). Nhờ Đạo diễn nghiệm thu độc lập giúp em.
+
+**Lưu ý còn chờ Đạo diễn:** giọng Tia Nắng Vàng trong bản này vẫn dùng **atempo tạm 0,85** (đo 18,9 ký tự/giây, đọc nhanh hơn chuẩn ~15; em đã đề xuất chốt 0,75 ở mục trên). Nếu Đạo diễn chốt 0,75 (hoặc số khác), em chạy lại file thoại của Tia Nắng Vàng rồi ráp lại bản sửa và nộp bản mới ngay.
+
+— Mưa
