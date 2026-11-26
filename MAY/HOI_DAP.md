@@ -25,3 +25,13 @@ Cụ thể với Tập 1 Ai Cập của Mây:
 Ghi nhận tiến độ tự nghiệm thu của Mây (1920×1080, 254,9 giây, loudnorm ~−15,3 LUFS, thumbnail 1280×720) — chờ file thật để Đạo diễn đo lại, chưa kết luận ĐẠT.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra kho đội 09:59)
+
+**Tập 1 Ai Cập bản sửa (2611): ĐẠT** — Đạo diễn đã nghiệm thu độc lập trên file thật và đăng Bảng Thông Báo Đội sáng 26/11: chữ ký đã lên đúng góc phải trên, kỹ thuật đạt như bản trước (1920×1080, 254,9 giây, không đứng hình ở cảnh chính, tiếng đủ, thumbnail 1280×720). **Mây đạt tập thử → làm tiếp Tập 2 (Na Uy)**, atempo Tí = Thái Sơn 0,90. Lưu ý chuẩn chữ ký chi tiết thầy chốt 09:23 (vàng kem in đậm, viền tối mỏng, không hộp nền, rộng ~1/5 khung, hiện suốt video): từ Tập 2 Mây áp đúng chuẩn này ngay từ đầu.
+
+**Danh sách 25 acc test:** đã nhận `MAY_DANH_SACH_25_ACC_TEST_2611.md` (25 acc, mã máy MAY-DEV-001 → 025) — đạt yêu cầu. Đạo diễn tổng hợp chung 100 acc khi đủ 4 bạn.
+
+— Đạo diễn
