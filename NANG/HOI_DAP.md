@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 11:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 12:30 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -135,5 +135,17 @@
 - **Chỉnh khác bảng (ghi rõ theo quy trình Mưa):** Hoa Tulip atempo 0,85 → 0,78 — do đo tốc độ đọc sau atempo: ở 0,85 Hoa Tulip đọc trung bình 18,0 ký tự/giây (Cảnh 7 tới 20,6, quá vội so với chuẩn ~15); giảm 0,07 còn 0,78 thì tốc độ các cảnh còn 14,6–18,1 (trung bình ~16,5). Giọng Thùy Dung giữ nguyên theo xác nhận của Đạo diễn 08:59. Chi tiết tốc độ từng lượt ở `dub-tap4/pace.txt`.
 - **Hai điểm nhỏ để Đạo diễn soi kỹ khi nghiệm thu (ghi chú, không phải lỗi chặn):** (1) Màu cánh hoa Tulip hơi lệch giữa các clip: đỏ-vàng ở Cảnh 3 + Cảnh 10, hồng ở Cảnh 5 + 6 + 7 — cùng một tạo hình (mặt, tay lá, đầu hoa), chỉ tông màu cánh trôi theo clip; (2) Thẻ bình chọn Cảnh 10 có chữ nhỏ do công cụ tạo hình viết sai chính tả (đọc được Nhật Bản / Peru / Israel) — cùng loại với chữ "etherllands" ở Tập 3.
 - **Việc tiếp theo:** Vòng 3 Tập 2 Sao Hỏa (Robot Thám Hiểm) — chờ Đạo diễn chốt giọng + atempo Lạc Đà con và Robot Sao Hỏa (câu hỏi mở ở mục trên) rồi mới lồng tiếng.
+
+— Nắng
+
+---
+
+## Cập nhật — trưa 26/11/2026 (12:30, chuẩn bị Vòng 3 Tập 2 Sao Hỏa)
+
+- **✅ BẢN CHUẨN BỊ CLIP ĐÃ NỘP:** ZIP `NANG_CHUANBI_CLIP_VONG3_TAP2_2611.zip` (38.638 byte, MD5 5dd97a41c11e58097ec3daf1acaa7087) đã đẩy lên thư mục `NANG/` trên kho-doi, đã xác nhận lại (tên + dung lượng + SHA khớp file local). Trong ZIP: bản chuẩn bị clip + storyboard `Chuan-bi-clip-Vong-3-Tap-2_NANG_2611.docx` (40.868 byte) + `kich-ban-thoai-tap2.txt`. Phân tích từ kịch bản chốt Vòng 3: 10 cảnh (cảnh mới 4 + 8), thoại đếm trực tiếp 2.827 ký tự (kịch bản ghi 2.933 — chênh 106 ký tự do cách đếm, đã ghi rõ trong bản chuẩn bị); nhân vật Tí + Lạc Đà con + Robot Sao Hỏa (mới, Nữ Thùy Dung, 4 cảnh / 793 ký tự); cảnh ăn tiền Cảnh 6 (nhà kính điều áp trồng khoai tây trên Sao Hỏa).
+- **Clip 1–6 đã tạo xong:** `Tap2-Canh1..6.mp4`, đều 1280×720, 10,000s, đã tách tiếng thành câm, soi khung giữa clip đạt (Cảnh 6 nhà kính điều áp trồng khoai tây đúng cảnh ăn tiền).
+- **Điểm nhỏ để Đạo diễn soi khi nghiệm thu clip:** Robot Sao Hỏa hơi trôi thiết kế giữa các clip — Cảnh 4 robot nhỏ/cute hơn Cảnh 3, nhưng cùng tông trắng-cam, mắt ống nhòm, cánh pin mặt trời. Nắng ghi lại để Đạo diễn soi, chưa làm lại (đợi ý kiến Đạo diễn).
+- **Clip 7–10 chưa làm:** đã hết lượt tạo video của phiên này (tối đa 6 video/phiên) — làm tiếp ở ca sau, rồi lồng tiếng VieNeu + ráp phim hoàn chỉnh theo quy trình Mưa.
+- **Câu hỏi mở vẫn chờ Đạo diễn chốt:** giọng + atempo Lạc Đà con và Robot Sao Hỏa (mục "Đang chờ trả lời" phía trên) — Nắng chưa lồng tiếng Tập 2 cho tới khi có đáp án.
 
 — Nắng
