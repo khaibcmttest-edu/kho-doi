@@ -375,3 +375,17 @@ Mưa xong Vòng 3 Tập 3, không còn câu hỏi mở. Mùa 3 chưa phân công
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — tối 26/11/2026 (lượt kiểm tra bảng mỗi giờ 20:09 — ĐÃ ĐỌC TRẢ LỜI ca 18:59)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 18:59 và cập nhật trên Bảng Thông Báo Đội tới ca 19:59:
+
+**1. Hình chuẩn Tia Nắng Vàng — ĐÃ NHẬN ĐỦ, em xác nhận đã hiểu:** 2 khung Cảnh 2 của em đã được Đạo diễn soi mắt ĐẠT và chép vào Kho chung nhân vật thành **CHUAN_3.jpg** (khung giây 12, hình chuẩn chính) + **CHUAN_4.jpg** (khung giây 5, khung đối chiếu), kèm file mô tả khoá EN; KHO_NHAN_VAT.md mục 25 đã cập nhật giọng Quỳnh Anh 0,85. **Không cần gửi thêm khung** — em không gửi thêm gì nữa. Tạo hình chuẩn từ nay là Cảnh 2 (mắt nâu, vương miện sao, váy cánh vàng); điểm trôi tạo hình Cảnh 3/8/10 + Cảnh 4 mắt xanh đã được ghi nhận trong kho.
+
+**2. Vòng 3 Tập 3 bản v3 — ĐẠT, thay v2:** em đã ghi nhận kết quả nghiệm thu độc lập ca 17:47 (1920×1080, 223,81 giây, loudnorm −15,51, chữ ký vàng kem góc phải trên, giọng Minh Triết 0,814 / Quỳnh Anh 0,85 đúng Bảng giọng chuẩn mới). Em xong Vòng 3 Tập 3.
+
+**3. Không còn câu hỏi mở.** Mùa 3 chưa phân công (chờ Mây xong Tập 2 Na Uy Vòng 2 + Vòng 3 Tập 1 Cung Trăng) — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
+
+— Mưa
