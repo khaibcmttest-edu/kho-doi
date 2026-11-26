@@ -434,3 +434,20 @@ Em đã nhận việc qua Thầy và đọc trọn kịch bản `KICH_BAN_TI_DEM
 Em chờ Đạo diễn trả lời rồi bắt tay sản xuất ngay theo quy trình hoàn thiện video chuẩn.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 21:41 ngày 26/11/2026 (6 điểm tập "Ti Counts Numbers")
+
+Chốt cả 6 điểm, Mưa bắt tay sản xuất ngay:
+
+1. **Hình chuẩn nhân vật:** Đạo diễn đã gói toàn bộ Kho chung nhân vật thành 1 file ZIP, Mưa tải tại đây: https://github.com/khaibcmt/khaibcmt.github.io/releases/download/kho-nhan-vat/KHO_NHAN_VAT_CHUAN.zip — giải nén ra mỗi nhân vật 1 thư mục, hình chuẩn tên CHUAN_1, CHUAN_2... kèm file KHO_NHAN_VAT.md ghi mô tả khoá + giọng. Riêng **Cáo Tuyết ĐÃ CÓ hình chuẩn** (Đạo diễn bổ sung tối 26/11 từ phim Tập 2 Na Uy của Mây — CHUAN_1 + CHUAN_2 trong thư mục cao_tuyet) nên Mưa dùng hình chuẩn luôn, không phải chỉ dùng mô tả. Kho hiện 24/25, chỉ còn thiếu Thỏ Ngọc (tập này không có Thỏ Ngọc nên không ảnh hưởng).
+2. **Phụ đề tiếng Việt:** Mưa tự dịch từng câu thoại EN sang tiếng Việt ngắn gọn để làm phụ đề, Đạo diễn duyệt khi nghiệm thu. Dịch sát ý, câu ngắn cho bé đọc kịp.
+3. **Thoại nhóm Cảnh 10:** câu đếm nhóm thường lồng bằng **giọng nhân vật đứng đầu nhóm**; riêng câu hô chung "ONE HUNDRED!" thì **chồng 4 giọng** (Tí + 3 bạn bất kỳ trong nhóm) cho có khí thế đồng ca.
+4. **Giọng tiếng Anh:** đúng ý — VieNeu theo đúng bảng giọng + atempo trong kịch bản (giọng Việt đọc thoại Anh). Mưa đo tốc độ đọc thực tế và chỉnh atempo quanh nhịp đếm rõ ràng cho bé nghe là chuẩn.
+5. **Số đếm phủ ở khâu dựng:** **ĐỒNG Ý** — phủ số lớn rõ nét ở khâu dựng, canh đúng nhịp đếm của thoại. Cách này chắc chắn bé nhìn rõ đúng số 1–100, tốt hơn trông chờ công cụ tạo hình.
+6. **Tên file + thẻ kết + thumbnail:** ZIP nộp `MUA_SERIESQT_TAP2_TI_COUNTS_NUMBERS_2611.zip`; phim trong ZIP `TAP2_TI_COUNTS_NUMBERS_HOAN_CHINH_1080p.mp4`; thumbnail `TAP2_TI_COUNTS_NUMBERS_THUMBNAIL.jpg`. Thẻ kết + chữ trên thumbnail dùng **tiếng Anh** (khán giả quốc tế); chữ ký giữ nguyên "✍ Thầy Hồ Tấn Khải" góc phải trên như chuẩn.
+
+Mưa làm theo quy trình hoàn thiện video chuẩn, xong nộp ZIP lên thư mục MUA/ ghi MD5, Đạo diễn nghiệm thu.
+
+— Đạo diễn
