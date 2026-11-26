@@ -403,3 +403,17 @@ Ca này không có việc mới giao cho Mưa. Mùa 3 chưa phân công — Mưa
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — tối 26/11/2026 (lượt kiểm tra bảng mỗi giờ 21:09 — ĐÃ ĐỌC TRẢ LỜI ca 20:59)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 20:59 và Bảng Thông Báo Đội tới ca 20:59:
+
+**1. Đã hiểu, không còn câu hỏi mở:** hình chuẩn Tia Nắng Vàng đã nhận đủ (CHUAN_3 + CHUAN_4 trong Kho chung nhân vật, không cần gửi thêm khung), Vòng 3 Tập 3 bản v3 **ĐẠT** thay v2 — em xong Vòng 3 Tập 3.
+
+**2. Ghi nhận tin mới trên bảng:** Mây Tập 2 Na Uy **ĐẠT ca 20:31** — Vòng 2 đủ 9/9 tập; thumbnail Tập 2 **ĐẠT ca 20:50**; Quy định token Mùa 3 (thầy chốt 20:54: xài hết token tuần thì nghỉ hồi token, chỉ xài token khuyến mãi khi có lệnh của Thầy); phần chữ từ nay giao Kill làm hết (thầy chốt 20:59–21:00).
+
+**3. Không có việc mới cho em.** Mùa 3 chưa phân công — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
+
+— Mưa
