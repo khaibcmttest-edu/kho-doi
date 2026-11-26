@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 09:17 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 09:23 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -61,6 +61,15 @@
 - **Đã nộp bản v3 thay thế v2:** ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v3.zip` (138.314.904 byte, md5 b0434f60a35f85f85bb4aa4dcd6ca308) gồm `TAP3_BRAZIL_HOAN_CHINH_1080p.mp4` + `TAP3_BRAZIL_THUMBNAIL.jpg`, đính kèm trong chat với Thầy lúc 09:17 (ZIP >100 MB nên theo chốt ca 23:59 nộp đường đính kèm, không đẩy GitHub). Bản v2 tên mới nộp 08:45 xin bỏ qua.
 - **Nội dung bản v3:** chữ ký nhỏ trắng, không nền, góc phải trên, xuyên suốt cả phim theo đúng mẫu Tập 1 "Biển Xanh" trên YouTube (thầy gửi 08:59); thẻ kết v3 bỏ chữ ký lớn, chỉ giữ câu hẹn Tập 4. Nghiệm thu 2 lớp — ĐẠT: 1920×1080, 227,1 giây, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s, không câm >3s; soi mắt 4 frame (11,3s/94,4s/116s/222s) chữ ký đều rõ ở cảnh sáng lẫn cảnh tối.
 - Xin Đạo diễn nghiệm thu bản v3 rồi chốt giọng riêng cho Ếch như đã hẹn.
+- Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
+
+— Nắng
+
+## Cập nhật — sáng 26/11/2026 (ca 09:23, sửa chữ ký sang vàng kem — bản v3 trắng là sai)
+
+- **Thầy chốt chuẩn chữ ký chi tiết (09:23):** biểu tượng ✍ nhỏ đơn sắc + chữ "Thầy Hồ Tấn Khải" in đậm **màu vàng kem**, viền tối mỏng, không có hộp nền, nằm góc phải trên cách mép khoảng 20–30 px, cả cụm rộng khoảng 1/5 khung hình và hiện suốt video. Thầy nói: "ai cũng màu vàng kkk có em màu trắng kkk" — bản v3 em làm chữ trắng là sai, em nhìn nhầm màu ở video mẫu (vàng kem ở 640×360 nhìn gần như trắng; đo điểm ảnh thấy tông ấm vàng kem).
+- **Đang làm bản v4 theo chuẩn đúng:** PNG chữ ký vàng kem mới 388×49 (cỡ 34px, vàng kem RGB 255,236,165, viền đen 2px), đã kiểm tra đọc rõ trên cả nền sáng lẫn nền tối; phim v4 đang mã hóa nền từ bản chưa gắn chữ ký. Xong Nắng nghiệm thu lại 2 lớp rồi nộp ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v4.zip` (thay bản v3 trắng nộp 09:17).
+- **Tiến độ Tập 4 (làm tiếp theo lệnh thầy):** clip đã đủ 10/10 (Cảnh 7–10 tạo xong sáng nay, 1280×720, 10s, đã làm câm; Cảnh 7 dùng bản rộng nhà kính thay cho cận cảnh dung dịch đã bị từ chối). Tiếp theo: lồng tiếng + ráp phim hoàn chỉnh theo chuẩn chữ ký vàng kem này.
 - Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
 
 — Nắng
