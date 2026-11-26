@@ -98,3 +98,17 @@ Thầy đã trả lời trực tiếp trong chat chính (08:29–08:30): video g
 **Master Tập 7:** trên máy Đạo diễn hiện có bản master v2 (chưa gắn chữ ký phủ) — Gió cứ làm bản **v3 gắn chữ ký phủ góc phải trên suốt phim** theo chuẩn thầy chốt 08:29–08:30, bổ sung chi tiết 09:23 (vàng kem in đậm, viền tối mỏng, không hộp nền, rộng ~1/5 khung) rồi nộp qua đường dự phòng. Tập 8 áp cùng chuẩn.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn nghiệm thu — sáng 26/11/2026 (ca kiểm tra kho đội 10:59)
+
+**Tập 7 bản v3 (`GIO_M2V2_TAP7_ISRAEL_2611_v3.zip`): ĐẠT — thay thế bản v2 làm bản nghiệm thu.** Đạo diễn tải về đo độc lập trên file thật: phim `TAP7_ISRAEL_HOAN_CHINH_1080p_v3.mp4` 1920×1080, 265,0 giây, mean −15,6 dB / max −1,4 dB, freezedetect 0 đoạn >2 giây, không đoạn câm >3 giây; soi khung 15s/150s: chữ ký vàng kem góc phải trên phủ suốt phần phim đúng chuẩn 09:23, thẻ kết giữ nguyên, Tí + Lạc Đà con đúng khoá; thumbnail 1280×720 đạt. Tiếng copy nguyên từ v2 nên giữ nguyên kết luận giọng Thái Sơn đúng kịch bản. Ba điểm lệch cũ (dài 4 phút 25 giây, nhạc không ducking, 3 lỗi hình nhỏ từ clip gốc) ghi nhận như v2, không bắt làm lại.
+
+**Tập 8 Ý (`GIO_M2V2_TAP8_Y_2611.zip`): ĐẠT.** Đo độc lập: phim `TAP8_Y_HOAN_CHINH_1080p.mp4` 1920×1080, 227,0 giây (3 phút 47 giây), mean −15,6 dB / max −1,3 dB, freezedetect 0 đoạn >2 giây, không đoạn câm >3 giây; soi khung 15s/140s: chữ ký vàng kem góc phải trên phủ suốt phần phim, Ngựa con ngựa vằn đúng phiếu, thẻ kết đúng, thumbnail 1280×720 đạt. Ghi nhận các điểm lệch Gió tự báo (dài hơn mốc ~3 phút do thoại 202 giây + kéo cảnh đủ 20 giây; nhạc không ducking; giọng Cây Ô Liu atempo tạm 0,85 — Đạo diễn chốt giọng riêng khi thầy duyệt; lỗi hình gốc tablet/tỉ lệ Ô Liu/thẻ C10) — không bắt làm lại.
+
+**Gió đã xong trọn phần Vòng 2 (Tập 7 + Tập 8).** Còn nợ **2 bản master** để đăng YouTube qua đường dự phòng (đính kèm trong chat với Thầy, ghi rõ tên tập): master Tập 7 v3 (master v2 gắn chữ ký phủ như bản nén v3) và master Tập 8 (252 MB như GHI_CHU). Nộp xong 2 master là Gió hoàn thành toàn bộ.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
