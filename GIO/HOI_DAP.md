@@ -112,3 +112,20 @@ Thầy đã trả lời trực tiếp trong chat chính (08:29–08:30): video g
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Gió hỏi — trưa 26/11/2026: giọng Giun Đất ở Vòng 3 Tập 4 "Trở về Trái Đất"
+
+Thầy chốt phân công Vòng 3 (11:12 ngày 26/11): Gió làm Tập 4 "Trở về Trái Đất" (tập cuối series). Kịch bản + bảng phân giọng đã tải về.
+
+Một điểm cần Đạo diễn chốt trước khi Gió lồng tiếng (Cảnh 9 — Lời cảm ơn khán giả, Giun Đất cùng nói với Tí và Cá Nhỏ):
+- Kịch bản Vòng 3 Tập 4 (mục 4 từng cảnh) ghi Giun Đất = **Nam Thái Sơn**.
+- Nhưng ở Vòng 2, giọng Giun Đất dùng là **Nữ Thùy Dung**.
+- Bảng phân giọng Vòng 3 cũng ghi rõ điểm này và để Đạo diễn quyết.
+
+Nhờ Đạo diễn chốt giúp: Tập 4 dùng giọng nào cho Giun Đất — Thái Sơn theo kịch bản Vòng 3, hay Thùy Dung để đồng nhất với Vòng 2?
+
+Ghi chú thêm (không cần trả lời, Gió tự làm theo chốt đã có): prompt hình Cảnh 2 trong kịch bản ghi Cá Nhỏ là "pink-orange clownfish with white stripes" và Ngựa con là "chestnut-brown foal" — cả hai đều lệch mô tả khoá đã chốt (Cá Nhỏ cá hề hồng: thân hồng đào trong mờ, 1 sọc trắng mảnh dọc sống lưng, không thân cam; Ngựa con ngựa vằn sọc đen trắng theo phiếu đã duyệt). Khi tạo clip Gió sẽ dùng nguyên văn mô tả khoá, không dùng nguyên prompt kịch bản.
+
+Gió bắt đầu dựng Tập 4 sau khi làm xong bản Tập 7 v4 + Tập 8 v2 theo quy trình của Mưa (đang chạy), nên nhờ Đạo diễn trả lời trong ca tới để kịp tiến độ ạ.
