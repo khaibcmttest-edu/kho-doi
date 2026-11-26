@@ -320,3 +320,19 @@
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+---
+
+## Cập nhật — chiều 26/11/2026 (16:30, NỘP LẠI phim Vòng 3 Tập 2 Sao Hỏa bản v2)
+
+- **✅ PHIM TẬP 2 BẢN V2 ĐÃ NỘP LẠI:** ZIP `NANG_M2V3_TAP2_SAO_HOA_2611_v2.zip` (162.870.397 byte, MD5 c12e75cfead30dbca6a7bbffe20c253f) đính kèm trong chat với Thầy (đường dự phòng — ZIP >100 MB), **thay bản v1 nộp 14:00**. Trong ZIP: phim `TAP2_SAO_HOA_HOAN_CHINH_1080p.mp4` (162.532.367 byte, MD5 18893641a9e98fa3ec03da467aa8ffb7) + thumbnail + storyboard + `kich-ban-thoai-tap2.txt`.
+- **Lý do làm lại (thầy nói 15:24):** giọng Lạc Đà con bản v1 "bị gì đấy" — v1 dùng Thái Sơn 0.80 + rubberband pitch −1 semitone để tách khỏi Tí, nghe méo/không tự nhiên. Thầy kêu Đạo diễn chốt giọng đồng bộ; Bảng giọng chuẩn toàn series thầy chốt 15:25–15:26.
+- **Giọng bản v2 (theo Bảng giọng chuẩn thầy chốt 15:25–15:26):** Tí Thái Sơn 0,90 (giữ nguyên); **Lạc Đà con = Thiền Tâm Đức 0,80 — bỏ hẳn Thái Sơn + pitch**; **Robot Sao Hỏa = Quốc Tuấn 0,85 (giọng nam, thay Thùy Dung 0,85 tạm)**; Thầy Thái Sơn 0,95 (giữ nguyên). Lồng lại cảnh 1–8 (cảnh 9–10 không có 2 giọng này nên giữ nguyên).
+- **Tốc độ đo được (pace.txt, giữ nguyên atempo bảng):** Lạc Đà con (Thiền Tâm Đức 0,80) 10,4–11,6 ký tự/giây (trung bình ~11,1 — chậm nhưng rõ, giọng trầm ấm; 0,80 là khóa chốt của thầy nên không chỉnh); Robot (Quốc Tuấn 0,85) 15,5–16,6 (trung bình ~16,1, chấp nhận được); Tí 12,8–15,0.
+- **Lưu ý kỹ thuật khi ráp lại:** đã xóa seg01–08 cũ trước khi ráp (resume check chỉ so thời lượng — seg03/04/08 cùng đích 20.0s sẽ bị bỏ qua và giữ tiếng Thùy Dung v1 nếu không xóa); seg09/seg10 giữ nguyên (tiếng không đổi). Ráp v2 bị restart cắt 1 lần ở seg02 — đã xóa file dở, chạy lại, đủ 10 đoạn.
+- **Tự nghiệm thu 2 lớp ĐẠT:** phim 243,1s, 1920×1080 30fps, loudnorm I=−15,53 / TP −1,31 / LRA 5,50; đủ tiếng 10/10 cảnh (trung bình −18,2 → −19,5 dB); không đứng hình >2s ở cảnh chính; không lặng chết >2,5s; **soi đủ 10 frame giữa cảnh: cả 10 cảnh đúng hình Sao Hỏa** (Cảnh 6 nhà kính khoai tây đúng cảnh ăn tiền; Cảnh 8 tan băng tưới khoai tây; Cảnh 9 sổ tay hologram; Cảnh 10 cả ba vẫy tay bên thẻ Mặt Trời + SGK); chữ ký vàng kem góc phải trên rõ ở cả cảnh sáng lẫn cảnh tối; thẻ kết đúng 2 dòng + chữ ký.
+- **Điểm nhỏ để Đạo diễn soi (ghi chú, không phải lỗi chặn — như bản v1):** Robot trôi thiết kế giữa các clip (C3 rover chuẩn; C4 nhỏ/cute hơn; C6 biến thể đầu ống nhòm khác; C7/C8/C10 rover đúng mẫu); Cảnh 7 có 2 phi hành gia trong sơ đồ chu trình khép kín; chữ nhỏ hologram Cảnh 9 có chỗ sai chính tả.
+- **Việc tiếp theo:** chờ Đạo diễn nghiệm thu bản v2.
+
+— Nắng
