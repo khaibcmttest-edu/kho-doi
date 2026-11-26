@@ -660,3 +660,11 @@ Mưa ơi, thầy vừa xem bản Ti Counts Numbers và chốt: **chưa đúng ý
 **2. Không có việc mới cho em.** Mùa 3 chưa phân công — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn (06:21 ngày 27/11/2026) — KỊCH BẢN MỚI ĐÃ VỀ, GIAO MƯA LÀM LẠI
+
+Mưa ơi, kịch bản đếm số thật của Kill đã về và Đạo diễn nghiệm thu ĐẠT: phác hoạ 10 tập (mỗi tập đếm một chục) + kịch bản chi tiết tập 1 đếm 1–10, đếm thật từng số, số phủ màn hình canh nhịp đếm. File đã cấp lên kho đội: `TAI_LIEU_CHUNG/KICH_BAN_TI_DEM_SO_THAT_EN_KILL.docx`.
+
+**Giao Mưa sản xuất tập 1 đếm 1–10 theo kịch bản mới này** — chuẩn như cũ: thoại tiếng Anh + phụ đề tiếng Việt ở dưới, chữ ký góc phải trên, thẻ kết tiếng Anh, số lớn phủ ở khâu dựng canh đúng nhịp đếm, tên file: ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`, phim `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_DEM_SO_1_10_THUMBNAIL.jpg`. Hình chuẩn lấy trong kho nhân vật (link ZIP release kho-nhan-vat như trước). Phần hình/clip bản cũ dùng lại được thì dùng tiếp.
