@@ -1,10 +1,10 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 12:45 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 14:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
-- Không còn câu hỏi mở. Chờ Đạo diễn nghiệm thu Tập 4 Hà Lan (đã nộp 12:15) và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu (đã hẹn từ tối 25/11).
+- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). Chờ Đạo diễn nghiệm thu Tập 2 Sao Hỏa (đã nộp 14:00) và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu (đã hẹn từ tối 25/11).
 
 ## Đã trả lời
 
@@ -246,3 +246,34 @@
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Cập nhật — chiều 26/11/2026 (14:00, NỘP phim Vòng 3 Tập 2 Sao Hỏa)
+
+- **✅ PHIM TẬP 2 ĐÃ NỘP:** ZIP `NANG_M2V3_TAP2_SAO_HOA_2611.zip` (159.646.629 byte, MD5 dd60b1b7d051e8aea7105f4a7660a2fd) đính kèm trong chat với Thầy (đường dự phòng — ZIP >100 MB, GitHub Contents API không nhận). Trong ZIP: phim `TAP2_SAO_HOA_HOAN_CHINH_1080p.mp4` (159.308.599 byte, MD5 31cc94bbfc44c74dcacfd3616a455439) + thumbnail `TAP2_SAO_HOA_THUMBNAIL.jpg` (291.579 byte) + storyboard `Chuan-bi-clip-Vong-3-Tap-2_NANG_2611.docx` + `kich-ban-thoai-tap2.txt` (5.011 byte, theo dặn của Đạo diễn ca 12:59).
+- **Làm theo quy trình Mưa:** thoại khớp kịch bản chốt 100% (19 lượt, 2.827 ký tự); 2 câu dài >230 ký tự đã cắt tại dấu câu (Cảnh 9 + 10 Tí); gaps 0,15s trong lượt / 0,4s đổi người / 0,8s đầu cảnh; ráp 1920×1080 30fps, đoạn = max(20s, thoại + 1,6s), Ken Burns phóng ~110% + trôi chậm, nhạc music_bed.wav 0,42 + ducking khi có thoại, loudnorm 2 lượt I=−15,5; thẻ kết 2 dòng ("Cảm ơn các em đã theo dõi!" + "Hẹn gặp lại ở Tập 3 — Nhà Ông Mặt Trời!"); thumbnail có tên series + tên tập + dòng phụ bài học ("Nước là chìa khóa sự sống").
+- **Giọng (chốt ca 11:59):** Tí Thái Sơn 0,90; Lạc Đà con Thái Sơn 0,80 + pitch −1 semitone (rubberband 0,9439) để tách khỏi Tí — chốt tạm, thầy duyệt khi nghiệm thu; Robot Sao Hỏa Thùy Dung 0,85 tạm; Thầy Thái Sơn 0,95.
+- **Chỉnh khác bảng (ghi rõ theo quy trình Mưa):** Robot Sao Hỏa atempo 0,85 → 0,78 — do đo tốc độ đọc sau atempo: ở 0,85 Robot đọc trung bình 17,3 ký tự/giây (Cảnh 4 tới 18,1, quá vội so với chuẩn ~15); giảm 0,07 còn 0,78 thì tốc độ các cảnh còn 13,7–16,5. Giọng Thùy Dung giữ nguyên (tạm theo xác nhận của Đạo diễn ca 11:59). Chi tiết tốc độ từng lượt ở `dub-tap2/pace.txt`. Tí + Lạc Đà con đọc 12,6–15,5 ký tự/giây — hơi chậm nhưng trong biên độ chấp nhận, không đổi atempo vì Tí 0,90 là khóa chốt của thầy.
+- **Tự nghiệm thu 2 lớp ĐẠT:** phim 235,2s, 1920×1080 30fps, loudnorm I=−15,52 / TP −1,29 / LRA 6,00; đủ tiếng 10/10 cảnh (trung bình −18,2 → −19,2 dB); không đứng hình >2s ở cảnh chính; không lặng chết >2,5s; **soi đủ 10 frame giữa cảnh: cả 10 cảnh đúng hình Sao Hỏa** (Cảnh 6 nhà kính điều áp trồng khoai tây đúng cảnh ăn tiền; Cảnh 8 làm tan băng ngầm tưới khoai tây; Cảnh 9 sổ tay hologram; Cảnh 10 cả ba vẫy tay bên thẻ Mặt Trời + SGK); chữ ký vàng kem góc phải trên rõ ở cả cảnh sáng lẫn cảnh tối; thẻ kết đúng 2 dòng + chữ ký.
+- **Hai điểm nhỏ để Đạo diễn soi kỹ khi nghiệm thu (ghi chú, không phải lỗi chặn):** (1) Robot Sao Hỏa trôi thiết kế giữa các clip: C3 rover chuẩn; C4 nhỏ/cute hơn; C6 biến thể đầu ống nhòm khác; C7/C8/C10 rover đúng mẫu — cùng tông trắng-cam, mắt ống nhòm, cánh pin mặt trời; (2) Cảnh 7 có 2 phi hành gia trong sơ đồ chu trình khép kín (theo nội dung cảnh); chữ nhỏ trên hologram Cảnh 9 có chỗ do công cụ viết sai chính tả (tiêu đề "Mars Ice-Water Layers" + "Closed-Loop Mars Greenhouse Photosynthetic Cycle" đọc được).
+- **Việc tiếp theo:** chờ Đạo diễn nghiệm thu Tập 2. (Sửa sau khi đọc trả lời Đạo diễn ca 13:59: Tập 4 Hà Lan đã **ĐẠT** ở ca kiểm tra Drive 13:47 — không còn chờ file về máy.)
+
+— Nắng
+
+
+---
+
+## Cập nhật — chiều 26/11/2026 (ca 14:39, đọc bảng + xác nhận nộp Tập 2)
+
+- **Đọc bảng ca này (crawl 14:40, 485 dòng — tăng 21 dòng so với 464 dòng ca 13:39):** cập nhật mới nhất trên bảng là **ca 13:59** — không có việc mới giao cho Nắng ngoài Vòng 3 Tập 2 đã nhận.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 13:59 TRÊN FILE NÀY — Nắng đã hiểu và làm theo:**
+  - **Tập 4 Hà Lan ĐẠT:** file đã về máy Đạo diễn qua Drive, nghiệm thu độc lập **ĐẠT** (1920×1080, 229 giây, loudnorm −15,52, chữ ký vàng kem góc phải trên, thumbnail 1280×720) — **Nắng xong trọn Vòng 2**. Hoa Tulip giữ Thùy Dung 0,78 như bản nộp; hai điểm nhỏ đã báo giữ nguyên ghi nhận.
+  - **Vòng 3 Tập 2 Sao Hỏa:** Đạo diễn ghi nhận tiến độ (lồng tiếng xong 10/10, ráp xong 235,2 giây, đang phủ chữ ký) và **chờ ZIP đường dự phòng kèm file thoại** — Nắng đã nộp lúc 14:00 (xem mục dưới), Đạo diễn sẽ nghiệm thu khi file về tới máy.
+- **✅ PHIM TẬP 2 ĐÃ NỘP LÚC 14:00 (xác nhận lại ca này):** ZIP `NANG_M2V3_TAP2_SAO_HOA_2611.zip` đã kiểm tra lại trên máy Nắng — **159.646.629 byte, MD5 dd60b1b7d051e8aea7105f4a7660a2fd, khớp đúng bản đã đính kèm trong chat với Thầy lúc 14:00**. Trong ZIP: phim `TAP2_SAO_HOA_HOAN_CHINH_1080p.mp4` (159.308.599 byte, MD5 31cc94bbfc44c74dcacfd3616a455439) + thumbnail `TAP2_SAO_HOA_THUMBNAIL.jpg` (291.579 byte, 1280×720) + storyboard `Chuan-bi-clip-Vong-3-Tap-2_NANG_2611.docx` + `kich-ban-thoai-tap2.txt` (5.011 byte).
+- **Tự nghiệm thu 2 lớp ĐẠT (đã chạy lúc 14:00, báo cáo `film-work-v3tap2/qa-report-Tap2-SaoHoa-v1sig.txt`):** phim 235,2s, 1920×1080 30fps, loudnorm I=−15,52 / TP −1,29 / LRA 6,00 (file phim cuối MD5 khớp đúng file đã đo); đủ tiếng 10/10 cảnh; không đứng hình >2s ở cảnh chính; không lặng chết >2,5s; **soi đủ 10 frame giữa cảnh + thẻ kết: cả 10 cảnh đúng hình Sao Hỏa**, chữ ký vàng kem góc phải trên rõ ở cảnh sáng lẫn cảnh tối; thẻ kết đúng 2 dòng, hẹn Tập 3 — Nhà Ông Mặt Trời.
+- **Đội (bảng ca 13:59):** Mưa nộp Vòng 3 Tập 3 bản v2 qua đường dự phòng (thay v1, Tia Nắng Vàng Thùy Dung 0,75 + pitch +2, Ông Mặt Trời Thái Sơn pitch −2) — Đạo diễn chưa nhận file; Gió master Tập 7 v4 + master Tập 8 v2 ĐẠT, hết nợ master, làm tiếp Vòng 3 Tập 4.
+- **Ghi chú hợp nhất file:** bản đẩy 14:00 của Nắng chưa lên kho (bản trên kho vẫn là bản Đạo diễn trả lời ca 13:59) nên ca này hợp nhất: giữ nguyên trả lời Đạo diễn ca 13:59 + đưa lại mục nộp phim 14:00 (đã sửa 1 dòng trạng thái Tập 4 cho đúng) + mục này, rồi đẩy lên kho.
+- Không còn câu hỏi mở. Không có việc mới cho Nắng. Việc tiếp theo: chờ Đạo diễn nghiệm thu Tập 2.
+
+— Nắng
