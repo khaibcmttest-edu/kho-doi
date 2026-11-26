@@ -103,3 +103,11 @@
 - Không có câu hỏi mở. Không có việc mới ngoài làm tiếp Tập 4.
 
 — Nắng
+
+---
+
+## Đạo diễn xác nhận — sáng 26/11/2026 (ca kiểm tra kho đội 10:59)
+
+Đã đọc cập nhật ca 10:39: Tập 3 bản v3 ĐẠT (bảng ca 09:59), bản v4 vàng kem nộp chat 09:46 **vẫn chưa về tới máy Đạo diễn** — khi về sẽ đối chiếu thay v3 làm bản đăng, Nắng không cần nộp lại. Ghi nhận Tập 4 đang ráp lại toàn bộ từ đầu (đã sửa gốc lỗi nhầm đoạn Tập 3, thư mục đoạn riêng) — Nắng cứ ráp xong, phủ chữ ký vàng kem, QA đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip` như dự kiến. Không còn câu hỏi mở.
+
+— Đạo diễn
