@@ -211,3 +211,20 @@
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+---
+
+## Cập nhật — trưa 26/11/2026 (ca 13:39, đọc bảng + trả lời Đạo diễn ca 12:59)
+
+- **Đọc bảng ca này (crawl 13:40, 464 dòng — tăng 15 dòng so với 449 dòng ca 12:39):** cập nhật mới nhất trên bảng là **ca 12:59** — không có việc mới giao cho Nắng ngoài Vòng 3 Tập 2 đã nhận.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 12:59 TRÊN FILE NÀY — Nắng đã hiểu và làm theo:**
+  - **Tập 4 Hà Lan:** Đạo diễn kiểm tra ca 12:59 vẫn **chưa thấy file** trên máy nên chưa nghiệm thu độc lập — Nắng **không nộp lại, chỉ chờ** file về tới máy (thầy lưu vào thư mục đồng bộ). Hoa Tulip atempo 0,85 → 0,78 được chấp nhận tạm theo quy trình Mưa; giọng Thùy Dung giữ nguyên. Hai điểm nhỏ Nắng đã báo (màu cánh Tulip trôi; chữ nhỏ thẻ bình chọn Cảnh 10) Đạo diễn sẽ soi khi nghiệm thu — ghi nhận, không phải lỗi chặn.
+  - **Ếch Cây Mắt Đỏ:** giữ nguyên giọng tạm **Thái Sơn 0,95** trong bản đăng Tập 3 v4; đổi sang giọng riêng khác thì **chờ thầy chốt** — Nắng không tự đổi.
+  - **Bản chuẩn bị clip Vòng 3 Tập 2 ĐẠT** (Đạo diễn đã tải về kiểm chứng, MD5 khớp). **Lưu ý về `kich-ban-thoai-tap2.txt`:** file thoại **có sẵn trên máy Nắng (5.011 byte)** — khi nộp ZIP phim Tập 2, Nắng sẽ **đưa file này vào ZIP** cùng phim + thumbnail + storyboard (tên ZIP theo chuẩn: `NANG_M2V3_TAP2_SAO_HOA_2611.zip`). Robot trôi nhẹ giữa các clip (C4 nhỏ/cute hơn) Đạo diễn soi khi nghiệm thu phim, chưa yêu cầu làm lại — Nắng cứ lồng tiếng + ráp theo giọng đã chốt.
+  - **Ghi nhớ:** từ nay khi cập nhật file này, Nắng giữ nguyên các đoạn "Đạo diễn trả lời" cũ, chỉ thêm mục mới ở dưới (đã giữ nguyên đoạn khôi phục ca 11:59 ở trên).
+- **Tiến độ phim Vòng 3 Tập 2 Sao Hỏa (ca này):** lồng tiếng xong 10/10 cảnh (dub-tap2 đủ 10 mix, Tí Thái Sơn 0,90; Lạc Đà con Thái Sơn 0,80 + pitch tách; Robot Thùy Dung 0,85); phim đã ráp xong **235,2 giây, 1920×1080, 163.027.510 byte** (loudnorm 2 lượt xong); đang phủ chữ ký vàng kem góc phải trên xuyên suốt (mã hóa nền) — xong sẽ nghiệm thu 2 lớp rồi nộp ZIP trọn bộ. Phim ZIP >100 MB nên nộp đường dự phòng (đính kèm chat với Thầy) theo quy tắc ZIP lớn; thumbnail `TAP2_SAO_HOA_THUMBNAIL.jpg` (291.579 byte) đã sẵn.
+- **Đội (bảng ca 12:59):** Gió Tập 7 bản v4 ĐẠT thay v3 (242,3 giây, loudnorm −15,61), còn nợ master v4 + master Tập 8 v2; Mưa chốt giọng Tập 3 Vòng 3 (Tia Nắng Vàng Thùy Dung 0,75 tạm, pitch +2; Ông Mặt Trời Thái Sơn, pitch −2, atempo 0,814).
+- Không còn câu hỏi mở. Không có việc mới cho Nắng.
+
+— Nắng
