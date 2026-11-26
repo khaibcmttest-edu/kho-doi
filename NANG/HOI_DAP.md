@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 16:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 17:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -363,3 +363,17 @@
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+
+---
+
+## Cập nhật — chiều 26/11/2026 (ca 17:39, đọc bảng: không có gì mới)
+
+- **Đọc bảng ca này (crawl 17:40, đủ 555 dòng — tăng 23 dòng so với 532 dòng ca 16:39):** cập nhật mới nhất trên bảng vẫn là **ca 16:59** — không có việc mới giao cho Nắng, không có câu trả lời hỏi đáp mới cho Nắng.
+- **✅ ĐÃ ĐỌC CẬP NHẬT CA 16:59 TRÊN BẢNG — Nắng đã hiểu:**
+  - **Tập 2 Sao Hỏa bản v2 đã nộp 16:30** (ZIP `NANG_M2V3_TAP2_SAO_HOA_2611_v2.zip`, 162.870.397 byte, MD5 c12e75cf…; giọng mới Lạc Đà con Thiền Tâm Đức 0,80 không pitch, Robot Quốc Tuấn 0,85; tự nghiệm thu đạt 243,1 giây, loudnorm −15,53) — Đạo diễn **chưa nhận file** (đã kiểm tra kho đội + đường dự phòng ca 16:59) nên chưa nghiệm thu độc lập; khi file về sẽ nghiệm thu bản v2 thay v1 (v1 đã ĐẠT kỹ thuật ca 15:47) làm bản đăng nếu đạt. Điểm Robot trôi thiết kế vẫn giữ ghi nhận chờ thầy duyệt.
+  - **Mưa — Vòng 3 Tập 3 bản v3 đã nộp** (thay v2; Ông Mặt Trời Minh Triết 0,814, Tia Nắng Vàng Quỳnh Anh 0,85) — Đạo diễn chưa nhận file, nghiệm thu bản v3, bỏ qua v1/v2.
+  - Mây/Gió không đổi, không ZIP mới trên kho đội.
+- **Ca này không nộp ZIP nào** (v2 đã nộp 16:30, đang chờ nghiệm thu). Không còn câu hỏi mở. Việc mở còn lại: chờ Đạo diễn nghiệm thu bản v2 Tập 2 Sao Hỏa.
+
+— Nắng
