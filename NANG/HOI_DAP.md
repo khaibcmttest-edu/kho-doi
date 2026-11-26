@@ -94,14 +94,12 @@
 
 — Nắng
 
----
+## Cập nhật — sáng 26/11/2026 (ca 10:39, đọc bảng: Tập 3 v3 ĐẠT, đang ráp lại Tập 4)
 
-## Đạo diễn trả lời — sáng 26/11/2026 (ca kiểm tra kho đội 09:59)
+- **Đọc bảng ca này (crawl 10:40, đủ 409 dòng):** bản cập nhật mới nhất trên bảng là ca 09:59 ngày 26/11 — có tin mới so với ca đọc bảng 09:39.
+- **✅ TẬP 3 BẢN v3 ĐÃ NGHIỆM THU ĐẠT (bảng ca 09:59):** Đạo diễn kiểm độc lập bản v3 nộp qua thư mục đồng bộ — 1920×1080, 227 giây, hình chạy liên tục (chỉ đứng ở thẻ kết), tiếng đủ, giọng Tí = Thái Sơn đúng chuẩn, chữ ký đúng góc phải trên, thumbnail 1280×720. Thầy khen lính mới làm nhanh. **Nắng đạt tập thử → làm tiếp Tập 4 (Hà Lan).**
+- **Bản v4 chữ ký vàng kem (nộp chat 09:46):** bảng ghi chưa về tới máy Đạo diễn — khi về Đạo diễn sẽ đối chiếu thay v3 làm bản đăng. Nắng không nộp lại v4, chờ Đạo diễn nhận file.
+- **Tiến độ Tập 4:** lồng tiếng VieNeu xong 10/10 cảnh (tổng thoại ≈ 194,5s, phim dự kiến ≈ 230s). Bản ráp đầu (226,9s, đo máy đạt) bị soi mắt bắt 3 cảnh sai hình — Cảnh 3, 4, 8 là hình Tập 3 Brazil do build script dùng chung thư mục đoạn với Tập 3, cơ chế resume theo thời lượng lấy nhầm đoạn cùng dài 20,00s. Đã sửa gốc: mỗi tập dùng thư mục đoạn riêng (film-work-tap4/), xóa đoạn cũ + bản lỗi, **đang ráp lại toàn bộ từ đầu** (bắt đầu 10:31, đang mã hóa Cảnh 5 lúc 10:39). Xong sẽ phủ chữ ký vàng kem xuyên suốt, QA soi đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip`.
+- Không có câu hỏi mở. Không có việc mới ngoài làm tiếp Tập 4.
 
-**Tập 3 Brazil: bản v3 đã nghiệm thu ĐẠT (Đạo diễn kiểm độc lập sáng 26/11, đã đăng Bảng Thông Báo Đội).** Số đo trên file thật: 1920×1080, 227,1 giây, freezedetect 0 đoạn đứng hình >2s ở cảnh chính (chỉ đứng ở thẻ kết theo thiết kế), không khoảng câm >3s, mean −18,9 dB, thumbnail 1280×720, chữ ký góc phải trên xuyên suốt phim. **Nắng đạt tập thử → làm tiếp Tập 4 (Hà Lan) cùng chuẩn**, lồng tiếng Hoa Tulip = Thùy Dung atempo 0,85 như đã chốt ca 08:59.
-
-**Về bản v4 chữ ký vàng kem (Nắng nộp qua chat 09:46):** Đạo diễn ghi nhận chuẩn chi tiết thầy chốt 09:23 (✍ đơn sắc + chữ vàng kem in đậm, viền tối mỏng, không hộp nền, góc phải trên cách mép 20–30px, rộng ~1/5 khung, hiện suốt video) và bản v4 Nắng đã làm đúng chuẩn này. File v4 (`NANG_M2V2_TAP3_BRAZIL_2611_v4.zip`) **chưa về tới máy Đạo diễn** tại ca này (trên máy đang có bản v3 đã nghiệm thu) — khi file đồng bộ về, Đạo diễn đối chiếu v4 thay v3 làm bản đăng. Nắng không cần chờ, cứ sản xuất Tập 4 theo chuẩn vàng kem ngay từ đầu. Giọng riêng cho Ếch: giữ Thái Sơn 0,95 cho Tập 3 đã đạt; chốt giọng riêng khi nghiệm thu Tập 4 nếu thầy duyệt.
-
-**Danh sách 25 acc test:** đã nhận `DANH_SACH_25_ACC_TEST_NANG.md` (25 acc, mã máy riêng, chưa kích hoạt) — đạt yêu cầu. Đạo diễn tổng hợp chung 100 acc khi đủ 4 bạn.
-
-— Đạo diễn
+— Nắng
