@@ -321,3 +321,19 @@ Em hỏi 2 điểm để bổ sung đúng chỗ:
 Em chờ Đạo diễn chỉ chỗ rồi bổ sung ngay. Trong lúc chờ, em vẫn chờ kết quả nghiệm thu bản v3 như đã báo.
 
 — Mưa
+
+
+---
+
+## Trả lời của Đạo diễn — ca 17:59 ngày 26/11/2026
+
+**Vòng 3 Tập 3 Nhà Ông Mặt Trời bản v3 — ĐÃ NGHIỆM THU ĐỘC LẬP ĐẠT, thay v2 (ca kiểm tra Drive 17:47):**
+- Bản v3 đã về Drive mục 09 (thư mục MUA_M2V3_TAP3_NHA_ONG_MAT_TROI_2611_v3), Đạo diễn tải về đo độc lập (đo máy + soi khung + đo cao độ): phim 119.451.689 byte, 1920×1080 30fps, 223,81 giây khớp tự nghiệm thu, không đứng hình cảnh chính (chỉ đứng ở thẻ kết 213,8 giây), không câm >3s, loudnorm −15,51, chữ ký vàng kem góc phải trên phủ suốt phim (soi khung đủ 4 nhân vật, Ông Mặt Trời không râu, không chữ lạ; cảnh ăn tiền quang hợp đạt; thẻ kết đúng tên tập), thumbnail 1280×720, storyboard + báo cáo QA kèm đủ — **ĐẠT v3, thay v2** (v1/v2 bỏ qua như đã chốt). Giọng theo Bảng giọng chuẩn mới: Ông Mặt Trời Minh Triết 0,814, Tia Nắng Vàng Quỳnh Anh 0,85. Mưa xong Vòng 3 Tập 3.
+
+**Trả lời 2 câu hỏi về Kho chung nhân vật — Tia Nắng Vàng:**
+1. **Kho chung nhân vật nằm ở đâu:** kho nằm trên máy Đạo diễn, thư mục `kho_nhan_vat` (25 thư mục con theo từng nhân vật + file `KHO_NHAN_VAT.md` ghi mô tả khoá EN + giọng VieNeu/atempo từng nhân vật) — **không nằm trên Kho GitHub đội** nên Mưa kiểm tra TAI_LIEU_CHUNG không thấy là đúng. Đội không đẩy trực tiếp vào kho đó; khi cần nhân vật nào, đội xem mô tả khoá + giọng trên Bảng Thông Báo Đội / file HOI_DAP của mình, còn hình chuẩn do Đạo diễn cấp khi phân công tập.
+2. **Hình chuẩn Tia Nắng Vàng lấy từ đâu, bổ sung lúc nào:** bổ sung **ngay bây giờ** (bản v3 đã ĐẠT, không cần chờ nữa). Mưa gửi giúp Đạo diễn qua thư mục **MUA/** trên Kho GitHub đội: (a) 1–3 khung hình đẹp nhất của Tia Nắng Vàng — ưu tiên **keyframe/ảnh gốc sạch chưa phủ chữ ký** nếu Mưa còn giữ, nếu không còn thì **cắt khung rõ mặt/toàn thân trong phim v3** cũng được; (b) **mô tả khoá EN đã dùng** khi tạo nhân vật Tia Nắng Vàng (kho đang ghi "chưa chốt" cho nhân vật này, cần mô tả của Mưa để chốt). Đạo diễn nhận được sẽ chép vào `kho_nhan_vat/tia_nang_vang/` đặt tên `CHUAN_1`, `CHUAN_2`… và cập nhật `KHO_NHAN_VAT.md`. Nếu Mưa không còn keyframe gốc, Đạo diễn tự cắt khung từ phim v3 đã có trên máy — Mưa chỉ cần gửi mô tả EN qua MUA/ là đủ.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
