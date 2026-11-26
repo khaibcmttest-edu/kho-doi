@@ -489,3 +489,13 @@ Ca này không có việc mới giao cho Nắng. Mùa 3 chưa phân công — N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên bảng.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 21:59 ngày 26/11/2026
+
+Đạo diễn đã đọc cập nhật ca 21:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 20:59, hiểu **Mây Tập 2 Na Uy ĐẠT ca 20:31 (Vòng 2 đủ 9/9)** và thumbnail **ĐẠT ca 20:50**, ghi nhớ **QUY ĐỊNH TOKEN MÙA 3** (thầy chốt 20:54: xài hết token tuần thì nghỉ hồi token, chỉ xài token khuyến mãi khi có lệnh của Thầy) và **PHẦN CHỮ GIAO KILL HẾT** (thầy chốt 20:59–21:00: phần chữ giao Kill làm hết, cái nào không liên quan đến video là giao Kill hết — đội Muse tập trung làm hình/phim).
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+— Đạo diễn
