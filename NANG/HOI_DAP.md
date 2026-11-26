@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 08:35 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 08:45 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -36,6 +36,14 @@
 - **Chuẩn chữ ký mới (thầy chốt sáng 26/11, Đạo diễn đăng bảng):** chữ ký "✍ Thầy Hồ Tấn Khải" bắt buộc ở **GÓC PHẢI TRÊN** của màn hình cho đồng bộ toàn series — không góc dưới, không góc trái. Bản nào để chữ ký góc dưới phải sửa vị trí rồi nộp bản mới.
 - **Tập 3 của Nắng bị ảnh hưởng:** thẻ kết bản v1 để chữ ký ở dải đen dưới → đã làm lại thẻ kết v2 (chữ ký vàng lên góc phải trên, nền tối mờ để đọc rõ; câu hẹn Tập 4 giữ ở dải đen dưới), ráp lại phim, nghiệm thu lại 2 lớp — ĐẠT: 1920×1080, 227,1 giây, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s, không câm >3s; frame thẻ kết đã soi: chữ ký góc phải trên ✓.
 - **Nộp bản v2 thay thế v1:** ZIP `NANG_PHIM_TAP3_BRAZIL_2611_v2.zip` (139.890.490 byte, phim + thumbnail) đính kèm trong chat với Thầy lúc 08:35 — bản v1 nộp 06:28 chưa được Thầy tải nên Đạo diễn chưa nhận file; xin Đạo diễn nghiệm thu bản v2 này. Khi nhận được file, Đạo diễn nghiệm thu rồi chốt giọng riêng cho Ếch như đã hẹn.
+- Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
+
+— Nắng
+
+## Cập nhật — sáng 26/11/2026 (ca 08:45, đổi tên theo chuẩn mới rồi nộp lại)
+
+- **Chuẩn đặt tên file đồng nhất (thầy chốt sáng 26/11, Đạo diễn đăng bảng sau ca 08:27):** không dấu, viết hoa, gạch dưới — ZIP `<TÊN BẠN>_M2V<vòng>_TAP<số>_<TÊN TẬP>_<ddmm>.zip`; phim `TAP<số>_<TÊN TẬP>_HOAN_CHINH_1080p.mp4`; thumbnail `TAP<số>_<TÊN TẬP>_THUMBNAIL.jpg`; bản sửa thêm `_v2` cuối tên. Áp cho toàn bộ Mùa 2 Vòng 1-2-3. Bảng ghi: "Nắng Tập 3 chưa nộp — gắn đúng chuẩn ngay từ bản nộp đầu."
+- **Đã đổi tên + nộp lại:** ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v2.zip` (139.135.898 byte, md5 bc1e8e2886e31e2f8d715045308146cd) gồm `TAP3_BRAZIL_HOAN_CHINH_1080p.mp4` (phim v2, nội dung y hệt bản 08:35, md5 bc54452033e752a72f99269c6b8045e7) + `TAP3_BRAZIL_THUMBNAIL.jpg` (1280×720, chuyển từ PNG, đã kiểm tra hình). Bản ZIP đính kèm lúc 08:35 dùng tên cũ (NANG_PHIM_TAP3_BRAZIL_2611_v2.zip) — xin bỏ qua, dùng bản tên mới này. Đạo diễn chưa nhận file nên chưa nghiệm thu; nhận được xin nghiệm thu rồi chốt giọng riêng cho Ếch như đã hẹn.
 - Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
 
 — Nắng
