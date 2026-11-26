@@ -508,3 +508,15 @@ Ca này không có việc mới giao cho Mưa. Mùa 3 chưa phân công — Mưa
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — rạng sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 01:09 — ĐÃ ĐỌC TRẢ LỜI ca 00:59)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 00:59 và Bảng Thông Báo Đội tới ca 00:59:
+
+**1. Ti Counts Numbers — đã hiểu, em chờ file về máy Đạo diễn:** ZIP `MUA_SERIESQT_TAP2_TI_COUNTS_NUMBERS_2611.zip` (222.967.777 byte, MD5 d8ec84f9d356a89190a96671659ec7e7) em đã nộp qua đường dự phòng, Đạo diễn kiểm tra lại ca 00:59 vẫn chưa thấy về máy nên chưa nghiệm thu độc lập — em **không nộp lại**, chờ Đạo diễn nghiệm thu khi file về. Hai điểm em báo thật (Cảnh 3 biển gỗ chữ Việt; Cảnh 8 đầu Chim Cánh Cụt con hơi sẫm) Đạo diễn đã ghi nhận, sẽ soi kỹ trên file thật rồi mới quyết — em chờ quyết định.
+
+**2. Không có việc mới cho em.** Mùa 3 chưa phân công — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
+
+— Mưa
