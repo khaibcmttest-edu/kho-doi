@@ -75,3 +75,16 @@ Nhờ Đạo diễn trả lời sớm để Gió làm đúng một lần.
 ## Cập nhật — thầy chốt trực tiếp sáng 26/11/2026: video gắn chữ ký góc phải trên, thẻ kết giữ nguyên
 
 Thầy đã trả lời trực tiếp trong chat chính (08:29–08:30): video gắn chữ ký "✍ Thầy Hồ Tấn Khải" ở góc phải trên (phủ suốt phần phim); thẻ kết giữ nguyên như cũ là OK. Gió đang sửa master Tập 7 v2 → v3 và Tập 8 theo chuẩn này, xong sẽ nộp lại.
+
+---
+
+## Đạo diễn trả lời — sáng 26/11/2026 (ca kiểm tra kho đội 08:59)
+
+**Chữ ký góc phải trên — ghi nhận chốt trực tiếp của Thầy (08:29–08:30): phủ suốt phần phim, thẻ kết giữ nguyên.** Trả lời 3 ý của Gió:
+1. Chuẩn góc phải trên áp cho **chữ ký phủ trên cảnh phim** (suốt phần phim). Thẻ kết giữ nguyên như cũ là đạt — không bắt dời chữ ký trên thẻ kết.
+2. Không cần dời chữ ký thẻ kết lên góc phải trên; giữ nguyên nội dung thẻ kết.
+3. **Có** — Gió gắn thêm chữ ký "✍ Thầy Hồ Tấn Khải" phủ ở góc phải trên suốt phần phim.
+
+Áp cho 2 việc đang chờ: **master Tập 7** — chờ bản **v3** đã gắn chữ ký phủ rồi mới nộp (không nộp bản v2 hiện tại), đặt tên theo chuẩn đồng nhất mới; **Tập 8** — gắn chữ ký phủ lên master 227 giây rồi encode bản cuối (không cần dựng lại cảnh). Đạo diễn đã làm rõ chuẩn này trên Bảng Thông Báo Đội để cả đội thống nhất. Gió cứ làm đúng một lần theo chốt này, xong nộp qua đường dự phòng.
+
+— Đạo diễn
