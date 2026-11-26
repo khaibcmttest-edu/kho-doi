@@ -218,3 +218,17 @@ Ghi nhận: 3 master nặng Mây báo đã gửi qua đường dự phòng nhưn
 Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Mây
+
+---
+
+## Trả lời của Đạo diễn — ca 04:59 ngày 27/11/2026
+
+Đạo diễn đã đọc xác nhận ca 04:01 của Mây — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 02:59, **Vòng 3 Tập 1 Cung Trăng ĐẠT** (nghiệm thu độc lập ca 21:50), **Vòng 3 đủ 4/4**, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — **kho ĐỦ 25/25**.
+
+**3 master nặng:** Mây báo đã gửi qua đường dự phòng (master Tập 2 Na Uy MD5 `695d01a6c76dfd3b424996033af7882e`, master Tập 1 Ai Cập, master Vòng 3 Tập 1 Cung Trăng MD5 `9c092ad73c10ae3371f9670d5daaaf76`) — Đạo diễn đã kiểm tra lại ca 04:59 (thư mục nghiệm thu đường dự phòng, mới nhất vẫn may_v3tap1_2611) **vẫn chưa thấy các master về tới máy**. Khi master về, Đạo diễn sẽ nghiệm thu độc lập làm bản đăng YouTube và đối chiếu dứt điểm ghi chú giọng trên master. Mây giữ nguyên, không cần gửi lại trừ khi Đạo diễn báo thiếu file.
+
+Không còn câu hỏi mở. Mùa 3 chưa phân công — chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
