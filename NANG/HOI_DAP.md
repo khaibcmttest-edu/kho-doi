@@ -1,12 +1,14 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 12:40 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 12:45 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
-- **Giọng + atempo Lạc Đà con và Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa)** — kịch bản chốt + bảng phân giọng Vòng 3 đều ghi Lạc Đà con = Nam Thái Sơn (cả 10 cảnh; bảng phân giọng còn ghi chú chỉnh cao độ ±1–2 semitone để tách hai giọng Thái Sơn), trong khi bảng atempo trên Bảng Thông Báo ghi Lạc Đà con = Thiền Tâm Đức 0.80. Xin Đạo diễn chốt: (1) Lạc Đà con Tập 2 dùng Thái Sơn theo kịch bản hay Thiền Tâm Đức theo bảng atempo, atempo bao nhiêu; (2) atempo cho Robot Sao Hỏa (Nữ Thùy Dung, 4 cảnh / 793 ký tự). Chưa gấp — Nắng bắt đầu sản xuất Tập 2 sau khi nộp xong Tập 4 Hà Lan.
+- Không còn câu hỏi mở. Chờ Đạo diễn nghiệm thu Tập 4 Hà Lan (đã nộp 12:15) và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu (đã hẹn từ tối 25/11).
 
 ## Đã trả lời
+
+- **Giọng + atempo Lạc Đà con và Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa)** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 11:59, 26/11): chốt **Lạc Đà con = Thái Sơn, atempo 0,80 theo kịch bản Vòng 3** (chỉnh cao độ ±1–2 semitone để tách khỏi giọng Tí cũng là Thái Sơn; chốt tạm, thầy duyệt khi nghiệm thu); **Robot Sao Hỏa = Thùy Dung, atempo 0,85 tạm** (chốt giọng riêng khi nghiệm thu Tập 2). Bảng atempo trên bảng cũng đã sửa khớp (Lạc Đà con 0,80 Thái Sơn; Robot 0,85 Thùy Dung). Cùng ca này Đạo diễn đính chính: **Giun Đất Tập 4 Vòng 3 = Thái Sơn 0,95** (không phải Thùy Dung như ghi chú cũ trong bảng phân giọng). Nắng sẽ lồng tiếng Tập 2 theo đáp án này.
 
 - **Giọng + atempo của Hoa Tulip (Tập 4 Hà Lan)** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 08:59, 26/11): chốt tạm **theo kịch bản — Nữ Thùy Dung, atempo 0.85** (kịch bản chốt Tập 4 Mục 4 Cảnh 3–7 đều ghi Thùy Dung; như Cá Hồi cùng giọng Thùy Dung, không dùng 0.739 của Chị Lá). Cá Nhỏ giữ **Ngọc Huyền 0.85** đã chốt riêng để không trùng giọng. Khi nghiệm thu Tập 4, Đạo diễn sẽ thử giọng + đo cao độ để chốt giọng riêng cho Hoa Tulip nếu thầy duyệt. Nắng sẽ lồng tiếng Tập 4 theo đáp án này sau khi Tập 3 được nghiệm thu.
 
@@ -158,5 +160,18 @@
 - **Làm lại C7 + C10 (lý do):** prompt gốc chỉ ghi tên "Robot Sao Hỏa" nên công cụ tự vẽ robot hình người đỏ — đã chèn mô tả khóa đầy đủ của robot rover vào prompt (như cách sửa Hoa Tulip ở Tập 4) thì bản làm lại đúng mẫu (rover trắng-cam 6 bánh, mắt ống nhòm, cánh pin mặt trời). Bản cũ giữ lại `Tap2-Canh7-old-humanoid.mp4` / `Tap2-Canh10-old-humanoid.mp4`.
 - **Robot vẫn trôi nhẹ giữa các clip (để Đạo diễn soi khi nghiệm thu clip):** C3 rover chuẩn; C4 nhỏ/cute hơn; C7/C8/C10 rover đúng mẫu sau khi làm lại.
 - **Còn chờ:** Đạo diễn chốt giọng + atempo Lạc Đà con và Robot Sao Hỏa (mục "Đang chờ trả lời" phía trên) — có đáp án Nắng mới lồng tiếng VieNeu + ráp phim hoàn chỉnh theo quy trình Mưa.
+
+— Nắng
+
+---
+
+## Cập nhật — trưa 26/11/2026 (ca 12:45, đọc bảng: Tập 3 v4 ĐẠT làm bản đăng + chốt giọng Vòng 3)
+
+- **Đọc bảng ca này (crawl 12:40, 449 dòng):** cập nhật mới nhất trên bảng là ca 11:59 — không có việc mới giao cho Nắng ngoài Vòng 3 Tập 2 đã nhận ca 11:39.
+- **✅ TẬP 3 BRAZIL BẢN V4 ĐẠT LÀM BẢN ĐĂNG (kiểm tra Drive ca 11:47):** Đạo diễn tải về đo độc lập — 1920×1080, 227,1 giây, không đứng hình, không câm >3s, tiếng trùng nguyên bản v3 đã ĐẠT, chữ ký vàng kem góc phải trên, thumbnail 1280×720. Bản v4 thay v3 làm bản đăng. Nắng không còn gì phải sửa ở Tập 3.
+- **✅ CHỐT GIỌNG VÒNG 3 (bảng ca 11:59):** Lạc Đà con Tập 2 = Thái Sơn 0,80; Robot Sao Hỏa = Thùy Dung 0,85 tạm; Giun Đất Tập 4 = Thái Sơn 0,95 — đã chuyển câu hỏi sang mục "Đã trả lời" phía trên. Nắng không còn câu hỏi mở.
+- **Tập 4 Hà Lan:** đã nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip` (151.803.896 byte, md5 e97a7db0f8935ba5aeea004633cad822) đính kèm chat với Thầy lúc 12:15 — bảng ca 11:59 vẫn ghi "đang ráp seg01–seg09" (cập nhật trước giờ nộp), Đạo diễn chưa đăng kết quả nghiệm thu; chờ bảng ca sau.
+- **Vòng 3 Tập 2 Sao Hỏa:** clip đã đủ 10/10 (ghi ở mục 12:40 phía trên), ca này Nắng soi lại khung giữa 4 clip mới — C7/C8/C9/C10 đều đúng kịch bản, Robot rover trắng-cam 6 bánh đồng nhất sau khi làm lại C7/C10. Tiếp theo: lồng tiếng VieNeu theo giọng vừa chốt (Tí Thái Sơn 0,90; Lạc Đà con Thái Sơn 0,80 tách cao độ; Robot Thùy Dung 0,85) + ráp phim hoàn chỉnh theo quy trình Mưa.
+- **Đội:** Gió xong trọn Vòng 2 (Tập 8 v2 ĐẠT ca 11:59, còn nợ master Tập 8); Mưa đủ 100 acc test; Mây Tập 1 v3 ĐẠT chữ ký, còn nợ master v3 bản nặng.
 
 — Nắng
