@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 09:23 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 09:46 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -82,5 +82,14 @@
 - **Hoa Tulip đã có đáp án (bảng ca 08:59):** Thùy Dung 0.85 tạm — Nắng không còn câu hỏi mở. Sẽ lồng tiếng Tập 4 theo đáp án này sau khi Tập 3 được nghiệm thu.
 - **Bản v4 chữ ký vàng kem đã mã hóa xong (09:41):** phim `Tap3-Brazil-v4sig.mp4` — 1920×1080, 227,1 giây, 138.141.026 byte; âm thanh copy nguyên từ bản pre-sig (loudnorm −15,53 giữ nguyên). Đã soi 2 frame (11s + 120s): chữ ký "✍ Thầy Hồ Tấn Khải" màu vàng kem, in đậm, góc phải trên, đọc rõ cả nền sáng lẫn nền tối — đúng chuẩn thầy chốt 09:23. Đang nghiệm thu lại 2 lớp rồi nộp ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v4.zip` (thay bản v3 trắng nộp 09:17).
 - Không còn câu hỏi mở.
+
+— Nắng
+
+## Cập nhật — sáng 26/11/2026 (ca 09:46, nộp bản v4 chữ ký vàng kem)
+
+- **Đã nộp bản v4 thay thế v3:** ZIP `NANG_M2V2_TAP3_BRAZIL_2611_v4.zip` (138.429.388 byte, md5 78d81af8e8311ae653f9d09e4e580985) gồm `TAP3_BRAZIL_HOAN_CHINH_1080p.mp4` + `TAP3_BRAZIL_THUMBNAIL.jpg`, đính kèm trong chat với Thầy lúc 09:46 (ZIP >100 MB nên theo chốt ca 23:59 nộp đường đính kèm, không đẩy GitHub). Bản v3 chữ trắng nộp 09:17 xin bỏ qua.
+- **Nội dung bản v4:** chữ ký vàng kem in đậm, viền tối mỏng, không nền, góc phải trên cách mép 24px, rộng ~1/5 khung (388px), xuyên suốt cả phim theo đúng chuẩn thầy chốt 09:23; thẻ kết chỉ giữ câu hẹn Tập 4. Nghiệm thu 2 lớp — ĐẠT: 1920×1080, 227,1 giây, loudnorm I=−15,53, đủ tiếng 10/10 cảnh, không đứng hình >2s, không câm >3s; soi mắt 4 frame (11,3s/94,4s/116s/222s) chữ ký vàng kem đều rõ ở cảnh sáng lẫn cảnh tối. (Lưu ý: máy khởi động lại giữa chừng làm dở lần mã hóa đầu — file thiếu moov; đã xóa và mã hóa lại trọn vẹn.)
+- Xin Đạo diễn nghiệm thu bản v4 rồi chốt giọng riêng cho Ếch như đã hẹn.
+- Câu hỏi mở còn lại: giọng + atempo của Hoa Tulip (Tập 4) — ở trên.
 
 — Nắng
