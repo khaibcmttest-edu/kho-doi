@@ -1,20 +1,22 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 14:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 15:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
-- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). Chờ Đạo diễn nghiệm thu Tập 2 Sao Hỏa (đã nộp 14:00) và chốt giọng riêng cho Ếch Cây Mắt Đỏ khi nghiệm thu (đã hẹn từ tối 25/11).
+- Không còn câu hỏi mở. **Tập 4 Hà Lan đã ĐẠT** (kiểm tra Drive ca 13:47, Đạo diễn trả lời ca 13:59). **Ếch Cây Mắt Đỏ đã có giọng chốt** trong Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26, xem mục "Đã trả lời") — bản Tập 3 đã ĐẠT giữ giọng cũ theo quy định "tập làm trước 26/11 giữ giọng cũ". Chờ Đạo diễn nghiệm thu **Tập 2 Sao Hỏa bản v2** (đang ráp lại, xem mục ca 15:39 cuối file) — bản v1 nộp 14:00 sẽ bị thay thế.
 
 ## Đã trả lời
 
-- **Giọng + atempo Lạc Đà con và Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa)** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 11:59, 26/11): chốt **Lạc Đà con = Thái Sơn, atempo 0,80 theo kịch bản Vòng 3** (chỉnh cao độ ±1–2 semitone để tách khỏi giọng Tí cũng là Thái Sơn; chốt tạm, thầy duyệt khi nghiệm thu); **Robot Sao Hỏa = Thùy Dung, atempo 0,85 tạm** (chốt giọng riêng khi nghiệm thu Tập 2). Bảng atempo trên bảng cũng đã sửa khớp (Lạc Đà con 0,80 Thái Sơn; Robot 0,85 Thùy Dung). Cùng ca này Đạo diễn đính chính: **Giun Đất Tập 4 Vòng 3 = Thái Sơn 0,95** (không phải Thùy Dung như ghi chú cũ trong bảng phân giọng). Nắng sẽ lồng tiếng Tập 2 theo đáp án này.
+- **⭐ BẢNG GIỌNG CHUẨN TOÀN SERIES — thầy chốt 15:25–15:26 ngày 26/11/2026 (thay mọi chốt tạm trước đó; tập làm trước 26/11 giữ giọng cũ):** Vai chính (giọng miền Nam): Tí = Thái Sơn 0,90 · Bác Rễ = **Adam 0,794 (ĐỔI từ Hải Đăng)** · Chị Lá = Thùy Dung 0,739 · Ông Mặt Trời = Minh Triết 0,814 · Giun Đất + Dẫn chuyện = Thái Sơn 0,95 · Sâu Xanh = Đức Trí 0,85 · Chị Mây = Mỹ Duyên 0,85 · vai Thầy = Thái Sơn 0,95. 7 bạn mới: Cá Nhỏ Ngọc Huyền 0,85 · Rùa Biển con Thanh Bình 0,80 · Khỉ con Adam bựa 0,90 · Ngựa con Xuân Vĩnh 0,90 · Sơn Dương con Thiện Minh 0,85 · **Lạc Đà con = Thiền Tâm Đức 0,80** · Chim Cánh Cụt con Mai Anh 0,85. Hướng dẫn viên Vòng 2: Bọ Cánh Cứng Cát Thùy Dung 0,739 · Cáo Tuyết Kim Thanh 0,85 · **Ếch Cây Mắt Đỏ = Minh Đức 0,85** · **Hoa Tulip = Ngọc Linh 0,85** · Cá Hồi Hoa Anh Đào Thùy Dung 0,85 · Llama Thái Sơn 0,85 · Cây Ô Liu Cổ Thụ Phạm Tuyên 0,80 · Cây Đước Thục Đoan 0,85. Vòng 3: Thỏ Ngọc Đoan Trang 0,85 · **Robot Sao Hỏa = Quốc Tuấn 0,85** · **Tia Nắng Vàng = Quỳnh Anh 0,85**. Giọng còn trống: Quang Sơn, Ngọc Trân, Hải Đăng. Nắng đang lồng lại Tập 2 Sao Hỏa theo bảng này (xem mục ca 15:39 cuối file).
+
+- **Giọng + atempo Lạc Đà con và Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa)** — ⚠️ ĐÁP ÁN CA 11:59 ĐÃ BỊ THAY BẰNG BẢNG GIỌNG CHUẨN 15:25–15:26 (xem mục trên): **Lạc Đà con = Thiền Tâm Đức 0,80** (bỏ hẳn Thái Sơn 0,80 + pitch −1 semitone — Thầy nghe giọng Lạc Đà trong phim Tập 2 v1 "bị gì đấy", nghi do pitch làm méo giọng); **Robot Sao Hỏa = Quốc Tuấn 0,85** (thay Thùy Dung 0,85 tạm). Đáp án ca 11:59 (Lạc Đà Thái Sơn 0,80 tạm, Robot Thùy Dung 0,85 tạm) chỉ còn là lịch sử — bản v1 đã lồng theo đáp án đó sẽ bị bản v2 thay thế. Giun Đất Tập 4 Vòng 3 = Thái Sơn 0,95 giữ nguyên.
 
 - **Giọng + atempo của Hoa Tulip (Tập 4 Hà Lan)** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 08:59, 26/11): chốt tạm **theo kịch bản — Nữ Thùy Dung, atempo 0.85** (kịch bản chốt Tập 4 Mục 4 Cảnh 3–7 đều ghi Thùy Dung; như Cá Hồi cùng giọng Thùy Dung, không dùng 0.739 của Chị Lá). Cá Nhỏ giữ **Ngọc Huyền 0.85** đã chốt riêng để không trùng giọng. Khi nghiệm thu Tập 4, Đạo diễn sẽ thử giọng + đo cao độ để chốt giọng riêng cho Hoa Tulip nếu thầy duyệt. Nắng sẽ lồng tiếng Tập 4 theo đáp án này sau khi Tập 3 được nghiệm thu.
 
 - **Câu kết của Thầy ở Cảnh 10 Tập 3** — ĐÃ CÓ ĐÁP ÁN trên bảng (ca 20:39, 25/11): giọng nam **Thái Sơn**, atempo **0.95** (mục "HƯỚNG DẪN ĐIỀU CHỈNH TỐC ĐỘ LỒNG TIẾNG"). Nắng đã lồng xong Cảnh 10 theo đáp án này.
 
-- **Ếch Cây Mắt Đỏ (Tập 3 Brazil)** — ĐÃ CÓ ĐÁP ÁN trên bảng (mục "TRẢ LỜI HỎI ĐÁP — tối 25/11/2026", ca 21:39): Ếch chưa có giọng cố định; bản thử dùng giọng nam **Thái Sơn, atempo 0.95** như bảng phân giọng Vòng 2 của Kill; Đạo diễn sẽ thử giọng + đo cao độ để chốt giọng riêng cho Ếch khi nghiệm thu video thử. Nắng đã lồng xong đủ 10/10 cảnh Tập 3 theo đáp án này và đang ráp phim.
+- **Ếch Cây Mắt Đỏ (Tập 3 Brazil)** — ĐÃ CÓ GIỌNG CHỐT trong Bảng giọng chuẩn toàn series (thầy chốt 15:25–15:26, 26/11): **Ếch = Minh Đức, atempo 0,85** (thay Thái Sơn 0,95 tạm). Bản Tập 3 đã ĐẠT (v4) giữ giọng Thái Sơn 0,95 cũ theo quy định "tập làm trước 26/11 giữ giọng cũ". Đáp án tạm ca 21:39 tối 25/11 (Ếch Thái Sơn 0,95, Đạo diễn thử giọng khi nghiệm thu) đã hoàn thành nhiệm vụ của nó.
 
 ---
 
@@ -292,3 +294,15 @@
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Cập nhật — chiều 26/11/2026 (ca 15:39, đọc bảng + lồng lại Tập 2 theo Bảng giọng chuẩn mới)
+
+- **Đọc bảng ca này (crawl 15:40, 503 dòng — tăng 18 dòng so với 485 dòng ca 14:39):** cập nhật mới nhất trên bảng là **ca 14:59** — Tập 2 Sao Hỏa v1 đã nộp 14:00, Đạo diễn **chưa nhận file** nên chưa nghiệm thu độc lập (đã kiểm tra kho đội + đường dự phòng); Mưa Tập 3 Vòng 3 v2 vẫn chờ file về máy; Mây/Gió không đổi.
+- **⭐ MỚI TRÊN BẢNG — BẢNG GIỌNG CHUẨN TOÀN SERIES (thầy chốt 15:25–15:26, đã ghi ở mục "Đã trả lời"):** Lạc Đà con = **Thiền Tâm Đức 0,80** (thay Thái Sơn 0,80 tạm ca 11:59); Robot Sao Hỏa = **Quốc Tuấn 0,85** (thay Thùy Dung 0,85 tạm); Ếch Cây Mắt Đỏ = Minh Đức 0,85; Hoa Tulip = Ngọc Linh 0,85; Tia Nắng Vàng = Quỳnh Anh 0,85; Bác Rễ = Adam 0,794 (đổi từ Hải Đăng). **Lý do lồng lại Tập 2:** Thầy nghe giọng Lạc Đà con trong phim v1 "bị gì đấy" — nghi do Thái Sơn 0,80 + rubberband pitch −1 semitone làm méo/không tự nhiên; bảng mới bỏ hẳn Thái Sơn + pitch cho Lạc Đà.
+- **✅ ĐÃ LỒNG LẠI XONG CẢNH 1–8 (15:31–15:35, script `build_dub_tap2.py`):** Lạc Đà con = Thiền Tâm Đức 0,80 (không pitch shift), Robot = Quốc Tuấn 0,85, Tí = Thái Sơn 0,90, Thầy = Thái Sơn 0,95. Đo tốc độ sau atempo (file `dub-tap2/pace.txt`): Lạc Đà 10,4–11,6 ký tự/giây, Robot 15,5–16,6 ký tự/giây, Tí 12,6–15,0 — trong biên độ chuẩn xưởng (~15 ký tự/giây, atempo giữ trong 0,7–1,1). Cảnh 9–10 giữ nguyên bản lồng cũ (không có thoại Lạc Đà/Robot). Đủ 10/10 mix cảnh.
+- **ĐANG RÁP LẠI PHIM V2 (từ 15:35):** `build_film_tap2.sh` đang chạy (thư mục đoạn riêng `film-work-v3tap2`, không dùng chung với tập khác), đang mã hóa seg01. Xong 10 đoạn → phủ chữ ký vàng kem góc phải trên → loudnorm 2 lượt I=−15,5 → QA 2 lớp (soi đủ 10 frame + đo máy) rồi nộp ZIP **`NANG_M2V3_TAP2_SAO_HOA_2611_v2.zip`** (phim + thumbnail + storyboard + file thoại) qua đường dự phòng, ghi rõ "bản v2 thay thế v1". Bản v1 nộp 14:00 xin bỏ qua khi v2 về tới máy Đạo diễn.
+- Không còn câu hỏi mở. Không có việc mới cho Nắng ngoài Tập 2 v2 đang làm.
+
+— Nắng
