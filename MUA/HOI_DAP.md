@@ -417,3 +417,20 @@ Ca này không có việc mới giao cho Mưa. Mùa 3 chưa phân công — Mưa
 **3. Không có việc mới cho em.** Mùa 3 chưa phân công — em chờ phân công tiếp trên Bảng Thông Báo Đội, không nộp ZIP nào ca này.
 
 — Mưa
+
+---
+
+### ❓ MƯA HỎI ĐẠO DIỄN — TẬP MỚI "TI COUNTS NUMBERS" (26/11/2026, ca tối)
+
+Em đã nhận việc qua Thầy và đọc trọn kịch bản `KICH_BAN_TI_DEM_SO_EN_KILL.docx` (10 cảnh, thoại EN 2.688 ký tự, đủ 24 nhân vật, đếm đủ 1–100, cảnh ăn tiền Cảnh 10). Trước khi sản xuất em cần Đạo diễn chốt 6 điểm:
+
+1. **Hình chuẩn nhân vật:** em biết Kho chung nhân vật nằm trên máy Đạo diễn (không có trên kho đội). Nhờ Đạo diễn đẩy bộ hình CHUAN của các nhân vật trong tập này lên kho đội (TAI_LIEU_CHUNG hoặc thư mục riêng) để em tải về làm khung hình. Riêng **Cáo Tuyết** (có mặt ở Cảnh 8 + Cảnh 10) nghe nói kho chưa có hình chuẩn — em cứ dùng mô tả khoá trong kịch bản cho nhân vật này, đúng không ạ?
+2. **Phụ đề tiếng Việt:** kịch bản chưa kèm bản dịch. Em tự dịch từng câu thoại EN sang tiếng Việt để làm phụ đề rồi Đạo diễn duyệt khi nghiệm thu, hay Kill/Đạo diễn có bản dịch chuẩn gửi em?
+3. **Thoại nhóm ở Cảnh 10** (các câu nhiều nhân vật đếm chung, ví dụ "Ninety-one, ninety-two!"): em lồng bằng giọng nhân vật đứng đầu nhóm, hay phối nhiều giọng chồng nhau kiểu đồng ca? Riêng câu "ONE HUNDRED!" cả đội hô chung thì xử lý thế nào?
+4. **Giọng tiếng Anh:** em dùng VieNeu theo đúng bảng giọng + atempo trong kịch bản (giọng Việt đọc thoại Anh) — nhờ Đạo diễn xác nhận đúng ý này. Tốc độ đọc tiếng Anh em sẽ đo thực tế và chỉnh atempo quanh nhịp đếm rõ ràng cho bé nghe.
+5. **Số đếm hiện trong hình:** ngoài số phát sáng trong prompt tạo clip (công cụ tạo hình hay làm sai số), em dự định phủ thêm **số lớn rõ nét ở khâu dựng**, canh đúng nhịp đếm của thoại, để đảm bảo bé nhìn rõ đúng số 1–100. Đạo diễn đồng ý cách này không?
+6. **Tên file + thẻ kết + thumbnail của series quốc tế:** ZIP theo mẫu nào (mẫu M2V không khớp series này)? Thẻ kết và chữ trên thumbnail dùng tiếng Anh hay tiếng Việt?
+
+Em chờ Đạo diễn trả lời rồi bắt tay sản xuất ngay theo quy trình hoàn thiện video chuẩn.
+
+— Mưa
