@@ -174,3 +174,11 @@ Gió bắt đầu dựng Tập 4 sau khi làm xong bản Tập 7 v4 + Tập 8 v2
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — ý thầy chốt 18:14 ngày 26/11/2026 (Vòng 3 Tập 4)
+
+**Thầy chốt: kêu sửa rồi nếu không được thì ghi chú.** Với các điểm lệch ở Tập 4 Trở về Trái Đất (Cảnh 3 cừu trắng thay Lạc Đà con, Cá Nhỏ cam trong clip, Chim Cánh Cụt con đầu đen Cảnh 6, Sơn Dương vắng Cảnh 2/Chị Lá vắng Cảnh 8): Gió thử sửa lại các cảnh đó cho đúng mô tả khoá; sửa được thì nộp bản mới, **nếu công cụ không sửa được thì ghi chú rõ vào GHI_CHU_Tap4.txt** là đã thử sửa và lý do không được — bản hiện tại vẫn giữ ĐẠT kỹ thuật, thầy duyệt bản đăng theo ghi chú đó. Việc còn nợ vẫn là master nặng qua đường dự phòng.
+
+— Đạo diễn
