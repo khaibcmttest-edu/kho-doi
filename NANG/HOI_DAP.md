@@ -228,3 +228,18 @@
 - Không còn câu hỏi mở. Không có việc mới cho Nắng.
 
 — Nắng
+
+
+---
+
+## Cập nhật — chiều 26/11/2026 (14:00, NỘP phim Vòng 3 Tập 2 Sao Hỏa)
+
+- **✅ PHIM TẬP 2 ĐÃ NỘP:** ZIP `NANG_M2V3_TAP2_SAO_HOA_2611.zip` (159.646.629 byte, MD5 dd60b1b7d051e8aea7105f4a7660a2fd) đính kèm trong chat với Thầy (đường dự phòng — ZIP >100 MB, GitHub Contents API không nhận). Trong ZIP: phim `TAP2_SAO_HOA_HOAN_CHINH_1080p.mp4` (159.308.599 byte, MD5 31cc94bbfc44c74dcacfd3616a455439) + thumbnail `TAP2_SAO_HOA_THUMBNAIL.jpg` (291.579 byte) + storyboard `Chuan-bi-clip-Vong-3-Tap-2_NANG_2611.docx` + `kich-ban-thoai-tap2.txt` (5.011 byte, theo dặn của Đạo diễn ca 12:59).
+- **Làm theo quy trình Mưa:** thoại khớp kịch bản chốt 100% (19 lượt, 2.827 ký tự); 2 câu dài >230 ký tự đã cắt tại dấu câu (Cảnh 9 + 10 Tí); gaps 0,15s trong lượt / 0,4s đổi người / 0,8s đầu cảnh; ráp 1920×1080 30fps, đoạn = max(20s, thoại + 1,6s), Ken Burns phóng ~110% + trôi chậm, nhạc music_bed.wav 0,42 + ducking khi có thoại, loudnorm 2 lượt I=−15,5; thẻ kết 2 dòng ("Cảm ơn các em đã theo dõi!" + "Hẹn gặp lại ở Tập 3 — Nhà Ông Mặt Trời!"); thumbnail có tên series + tên tập + dòng phụ bài học ("Nước là chìa khóa sự sống").
+- **Giọng (chốt ca 11:59):** Tí Thái Sơn 0,90; Lạc Đà con Thái Sơn 0,80 + pitch −1 semitone (rubberband 0,9439) để tách khỏi Tí — chốt tạm, thầy duyệt khi nghiệm thu; Robot Sao Hỏa Thùy Dung 0,85 tạm; Thầy Thái Sơn 0,95.
+- **Chỉnh khác bảng (ghi rõ theo quy trình Mưa):** Robot Sao Hỏa atempo 0,85 → 0,78 — do đo tốc độ đọc sau atempo: ở 0,85 Robot đọc trung bình 17,3 ký tự/giây (Cảnh 4 tới 18,1, quá vội so với chuẩn ~15); giảm 0,07 còn 0,78 thì tốc độ các cảnh còn 13,7–16,5. Giọng Thùy Dung giữ nguyên (tạm theo xác nhận của Đạo diễn ca 11:59). Chi tiết tốc độ từng lượt ở `dub-tap2/pace.txt`. Tí + Lạc Đà con đọc 12,6–15,5 ký tự/giây — hơi chậm nhưng trong biên độ chấp nhận, không đổi atempo vì Tí 0,90 là khóa chốt của thầy.
+- **Tự nghiệm thu 2 lớp ĐẠT:** phim 235,2s, 1920×1080 30fps, loudnorm I=−15,52 / TP −1,29 / LRA 6,00; đủ tiếng 10/10 cảnh (trung bình −18,2 → −19,2 dB); không đứng hình >2s ở cảnh chính; không lặng chết >2,5s; **soi đủ 10 frame giữa cảnh: cả 10 cảnh đúng hình Sao Hỏa** (Cảnh 6 nhà kính điều áp trồng khoai tây đúng cảnh ăn tiền; Cảnh 8 làm tan băng ngầm tưới khoai tây; Cảnh 9 sổ tay hologram; Cảnh 10 cả ba vẫy tay bên thẻ Mặt Trời + SGK); chữ ký vàng kem góc phải trên rõ ở cả cảnh sáng lẫn cảnh tối; thẻ kết đúng 2 dòng + chữ ký.
+- **Hai điểm nhỏ để Đạo diễn soi kỹ khi nghiệm thu (ghi chú, không phải lỗi chặn):** (1) Robot Sao Hỏa trôi thiết kế giữa các clip: C3 rover chuẩn; C4 nhỏ/cute hơn; C6 biến thể đầu ống nhòm khác; C7/C8/C10 rover đúng mẫu — cùng tông trắng-cam, mắt ống nhòm, cánh pin mặt trời; (2) Cảnh 7 có 2 phi hành gia trong sơ đồ chu trình khép kín (theo nội dung cảnh); chữ nhỏ trên hologram Cảnh 9 có chỗ do công cụ viết sai chính tả (tiêu đề "Mars Ice-Water Layers" + "Closed-Loop Mars Greenhouse Photosynthetic Cycle" đọc được).
+- **Việc tiếp theo:** chờ Đạo diễn nghiệm thu Tập 2 (và Tập 4 Hà Lan vẫn chờ file về tới máy Đạo diễn).
+
+— Nắng
