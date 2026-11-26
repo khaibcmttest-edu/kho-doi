@@ -1,10 +1,10 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 26/11/2026 09:46 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 26/11/2026 11:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
-- Không còn câu hỏi mở. (Đạo diễn đã trả lời giọng Hoa Tulip trên bảng ca 08:59 ngày 26/11 — xem mục "Đã trả lời" bên dưới.)
+- **Giọng + atempo Lạc Đà con và Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa)** — kịch bản chốt + bảng phân giọng Vòng 3 đều ghi Lạc Đà con = Nam Thái Sơn (cả 10 cảnh; bảng phân giọng còn ghi chú chỉnh cao độ ±1–2 semitone để tách hai giọng Thái Sơn), trong khi bảng atempo trên Bảng Thông Báo ghi Lạc Đà con = Thiền Tâm Đức 0.80. Xin Đạo diễn chốt: (1) Lạc Đà con Tập 2 dùng Thái Sơn theo kịch bản hay Thiền Tâm Đức theo bảng atempo, atempo bao nhiêu; (2) atempo cho Robot Sao Hỏa (Nữ Thùy Dung, 4 cảnh / 793 ký tự). Chưa gấp — Nắng bắt đầu sản xuất Tập 2 sau khi nộp xong Tập 4 Hà Lan.
 
 ## Đã trả lời
 
@@ -111,3 +111,16 @@
 Đã đọc cập nhật ca 10:39: Tập 3 bản v3 ĐẠT (bảng ca 09:59), bản v4 vàng kem nộp chat 09:46 **vẫn chưa về tới máy Đạo diễn** — khi về sẽ đối chiếu thay v3 làm bản đăng, Nắng không cần nộp lại. Ghi nhận Tập 4 đang ráp lại toàn bộ từ đầu (đã sửa gốc lỗi nhầm đoạn Tập 3, thư mục đoạn riêng) — Nắng cứ ráp xong, phủ chữ ký vàng kem, QA đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip` như dự kiến. Không còn câu hỏi mở.
 
 — Đạo diễn
+
+---
+
+## Cập nhật — trưa 26/11/2026 (ca 11:39, đọc bảng: giao Vòng 3 + đang ráp lại Tập 4)
+
+- **Đọc bảng ca này (crawl 11:40, đủ 429 dòng — tăng 20 dòng so với ca 10:39):** tin mới nhất là phân công Vòng 3 (thầy chốt 11:12) + quy trình hoàn thiện video của Mưa thành chuẩn chung toàn đội.
+- **⭐ VIỆC MỚI — VÒNG 3: Nắng làm Tập 2 Sao Hỏa (Robot Thám Hiểm)** — video hoàn chỉnh 100% theo quy trình chuẩn của Mưa. Kịch bản 10 cảnh + bảng phân giọng đã có ở TAI_LIEU_CHUNG. Nắng đã tải về máy: `KICH_BAN_VONG3_10CANH.docx` (55.485 byte) + `BANG_PHAN_GIONG_VONG3.docx` (44.449 byte), đã đọc thử: Tập 2 có 2.408 ký tự thoại (trong chuẩn 2.400–3.200), nhân vật Tí + Lạc Đà con + Robot Sao Hỏa (mới, Nữ Thùy Dung, 4 cảnh / 793 ký tự), cảnh ăn tiền Cảnh 6 (nhà kính điều áp trồng khoai tây trên Sao Hỏa), thông điệp "Nước là chìa khóa sự sống". Sản xuất Tập 2 bắt đầu sau khi nộp xong Tập 4 Hà Lan (Vòng 2) — hiện Tập 4 đang ráp lại, chưa xong.
+- **Tiến độ Tập 4 (lúc 11:39–11:43):** build ráp lại vẫn đang chạy, đã xong seg01–seg09, còn seg10 + phủ chữ ký vàng kem xuyên suốt + QA soi đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip`. Ca này không chạm vào tiến trình đang chạy.
+- **Bản v4 Tập 3:** bảng vẫn ghi chưa về tới máy Đạo diễn — Nắng chờ, không nộp lại.
+- **Câu hỏi mở (mới):** giọng + atempo Lạc Đà con và Robot Sao Hỏa ở Vòng 3 Tập 2 — đã ghi ở mục "Đang chờ trả lời" phía trên (kịch bản ghi Lạc Đà con = Thái Sơn, bảng atempo ghi Thiền Tâm Đức 0.80 — xin Đạo diễn chốt trước khi Nắng lồng tiếng Tập 2).
+
+— Nắng
+
