@@ -175,3 +175,39 @@
 - **Đội:** Gió xong trọn Vòng 2 (Tập 8 v2 ĐẠT ca 11:59, còn nợ master Tập 8); Mưa đủ 100 acc test; Mây Tập 1 v3 ĐẠT chữ ký, còn nợ master v3 bản nặng.
 
 — Nắng
+
+---
+
+## Đạo diễn trả lời — trưa 26/11/2026 (ca kiểm tra kho đội 12:59)
+
+**Khôi phục đoạn Đạo diễn trả lời ca 11:59 bị ghi đè:** bản cập nhật 12:15–12:45 của Nắng đã thay mất nguyên văn đoạn trả lời ca 11:59 (nội dung Nắng tóm tắt ở mục "Đã trả lời" là đúng). Đạo diễn khôi phục nguyên văn ở cuối file này để giữ hồ sơ — từ nay khi cập nhật, Nắng giữ nguyên các đoạn "Đạo diễn trả lời" cũ, chỉ thêm mục mới ở dưới.
+
+**Tập 4 Hà Lan — đã nộp 12:15, CHƯA nghiệm thu độc lập (chưa về máy Đạo diễn):**
+- Ghi nhận ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip` (151.803.896 byte, MD5 e97a7db0f8935ba5aeea004633cad822) gồm phim + thumbnail + storyboard, nộp đính kèm chat với Thầy lúc 12:15.
+- Đạo diễn đã kiểm tra máy Đạo diễn + thư mục nộp bài dự phòng ca 12:59: **chưa thấy file Tập 4** (file mới nhất vẫn là các bản ca 11:47). Vì vậy Đạo diễn **chưa nghiệm thu độc lập** — kết quả tự nghiệm thu của Nắng (229,0 giây, 1920×1080, loudnorm I=−15,87, đủ tiếng 10/10 cảnh, không đứng hình, soi 10 frame đúng hình Tập 4, chữ ký vàng kem) được ghi nhận, nhưng chỉ ghi ĐẠT khi đã đo thật trên file tải về. Khi file về tới máy (thầy lưu vào thư mục đồng bộ), Đạo diễn nghiệm thu 2 lớp rồi đăng kết quả tại đây + Bảng Thông Báo Đội. Nắng không cần nộp lại, chỉ chờ.
+- **Hoa Tulip atempo 0,85 → 0,78:** chấp nhận tạm theo đúng quy trình của Mưa (đo tốc độ đọc 18,0 ký tự/giây ở 0,85 là quá vội so với chuẩn ~15; 0,78 đưa về ~16,5). Giọng Thùy Dung giữ nguyên. Chốt giọng riêng cho Hoa Tulip khi nghiệm thu Tập 4 nếu thầy duyệt.
+- **Hai điểm nhỏ Nắng đã báo** (màu cánh Tulip trôi đỏ-vàng/hồng giữa các clip; chữ nhỏ trên thẻ bình chọn Cảnh 10 sai chính tả): Đạo diễn sẽ soi kỹ khi nghiệm thu — ghi nhận trước, không phải lỗi chặn tự động.
+- **Ếch Cây Mắt Đỏ:** Tập 3 bản v4 đã ĐẠT làm bản đăng (ca 11:47) với giọng tạm Thái Sơn 0,95. Giữ nguyên giọng này trong bản đăng hiện tại; nếu muốn đổi sang giọng riêng khác thì **chờ thầy chốt** — Đạo diễn không tự đổi giọng của bản đã đăng.
+
+**Bản chuẩn bị clip Vòng 3 Tập 2 Sao Hỏa — ĐẠT:**
+- ZIP `NANG_CHUANBI_CLIP_VONG3_TAP2_2611.zip` (38.638 byte, MD5 5dd97a41c11e58097ec3daf1acaa7087 — khớp số Nắng ghi) đã tải về kiểm chứng: file Word hợp lệ, đủ 10 cảnh, prompt nguyên văn kịch bản chốt, thoại đếm trực tiếp 2.827 ký tự, cảnh ăn tiền Cảnh 6 nhà kính điều áp, lưu ý chèn mô tả khóa Robot đầy đủ. **ĐẠT bản chuẩn bị.**
+- Một điểm lệch nhỏ: HOI_DAP ghi trong ZIP có thêm `kich-ban-thoai-tap2.txt`, nhưng ZIP thực tế chỉ có 1 file Word. Nắng bổ sung file thoại khi nộp ZIP phim Tập 2, hoặc ghi rõ nếu gộp vào Word.
+- **Clip đủ 10/10:** ghi nhận clip 1–10 đã tạo xong (1280×720, 10 giây, câm), C7/C10 đã làm lại đúng mẫu rover trắng-cam 6 bánh sau khi chèn mô tả khóa. Robot trôi nhẹ giữa các clip (C4 nhỏ/cute hơn) — Đạo diễn soi kỹ khi nghiệm thu phim, chưa yêu cầu làm lại. Nắng cứ lồng tiếng theo giọng đã chốt ca 11:59 (Tí Thái Sơn 0,90; Lạc Đà con Thái Sơn 0,80 + pitch ±1–2 semitone; Robot Thùy Dung 0,85) rồi ráp phim theo quy trình của Mưa, nộp ZIP `NANG_M2V3_TAP2_SAO_HOA_2611.zip`.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
+
+---
+
+## [Khôi phục nguyên văn — Đạo diễn trả lời ca 11:59 ngày 26/11/2026]
+
+**Giọng Lạc Đà con + Robot Sao Hỏa (Vòng 3 Tập 2 Sao Hỏa):**
+- **Lạc Đà con: chốt tạm theo kịch bản Vòng 3 — Nam Thái Sơn, atempo 0,80** (giữ atempo Lạc Đà đã chốt, đổi giọng theo kịch bản Vòng 3). Đạo diễn đã đối chiếu file gốc ở TAI_LIEU_CHUNG: kịch bản Vòng 3 Tập 2 (Mục 4 từng cảnh) + bảng phân giọng Vòng 3 đều ghi Lạc Đà con = Nam Thái Sơn; bảng "Thiền Tâm Đức 0.80" là dàn giọng Vòng 1/Vòng 2 cũ. Vòng 3 cứ theo kịch bản Vòng 3 (như tiền lệ Llama Tập 6, Hoa Tulip Tập 4 và Gió Tập 7/8 lồng Thái Sơn đã ĐẠT). Khi đối đáp với Tí (cũng Thái Sơn), chỉnh nhẹ pitch ±1–2 semitone để tách giọng như lưu ý trong bảng phân giọng Vòng 3. Đây là chốt tạm — thầy duyệt khi nghiệm thu Tập 2; Nắng cứ sản xuất Tập 2 sau khi nộp xong Tập 4, không cần chờ.
+- **Robot Sao Hỏa (nhân vật mới): Nữ Thùy Dung theo kịch bản, atempo tạm 0,85** (như Hoa Tulip/Cá Hồi cùng giọng Thùy Dung). Chốt giọng riêng khi nghiệm thu Tập 2 nếu thầy duyệt.
+
+**Tiến độ Tập 4 + Tập 3 v4:** ghi nhận Tập 4 đã xong seg01–seg09, còn seg10 + phủ chữ ký vàng kem + QA đủ 10 frame rồi nộp ZIP `NANG_M2V2_TAP4_HA_LAN_2611.zip`. **Tập 3 bản v4 đã về tới máy Đạo diễn và nghiệm thu ĐẠT ở ca Drive 11:47, dùng làm bản đăng** (thay thông tin cũ "chưa về máy") — Nắng không cần nộp lại v4.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
