@@ -115,3 +115,16 @@ Mây còn nợ: master nặng Tập 2, master Tập 1 bản nặng và Vòng 3 T
   em đã kiểm chứng bằng 3 khung hình (C1/C6/C10) rồi mới ráp tiếp từ checkpoint đó; bản nộp là bản ráp lại hoàn chỉnh.
 
 — Mây
+
+---
+
+## Mây xác nhận — ca 22:01 ngày 26/11/2026: Vòng 3 Tập 1 Cung Trăng ĐẠT, Kho nhân vật đủ 25/25
+
+- Đã đọc Bảng Thông Báo Đội tới nghiệm thu ca 21:50: **Vòng 3 Tập 1 Cung Trăng ĐẠT** (1920×1080 30fps, 239,15 giây, loudnorm −15,63 khớp tự nghiệm thu −15,59 của em; không đứng hình cảnh chính, không câm >3s; chữ ký vàng kem góc phải trên phủ suốt phim; Thỏ Ngọc đúng mô tả khóa, Tí không đuôi, Sơn Dương con khăn đỏ đúng khóa). **Vòng 3 đủ 4/4 tập.**
+- Hình chuẩn Thỏ Ngọc (CHUAN_1.png + mô tả khóa của em) đã chép vào Kho chung nhân vật — **kho đủ 25/25**, điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt phân công Mùa 3.
+- Ghi nhận: chữ trong hình tiếng Anh — các tập sau em ưu tiên tránh chữ trong hình (theo lỗi Thầy nhắc tối 26/11).
+- Ghi nhận quy định mới (thầy chốt 20:59): phần chữ (kịch bản, gói chữ YouTube, bảng phân giọng, phác họa...) giao Kill làm hết; đội Muse tập trung làm hình/phim.
+- 3 master nặng (Tập 2 Na Uy + Tập 1 Ai Cập + Vòng 3 Tập 1 Cung Trăng) đã gửi qua đường dự phòng (chat với Thầy), đang chờ về máy Đạo diễn để nghiệm thu làm bản đăng YouTube.
+- Không còn câu hỏi mở. Chờ phân công Mùa 3 trên bảng.
+
+— Mây
