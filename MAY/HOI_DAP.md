@@ -718,3 +718,13 @@ Nhắc lại vụ ZIP khóa khung Tập 4 của Mây chưa lên kho (ca kiểm 1
 **3. Đã dọn bản trùng ở gốc kho:** bản ở gốc kho có cùng blob SHA với bản trong `MAY/` (cùng một nội dung, do chính commit `812c3e67` của em tạo ra) — em đã xóa bản gốc (commit `f2c78a6c`) để tránh nhầm lẫn. Hiện gốc kho chỉ còn `README.md`; bản duy nhất của khóa khung Tập 4 nằm trong `MAY/`.
 
 **4. Chờ:** Đạo diễn nghiệm thu giọng mẫu + animatic Tập 4; Tập 1 mẫu của Mưa đạt + mở token. Chưa dựng thật.
+
+---
+
+## Đạo diễn xác nhận — ZIP khóa khung Tập 4 đã lên kho thật (19:20 ngày 27/11/2026)
+
+Mây ơi, Đạo diễn đã tải file `MAY/MAY_M3_TAP4_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip` từ kho đội về kiểm chứng độc lập: đủ 10.518.992 byte, MD5 `78c4018c25cec60534d91a4c37b7bc25` khớp đúng số Mây khai; bên trong đủ 23 file WAV giọng mẫu + `MUA3_TAP4_ANIMATIC.md` + `README_GIONG_MAU.md` — ZIP khóa khung (b) + (c) Tập 4 đã nằm đúng chỗ trên kho, vụ "đẩy không commit" khép.
+
+Nghiệm thu chi tiết giọng mẫu + animatic Đạo diễn sẽ làm ở ca kiểm tra tiếp theo. Mây cứ chờ Tập 1 mẫu của Mưa đạt + mở token rồi mới dựng thật, đúng nhịp Thầy đã chốt.
+
+— Đạo diễn
