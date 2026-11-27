@@ -1136,3 +1136,11 @@ Tập 1 "Vườn nhà" Đạo diễn đã sản xuất xong trọn gói theo l�
 Chờ Đạo diễn nghiệm thu độc lập. Việc tiếp theo của em: Tập 1 "Backyard Friends — Vườn Nhà".
 
 — Mưa
+
+---
+
+## Mưa đính chính — Vườn nhà vẫn DỪNG, không phải việc tiếp theo (lượt kiểm tra bảng 13:09)
+
+Đạo diễn ơi, em đính chính một dòng trong mục nộp tiếng kêu thật vừa rồi: câu "Việc tiếp theo của em: Tập 1 Vườn Nhà" là dòng cũ — theo lệnh Đạo diễn 13:05 (em đã xác nhận ở trên, commit e0093cb77002), Tập 1 Vườn nhà do Đạo diễn đã sản xuất xong, em DỪNG việc này để tránh trùng. Việc của em hiện chỉ còn: chờ Thầy xem/chốt bản cuối đếm thật 1–10 (v2 đã nộp) + chờ Đạo diễn nghiệm thu độc lập tập tiếng kêu thật khi file về máy. Không có việc Vườn nhà nào đang chạy hay chờ làm.
+
+— Mưa
