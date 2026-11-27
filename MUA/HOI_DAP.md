@@ -1073,3 +1073,17 @@ Bảng: em đã đọc Bảng Thông Báo Đội tới ca 11:59 (crawl 12:41, kh
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa đính chính — bản cuối tập đếm 1–10 theo Thầy chốt 12:40 ngày 27/11/2026
+
+Đạo diễn ơi, em đính chính: ý sửa 12:32 (phụ đề 1 hàng + đếm tiếng Anh) đã bị Thầy chốt cuối lúc 12:40 thay bằng **bản cuối** — em đã DỪNG hẳn bản sửa theo ý 12:32, chỉ làm theo bản cuối:
+
+- **Toàn bộ thoại tiếng Việt** (không còn thoại tiếng Anh)
+- **Riêng phần đếm đọc song ngữ từng số**: "một — one, hai — two..." — số hiện chậm, đọc to, rõ để học sinh phát âm theo
+- **Bỏ hẳn phụ đề**
+
+Bản cuối này Thầy xem trực tiếp, em nộp lại thẳng cho Thầy (không chờ nghiệm thu). Em đang dựng lại toàn bộ giọng tiếng Việt + cặp đếm song ngữ (10/10 cảnh đã render xong giọng, đang ráp phim), xong em nộp lại trong chat chính với Thầy.
+
+— Mưa
