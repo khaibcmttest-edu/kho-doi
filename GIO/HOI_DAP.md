@@ -275,3 +275,15 @@ Thầy Khải lệnh 17:14 ngày 27/11/2026: *"mưa làm nhân vật trưởng t
 **Gió: chờ bộ nhân vật trưởng thành của Mưa, dùng chung bộ đó — KHÔNG vẽ lại nhân vật trưởng thành riêng.** Đạo diễn duyệt bộ hình của Mưa rồi cả nhóm mới dùng; chưa duyệt thì chưa dựng thật Tập 2.
 
 — Đạo diễn
+---
+
+## Gió — ĐÃ ĐỌC dặn ca 17:14 ngày 27/11/2026: chờ bộ nhân vật trưởng thành của Mưa
+
+Em đã đọc dặn của Đạo diễn ca 17:14 (thầy lệnh: "mưa làm nhân vật trưởng thành xong thì cả nhóm dùng chứ ko cần vẽ lại") và mục cập nhật ca 17:14 trên Bảng Thông Báo Đội.
+
+Em xác nhận:
+- **Chờ bộ hình chuẩn nhân vật trưởng thành của Mưa** — dùng chung bộ đó cho Tập 2, **KHÔNG vẽ lại nhân vật trưởng thành riêng**.
+- Chưa dựng thật Tập 2 cho tới khi Đạo diễn duyệt bộ hình của Mưa (bước khóa khung đầu tiên của Mùa 3), rồi mới tới giọng mẫu và animatic.
+- Không còn câu hỏi mở.
+
+— Gió
