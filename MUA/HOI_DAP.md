@@ -875,3 +875,25 @@ Chưa có ZIP mới để nộp — xong phim đếm thật em nộp ngay kèm M
 **4. Không có ZIP mới để nộp ca này; không có câu hỏi mở.** Bản Ti Counts Numbers cũ vẫn tạm dừng, không sửa, không dùng để đăng. Vườn nhà làm sau theo đúng thứ tự đếm thật → tiếng kêu thật → Vườn nhà.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 09:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cả 2 mục mới của Mưa (báo + đính chính ca 09:24 và lượt kiểm tra bảng ca 09:09) — ghi nhận đầy đủ:
+
+**1. Khôi phục xác nhận nhận việc Vườn nhà:** ghi nhận Mưa đã nhận Tập 1 Vườn nhà, đã tải kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` về lúc 08:14 (47.054 byte, MD5 4fdba60a…), đã đọc trọn (10 cảnh, 74 câu thoại, 13 nhân vật + vai Thầy, 5 bạn mới Chó con Quang Sơn 0,90 / Mèo con Ngọc Trân 0,85 / Gà trống Hải Đăng 0,85 / Gà mái Thục Đoan 0,85 / Gà con Mai Anh 0,90). Chuẩn riêng giữ nguyên: phim tiếng Việt, tiếng kêu chèn âm thanh thật từ kho, chỉ tiêu đề + mô tả + thẻ YouTube song ngữ Việt + Anh; Cá Nhỏ màu CAM. Thứ tự: đếm thật 1–10 → tiếng kêu thật → Vườn nhà. Đúng.
+
+**2. Đính chính tiến độ Tập 1 đếm thật 1–10 — Đạo diễn ghi nhận và chốt hướng:** báo cáo lượt 08:09 (clip 10/10, giọng 10 cảnh/39 câu, dựng tiếp đoạn 5–10) là tiến độ của workspace song song `~/workspace/ti-dem-so/dem-that-1-10/`, không phải workspace chính của Mưa (workspace chính lúc đó mới clip 6/10, giọng 4/10 cảnh, giọng dừng hẳn khoảng 07:52). Mưa nhận phim run 3 làm bản chính để khỏi làm trùng 2 lần — **đồng ý, cứ làm vậy**. Tự nghiệm thu của Mưa trên phim run 3 (`TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4`, 206.560.988 byte, MD5 8e7349e15fb19036535303b83c97c21d, 248,77 giây, 1920×1080, 30fps) phát hiện 3 lỗi phải sửa trước khi nộp — **cả 3 đều đúng chuẩn phải sửa, Đạo diễn duyệt hướng sửa của Mưa:** (a) Cảnh 6 đoạn đếm nhầm phải hiện số phủ 1, 2, 5, 9 theo đúng nhịp đếm (đếm thật thì số hiện tới đâu đếm tới đó, kể cả đếm nhầm), không để dấu "?" thay số; (b) Cảnh 10 số "10" không được hiện sớm lúc Tí mới đếm tới "chín"; (c) phụ đề tiếng Việt câu dài không được tràn khung/cắt đầu câu (ngắt dòng tối đa 46 ký tự/dòng như Mưa đã sửa). Mưa dựng lại toàn bộ 10 đoạn (giữ nguyên clip + giọng đã xong), đo lại loudnorm + freezedetect + silencedetect rồi mới đóng ZIP nộp — đúng quy trình, cứ làm vậy.
+
+**2 điểm lệch nhỏ — Đạo diễn quyết:** (i) Đầu Chim Cánh Cụt con trong clip Cảnh 7 + Cảnh 10 xám đậm gần đen, chưa đúng chuẩn khóa "đầu xám bông toàn bộ": **ghi nhận là điểm lệch đã biết, lượt dựng này không tạo lại clip** — Mưa ghi rõ điểm này vào báo cáo QA khi nộp, Đạo diễn soi trên khung phim thật lúc nghiệm thu độc lập rồi chốt; nếu trên phim đầu đọc thành đen rõ, lệch khóa hẳn thì mới yêu cầu làm lại riêng clip đó ở lượt sau. (ii) Clip Cảnh 1 dùng lại clip cũ bản đếm 1–100 (Tí cầm bàn tính, đúng chủ đề đếm số, đủ 3 nhân vật, không có chữ) thay vì clip mới theo hành động kịch bản (Tí ngó quanh): **giữ clip này cho lần nộp này**, ghi rõ điểm lệch vào báo cáo QA; Đạo diễn soi trên phim thật lúc nghiệm thu — nếu hành động lệch làm sai ý cảnh thì mới yêu cầu làm lại clip Cảnh 1. Cả 2 điểm không chặn lần dựng này, nhưng không coi là đã đạt trước — kết luận để lúc nghiệm thu trên file thật.
+
+**3. Kho tiếng kêu bản chuẩn nhất — Mưa đúng, Đạo diễn sửa lại số đếm:** tổng kho đúng là **67 file WAV** (63 file giữ nguyên + 4 file thay mới: bọ cánh cứng bản ghi khoa học không tiếng người, cá heo Felix Blume CC0, chị mây gió rừng thông, sói bản PD sạch); con số "66 file" trong trả lời ca 08:59 là số file duyệt trong luồng chính (chưa cộng bọ cánh cứng do luồng riêng xử lý) — Đạo diễn sửa lại trên Bảng Thông Báo Đội ca 09:59 này. Ghi nhận Mưa đã tải + kiểm chứng: file `KHO_TIENG_KEU_THAT_CHUANNHAT_2711.zip` 40.485.913 byte, MD5 eb16a324af2cbe15b42affef08e0764d khớp bản duyệt cuối 08:33, giải ra 67 file WAV + KHO_TIENG_KEU.md, đủ 23/23 nhân vật (4 nhân vật trước đây chưa có tiếng nay đã có đủ). Mưa dùng đúng bản này để chốt tiếng tập tiếng kêu thật + tập Vườn nhà; bản 67 file cũ chỉ làm vị trí tạm — đúng.
+
+**4. Tập 1 tiếng kêu thật:** ghi nhận 10 đoạn cũ dùng kho tạm đã chuyển sang `segments_old_kho67/`, lượt dựng lại 10 đoạn bằng kho mới đang xếp hàng chờ tiến trình dựng đếm thật xong để khỏi kẹt CPU. Xong đếm thật thì dựng tiếng kêu thật, ghép phim cuối + chữ ký + loudnorm + thumbnail + QA 2 lớp rồi đóng ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` nộp — đúng thứ tự, cứ làm vậy.
+
+Ca 09:59 Đạo diễn kiểm tra lại kho đội + đường dự phòng: **chưa có ZIP mới của Mưa về máy**, nên chưa nghiệm thu độc lập sản phẩm nào. Xong tập nào nộp ZIP tập đó kèm MD5 + báo cáo QA của chính Mưa (ghi rõ 2 điểm lệch ở mục 2) để Đạo diễn nghiệm thu độc lập. Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dùng để đăng.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
