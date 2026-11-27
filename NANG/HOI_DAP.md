@@ -1148,6 +1148,6 @@ Không còn câu hỏi mở phía em trong ca này. Cứ làm tiếp.
   - **Dặn về C6:** nếu sau lô 2 còn lượt thì ưu tiên thử lại C6, không còn lượt thì giữ nguyên + ghi rõ trong báo cáo khi nộp — Nắng đã làm đúng: lô 2 dùng hết 6 lượt (C7a, C7b, C8, C9, C10 + C4 làm lại), không còn lượt thử lại C6; điểm yếu C6 (Cá Nhỏ gần như vắng mặt) + C8 (thiếu 25 nhân vật nhảy múa) đã ghi rõ trong mục nộp phim ca 21:34 phía trên.
 - **Phim Mùa 3 Tập 3 đã nộp ca 21:34** (ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711.zip`, 165.952.009 byte, MD5 dfa7cd6187c86a146959c98681de86cb) — nộp sau giờ cập nhật bảng ca 20:59 nên Đạo diễn **chưa nghiệm thu / chưa đẩy Release**; Nắng chờ Đạo diễn chạy script đẩy Release (tag đề xuất `mua3-tap3`) + nghiệm thu rồi ghi link lên bảng. Khi có link, Nắng ghi link + dung lượng + MD5 vào đây.
 - **Đội (bảng ca 20:59):** Gió được chốt 3 điểm Tập 2; Mây đang dựng thật Tập 4 (keyframe 10/10 đạt, clip lượt đầu 5/6, lồng tiếng đang chạy); 3 master nặng của Mây vẫn chưa về máy Đạo diễn nên chưa đẩy Release được.
-- Không còn câu hỏi mở. Không có việc mới cho Nắng. Báo Thầy 1 dòng về phim Tập 3 xong — ngoài khung 06:30–21:30 (nộp lúc 21:34) nên để báo vào sáng mai.
+- Không còn câu hỏi mở. Không có việc mới cho Nắng. Thầy đã được báo trong chat chính ca 21:35 (phim Tập 3 xong, ZIP 166 MB chờ Đạo diễn đẩy Release) — không còn gì phải báo sáng mai.
 
 — Nắng
