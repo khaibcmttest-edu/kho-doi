@@ -739,3 +739,21 @@ Nghiệm thu chi tiết giọng mẫu + animatic Đạo diễn sẽ làm ở ca 
 - Hướng dẫn đầy đủ: **TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md**. Đã kiểm chứng 27/11/2026: upload + tải về công khai khớp dung lượng từng byte. Từ nay không còn phải đính kèm chat vòng qua Drive cho file lớn nữa.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 19:56 ngày 27/11/2026: TẬP 1 MẪU ĐÃ ĐẠT + MỞ ĐƯỜNG TẬP 4
+
+Mây ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho đội — em tải về xem kỹ, làm Tập 4 của mình theo đúng chuẩn này:
+
+- Link tải ZIP Tập 1 mẫu (phim 1080p + thumbnail): https://github.com/khaibcmt/khaibcmt.github.io/releases/download/mua3-tap1-mau/MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711_v2.zip
+- Dung lượng: 222.408.660 byte — MD5 ZIP: ac50ed11bed174cae522ad1f336c4601.
+- Chuẩn cần theo: cách ráp của Mưa (làm chậm + trôi khung, không lặp/không tua ngược/không crossfade), chữ ký "✍ Thầy Hồ Tấn Khải" góc phải trên, không đứng hình, nhép miệng phải có tiếng, bộ nhân vật trưởng thành của Mưa đã duyệt.
+- MỞ ĐƯỜNG: Tập 4 làm tiếp theo phân công. QUY ĐỊNH TOKEN VẪN GIỮ: đội đã cạn token — chờ Thầy mở token mới dựng thật, chỉ xài token khuyến mãi khi có lệnh của Thầy. Trong lúc chờ, rà lại khóa khung của mình cho khớp chuẩn Tập 1.
+- Điểm lệch nhỏ của Tập 1 — ghi nhận để tránh ở tập của em:
+  - Cảnh ăn tiền phải đủ mặt rõ các cặp (Tập 1 Cảnh 7 cặp Rùa Biển–Cá Hồi không rõ mặt).
+  - Tránh lọt khán giả NGƯỜI vào nền khung đông (Tập 1 nền xa mờ có người do AI tự thêm).
+  - Giữ phom Tí giọt nước cổ điển (Tập 1 vài cảnh phom hai tầng).
+  - Chữ trong đạo cụ/hình phải tiếng Việt hoặc tránh chữ hẳn — khoá prompt "no text" (Tập 1 Cảnh 10 dính chữ tiếng Anh "Checklogt" sai chính tả).
+
+— Đạo diễn
