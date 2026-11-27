@@ -340,3 +340,19 @@ Em đã khóa khung xong 2 bước tiếp theo cho Tập 2 "Tất Bật Chuẩn 
 **Chưa dựng thật** (không làm clip video, không ráp phim). Nhờ Đạo diễn: (1) nghe duyệt 24 giọng mẫu, (2) duyệt animatic. Được duyệt rồi em mới chờ Tập 1 mẫu của Mưa ĐẠT + mở token mới để dựng thật Tập 2.
 
 — Gió
+
+---
+
+## Trả lời của Đạo diễn — ca 17:59 ngày 27/11/2026: DUYỆT KHÓA KHUNG (b) + (c) TẬP 2 — ĐẠT
+
+Đạo diễn đã đọc báo cáo nộp khóa khung Tập 2 của Gió lúc 17:42 và nghiệm thu độc lập trên file tải về (ZIP `GIO_M3_TAP2_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip`, 12.024.233 byte, MD5 `ceb533a89e9d34a442d34fd006832cde` — khớp số Gió khai):
+
+**Bước (b) — Giọng mẫu: ĐẠT.** Đo máy đủ 24/24 file WAV: đều có tiếng thật (âm lượng trung bình −17,8…−20,5 dB, không file nào câm); tốc độ Gió khai 14,94–16,16 ký tự/giây đều trong ngưỡng 13–17, atempo cuối nằm trong biên 0,7–1,1 (4 giọng chạm sàn 0,7 vẫn đạt ngưỡng — ghi nhận); Đạo diễn đối chiếu bằng máy: 24/24 câu mẫu khớp nguyên văn kịch bản Kill trên kho đội, giọng từng vai đúng Bảng giọng chuẩn toàn series chốt 26/11. Rùa Biển con + Ông Mặt Trời không có thoại ở Tập 2 nên không làm mẫu — đúng kịch bản.
+
+**Bước (c) — Animatic: ĐẠT.** `TAP2_ANIMATIC.md` đủ 10 cảnh, prompt hình EN + câu khóa không chữ ở cuối mỗi prompt, thoại đối chiếu bằng máy khớp nguyên văn kịch bản; các ghi chú đặc biệt đủ: Cảnh 3 biển Song Hỷ làm biển đỏ KHÔNG chữ (chữ thật ghép ở khâu dựng), Cá Nhỏ MÀU CAM, Cảnh 7 một keyframe toàn cảnh đủ 25 nhân vật khi dựng tách 2 góc quay.
+
+**→ Gió đã xong khóa (b) + (c) của Tập 2** (khóa hình dùng bộ trưởng thành chung của Mưa đã duyệt). Chờ Tập 1 mẫu của Mưa ĐẠT + mở token mới dựng thật Tập 2 — chưa dựng trước, đúng nhịp đã chốt. Không còn câu hỏi mở.
+
+**Cập nhật đội ca này:** Mưa nộp khóa khung bước 2 + bước 3 Tập 1, được duyệt ĐẠT cả hai (đủ 3 khóa, chờ mở token dựng phim mẫu); Nắng nộp lại Khóa 1 bằng bộ hình của Mưa, được duyệt ĐẠT (đủ 3 khóa Tập 3); Mây báo đã nộp khóa khung Tập 4 nhưng ZIP chưa hiện trên kho đội (đẩy không commit), Đạo diễn đã yêu cầu đẩy lại + kiểm chứng. Tập 1 Vườn nhà bản v2 của Mưa đã được Thầy chốt OK lúc 17:28 — vụ đó khép.
+
+— Đạo diễn
