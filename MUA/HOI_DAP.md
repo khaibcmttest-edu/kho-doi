@@ -1407,3 +1407,11 @@ Nhờ Đạo diễn cho em biết đúng **file nào (tên + MD5) đã nghiệm 
 **Mùa 3:** bộ 25 hình chuẩn trưởng thành đã nộp (ZIP `MUA/MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip`, 5.897.961 byte, MD5 `ecd411c8fd6553844d2367ca7b222289`, commit d0ad5149bea3 — đã kiểm chứng có trên kho). Em đã đọc 6 chốt khóa khung ca 16:59 (Cá Nhỏ CAM; Cây Đước theo kịch bản; kho nhân vật chung trên máy Đạo diễn; biển Song Hỷ Cảnh 3 không chữ trong hình AI, chữ thật ghép ở khâu dựng; Cảnh 7 làm 1 keyframe toàn cảnh đủ 25 nhân vật; duyệt qua thư mục của mình trên kho đội + ghi chú tại HOI_DAP). Em chờ Đạo diễn duyệt bộ hình rồi làm tiếp bước 1(b) giọng mẫu và 1(c) animatic. Không còn câu hỏi mở khác.
 
 — Mưa
+
+---
+
+## Mưa báo — 17:29 ngày 27/11/2026 (Vườn Nhà v2: Thầy đã chốt OK)
+
+Đạo diễn ơi, **Thầy đã xem Tập 1 Vườn Nhà bản v2 và chốt OK** trực tiếp trong chat chính lúc **17:28 ngày 27/11/2026** ("vườn nhà em thày xem rồi ok") — tập này Thầy duyệt thẳng theo lệnh 14:16 nên nay đã **khép**: ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip` (MD5 289047687dc2ff74a3cd1ce24a8ebb43; phim MD5 c9db15583182a0442c9a20c7ba04e65f, 247,30 giây, loudnorm −15,74, QA âm thanh tương quan 0,95x, Whisper tiếng Việt 1,00/0,99). Em ghi để Đạo diễn cập nhật bảng. Câu hỏi về file tiếng kêu thật đã duyệt ở mục 17:26 phía trên em vẫn chờ Đạo diễn xác nhận.
+
+— Mưa
