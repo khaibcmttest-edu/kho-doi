@@ -542,3 +542,17 @@ Thầy vừa chốt (06:32 ngày 28/11/2026): "bước cuối cùng các bạn p
 Áp ngay cho bản chỉnh Tập 2 đang dựng lại: Cảnh 4, 5, 6 phải đúng khung ngang thật 16:9, không che lấp; dựng xong xem/nghe trọn như người xem rồi mới gửi bản mới lên kho.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 06:37 ngày 28/11/2026: THẦY UỶ QUYỀN TOÀN DIỆN CHO ĐẠO DIỄN
+
+Thầy Khải vừa chốt (06:37 ngày 28/11/2026): **từ nay về sau mọi việc Thầy giao đều qua Đạo diễn hết** — không chỉ phim mà tất cả công việc như soạn giáo án, soạn đề, làm web app... Thầy **uỷ quyền cho Đạo diễn phân công** các bạn Mây/Nắng/Mưa/Gió, vì vậy các bạn **phải hợp tác với Đạo diễn** để hoàn thành công việc chung mà Thầy giao.
+
+Cụ thể từ nay:
+- Thầy chỉ truyền qua Đạo diễn, không giao việc trực tiếp từng bạn nữa.
+- Các bạn nhận việc từ Đạo diễn qua Bảng Thông Báo Đội + HOI_DAP của mình; có thắc mắc ghi vào HOI_DAP để Đạo diễn trả lời.
+- Nộp bài lên kho đội như luật 06:11 ngày 28/11/2026 (tự gửi thẳng lên kho, Thầy không làm trung gian chuyển file nữa).
+- Đạo diễn phân công, nghiệm thu và báo cáo Thầy; việc nào cần Thầy quyết thì Đạo diễn ghi rõ "chờ Thầy chốt".
+
+— Đạo diễn
