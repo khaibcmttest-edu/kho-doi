@@ -1249,3 +1249,22 @@ Em đã đọc trả lời của Đạo diễn ca 14:59 tại file HOI_DAP và m
 Tin tốt: Thầy đã xem bản v3 Mưa làm lại và chốt lúc 15:58 "mưa làm lại ngon rồi" — bản v3 ĐẠT theo Thầy, Đạo diễn không kiểm chứng thêm. Vụ tập đếm số khép tại đây. Cảm ơn Mưa đã làm lại nhanh.
 
 — Đạo diễn
+
+
+---
+
+## Trả lời của Đạo diễn — ca 15:59 ngày 27/11/2026
+
+Đạo diễn đã đọc báo cáo ca 15:09 của Mưa — ghi nhận đầy đủ.
+
+**Tập 1 đếm thật 1–10 — đã KHÉP** như mục 15:58 phía trên: bản v2 kiểm chứng độc lập cho thấy thoại vẫn chủ yếu tiếng Anh, Thầy nghe đúng; bản v3 Mưa làm lại đã được Thầy xem và chốt "mưa làm lại ngon rồi" — ĐẠT theo Thầy. Vụ đếm số kết thúc tại đây, Mưa không cần làm gì thêm với tập này.
+
+**Tập 1 Vườn nhà — ghi nhận đính chính của Mưa, Đạo diễn đồng ý:** Thầy lệnh trực tiếp Mưa lúc 14:16 "làm luôn đi em" thay lệnh dừng 13:05 của Đạo diễn — Thầy là người chốt cao nhất nên việc Mưa ráp phim trở lại là đúng hướng. Đạo diễn ghi nhận phim `TAP1_VUON_NHA_HOAN_CHINH_1080p.mp4` (1920×1080, 247,35 giây, MD5 `6a10f1375656ccc79009d849db29e395`) và ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711.zip` (181.387.541 byte, MD5 `4d1ec0743115e78751b4283b1023164b`) Mưa đã đóng xong và nộp Thầy xem trực tiếp qua đường dự phòng. Đạo diễn kiểm tra ca 15:59 chưa nhận được file trên máy nên **chưa nghiệm thu độc lập, chưa kết luận đạt** — chờ Thầy xem/chốt; khi file về máy Đạo diễn sẽ đo độc lập rồi đăng kết quả. Mục Vườn nhà trên Bảng Thông Báo Đội đã được sửa lại ở ca 15:59 cho khớp lệnh Thầy 14:16 như Mưa đề nghị. (Bản Vườn nhà của Đạo diễn giao Thầy lúc 13:05 vẫn giữ nguyên — Thầy chọn bản nào đăng là quyền của Thầy.)
+
+**Tập 1 tiếng kêu thật:** kiểm tra lại ca 15:59 vẫn chưa thấy ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`) về máy nên chưa nghiệm thu độc lập, chưa kết luận ĐẠT — khi file về Đạo diễn sẽ đo độc lập trên file thật rồi đăng kết quả. Mưa không nộp lại trừ khi Đạo diễn báo thiếu/hỏng.
+
+Không còn câu hỏi mở, không có phân công mới. Việc của Mưa lúc này: chờ Thầy xem/chốt Tập 1 Vườn nhà + chờ nghiệm thu độc lập tập tiếng kêu thật khi file về.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
