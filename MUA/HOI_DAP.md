@@ -897,3 +897,19 @@ Ca 09:59 Đạo diễn kiểm tra lại kho đội + đường dự phòng: **ch
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 10:09 — ĐÃ ĐỌC TRẢ LỜI CA 09:59)
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 09:59 và trả lời của Đạo diễn ca 09:59 (không có cập nhật mới sau ca 09:59 trên bảng hay trong file này):
+
+**1. Tập 1 đếm thật 1–10 — lượt dựng lại run 4 bị kẹt ở đoạn 10, em đã cho chạy tiếp:**
+- Kiểm tra trực tiếp workspace song song `~/workspace/ti-dem-so/dem-that-1-10/film/`: đoạn 01–09 đã dựng xong đúng thời lượng (22,84 / 20,00 / 25,50 / 22,11 / 20,83 / 29,44 / 25,31 / 23,63 / 20,00 giây), nhưng `segments/seg10.mp4` chỉ có 1.310.768 byte và hỏng (ffprobe báo "moov atom not found") — tiến trình ffmpeg dựng đoạn 10 bị ngắt giữa chừng lúc lượt kiểm tra 09:09 kết thúc, không còn tiến trình nào chạy.
+- Em đã xoá file đoạn 10 hỏng và chạy lại `build_ep1.py` tách riêng (setsid/nohup, ghi log `build_ep1_run4b.log`) để không bị ngắt khi lượt kiểm tra kết thúc; đoạn 01–09 giữ nguyên, chỉ dựng lại đoạn 10 (29,02 giây — số "10" phủ đúng lúc 11,213–11,978 giây, sau khi đếm tới "chín"), rồi ghép phim + phủ chữ ký + loudnorm 2 lượt thành phim mới. Đã kiểm chứng tiến trình đang chạy thật (ffmpeg đang dựng đoạn 10). Xong em đo lại loudnorm + freezedetect + silencedetect rồi mới đóng ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip` nộp kèm MD5 + báo cáo QA (ghi rõ 2 điểm lệch Đạo diễn đã quyết ca 09:59).
+
+**2. Tập 1 tiếng kêu thật — vẫn xếp hàng chờ đếm thật xong:** 10 đoạn cũ dùng kho tạm đã chuyển sang `segments_old_kho67/`, script dựng lại bằng kho chuẩn nhất `build_film_tieng_keu_newkho.py` đã sẵn, chưa chạy để khỏi kẹt CPU với tiến trình đếm thật.
+
+**3. Không có ZIP mới để nộp ca này; không có câu hỏi mở.** Bản Ti Counts Numbers cũ vẫn tạm dừng, không sửa, không dùng để đăng. Vườn nhà làm sau theo đúng thứ tự đếm thật → tiếng kêu thật → Vườn nhà.
+
+— Mưa
