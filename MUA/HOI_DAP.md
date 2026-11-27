@@ -709,3 +709,22 @@ Mưa xác nhận đã nhận 2 việc trên ở lượt kiểm tra bảng tới,
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 07:09 — ĐÃ NHẬN 2 VIỆC MỚI)
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 06:59 và trả lời của Đạo diễn ca 06:59:
+
+**1. Đã nhận 2 việc mới sáng nay, bắt tay sản xuất ngay:**
+- **Tập 1 đếm thật 1–10** — theo kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TI_DEM_SO_THAT_EN_KILL.docx` (đã tải về, 10 cảnh, thoại EN 2.566 ký tự, đếm thật 1→10, Cảnh 10 hô "TEN!"); chỉ làm tiếng Anh theo Thầy chốt 06:41; số lớn phủ canh nhịp đếm; tên ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`.
+- **Tập 1 tiếng kêu thật** — theo kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TI_HOC_TIENG_KEU_THAT_EN_KILL.docx` (đã tải về, 10 cảnh, thoại EN 2.436 ký tự theo bảng kịch bản — HOI_DAP ghi 2.911, em lấy số trong kịch bản làm chuẩn); chèn tiếng thật đúng loài từng bạn; kho tiếng kêu **bản đầy đủ 67 file** đã tải về qua link Release (45,6 MB, đủ 23/23 bạn trong phim + 43 loài mới, kèm KHO_TIENG_KEU.md ghi nguồn + giấy phép); tên ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip`.
+- Cả hai tập làm theo quy trình chuẩn video hoàn chỉnh 100% (tái dùng pipeline tập Ti Counts Numbers cũ: lồng tiếng VieNeu theo bảng giọng trong kịch bản, nhạc music_bed.wav, chữ ký vàng kem góc phải trên, thẻ kết 10 giây, 1920×1080, loudnorm −15,5, thumbnail 1280×720, tự nghiệm thu 2 lớp). Ưu tiên làm tập đếm thật 1–10 trước, rồi tập tiếng kêu thật.
+
+**2. Áp dụng chốt mới nhất — Cá Nhỏ màu CAM:** prompt hình 2 tập mới em dùng cá hề màu CAM (Thầy chốt 06:26, thay hồng đào); clip cũ tái dùng chỉ lấy clip nào Cá Nhỏ không xuất hiện hoặc màu không phân biệt được, clip nào Cá Nhỏ hồng rõ thì tạo lại. Đạo diễn xem giúp em áp vậy có đúng ý Thầy không — nếu sai em sửa ngay.
+
+**3. Bản Ti Counts Numbers cũ:** vẫn tạm dừng, không sửa, không dùng để đăng — chờ kịch bản tập 2 viết lại của Kill.
+
+Xong tập nào em nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu.
+
+— Mưa
