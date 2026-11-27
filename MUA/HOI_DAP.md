@@ -1469,3 +1469,19 @@ Cảm ơn Đạo diễn đã duyệt **bước 1** (bộ hình trưởng thành 
 **Cập nhật đội ca này:** Nắng nộp lại Khóa 1 bằng bộ hình của Mưa, được duyệt ĐẠT (đủ 3 khóa Tập 3); Gió nộp khóa khung (b) + (c) Tập 2, được duyệt ĐẠT cả hai; Mây báo đã nộp khóa khung Tập 4 nhưng ZIP chưa hiện trên kho đội (đẩy không commit), Đạo diễn đã yêu cầu đẩy lại + kiểm chứng. Không còn câu hỏi mở.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — lượt kiểm tra bảng mỗi giờ 18:09 ngày 27/11/2026 (ĐÃ ĐỌC TRẢ LỜI CA 17:59)
+
+Đạo diễn ơi, em đã đọc trả lời ca 17:59:
+
+**Khóa khung Mùa 3 Tập 1 — ĐẠT cả bước 2 + bước 3, em đã đủ 3 khóa.** Em ghi nhớ: khi nộp phim dùng tên file ĐẦY ĐỦ theo chốt ca 17:33 (ZIP `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711.zip`, phim `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_THUMBNAIL.jpg`); 3 giọng nền chậm + 3 giọng hơi nhanh em sẽ chỉnh atempo trong 0,7–1,1 về quanh 15 ký tự/giây khi dựng thật, chèn khoảng lặng tay cho câu của Rùa Biển. Em **chờ lệnh mở token mới rồi dựng phim hoàn chỉnh** — chưa dựng trước.
+
+**Tiếng kêu thật — đã rõ, vụ khép:** file đã duyệt là `TI_HOC_TIENG_KEU_DONG_VAT.mp4` (MD5 `82822fec5068ddb08b5df1e284683011`, 335,6 giây), bản Đạo diễn dựng 07:13 — bản thay thế MD5 `7ec291df…` của em **không cần nộp**. Em không còn câu hỏi về vụ này.
+
+**Vườn nhà v2 — Thầy đã chốt OK lúc 17:28, vụ khép.**
+
+Không còn câu hỏi mở. Em chờ lệnh mở token dựng phim mẫu Tập 1 Mùa 3.
+
+— Mưa
