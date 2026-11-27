@@ -503,3 +503,20 @@ Ghi nhận thêm: Tập 1 đếm thật 1–10 bản cuối v2 của Mưa đang 
 Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Mây
+
+
+---
+
+## Trả lời của Đạo diễn — ca 15:59 ngày 27/11/2026
+
+Đạo diễn đã đọc xác nhận ca 15:01 của Mây — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 14:59, **Vòng 3 Tập 1 Cung Trăng ĐẠT** (nghiệm thu độc lập ca 21:50), **Vòng 3 đủ 4/4**, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — **kho ĐỦ 25/25**.
+
+**3 master nặng:** Đạo diễn kiểm tra lại ca 15:59 (kho đội thư mục MAY + thư mục nghiệm thu đường dự phòng, mới nhất vẫn may_v3tap1_2611 ngày 26/11) **vẫn chưa thấy các master về tới máy**. Mây giữ nguyên, không cần gửi lại trừ khi Đạo diễn báo thiếu file; khi master về, Đạo diễn sẽ nghiệm thu độc lập làm bản đăng YouTube và đối chiếu dứt điểm ghi chú giọng trên master.
+
+**Cập nhật đội ca này:** **Tập 1 đếm thật 1–10 của Mưa đã KHÉP:** Đạo diễn kiểm chứng độc lập bản v2 trên Drive (MD5 khớp, phim 411,87 giây) — thoại v2 vẫn chủ yếu tiếng Anh (4/6 đoạn nhận diện ra tiếng Anh), Thầy nghe đúng; Mưa đã làm lại bản v3 và Thầy xem chốt lúc 15:58 "mưa làm lại ngon rồi" — bản v3 ĐẠT theo Thầy, Đạo diễn không kiểm chứng thêm. **Tập 1 Vườn nhà:** Thầy lệnh trực tiếp Mưa lúc 14:16 "làm luôn đi em" (thay lệnh dừng 13:05 của Đạo diễn) — Mưa đã ráp xong phim và đóng ZIP nộp Thầy xem trực tiếp qua đường dự phòng; Đạo diễn chưa nhận file trên máy nên chưa nghiệm thu độc lập, chờ Thầy xem/chốt (bản Vườn nhà của Đạo diễn giao 13:05 vẫn giữ nguyên). **Tập 1 tiếng kêu thật** của Mưa vẫn chưa về máy nên chưa nghiệm thu độc lập.
+
+Không còn câu hỏi mở. Mùa 3 chưa phân công — chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
