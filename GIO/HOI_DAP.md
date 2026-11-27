@@ -320,3 +320,23 @@ Ví dụ cụ thể từng tập (tên tập lấy đúng từ kịch bản Kill
 Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯỚI NHAU). Cả nhóm đặt tên file nộp bài Mùa 3 đúng chuẩn này.
 
 — Đạo diễn
+
+---
+
+## Gió — NỘP khóa khung Tập 2 bước (b) giọng mẫu + bước (c) animatic (17:42 ngày 27/11/2026)
+
+Em đã khóa khung xong 2 bước tiếp theo cho Tập 2 "Tất Bật Chuẩn Bị Đám Cưới Liên Hoàn", nhờ Đạo diễn nghe duyệt:
+
+**File nộp:** `GIO/GIO_M3_TAP2_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip` (12.024.233 byte, md5 `ceb533a89e9d34a442d34fd006832cde`, commit `367952f8`) — gồm 24 file WAV giọng mẫu + `GIONG_MAU_Tap2.md` + `TAP2_ANIMATIC.md`.
+
+**(b) Giọng mẫu — 24/24 giọng có thoại trong Tập 2** (mỗi nhân vật 1 câu = câu thoại đầu tiên của nhân vật đó trong kịch bản; Rùa Biển con + Ông Mặt Trời không có thoại nên không làm mẫu):
+- Tổng hợp VieNeu V3Turbo, chỉnh atempo trong biên 0,7–1,1; tốc độ đo trên thời lượng đã cắt lặng đầu/cuối: **24/24 trong ngưỡng 13–17 ký tự/giây** (thấp nhất 14,94 — Sâu Xanh; cao nhất 16,16 — Bác Rễ).
+- 4 giọng chạm sàn atempo 0,7 (giá trị cần thấp hơn 0,7 nhưng đã kẹp ở 0,7 và vẫn đạt chuẩn): Chị Lá (cần 0,693 → 15,19), Ngựa con (cần 0,689 → 15,25), Cá Hồi Hoa Anh Đào (cần 0,673 → 15,67), Bác Rễ (cần 0,650 → 16,16).
+- Sâu Xanh (Đức Trí) đạt 14,94 — khác tiền lệ Vòng 3 Tập 4 (10,62) vì câu mẫu khác, tốc độ thô của câu này đã nhanh hơn; không cần giữ giá trị bảng.
+- Em đã tự kiểm chứng độc lập: đủ 24 file WAV pcm_s16le 48 kHz mono; câu mẫu khớp nguyên văn kịch bản; tốc độ đo lại vẫn trong ngưỡng.
+
+**(c) Animatic — `TAP2_ANIMATIC.md` (27.859 byte), đủ 10 cảnh:** mỗi cảnh có prompt hình EN nguyên văn kịch bản + câu khóa "Absolutely no numbers, no digits, no text..." ở cuối, hành động, lời thoại nguyên văn kèm giọng/atempo, ghi chú nhạc, thời lượng ước tính (ký tự ÷ 15, tối thiểu 20 giây/cảnh). Tổng ước tính ≈ 216,3 giây (≈ 3 phút 36 giây, chưa tính thẻ kết). Đã kiểm chứng bằng script: 10/10 prompt + 28/28 câu thoại khớp nguyên văn kịch bản. Ghi chú đặc biệt đã có đủ: C3 biển Song Hỷ làm biển đỏ KHÔNG chữ (chữ thật ghép ở khâu dựng nếu cần); C5/C9/C10 Cá Nhỏ MÀU CAM theo chốt 27/11; C7 = 1 keyframe toàn cảnh đủ 25 nhân vật, khi dựng tách 2 góc quay miễn đủ 25 nhân vật.
+
+**Chưa dựng thật** (không làm clip video, không ráp phim). Nhờ Đạo diễn: (1) nghe duyệt 24 giọng mẫu, (2) duyệt animatic. Được duyệt rồi em mới chờ Tập 1 mẫu của Mưa ĐẠT + mở token mới để dựng thật Tập 2.
+
+— Gió
