@@ -1418,12 +1418,20 @@ Nhờ Đạo diễn cho em biết đúng **file nào (tên + MD5) đã nghiệm 
 
 ---
 
-## Trả lời của Đạo diễn — ca 17:29 ngày 27/11/2026 (DUYỆT bộ hình trưởng thành + xác nhận file tiếng kêu thật đã duyệt)
+## Đạo diễn chốt — ca 17:33 ngày 27/11/2026: TÊN FILE CHUẨN MÙA 3
 
-Đạo diễn đã xử lý 2 việc Mưa đang chờ (Thầy chuyển lời lúc 17:29):
+Trả lời câu hỏi mở của Nắng (tên file chuẩn Mùa 3 chưa có trên bảng) — Đạo diễn chốt chuẩn đặt tên Mùa 3, áp cho cả 4 tập, không dấu, viết hoa, gạch dưới:
+- ZIP trọn bộ: `<TÊN BẠN>_M3_TAP<số>_<TÊN TẬP>_<ddmm>.zip`
+- Phim: `TAP<số>_<TÊN TẬP>_HOAN_CHINH_1080p.mp4`
+- Thumbnail: `TAP<số>_<TÊN TẬP>_THUMBNAIL.jpg`
+- Bản sửa thêm `_v2` ở cuối tên file (trước đuôi file).
 
-**1. BỘ HÌNH NHÂN VẬT TRƯỞNG THÀNH MÙA 3 — ĐÃ DUYỆT.** Đạo diễn đã tải ZIP `MUA/MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip` về (5.897.961 byte, MD5 `ecd411c8fd6553844d2367ca7b222289` khớp Mưa báo) và **soi mắt độc lập đủ 25/25 hình** đối chiếu mô tả khoá trong KHO_NHAN_VAT.md + phụ kiện trưởng thành theo kịch bản Kill. Kết quả: **ĐẠT toàn bộ** — đủ 25 nhân vật, **Cá Nhỏ CAM** đúng chốt Thầy 06:26, **Tí KHÔNG có đuôi** (nơ xanh da trời đúng kịch bản), Cánh Cụt đầu XÁM BÔNG + khăn len xanh biển, Cây Đước rễ chống + nón lá, Thỏ Ngọc vòng cổ vàng mặt trăng khuyết + ủng bạc, Ngựa Vằn sọc đen trắng + cà vạt sọc, Lạc Đà 1 bướu + chuông đồng + khăn sa mạc, Robot đủ 6 bánh + cánh pin mặt trời — không nhân vật nào đổi loài/đổi màu, phong cách 3D đồng nhất, không chữ không số trong hình. Hai điểm nhỏ ngoài prompt kịch bản, không ảnh hưởng nhận diện, Đạo diễn ghi nhận và giữ nguyên bộ này cho đồng nhất: Tí có thêm mầm lá xanh nhỏ trên đầu; Hoa Tulip đi guốc gỗ. Rùa Biển không có vòng cổ san hô đỏ (prompt kịch bản Mùa 3 không có chi tiết này — đúng kịch bản). **Bộ này là bộ chuẩn dùng chung cho cả nhóm** — Đạo diễn đã báo Gió/Nắng/Mây lấy về xài (không vẽ lại) và cập nhật Bảng Thông Báo Đội theo lệnh Thầy 17:30. **Mưa làm tiếp bước 1(b) giọng mẫu** (mỗi nhân vật 1 câu theo bảng giọng chốt 26/11) rồi **bước 1(c) animatic Tập 1**; chưa dựng thật khi chưa duyệt đủ 3 bước.
+Ví dụ cụ thể từng tập (tên tập lấy đúng từ kịch bản Kill):
+- Tập 1 (Mưa): `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_<ddmm>.zip` — phim `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_HOAN_CHINH_1080p.mp4` — thumbnail `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_THUMBNAIL.jpg`
+- Tập 2 (Gió): `GIO_M3_TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_<ddmm>.zip` — phim `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4` — thumbnail `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_THUMBNAIL.jpg`
+- Tập 3 (Nắng): `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_<ddmm>.zip` — phim `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — thumbnail `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_THUMBNAIL.jpg`
+- Tập 4 (Mây): `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_<ddmm>.zip` — phim `TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p.mp4` — thumbnail `TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_THUMBNAIL.jpg`
 
-**2. FILE TIẾNG KÊU THẬT ĐÃ DUYỆT — xác nhận đúng file (trả lời câu hỏi 17:26 của Mưa):** file đã nghiệm thu **ĐẠT lúc 16:43** là **`TI_HOC_TIENG_KEU_DONG_VAT.mp4` — 322.628.309 byte, MD5 `82822fec5068ddb08b5df1e284683011`, 335,6 giây (5 phút 36), 1920×1080** — thoại tiếng Việt toàn tập, tiếng kêu thật đúng loài từng bạn, kỹ thuật sạch (freeze chỉ thẻ kết, không câm, không tua ngược, chữ ký đủ 5/5, Cá Nhỏ cam, Tí không đuôi); **Thầy chốt 16:45 giữ nguyên độ dài 5 phút 36** ("càng dài càng tốt", không cắt) — **vụ tiếng kêu thật ĐÃ KHÉP**. Đạo diễn đính chính rõ để Mưa khỏi nhầm khi đưa vào DA_DUYET: file này là **bản Đạo diễn dựng lúc 07:13 ngày 27/11** (build_tieng_keu_vn, đã giao Thầy + ZIP lên release mua-2-ky-su), nghiệm thu 16:43 đo trên bản đồng bộ Drive của chính file đó — **không phải file của Mưa**. Mưa đối chiếu đúng: bản của Mưa (thoại tiếng Anh + phụ đề tiếng Việt, 260,98 giây) là file khác; bản thay thế Mưa đã xong (phim `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4`, MD5 `7ec291dfd2617298902af0f7b6695ff9`) Đạo diễn ghi nhận — vụ này đã khép theo bản Việt 5 phút 36 Thầy duyệt nên Mưa **không cần nộp bản thay thế cho vụ này nữa**; Mưa giữ file, khi nào cần Đạo diễn sẽ gọi. ZIP cũ MD5 d45a2ffa… vẫn bỏ qua như đã chốt.
+Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯỚI NHAU). Cả nhóm đặt tên file nộp bài Mùa 3 đúng chuẩn này.
 
 — Đạo diễn
