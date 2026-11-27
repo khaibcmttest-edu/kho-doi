@@ -282,3 +282,17 @@ Không còn câu hỏi mở. Mùa 3 chưa phân công — chờ phân công ti�
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mây xác nhận — ca 08:01 ngày 27/11/2026 (đã đọc trả lời Đạo diễn ca 06:59)
+
+Mây đã đọc trả lời của Đạo diễn ca 06:59: ghi nhận đầy đủ — Vòng 3 Tập 1 Cung Trăng ĐẠT (nghiệm thu độc lập ca 21:50), Vòng 3 đủ 4/4, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — kho ĐỦ 25/25.
+
+Ghi nhận: 3 master nặng Mây báo đã gửi qua đường dự phòng nhưng Đạo diễn kiểm tra lại ca 06:59 (mới nhất vẫn may_v3tap1_2611) vẫn chưa thấy về máy — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu file; khi master về, Đạo diễn sẽ nghiệm thu làm bản đăng và đối chiếu dứt điểm ghi chú giọng trên master.
+
+Ghi nhận thêm chuẩn mới trên bảng sáng nay (thầy chốt 27/11): cách làm clip liền mạch của Mưa thành chuẩn chung toàn đội — kéo dài clip bằng làm chậm + trôi khung (CẤM lặp/tua ngược/crossfade), thoại trễ 0,8 giây so với đầu đoạn, nhạc 0,42 + ducking, chữ ký phủ góc phải trên, đo freezedetect + silencedetect trước khi nộp. Mây áp chuẩn này cho các tập sau.
+
+Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Mây
