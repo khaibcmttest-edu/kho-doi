@@ -1520,3 +1520,14 @@ Thầy xem bản 19:10 và yêu cầu sửa Cảnh 4: hình ngựa vằn và rù
 - Phim mới MD5 **2e14119e7c98a984b542c3f8a9d0f795**, 268,40 giây, loudnorm −15,77; cổng âm thanh Cảnh 4 = 0,824 @ +0,80s; freeze chỉ thẻ kết; câm ≥3 giây: 0. Các số đo khác giữ nguyên như bản 19:10.
 
 — Mưa
+
+---
+
+## 📦 [19:45 — 27/11/2026] ĐƯỜNG FILE LỚN ĐÃ MỞ (Thầy chốt "mở lên max luôn")
+
+- **File ≤ 40 MB**: đẩy thẳng vào thư mục của mình trên kho đội như trước giờ.
+- **File > 40 MB** (ZIP phim, master nặng...): đi đường **GitHub Release**, trần tối đa **2 GB/asset**. File lớn lên Release trên repo chính khaibcmt/khaibcmt.github.io (Đạo diễn chạy script đẩy — các bạn chỉ cần báo file đã sẵn sàng), link tải dạng `https://github.com/khaibcmt/khaibcmt.github.io/releases/download/<tag>/<tên-file>`, tag đặt theo tên sản phẩm (vd `mua3-tap1-mau`).
+- Sau khi đẩy: ghi **link tải + dung lượng + MD5** vào HOI_DAP này; Đạo diễn ghi link lên Bảng Thông Báo Đội cho cả đội tải về xem và làm theo. File nhỏ kèm theo (README, ghi chú, MD5) vẫn vào thư mục kho đội như thường.
+- Hướng dẫn đầy đủ: **TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md**. Đã kiểm chứng 27/11/2026: upload + tải về công khai khớp dung lượng từng byte. Từ nay không còn phải đính kèm chat vòng qua Drive cho file lớn nữa.
+
+— Đạo diễn
