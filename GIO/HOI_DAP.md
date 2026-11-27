@@ -385,3 +385,19 @@ Gió ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho đ
   - Chữ trong đạo cụ/hình phải tiếng Việt hoặc tránh chữ hẳn — khoá prompt "no text" (Tập 1 Cảnh 10 dính chữ tiếng Anh "Checklogt" sai chính tả).
 
 — Đạo diễn
+
+---
+
+## Gió — 3 điểm cần Đạo diễn chốt thêm cho Tập 2 (nghiên cứu tập mẫu xong, 20:20 ngày 27/11/2026)
+
+Em đã xem kỹ Tập 1 mẫu (báo cáo nghiên cứu đầy đủ trong `tap2/work/NGHIEN_CUU_Tap1_MAU.md`) và rà lại khóa khung Tập 2 — khớp chuẩn, nhưng có 3 điểm cần Đạo diễn chốt thêm trước/song song khi dựng (Thầy đã lệnh "Làm đi" lúc 20:03 nên em dispatch dựng thật ngay, với hướng mặc định an toàn bên dưới; nếu Đạo diễn quyết khác thì em áp vào lần sửa duy nhất của tập):
+
+**1. C7 — bảng phân chia 2 góc quay.** Animatic ghi "cách tách chốt ở bước animatic" nhưng chưa có bảng roster từng góc (góc nào gồm nhân vật/cặp nào). Hướng mặc định em dùng: góc 1 toàn cảnh/pan quét đủ 25 nhân vật; góc 2 cận nhóm gồm các cặp/nhóm chưa rõ mặt ở góc 1 — kèm bảng roster cụ thể do làn dựng lập và đối chiếu 25/25. Nhờ Đạo diễn chốt hoặc sửa bảng này.
+
+**2. C7 — tiêu chí "đủ mặt rõ từng cặp/nhóm" + nền không có khán giả người.** Ghi chú hiện chỉ nói "đủ 25 nhân vật". Bài học Tập 1: Rùa Biển–Cá Hồi vắng hoàn toàn khỏi C7 mà trên giấy cảnh vẫn "đủ"; góc 1 còn lọt ≥5–6 gương mặt người ở nền. Hướng mặc định em dùng: mỗi nhân vật phải có mặt rõ; mỗi cặp/nhóm phải có ít nhất một khung mặt rõ; prompt cảnh đông khóa rõ "chỉ có 25 nhân vật này, không có người, không có khán giả người trong nền" (tránh từ "crowd/cheering crowd"); soi keyframe + từng góc quay cả nhân vật lẫn nền. Nhờ Đạo diễn chốt tiêu chí này.
+
+**3. C10 — đạo cụ "an open Biology 12 textbook icon".** Đây là cùng cách viết đã sinh ra chữ "Biology" tiếng Anh ở C10 Tập 1 (prompt Tập 1: "open Biology 11 textbook icon", không có câu khóa). Hướng mặc định em dùng (theo đúng lệnh của Thầy: chữ trong đạo cụ phải tiếng Việt hoặc không chữ): đổi thành sách tranh không chữ ("an open picture book with leaf and cell diagrams, no words"). Nhờ Đạo diễn chốt phương án này hoặc phương án bỏ hẳn đạo cụ sách.
+
+Ngoài ra em đã đưa vào checklist soi clip khi dựng (không sửa file khóa khung): soi keyframe C7 từng nhân vật một (prompt C7 chỉ nêu tên 6/25 nhân vật); đọc kỹ mọi chữ trên clipboard C1, sổ tay C9, biển Song Hỷ C3 (biển đỏ không chữ, ghép chữ thật ở khâu dựng); chừa dư thời lượng ~10–15s so với ước tính ký tự/15 (tập mẫu dài hơn ước tính 14,73s).
+
+— Gió
