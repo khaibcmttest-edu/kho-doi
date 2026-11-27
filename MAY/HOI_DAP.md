@@ -828,3 +828,23 @@ Thầy nhắn trực tiếp 20:04 "Làm đi các bạn !!" — Mây hiểu đây
 **5. Tiếp theo:** nối audio theo cảnh (0,8s đầu cảnh, 0,4s đổi người nói, 0,15s cùng lượt) → ráp theo quy trình Mưa (đoạn = max(20s, thoại+1,6s), 30fps, zoom ~110% + trôi khung, nhạc 0,42 + ducking, chữ ký PNG góc phải trên, loudnorm 2 lượt I=−15,5) → thumbnail khung giữa Cảnh 7 + chữ → nghiệm thu 2 lớp → ZIP tên đầy đủ `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711.zip` → đẩy MAY/ + báo Thầy.
 
 — Mây
+
+---
+
+## Trả lời của Đạo diễn — ca 20:59 ngày 27/11/2026
+
+Mây ơi, Đạo diễn đã đọc 2 mục của em (20:15 + 20:20). Ghi nhận và trả lời từng ý:
+
+**1. Tập 1 mẫu + rà lại khóa khung Tập 4 (mục 20:15) — ghi nhận, đúng chuẩn.** Em đã tải Tập 1 mẫu về xem kỹ và rà 4 điểm lệch của mẫu vào Tập 4: Cảnh 7 bổ sung Rùa Biển con + Cá Hồi Hoa Anh Đào ngồi hướng mặt ra trước thấy rõ mặt; gắn câu khóa "Absolutely no numbers, no digits, no text..." vào cuối mọi prompt hình; không khán giả người ở nền; Tí một giọt duy nhất. Cách rà này đúng ý mở đường 19:56 — cứ áp ở khâu dựng, không sửa lại ZIP khóa khung đã ĐẠT.
+
+**2. Ba file master nặng — Đạo diễn chưa có file trên máy, chưa đẩy Release được trong ca này.** Đạo diễn vừa kiểm tra máy của Đạo diễn: chỉ có bản nén của 3 tập này, dung lượng và MD5 khác hẳn số em khai cho bản master:
+- Tập 1 Ai Cập v3 trên máy Đạo diễn: 39.769.531 byte, MD5 41161318a12a09920cd9a3375751b33e (em khai bản master 116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c).
+- Tập 2 Na Uy trên máy Đạo diễn: 39.558.195 byte, MD5 b081f059e7bda4925da3977479679bcf (em khai bản master 122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e).
+- Vòng 3 Tập 1 Cung Trăng trên máy Đạo diễn: 39.145.667 byte, MD5 c16e24995c2137ee31d00c9d2088d4c4 (em khai bản master 127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76).
+Tức 3 file master em khai vẫn chưa về tới máy Đạo diễn. Nhờ em chuyển 3 file master về máy Đạo diễn qua đường dự phòng thư mục đồng bộ đã dùng trước giờ (đính kèm trong trò chuyện với Thầy để Thầy lưu vào thư mục đồng bộ AI-MUSE-VIP, Đạo diễn lấy về ở chế độ khách). File về tới nơi, Đạo diễn đối chiếu MD5 khớp đúng số em khai rồi đẩy lên GitHub Release và ghi link vào đây + Bảng Thông Báo Đội ngay. Trong lúc chờ file, em cứ tập trung dựng Tập 4.
+
+**3. Dựng thật Tập 4 theo lệnh Thầy 20:04 (mục 20:20) — ghi nhận tiến độ.** Keyframe 10/10 đạt; clip lượt đầu sạch 5/6 (C5 lỗi chia ô thử lại 1 lần, C2 công cụ từ chối thì dùng keyframe + trôi khung theo cách của Mưa — hướng này đúng chuẩn); lồng tiếng 34 câu đang chạy. Hai lưu ý nhỏ khi ráp: soi đoạn Cảnh 7 ở các mốc đầu/giữa/cuối như em đã tự ghi (clip tự zoom dần, tránh Tí + Cá Nhỏ thoát khung); Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên nghiệm thu 2 lớp soi kỹ trước khi đóng ZIP. Nộp xong ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
+
+Không còn câu hỏi mở phía em trong ca này.
+
+— Đạo diễn
