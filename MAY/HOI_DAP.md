@@ -801,3 +801,30 @@ Mây ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho đ
 - Cả 3 đều >40 MB nên đi đường GitHub Release theo quy định mới; trước đây đã gửi qua đường dự phòng nhưng chưa về máy Đạo diễn. Nhờ Đạo diễn chạy script đẩy lên Release (tag theo tên sản phẩm); khi có link, Mây sẽ ghi link tải + dung lượng + MD5 vào HOI_DAP theo quy định.
 
 **5. Chờ:** Thầy mở token mới dựng thật Tập 4 (đủ 3 khóa, chỉ chờ token); Đạo diễn đẩy 3 master lên Release.
+
+
+---
+
+## MÂY — BẮT ĐẦU DỰNG THẬT TẬP 4 THEO LỆNH THẦY 20:04 "LÀM ĐI" (20:20 ngày 27/11/2026)
+
+Thầy nhắn trực tiếp 20:04 "Làm đi các bạn !!" — Mây hiểu đây là lệnh mở token dựng thật Tập 4 (quy định token giữ nguyên: chỉ xài khi Thầy mở; lệnh này chính là lệnh mở). Đã đọc trả lời Đạo diễn ca 19:59: khóa khung (b)+(c) Tập 4 ĐẠT, Mây đủ 3 khóa. Đang dựng thật trong chat chính — các ca bảng giờ không cần dựng trùng.
+
+**1. Tập 1 mẫu — đã xem kỹ (ghi nhận thêm so với ca 20:15):** phim 268,4s, 1920×1080 30fps; đo loudnorm toàn file input_i −15,77 (băng chuẩn I=−15,5); chữ ký góc phải trên xuyên suốt; thẻ kết "CẢM ƠN CÁC BẠN ĐÃ XEM! / Giọt Nước Tí — Mùa 3: Cưới Nhau / Hẹn gặp lại ở Tập 2: Tất Bật Chuẩn Bị Đám Cưới Liên Hoàn nhé!"; thumbnail "CƯỚI NHAU" lớn trên + "Tập 1 — Màn Cầu Hôn Có Một Không Hai" dưới, không chữ ký. Điểm lệch đã thấy tận mắt: Cảnh 10 mẫu dính chữ "Checklogt" sai chính tả + sách "Biology" tiếng Anh; Cánh Cụt con ở thẻ kết đầu hơi sẫm.
+
+**2. Keyframe 10/10 — ĐẠT HẾT (đều 2048×1152, soi mắt từng khung):**
+- C1–C4 PASS ngay lần đầu: C1 xóm tân hôn + Ông Mặt Trời + Chị Mây + Tí giọt cổ điển tưới hoa + Cá Nhỏ CAM trong bong bóng; C2 Tí + Cá Nhỏ + Cáo Tuyết đan khăn + Cánh Cụt ĐẦU XÁM NHẠT + khăn xanh biển; C3 Sơn Dương khăn đỏ + Llama + Ngựa con (ngựa vằn, cà vạt sọc) + Lạc Đà con chuông đồng; C4 Khỉ nón lá + Ếch mắt đỏ + Sâu Xanh tưới hoa + Hoa Tulip.
+- C5 v1 LOẠI (tự chia 4 ô dọc, không phải 1 cảnh liền) → v2 PASS: 1 cảnh vườn liền mạch, đủ 8 nhân vật (Rùa Biển + Cá Hồi hồng trong bong bóng, Giun Đất + Bọ, Robot + Cây Đước nón lá, Thỏ Ngọc + Tia Nắng Vàng).
+- C6 PASS (Bác Rễ + Cây Ô Liu + Chị Lá dạo đường vườn); C7 ĂN TIỀN PASS (đủ 25 nhân vật quanh bàn tiệc đêm, mặt rõ hướng trước, Tí + Cá Nhỏ CAM đủ mặt — đã tránh đúng lỗi Tập 1); C8 PASS (Bác Rễ + Ông Mặt Trời + Tí + sơ đồ hologram hình trừu tượng, không chữ); C9 PASS (Tí khép sổ tay phát sáng, trang trống không chữ, Cá Nhỏ bên cạnh); C10 PASS (đủ 25 nhân vật vẫy tay dưới bầu trời cầu vồng sao, không chữ ký vẽ trong hình — chữ ký thật phủ ở khâu ráp).
+- Mọi prompt đều gắn khóa: "Absolutely no numbers, no digits, no text...", không khán giả người ở nền, Tí giọt cổ điển một tầng.
+
+**3. Clip câm — 6/6 video trong lượt này (C1, C3, C4, C5, C6, C7), đều 10,000s/240 khung, đã tách tiếng còn 1 luồng video:**
+- SẠCH 5/6: C1 ✓, C3 ✓, C4 ✓, C6 ✓, C7 ✓ (tiệc đêm nâng ly; lưu ý: clip tự zoom dần nên Tí/Cá Nhỏ ở mép trái bị cắt cuối clip — khi ráp sẽ soi khung đoạn C7 ở 0/10/19s, nếu Tí/Cá Nhỏ thoát khung thì đoạn C7 dùng keyframe + trôi khung thay clip).
+- C5 ✗ (lần 1): công cụ tự chia lại thành 2 ô dọc, mất Rùa Biển/Cá Hồi/Thỏ Ngọc/Tia Nắng Vàng — sẽ thử lại 1 lần ở lượt sau với prompt nhấn "single continuous scene", nếu vẫn lỗi thì đoạn C5 dùng keyframe + trôi khung.
+- C2 ✗: công cụ từ chối tạo video (integrity check) — KHÔNG thử lại theo hướng dẫn công cụ; đoạn C2 dùng keyframe + trôi khung (keyframe C2 đã ĐẠT, Cánh Cụt đầu xám nhạt đúng khóa).
+- C8–C10 chưa tạo (hết 6 video/lượt này) — làm ở lượt sau cùng C5 thử lại.
+
+**4. Lồng tiếng — đang chạy:** 34 câu (30 câu gốc + Rùa Biển con tách 4 mảnh tại dấu "..." + Tí Cảnh 10 tách 2 vì 248 ký tự), đối chiếu máy 0 lệch so với kịch bản, thoại thuần 3.118 ký tự; giọng + atempo theo Bảng giọng chuẩn toàn series; tốc độ + hiệu chỉnh atempo sẽ đo sau khi thu xong.
+
+**5. Tiếp theo:** nối audio theo cảnh (0,8s đầu cảnh, 0,4s đổi người nói, 0,15s cùng lượt) → ráp theo quy trình Mưa (đoạn = max(20s, thoại+1,6s), 30fps, zoom ~110% + trôi khung, nhạc 0,42 + ducking, chữ ký PNG góc phải trên, loudnorm 2 lượt I=−15,5) → thumbnail khung giữa Cảnh 7 + chữ → nghiệm thu 2 lớp → ZIP tên đầy đủ `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711.zip` → đẩy MAY/ + báo Thầy.
+
+— Mây
