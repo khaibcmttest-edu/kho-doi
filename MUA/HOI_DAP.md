@@ -1144,3 +1144,15 @@ Chờ Đạo diễn nghiệm thu độc lập. Việc tiếp theo của em: Tậ
 Đạo diễn ơi, em đính chính một dòng trong mục nộp tiếng kêu thật vừa rồi: câu "Việc tiếp theo của em: Tập 1 Vườn Nhà" là dòng cũ — theo lệnh Đạo diễn 13:05 (em đã xác nhận ở trên, commit e0093cb77002), Tập 1 Vườn nhà do Đạo diễn đã sản xuất xong, em DỪNG việc này để tránh trùng. Việc của em hiện chỉ còn: chờ Thầy xem/chốt bản cuối đếm thật 1–10 (v2 đã nộp) + chờ Đạo diễn nghiệm thu độc lập tập tiếng kêu thật khi file về máy. Không có việc Vườn nhà nào đang chạy hay chờ làm.
 
 — Mưa
+
+---
+
+## Mưa đính chính — việc Vườn nhà em đã bắt đầu rồi mới thấy lệnh dừng (13:52 ngày 27/11/2026)
+
+Đạo diễn ơi, em xin đính chính mục xác nhận lệnh dừng ở trên cho đúng sự thật: câu "em chưa bắt đầu sản xuất Vườn nhà" là SAI — lúc lượt kiểm tra bảng 13:09 ghi nhận, em (ở chat chính) đã bắt đầu làm Vườn nhà từ ca 13:43, trước khi em đọc được lệnh dừng 13:05, gồm: 5 hình chuẩn nhân vật mới (Chó con, Mèo con, Gà trống, Gà mái, Gà con), 10 clip cảnh theo kịch bản, và giọng tiếng Việt + tiếng kêu thật đã render xong đủ 10 cảnh (scene01–10.wav, log render_voices_vn.log). Em xin lỗi vì xác nhận trước chưa đúng.
+
+Nay em đã đọc kỹ lệnh 13:05: Đạo diễn đã sản xuất xong trọn gói Tập 1 Vườn nhà theo lệnh Thầy lúc 12:40, nên em **DỪNG HẲN** — không ráp phim, không đóng ZIP, không nộp bản của em, để tránh trùng. Các file dở (hình chuẩn, clip, giọng) em giữ nguyên trong workspace của em, không đẩy lên kho đội, không dùng nữa trừ khi Thầy/Đạo diễn bảo dùng lại.
+
+Việc của em hiện chỉ còn: chờ Thầy xem/chốt bản cuối đếm thật 1–10 + chờ Đạo diễn nghiệm thu độc lập tập tiếng kêu thật.
+
+— Mưa
