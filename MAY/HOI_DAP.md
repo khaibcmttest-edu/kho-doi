@@ -557,3 +557,26 @@ Nguyên văn thầy: "Phải mượt từ đầu đến cuối ko bị cà giậ
 4. **Nhép miệng là phải có tiếng** — nhân vật cử động miệng/nói thì bắt buộc có tiếng thoại khớp; cấm nhép miệng câm.
 
 Có gì chưa rõ cứ ghi vào HOI_DAP này, Đạo diễn trả lời tại đây. — Đạo diễn
+
+## XÁC NHẬN ĐÃ HIỂU — MÙA 3 TẬP 4 (Mây, 16:52 ngày 27/11/2026)
+
+Em đã đọc kỹ mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Đội và đọc trọn kịch bản sản xuất `TAI_LIEU_CHUNG/KICH_BAN_MUA3_CUOI_NHAU_KILL.docx` (391 đoạn, 3 bảng). Xác nhận đã hiểu:
+
+**1. Phân công:** Em làm **Tập 4 — "CUỘC SỐNG VỢ CHỒNG MỚI CƯỚI ĐẦY TIẾNG CƯỜI"** (tập cuối Mùa 3), trọn gói video hoàn chỉnh 100% như mô hình Vòng 2. Mùa 3 chỉ cưới nhau, không sinh con đi học.
+
+**2. Nội dung Tập 4 (đã đối chiếu từng cảnh):** 10 cảnh, thoại thuần **3.118 ký tự** (em đếm lại từ kịch bản: 30 câu thoại, khớp đúng con số kịch bản ghi; trong chuẩn 2.400–3.200). Cảnh ăn tiền là **Cảnh 7** — bữa tiệc tối tân gia của 10 tổ ấm dưới ánh trăng bạc, đủ 25 nhân vật. Thông điệp: yêu thương trong đời sống hằng ngày là thấu hiểu thói quen của nhau, nhường nhịn và cùng tạo tổ ấm bình yên. Kiến thức Sinh học lồng nhẹ: Sinh 11 (cân bằng nội môi & thích nghi sinh thái). 10 cặp đôi theo bảng bắt cặp của Kill + 5 vị trưởng bối (Bác Rễ, Ông Mặt Trời, Chị Mây, Chị Lá, Cây Ô Liu Cổ Thụ) làm chủ hôn/tổ chức. Tất cả 10 cảnh đều có nhân vật nói.
+
+**3. Giọng đọc:** đã đối chiếu từng nhân vật nói trong Tập 4 với **Bảng giọng chuẩn toàn series (chốt 26/11)** — khớp hết: Tí Thái Sơn 0,90; Bác Rễ Adam 0,794; Chị Lá Thùy Dung 0,739; Ông Mặt Trời Minh Triết 0,814; Cá Nhỏ Ngọc Huyền 0,85; Cáo Tuyết Kim Thanh 0,85; Cánh Cụt con Mai Anh 0,85; Sơn Dương Thiện Minh 0,85; Llama Thái Sơn 0,85; Ngựa con Xuân Vĩnh 0,90; Lạc Đà con Thiền Tâm Đức 0,80; Khỉ con Adam bựa 0,90; Ếch Minh Đức 0,85; Hoa Tulip Ngọc Linh 0,85; Sâu Xanh Đức Trí 0,85; Cá Hồi Thùy Dung 0,85; Rùa Biển Thanh Bình 0,80; Giun Đất Thái Sơn 0,95; Bọ Thùy Dung 0,739; Cây Đước Thục Đoan 0,85; Thỏ Ngọc Đoan Trang 0,85; Cây Ô Liu Phạm Tuyên 0,80; Thầy Thái Sơn 0,95. Robot Thám Hiểm và Tia Nắng Vàng chỉ xuất hiện hình trong Tập 4, không có thoại (đúng bảng phân giọng của Kill).
+
+**4. Nhịp làm:** Tập 1 (Mưa) làm mẫu trước; đạt rồi Đạo diễn mới mở Tập 2–4. Em **chưa dựng thật ngay** — chỉ đọc và khóa khung trước để sẵn sàng, chờ Đạo diễn mở Tập 4 và token.
+
+**5. Khóa khung từng bước (duyệt rồi mới dựng thật):** (a) hình chuẩn "trưởng thành" cho nhân vật trong tập — Đạo diễn chốt bộ hình chuẩn đưa vào kho chung, em không tự vẽ lại; (b) giọng mẫu mỗi nhân vật 1 câu gửi Đạo diễn nghe duyệt trước khi thu thật; (c) animatic/kịch bản phân cảnh 10 cảnh (cảnh ăn tiền Cảnh 7) được Đạo diễn duyệt.
+
+**6. Quy định chỉ sửa 1 lần + chuẩn chất lượng cứng:** đã ghi nhớ — mỗi tập chỉ được chỉnh sửa 1 lần, phải đúng ngay từ đầu (đúng kịch bản, đúng bảng giọng, đúng mô tả khoá, đúng chữ ký/tên file). Chuẩn cứng 4 điểm của Thầy: mượt liên tục; không tua lại/lặp khung; không đứng hình; nhép miệng là phải có tiếng. Ráp theo cách của Mưa (làm chậm + trôi khung), cổng QC bắt buộc trước khi nộp; giao 1 link ZIP duy nhất (phim 1080p + thumbnail 1280×720) kèm MD5. Token: xài hết token tuần thì nghỉ hồi, chỉ xài token khuyến mãi khi Thầy lệnh.
+
+**7. Chuẩn bị sẵn:** em đã tách thoại Tập 4 thành 30 dòng theo cảnh (đủ 3.118 ký tự). Lưu ý duy nhất: câu chào tạm biệt của Tí ở Cảnh 10 dài 248 ký tự (>230) — khi lồng tiếng em sẽ tách tại dấu câu theo quy trình của Mưa.
+
+**❓ CÂU HỎI CẦN ĐẠO DIỄN CHỐT (trước khi khóa hình chuẩn):**
+- **Cá Nhỏ trong kịch bản Tập 4 ghi là "bright orange clownfish with thin white stripes" (Cảnh 1, 2, 9)** — trái với mô tả khoá đã chốt của Thầy + Đạo diễn ngày 24/11: **Cá Nhỏ là cá hề hồng (pink skunk clownfish), thân hồng đào trong mờ, một sọc trắng mảnh dọc sống lưng, TUYỆT ĐỐI không thân cam/sọc ngang dày.** Em sẽ giữ theo **mô tả khoá hồng** khi làm hình chuẩn "trưởng thành" (chỉ thêm vương miện san hô theo kịch bản), trừ khi Đạo diễn chốt khác. Nhờ Đạo diễn xác nhận.
+- **Cây Đước trong Tập 4 kịch bản ghi là "young mangrove sapling" (cây non, rễ chống làm chân, đội nón lá)** — khác cây Đước cổ thụ ở Vòng 2. Em hiểu đây là tạo hình của Cây Đước trong tập này theo kịch bản (nón lá là phụ kiện "trưởng thành"), nhờ Đạo diễn xác nhận.
+- Phụ kiện "trưởng thành" em ghi nhận từ kịch bản: Tí nơ xanh da trời; Cá Nhỏ vương miện san hô; Ông Mặt Trời kính + nơ vàng; Chị Mây vương miện cầu vồng + khăn choàng lụa trắng; Chị Lá kẹp tóc hoa bưởi; Bác Rễ râu bạc + kính tròn; Khỉ mũ fedora lá; Sâu Xanh giày vàng + nơ vàng; Hoa Tulip chén lá. Bộ hình chuẩn bước (a) sẽ khóa các phụ kiện này.
