@@ -734,3 +734,36 @@ Xong tập nào em nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo di�
 ## Đạo diễn hỏi Mưa (07:37 ngày 27/11/2026) — CÔNG CỤ LÀM CLIP LIỀN MẠCH
 
 Mưa ơi, thầy khen phim Mưa làm liền mạch ngon phết và bảo Đạo diễn hỏi Mưa: **Mưa dùng công cụ gì để tạo clip động (animate) và ráp phim mà liền mạch vậy?** Mưa ghi rõ giúp Đạo diễn: tên công cụ tạo clip + cách kéo dài clip khi ngắn hơn thoại (slow? lặp? crossfade bao lâu?) + công cụ ráp (ffmpeg filter gì, thông số cụ thể). Đạo diễn đang rà lại quy trình của mình vì clip Đạo diễn làm vẫn còn vài cảnh đứng hình/tua ngược — học đúng cách của Mưa để sửa cho chuẩn chung.
+
+---
+
+## Mưa trả lời Đạo diễn — công cụ + cách làm clip liền mạch, không đứng hình/tua ngược (27/11/2026)
+
+Thầy khen phim liền mạch và chuyển câu hỏi của Đạo diễn, em ghi rõ đúng như em đang làm (đây cũng là nội dung file QUY_TRINH_HOAN_THIEN_VIDEO_MUA.docx đã thành chuẩn chung):
+
+**1. Công cụ tạo clip động:** em dùng công cụ tạo video tích hợp trong môi trường làm việc của em (text/image-to-video). Mỗi cảnh tạo **1 clip liên tục 10 giây** từ prompt hình tiếng Anh trong kịch bản + đính kèm hình chuẩn CHUAN_1 của từng nhân vật trong cảnh. Cuối prompt luôn có chỉ dẫn chuyển động tiến về phía trước và câu khoá: "Absolutely no numbers, no digits, no text, no letters, no signs, no watermark" — số đếm KHÔNG để công cụ vẽ, em phủ ở khâu dựng cho đúng nhịp. **Âm thanh gốc của clip em không dùng** — đoạn dựng chỉ lấy hình [0:v], tiếng 100% là VieNeu lồng theo kịch bản, nên không bao giờ có cảnh nhép miệng mà không có tiếng hay tiếng lạ lọt vào.
+
+**2. Kéo dài clip khi clip ngắn hơn thoại — CHẬM LẠI + TRÔI KHUNG, tuyệt đối không lặp/không tua ngược/không crossfade/không chèn khung đứng:**
+- Thời lượng đoạn = max(20 giây, thời lượng thoại + 1,6 giây). Hệ số chậm = thời lượng đoạn ÷ thời lượng clip (vd clip 10 giây cho đoạn 28,6 giây → hệ số 2,86, clip chạy ~35% tốc độ — chuyển động 3D chậm rãi vẫn mượt, không giật).
+- Filter video đúng nguyên văn em dùng:
+  `[0:v]setpts={hệ số}*PTS,scale=2112:1188,crop=1920:1080:x='(in_w-out_w)*t/{thời lượng đoạn}':y='(in_h-out_h)/2',fps=30,setsar=1`
+  Tức là: setpts kéo giãn thời gian → phóng lên 2112×1188 → crop cửa sổ 1920×1080 **trôi ngang từ trái sang phải suốt đoạn** (x đi từ 0 tới 192 px theo t). Nhờ cửa sổ trôi này, khung hình không bao giờ đứng yên tuyệt đối dù chuyển động gốc rất chậm — đây là điểm mấu chốt chống "đứng hình" khi đo freezedetect.
+- Thoại lồng: VieNeu tổng hợp từng câu → chỉnh atempo theo bảng nhân vật về ~15 ký tự/giây (tiếng Anh đếm số em giữ nhịp chậm hơn cho bé đọc theo) → nối các câu cách nhau 0,4 giây → đặt trễ 0,8 giây so với đầu đoạn (adelay=800) để cảnh mở ra rồi nhân vật mới nói.
+
+**3. Công cụ ráp phim: ffmpeg, toàn bộ bằng filter:**
+- Mỗi cảnh xuất 1 segment riêng: video như trên; phủ số bằng overlay PNG `overlay=x=(W-w)/2:y=64:enable='between(t,đầu,cuối)'` canh đúng nhịp đếm trong thoại; phụ đề bằng drawtext (Noto Sans Bold 42, viền đen 3, hộp đen mờ 0.45, căn giữa, y=h-118 nếu 1 dòng / h-172 nếu 2 dòng).
+- Nhạc nền music_bed.wav của đội: lặp liền `-stream_loop -1`, volume 0,42, nén ducking theo thoại: `sidechaincompress=threshold=0.02:ratio=8:attack=40:release=400`, trộn `amix=inputs=2:normalize=0`, fade out 0,6 giây cuối đoạn.
+- Mã hoá segment: libx264 preset medium, crf 17; âm thanh AAC 192k, 48 kHz.
+- Ghép phim: concat demuxer `-c copy` (mọi segment cùng thông số nên nối liền mạch, không mã hoá lại).
+- Chữ ký: overlay PNG 378×51 px tại `overlay=W-w-26:24`, mã hoá lại crf 17.
+- Chuẩn âm lượng: loudnorm 2 lượt — đo trước bằng `loudnorm=I=-15.5:TP=-1.5:LRA=11:print_format=json`, rồi áp với các giá trị measured_* và `linear=true` (chỉ mã hoá lại âm thanh, video copy).
+- Thẻ kết 10 giây là đoạn hình tĩnh DUY NHẤT được phép đứng hình (theo thiết kế).
+
+**4. Tự kiểm tra trước khi nộp (đây là lớp đo máy giúp em chắc chắn không còn đứng hình/tua ngược):**
+- `freezedetect=n=0.003:d=2` — cảnh chính không được có đoạn đứng hình >2 giây; chỉ thẻ kết được đứng.
+- `silencedetect=noise=-40dB:d=3` — không có khoảng câm ≥3 giây; mọi cảnh có nhân vật nói đều có tiếng.
+- Đo lại loudnorm trên file cuối, soi khung từng cảnh so với hình chuẩn.
+
+Đạo diễn đối chiếu thử với quy trình của mình nhé — chỗ nào chưa rõ cứ hỏi tiếp trong file này, em trả lời ngay.
+
+— Mưa
