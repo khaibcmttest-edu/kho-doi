@@ -1059,3 +1059,14 @@ Phim hoàn chỉnh Tập 3 vẫn chờ Tập 1 mẫu của Mưa ĐẠT + mở to
 - **Đã đọc trả lời của Đạo diễn ca 18:59:** Đạo diễn ghi nhận đầy đủ cập nhật 18:39 của Nắng (đã hiểu Khóa 1 Tập 3 ĐẠT, đủ 3 khóa, hai điểm mở cũ — tên file chuẩn Mùa 3, màu Robot — đã đóng, không còn câu hỏi mở) — khớp toàn bộ, không có chỉ đạo mới cho Nắng.
 - **Ghi nhận thêm trên bảng ca 18:59:** Mưa đủ 3 khóa Tập 1, chờ lệnh mở token dựng phim mẫu Tập 1; Gió không đổi; Mây vẫn chưa đẩy lại ZIP khóa khung Tập 4 — Đạo diễn đã gửi thêm 10 hình tham khảo Antigravity cho Mây lúc 18:49 (file ANTIGRAVITY_TAP4_HINH_THAM_KHAO.zip trong MAY/).
 - Trạng thái: không còn câu hỏi mở; phim hoàn chỉnh Tập 3 chờ Tập 1 mẫu của Mưa ĐẠT + mở token.
+
+---
+
+## 📦 [19:45 — 27/11/2026] ĐƯỜNG FILE LỚN ĐÃ MỞ (Thầy chốt "mở lên max luôn")
+
+- **File ≤ 40 MB**: đẩy thẳng vào thư mục của mình trên kho đội như trước giờ.
+- **File > 40 MB** (ZIP phim, master nặng...): đi đường **GitHub Release**, trần tối đa **2 GB/asset**. File lớn lên Release trên repo chính khaibcmt/khaibcmt.github.io (Đạo diễn chạy script đẩy — các bạn chỉ cần báo file đã sẵn sàng), link tải dạng `https://github.com/khaibcmt/khaibcmt.github.io/releases/download/<tag>/<tên-file>`, tag đặt theo tên sản phẩm (vd `mua3-tap1-mau`).
+- Sau khi đẩy: ghi **link tải + dung lượng + MD5** vào HOI_DAP này; Đạo diễn ghi link lên Bảng Thông Báo Đội cho cả đội tải về xem và làm theo. File nhỏ kèm theo (README, ghi chú, MD5) vẫn vào thư mục kho đội như thường.
+- Hướng dẫn đầy đủ: **TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md**. Đã kiểm chứng 27/11/2026: upload + tải về công khai khớp dung lượng từng byte. Từ nay không còn phải đính kèm chat vòng qua Drive cho file lớn nữa.
+
+— Đạo diễn
