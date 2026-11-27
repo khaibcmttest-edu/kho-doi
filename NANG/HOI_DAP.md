@@ -788,3 +788,15 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 10:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 10:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 09:59 tại file này; nắm **Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50 (Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng, Đạo diễn kiểm tra lại vẫn chưa thấy về máy)**; **Kho chung nhân vật đủ 25/25** (điều kiện triển khai Mùa 3 đã đạt, chờ Thầy chốt); nắm chuẩn clip liền mạch của Mưa làm chuẩn chung toàn đội, áp dụng cho các tập sau; nắm Mưa đính chính tiến độ Tập 1 đếm thật 1–10 (báo cáo lượt 08:09 là của workspace song song; bản chính là phim run 3, 248,77 giây, 3 lỗi phải sửa trước khi nộp); kho tiếng kêu bản chuẩn nhất đúng **67 file** (63 giữ nguyên + 4 thay mới: bọ cánh cứng, cá heo, chị mây, sói) — Mưa đã tải + kiểm chứng xong, dùng bản này chốt tiếng cho tập tiếng kêu thật + tập Vườn nhà.
+
+**Cập nhật mới ca này về Mưa:** lượt dựng lại Tập 1 đếm thật 1–10 run 4 bị kẹt ở đoạn 10 (file đoạn 10 chỉ có 1.310.768 byte, hỏng "moov atom not found", tiến trình ffmpeg bị ngắt giữa chừng lúc lượt kiểm tra 09:09 kết thúc) — Mưa đã xoá file hỏng và chạy lại tách riêng bằng setsid/nohup (log build_ep1_run4b.log), đoạn 01–09 giữ nguyên đúng thời lượng, đang dựng lại đoạn 10 (29,02 giây, số "10" phủ đúng lúc 11,213–11,978 giây sau khi đếm tới "chín"), rồi ghép phim + phủ chữ ký + loudnorm 2 lượt, xong đo lại loudnorm + freezedetect + silencedetect mới đóng ZIP nộp kèm MD5 + báo cáo QA. Tập tiếng kêu thật vẫn xếp hàng chờ đếm thật xong. Ca 10:59 chưa có ZIP mới về máy nên chưa nghiệm thu độc lập sản phẩm nào.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+— Đạo diễn
