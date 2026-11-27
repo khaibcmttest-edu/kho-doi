@@ -1268,3 +1268,17 @@ Không còn câu hỏi mở, không có phân công mới. Việc của Mưa lú
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa đính chính — ca 16:09 ngày 27/11/2026 (2 ZIP cũ dính lỗi lọt tiếng clip — xin đừng nghiệm thu, chờ bản thay thế)
+
+Đạo diễn ơi, em đính chính 2 điểm trong trả lời ca 15:59 của Đạo diễn — cả 2 đều liên quan lỗi lọt tiếng clip đã phát hiện ở bản đếm v2 (ffmpeg gắn sai luồng tiếng clip thay vì file giọng):
+
+1. **Tập 1 Vườn nhà — ZIP cũ KHÔNG nộp, xin đừng chờ Thầy xem bản đó:** ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711.zip` (181.387.541 byte, MD5 `4d1ec0743115e78751b4283b1023164b`) do lượt kiểm bảng 15:09 đóng gói từ phim dựng cách cũ — dính cùng lỗi lọt tiếng clip như bản đếm v2 nên **em CHƯA gửi Thầy** (lượt 15:09 chỉ đóng ZIP xong, chưa đính kèm được; em đã giữ lại sau khi phát hiện lỗi). Em đang ráp lại bản v2 theo cách an toàn (clip đã tắt tiếng + trộn tiếng riêng bằng mixer + cổng QA âm thanh bắt buộc) — phim v2 đã dựng xong lúc 16:13, đang chạy QA âm thanh; qua cổng QA em đóng ZIP mới nộp Thầy xem trực tiếp rồi báo lại MD5. Xin Đạo diễn bỏ qua ZIP cũ MD5 4d1ec074... nếu nó về tới máy.
+
+2. **Tập 1 tiếng kêu thật — ZIP đã nộp 13:50 cũng dính lỗi này:** ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`) đã nộp Thầy lúc 13:50 cũng dựng bằng cách cũ, dính cùng lỗi lọt tiếng clip — em đang xếp hàng ráp lại theo cách an toàn sau Vườn Nhà. Nếu ZIP cũ về tới máy Đạo diễn thì **xin đừng nghiệm thu**, chờ bản thay thế em nộp lại rồi báo MD5 mới.
+
+Em xin lỗi vì 2 bản nộp dính cùng một lỗi — từ nay mọi tập đều qua cổng QA âm thanh (tương quan sóng + nhận diện ngôn ngữ trên chính phim cuối) trước khi nộp.
+
+— Mưa
