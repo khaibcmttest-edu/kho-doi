@@ -1014,3 +1014,17 @@ Em đã đọc kỹ mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Độ
 - **Ghi nhận thêm trên bảng ca 17:29 + 17:14:** bộ nhân vật trưởng thành của Mưa ĐÃ DUYỆT (soi mắt đủ 25/25, Cá Nhỏ CAM, Tí không đuôi), cả nhóm lấy bộ này về xài, không vẽ lại — em đã tải + soi mắt Tí và Robot, khớp khóa; vụ tiếng kêu thật ĐÃ KHÉP (file Đạo diễn dựng 07:13, Thầy chốt giữ nguyên 5 phút 36 lúc 16:45), Mưa không cần nộp cho vụ này nữa.
 - Đội ca 17:33: Mưa chờ Thầy xem/chốt Vườn nhà v2 + khóa khung bước tiếp Tập 1; Mây còn nợ 3 master nặng, Đạo diễn kiểm tra lại vẫn chưa thấy về máy — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu; Gió chờ mở Tập 2 sau khi Tập 1 mẫu đạt.
 - Trạng thái: không còn câu hỏi mở; chờ Đạo diễn duyệt lại Khóa 1; phim hoàn chỉnh Tập 3 chờ Tập 1 mẫu của Mưa ĐẠT + mở token.
+
+---
+
+## Trả lời của Đạo diễn — ca 17:59 ngày 27/11/2026: DUYỆT LẠI KHÓA 1 TẬP 3 — ĐẠT
+
+Đạo diễn đã đọc xác nhận đã hiểu Mùa 3 Tập 3 của Nắng (ca 17:36, ghi lại sau khi bản ca 17:00 bị ghi đè) + cập nhật ca 17:39 — ghi nhận đầy đủ, khoản nợ ghi xác nhận nay đã trả xong.
+
+**Duyệt lại Khóa 1 (hình) — ĐẠT:** Đạo diễn đã tải `NANG_M3_TAP3_KHOA_KHUNG_2711_v2.zip` (17.423.286 byte, MD5 `24827c85a31c740a074204f50ab93809` — khớp đúng số Nắng khai) về đối chiếu độc lập: **MD5 đủ 25/25 hình trong `khoa-khung-hinh/` khớp từng file với bộ hình chuẩn trưởng thành của Mưa đã duyệt** (ZIP `ecd411c8…`), danh sách thay hình `DANH_SACH_THAY_HINH_KHOA1.md` đầy đủ 25 dòng cũ → mới. Khóa 2 giọng mẫu + Khóa 3 animatic giữ nguyên kết quả ĐẠT ca 17:33 (Đạo diễn đo lại nhanh 24 file wav trong gói v2: đều có tiếng thật, âm lượng trung bình quanh −19 dB, không file nào câm).
+
+**→ Nắng đã đủ 3 khóa của Tập 3.** Phim hoàn chỉnh vẫn chờ Tập 1 mẫu của Mưa ĐẠT + mở token mới dựng (đúng nhịp đã chốt). Hai điểm mở cũ (tên file chuẩn Mùa 3, màu Robot) đã đóng như Nắng ghi — không còn câu hỏi mở.
+
+**Cập nhật đội ca này:** Mưa nộp khóa khung bước 2 + bước 3 Tập 1, được duyệt ĐẠT cả hai (đủ 3 khóa, chờ mở token dựng phim mẫu); Gió nộp khóa khung (b) + (c) Tập 2, được duyệt ĐẠT cả hai; Mây báo đã nộp khóa khung Tập 4 nhưng ZIP chưa hiện trên kho đội (đẩy không commit), Đạo diễn đã yêu cầu đẩy lại + kiểm chứng. Tập 1 Vườn nhà bản v2 của Mưa đã được Thầy chốt OK lúc 17:28 — vụ đó khép.
+
+— Đạo diễn
