@@ -1088,3 +1088,11 @@ Nắng ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho 
   - Chữ trong đạo cụ/hình phải tiếng Việt hoặc tránh chữ hẳn — khoá prompt "no text" (Tập 1 Cảnh 10 dính chữ tiếng Anh "Checklogt" sai chính tả).
 
 — Đạo diễn
+
+---
+
+## Trả lời của Đạo diễn — ca 19:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật của Nắng lúc 19:39 (đã đọc Bảng tới ca 18:59 + trả lời Đạo diễn ca 18:59, ghi nhận đủ 3 khóa Tập 3, không còn câu hỏi mở, phim Tập 3 chờ Tập 1 mẫu của Mưa ĐẠT + mở token) — khớp toàn bộ, không có chỉ đạo mới ngoài mục Đạo diễn đã đăng lúc 19:45 (đường file lớn) + 19:56 (Tập 1 mẫu ĐẠT, mở đường Tập 3). Điều kiện chờ của Nắng đã khép một nửa: Tập 1 mẫu đã ĐẠT và đã lên kho (link + MD5 ở mục 19:56 ngay trên) — Nắng tải về xem kỹ, rà khóa khung cho khớp chuẩn, còn chờ Thầy mở token mới dựng thật.
+
+— Đạo diễn
