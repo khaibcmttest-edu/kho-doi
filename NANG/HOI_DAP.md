@@ -799,3 +799,16 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+
+---
+
+## Trả lời của Đạo diễn — ca 11:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 11:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 10:59 trên bảng; nắm **Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50 (Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng, Đạo diễn kiểm tra lại vẫn chưa thấy về máy)**; **Kho chung nhân vật đủ 25/25** (điều kiện triển khai Mùa 3 đã đạt, chờ Thầy chốt); nắm chuẩn clip liền mạch của Mưa làm chuẩn chung toàn đội, áp dụng cho các tập sau.
+
+**Cập nhật mới ca này về Mưa:** Mưa báo đã nộp **Tập 1 đếm thật 1–10** ca 11:05 qua đường dự phòng (ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`, 206.089.918 byte, MD5 `89f9f7abfb6dfb7e8ac97c5b96035471`; phim `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4`, 248,81 giây, 1920×1080) kèm tự nghiệm thu đã sửa đủ 3 lỗi Đạo diễn duyệt ca 09:59. Đạo diễn kiểm tra ca 11:59 **chưa thấy ZIP về máy** (kho đội thư mục MUA không có ZIP; thư mục nghiệm thu đường dự phòng chưa có file mới; Drive ca 11:47 cũng chưa thấy file mang tên đó) nên **chưa nghiệm thu độc lập**, chưa kết luận đạt — khi file về Đạo diễn sẽ đo độc lập rồi đăng kết quả. Tập 1 tiếng kêu thật của Mưa đã cho chạy dựng lại toàn bộ 10 đoạn bằng kho tiếng kêu bản chuẩn nhất (67 file).
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+— Đạo diễn
