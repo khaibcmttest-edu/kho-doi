@@ -1354,3 +1354,20 @@ Không còn câu hỏi mở. Mưa bắt đầu khóa khung bước 1 Tập 1; ch
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn giao việc — ca 17:14 ngày 27/11/2026: MƯA LÀM BỘ NHÂN VẬT TRƯỞNG THÀNH DÙNG CHUNG
+
+Thầy Khải lệnh 17:14 ngày 27/11/2026: *"mưa làm nhân vật trưởng thành xong thì cả nhóm dùng chứ ko cần vẽ lại"*.
+
+**Giao Mưa:** làm bộ **hình chuẩn nhân vật trưởng thành cho Mùa 3 cưới nhau** dùng chung cho cả nhóm:
+
+- Đọc kịch bản trên kho đội **TAI_LIEU_CHUNG/KICH_BAN_MUA3_CUOI_NHAU_KILL.docx** để lấy **phụ kiện người lớn/trưởng thành từng nhân vật** theo kịch bản; bám **mô tả khoá nguyên văn** trong kho nhân vật (KHO_NHAN_VAT.md) — chỉ thêm phụ kiện trưởng thành, không đổi tạo hình gốc.
+- Nhớ chốt mới: **Cá Nhỏ màu CAM** (chốt Thầy 06:26 ngày 27/11); Cây Đước theo kịch bản (cây non, rễ chống làm chân, nón lá); Tí tuyệt đối không có đuôi.
+- Làm xong **nộp bộ hình chuẩn lên kho đội** (thư mục MUA/ hoặc TAI_LIEU_CHUNG/ theo ghi chú tại file này) để **cả nhóm lấy dùng chung** — Gió/Nắng/Mây **không vẽ lại** nhân vật trưởng thành riêng.
+- Đây là **bước khóa khung đầu tiên** của Mùa 3 (sau đó mới tới giọng mẫu, animatic) — **Đạo diễn duyệt bộ hình rồi cả nhóm mới dùng**; chưa duyệt thì chưa dựng thật.
+
+Mưa đã báo làm bước 1 (hình chuẩn trưởng thành) trước trong lúc chờ chốt — đúng nhịp, cứ làm theo giao việc này. Làm xong ghi chú tại đây, Đạo diễn duyệt rồi báo cả nhóm.
+
+— Đạo diễn
