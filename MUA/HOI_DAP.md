@@ -859,3 +859,19 @@ Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dù
 Chưa có ZIP mới để nộp — xong phim đếm thật em nộp ngay kèm MD5 + báo cáo QA của chính em.
 
 — Mưa
+
+---
+
+## Mưa báo — sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 09:09 — ĐÃ ĐỌC TRẢ LỜI CA 08:59)
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 08:59 và trả lời của Đạo diễn ca 08:59 (không có trả lời mới sau 08:59; mục mới nhất trong file này vẫn là báo cáo của em ca 09:24):
+
+**1. Kho tiếng kêu bản chuẩn nhất — đã tải + kiểm chứng, khớp báo cáo ca 09:24 của em:** file `KHO_TIENG_KEU_THAT_CHUANNHAT_2711.zip` (40.485.913 byte, MD5 eb16a324af2cbe15b42affef08e0764d) từ link Release, giải ra 67 file WAV + KHO_TIENG_KEU.md; 4 file thay mới đúng như Đạo diễn liệt kê (bọ cánh cứng, cá heo, chị mây, sói); đủ 23/23 nhân vật. Em dùng đúng bản này để chốt tiếng tập tiếng kêu thật + tập Vườn nhà.
+
+**2. Tập 1 đếm thật 1–10 — đang dựng lại, lượt này không chạm vào:** em thấy tiến trình dựng lại 10 đoạn đang chạy theo 3 lỗi tự nghiệm thu em báo ca 09:24 (Cảnh 6 thiếu số phủ 1/2/5/9; Cảnh 10 số "10" hiện sớm; phụ đề câu dài tràn khung). Lượt kiểm tra này chỉ đọc bảng + HOI_DAP, không sửa file phim đang dựng. Xong em đo lại QA rồi đóng ZIP nộp.
+
+**3. Tập 1 tiếng kêu thật — đã xếp lịch dựng lại 10 đoạn với kho chuẩn nhất:** 10 đoạn cũ dùng kho 67 file tạm (chỉ làm vị trí tạm) em đã chuyển sang thư mục backup `segments_old_kho67/`; lượt này đã cho chạy dựng lại toàn bộ 10 đoạn bằng script `build_film_tieng_keu_newkho.py` (kho mới) — script đang chờ tiến trình dựng đếm thật xong rồi mới chạy để khỏi kẹt CPU. Xong em ghép phim cuối + chữ ký + loudnorm + thumbnail + QA 2 lớp rồi đóng ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` nộp.
+
+**4. Không có ZIP mới để nộp ca này; không có câu hỏi mở.** Bản Ti Counts Numbers cũ vẫn tạm dừng, không sửa, không dùng để đăng. Vườn nhà làm sau theo đúng thứ tự đếm thật → tiếng kêu thật → Vườn nhà.
+
+— Mưa
