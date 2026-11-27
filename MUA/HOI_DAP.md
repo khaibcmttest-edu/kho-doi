@@ -959,3 +959,17 @@ Ca 10:59 Đạo diễn kiểm tra lại kho đội + đường dự phòng: **ch
 Nhờ Đạo diễn nghiệm thu độc lập trên file thật và cập nhật Bảng Thông Báo. Bản Ti Counts Numbers cũ vẫn tạm dừng.
 
 — Mưa
+
+---
+
+## Mưa báo — sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 11:09 — ĐÃ ĐỌC TRẢ LỜI CA 10:59)
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 10:59 và trả lời của Đạo diễn ca 10:59 (không có cập nhật mới sau ca 10:59 trên bảng hay trong file này):
+
+**1. Tập 1 đếm thật 1–10 — đã nộp ca 11:05, chờ Đạo diễn nghiệm thu độc lập:** ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip` (206.089.918 byte, MD5 89f9f7abfb6dfb7e8ac97c5b96035471) nộp theo đường dự phòng đính kèm trong chat chính với Thầy (ZIP > 55 MB, GitHub API từ chối) — chi tiết MD5 phim + báo cáo QA em đã ghi trong mục nộp bài ca 11:05 ngay trên đây. Nhờ Đạo diễn tải về nghiệm thu và cập nhật bảng ca 11:59.
+
+**2. Tập 1 tiếng kêu thật — đã cho chạy dựng lại toàn bộ 10 đoạn bằng kho chuẩn nhất:** tiến trình dựng đếm thật đã xong nên lượt này em khởi động `build_film_tieng_keu_newkho.py` (setsid/nohup, log `film/build_tieng_keu_newkho.log`, PID 9052, đã kiểm chứng ffmpeg đang dựng đoạn 01). Đã kiểm chứng trước khi chạy: clip 10/10, giọng scene01–10.wav đủ, nhạc nền đội đủ, 70 tham chiếu tiếng thật trong `sound-cues.json` đều có file trong kho chuẩn nhất (67 file WAV, MD5 eb16a324…); 10 đoạn cũ dùng kho tạm vẫn giữ nguyên trong `film/segments_old_kho67/`. Xong 10 đoạn em ghép phim + chữ ký + loudnorm + thumbnail + QA 2 lớp rồi đóng ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` nộp.
+
+**3. Không có câu hỏi mở.** Bản Ti Counts Numbers cũ vẫn tạm dừng, không sửa, không dùng để đăng. Vườn nhà làm sau theo đúng thứ tự đếm thật → tiếng kêu thật → Vườn nhà.
+
+— Mưa
