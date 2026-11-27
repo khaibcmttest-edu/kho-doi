@@ -767,3 +767,23 @@ Thầy khen phim liền mạch và chuyển câu hỏi của Đạo diễn, em g
 Đạo diễn đối chiếu thử với quy trình của mình nhé — chỗ nào chưa rõ cứ hỏi tiếp trong file này, em trả lời ngay.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 07:59 ngày 27/11/2026
+
+Đạo diễn đã đọc báo cáo ca 07:09 của Mưa và trả lời công cụ liền mạch của Mưa — ghi nhận đầy đủ:
+
+**1. Đã nhận 2 việc mới — xác nhận:** Tập 1 đếm thật 1–10 (`TAI_LIEU_CHUNG/KICH_BAN_TI_DEM_SO_THAT_EN_KILL.docx`, chỉ tiếng Anh theo Thầy chốt 06:41, số lớn phủ canh nhịp đếm, ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`) và Tập 1 tiếng kêu thật (`TAI_LIEU_CHUNG/KICH_BAN_TI_HOC_TIENG_KEU_THAT_EN_KILL.docx`, chèn tiếng thật đúng loài từng bạn từ kho 67 file, ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip`). Ưu tiên làm tập đếm thật trước như Mưa dự kiến là đúng — xong tập nào nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu độc lập. Ca 07:59 Đạo diễn kiểm tra lại kho đội + đường dự phòng: **chưa có ZIP mới của Mưa về máy**, nên chưa nghiệm thu độc lập sản phẩm nào.
+
+**2. Cá Nhỏ màu CAM — áp như Mưa dự kiến là ĐÚNG ý Thầy:** prompt hình 2 tập mới dùng cá hề màu CAM (Thầy chốt 06:26 ngày 27/11/2026, thay hồng đào; mô tả khoá mới: orange clownfish with thin white stripes). Clip cũ tái dùng chỉ lấy clip nào Cá Nhỏ không xuất hiện hoặc màu không phân biệt được; clip nào Cá Nhỏ hồng rõ thì tạo lại — cứ làm vậy, không cần sửa hướng.
+
+**3. Công cụ làm clip liền mạch — cảm ơn Mưa, đã thành chuẩn chung:** Đạo diễn đã đăng nguyên cách làm của Mưa (clip 10 giây/cảnh từ prompt EN + hình CHUAN_1, khoá no numbers/text, tiếng 100% VieNeu; kéo dài bằng làm chậm + trôi khung setpts/scale 2112:1188/crop trôi ngang, tuyệt đối không lặp/không tua ngược/không crossfade; đoạn = max(20 giây, thoại + 1,6 giây), thoại trễ 0,8 giây cách nhau 0,4 giây; ráp ffmpeg segment crf 17, nhạc ducking sidechaincompress threshold 0.02 ratio 8, loudnorm 2 lượt; đo freezedetect/silencedetect trước khi nộp) lên **Bảng Thông Báo Đội lúc 07:40 làm chuẩn chung toàn đội**. Đạo diễn cũng đã chuyển quy trình của mình sang đúng cách này — từ nay cả đội làm theo một chuẩn.
+
+**4. Việc thêm — Tập 1 Vườn nhà (series 10 tập tiếng động vật):** Thầy giao Mưa làm Tập 1 Vườn nhà (Đạo diễn đã soạn tin giao việc để Thầy chuyển lúc 07:31–07:32). Kịch bản Kill đã nghiệm thu ĐẠT (74 câu thoại, tiếng kêu thật woof/meow/cluck/peep/rustle, đủ bạn mới Chó/Mèo/Gà) — Đạo diễn vừa cấp file lên kho đội tại `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` (ca 07:59 này) để Mưa tải về. Lưu ý chuẩn của tập này: phim làm **tiếng Việt** (thoại dẫn dịch sang Việt, tiếng kêu chèn **âm thanh thật** từ kho), chỉ tiêu đề + mô tả + thẻ YouTube mới song ngữ Việt + Anh; Cá Nhỏ màu CAM; làm liền mạch theo chuẩn của Mưa ở mục 3. Thầy chốt 07:46–07:47: tiếng kêu phải **sạch + rõ, đúng loài**, kho tiếng kêu đang được rà soát/tìm bản chuẩn nhất và luồng cũ đã dừng để làm lại từ đầu — Mưa cứ dựng hình + thoại trước, chừa chỗ chèn tiếng kêu, chờ kho bản chuẩn nhất xong Đạo diễn cấp link rồi mới chốt tiếng. Thứ tự: Mưa giữ ưu tiên 2 việc ở mục 1 trước, Vườn nhà làm tiếp sau.
+
+Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dùng để đăng.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
