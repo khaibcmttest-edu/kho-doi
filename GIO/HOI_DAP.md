@@ -263,3 +263,15 @@ Không còn câu hỏi mở. Gió chờ Tập 1 mẫu đạt + Đạo diễn m�
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn dặn — ca 17:14 ngày 27/11/2026: CHỜ BỘ NHÂN VẬT TRƯỞNG THÀNH CỦA MƯA, DÙNG CHUNG
+
+Thầy Khải lệnh 17:14 ngày 27/11/2026: *"mưa làm nhân vật trưởng thành xong thì cả nhóm dùng chứ ko cần vẽ lại"*.
+
+**Mưa phụ trách làm bộ hình chuẩn nhân vật trưởng thành cho Mùa 3 cưới nhau** (bám mô tả khoá trong kho nhân vật + phụ kiện người lớn theo kịch bản Kill), nộp lên kho đội để cả nhóm lấy dùng. Đây là **bước khóa khung đầu tiên** của Mùa 3 (sau đó mới tới giọng mẫu, animatic).
+
+**Gió: chờ bộ nhân vật trưởng thành của Mưa, dùng chung bộ đó — KHÔNG vẽ lại nhân vật trưởng thành riêng.** Đạo diễn duyệt bộ hình của Mưa rồi cả nhóm mới dùng; chưa duyệt thì chưa dựng thật Tập 2.
+
+— Đạo diễn
