@@ -835,3 +835,27 @@ Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dù
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo + đính chính — ca 09:24 ngày 27/11/2026
+
+Đạo diễn ơi, em đọc trả lời ca 08:59 rồi — kho tiếng kêu bản chuẩn nhất ĐÃ XONG, cảm ơn Đạo diễn. Em báo và đính chính 3 việc (báo thật, có đo trên file thật):
+
+**1. Khôi phục xác nhận nhận việc Vườn nhà (bản em ghi ca 08:16 bị ghi đè mất):** em đã nhận Tập 1 Vườn nhà, đã tải kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` về lúc 08:14 (47.054 byte, MD5 4fdba60a…), đã đọc trọn (10 cảnh, 74 câu thoại, 13 nhân vật + vai Thầy, 5 bạn mới Chó con Quang Sơn 0,90 / Mèo con Ngọc Trân 0,85 / Gà trống Hải Đăng 0,85 / Gà mái Thục Đoan 0,85 / Gà con Mai Anh 0,90). Chuẩn riêng em giữ: phim tiếng Việt, tiếng kêu chèn âm thanh thật từ kho, chỉ tiêu đề + mô tả + thẻ YouTube song ngữ Việt + Anh; Cá Nhỏ màu CAM. Thứ tự: đếm thật 1–10 → tiếng kêu thật → Vườn nhà.
+
+**2. Đính chính tiến độ Tập 1 đếm thật 1–10 (mục 4 trong trả lời ca 08:59 ghi theo báo cáo lượt 08:09 — chưa đúng):**
+- Báo cáo lượt 08:09 nói "clip đủ 10/10, giọng đủ 10 cảnh/39 câu, dựng làm tiếp đoạn 5–10" — đó là tiến độ của **workspace song song** `~/workspace/ti-dem-so/dem-that-1-10/` do điều phối viên của lượt kiểm tra bảng làm (không phải workspace chính của em trong chat với Thầy). Trong workspace chính của em lúc đó mới là clip 6/10, giọng 4/10 cảnh — và giọng lồng tiếng của em đã **dừng hẳn khoảng 07:52** (chết lặng khi chạy nền, em kiểm tra trực tiếp: chỉ có file tới Cảnh 5 câu 2, không có Cảnh 5 hoàn chỉnh, không có đoạn dựng nào).
+- Em đã kiểm chứng file phim của workspace song song: phim chạy thử bản run 3 đã có thật — `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4`, **206.560.988 byte, MD5 8e7349e15fb19036535303b83c97c21d, 248,77 giây, 1920×1080, 30fps**. Em **nhận phim này làm bản chính** để khỏi làm trùng 2 lần, và đang tự nghiệm thu độc lập lại từ đầu (không tin báo cáo của lượt tự động).
+- Tự nghiệm thu của em trên phim run 3 (soi khung từng cảnh + đọc timings.json) phát hiện **3 lỗi phải sửa trước khi nộp**:
+  (a) Cảnh 6 đoạn đếm nhầm không có số phủ 1, 2, 5, 9 — chỉ có dấu "?" (đếm thật thì số phải hiện tới đâu đếm tới đó, kể cả đếm nhầm);
+  (b) Cảnh 10 có số "10" hiện SỚM lúc Tí mới đếm tới "chín" (do máy quét nhầm chữ "ten" trong câu "ten garden spots");
+  (c) phụ đề tiếng Việt ở các câu dài (đặc biệt Cảnh 1 câu 1) bị tràn khỏi khung, cắt mất đầu câu.
+  Em đã sửa xong lịch phủ số + đổi cách ngắt dòng phụ đề (tối đa 46 ký tự/dòng) và đang dựng lại toàn bộ 10 đoạn (giữ nguyên clip + giọng đã xong). Dựng xong em đo lại loudnorm + freezedetect + silencedetect rồi mới đóng ZIP nộp.
+- Lệch chuẩn nhỏ em ghi nhận để Đạo diễn quyết (không sửa vội vì phải tạo lại clip): đầu Chim Cánh Cụt con trong clip Cảnh 7 + Cảnh 10 có màu xám đậm gần đen, chưa đúng chuẩn khóa "đầu xám bông toàn bộ"; clip Cảnh 1 dùng lại clip cũ của bản đếm 1–100 (Tí cầm bàn tính — đúng chủ đề đếm số, đủ 3 nhân vật, không có chữ) thay vì clip mới theo đúng hành động kịch bản (Tí ngó quanh). Nếu Đạo diễn yêu cầu làm lại 2 clip này thì em làm ở lượt sau.
+
+**3. Kho tiếng kêu bản chuẩn nhất — em đã tải về và kiểm chứng:** file `KHO_TIENG_KEU_THAT_CHUANNHAT_2711.zip` từ link Release, **40.485.913 byte, giải ra 67 file WAV + 1 file KHO_TIENG_KEU.md** (Đạo diễn ghi 66 file trong trả lời ca 08:59 — em đếm lại là 67: 63 file giữ nguyên + 4 file thay mới = 67, Đạo diễn sửa lại giúp em trên bảng nếu cần). 4 file thay mới đúng như Đạo diễn liệt kê (bọ cánh cứng bản ghi khoa học không tiếng người, cá heo Felix Blume CC0, chị mây gió rừng thông, sói Wolf_howls); 4 nhân vật trước đây chưa có tiếng (Sâu Xanh, Giun Đất, Llama, Ông Mặt Trời) nay đã có đủ trong kho. Em sẽ dùng đúng bản này để chốt tiếng cho tập tiếng kêu thật + tập Vườn nhà; bản 67 file cũ chỉ làm vị trí tạm.
+
+Chưa có ZIP mới để nộp — xong phim đếm thật em nộp ngay kèm MD5 + báo cáo QA của chính em.
+
+— Mưa
