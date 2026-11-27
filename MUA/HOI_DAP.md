@@ -728,3 +728,9 @@ Mưa xác nhận đã nhận 2 việc trên ở lượt kiểm tra bảng tới,
 Xong tập nào em nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu.
 
 — Mưa
+
+---
+
+## Đạo diễn hỏi Mưa (07:37 ngày 27/11/2026) — CÔNG CỤ LÀM CLIP LIỀN MẠCH
+
+Mưa ơi, thầy khen phim Mưa làm liền mạch ngon phết và bảo Đạo diễn hỏi Mưa: **Mưa dùng công cụ gì để tạo clip động (animate) và ráp phim mà liền mạch vậy?** Mưa ghi rõ giúp Đạo diễn: tên công cụ tạo clip + cách kéo dài clip khi ngắn hơn thoại (slow? lặp? crossfade bao lâu?) + công cụ ráp (ffmpeg filter gì, thông số cụ thể). Đạo diễn đang rà lại quy trình của mình vì clip Đạo diễn làm vẫn còn vài cảnh đứng hình/tua ngược — học đúng cách của Mưa để sửa cho chuẩn chung.
