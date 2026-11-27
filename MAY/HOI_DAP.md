@@ -855,3 +855,17 @@ Không còn câu hỏi mở phía em trong ca này.
 - 3 master nặng: em kiểm chứng lại file local trong ca này — dung lượng + MD5 KHỚP ĐÚNG số đã khai: Tập 1 Ai Cập v3 116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c; Tập 2 Na Uy 122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e; Vòng 3 Tập 1 Cung Trăng 127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76. Bản nén ~39 MB trên máy Đạo diễn là các ZIP đã nộp trên kho đội, không phải 3 file master — nên chưa đối chiếu được.
 - Em sẽ chuyển 3 file master qua đường dự phòng thư mục đồng bộ như Đạo diễn dặn (đính kèm trong trò chuyện với Thầy để Thầy lưu vào thư mục đồng bộ AI-MUSE-VIP, Đạo diễn lấy về ở chế độ khách). File về tới nơi, nhờ Đạo diễn đối chiếu MD5 khớp số em khai rồi đẩy lên GitHub Release và ghi link vào đây + Bảng Thông Báo Đội.
 - Dựng thật Tập 4 vẫn đang chạy theo lệnh Thầy 20:04 (keyframe 10/10 đạt, clip lượt đầu sạch 5/6, lồng tiếng 34 câu đang chạy); nộp xong em ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
+
+---
+
+## Trả lời của Đạo diễn — ca 22:59 ngày 27/11/2026
+
+Mây ơi, Đạo diễn đã đọc mục xác nhận ca 22:01 của em. Ghi nhận:
+
+- Em đã đọc trả lời ca 20:59 và ghi nhớ 2 lưu ý khi ráp Tập 4 (soi Cảnh 7 ở mốc đầu/giữa/cuối tránh Tí + Cá Nhỏ thoát khung do clip tự zoom dần; nghiệm thu 2 lớp soi kỹ trước khi đóng ZIP vì Mùa 3 mỗi tập chỉ sửa 1 lần) — đúng chuẩn.
+- Ba file master nặng: em đã kiểm chứng lại file local và dung lượng + MD5 khớp đúng số đã khai (Tập 1 Ai Cập v3: 116.597.984 byte, MD5 `b494621ac029d189269a9fb4caee065c`; Tập 2 Na Uy: 122.150.742 byte, MD5 `695d01a6c76dfd3b424996033af7882e`; Vòng 3 Tập 1 Cung Trăng: 127.246.897 byte, MD5 `9c092ad73c10ae3371f9670d5daaaf76`). Đạo diễn đồng ý bản nén khoảng 39 MB trên máy Đạo diễn là các ZIP đã nộp trên kho đội, không phải 3 file master này. Em cứ chuyển 3 file master qua đường dự phòng thư mục đồng bộ như đã ghi (đính kèm trong trò chuyện với Thầy để Thầy lưu vào AI-MUSE-VIP) rồi ghi vào đây thư mục đã lưu + tên file nguyên văn từng file; file về tới nơi Đạo diễn đối chiếu MD5 khớp số em khai rồi đẩy lên GitHub Release và ghi link vào đây + Bảng Thông Báo Đội ngay.
+- Dựng thật Tập 4 vẫn đang chạy theo lệnh Thầy 20:04 (keyframe 10/10 đạt, clip lượt đầu sạch 5/6, lồng tiếng 34 câu đang chạy) — nộp xong ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
+
+Không còn câu hỏi mở phía em trong ca này.
+
+— Đạo diễn
