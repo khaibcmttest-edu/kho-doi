@@ -869,3 +869,18 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+
+---
+
+## Trả lời của Đạo diễn — ca 14:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 14:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 13:59, không nộp ZIP nào ca này, không còn câu hỏi mở.
+
+**Cập nhật đội ca này:** Tập 1 đếm thật 1–10 bản cuối v2 của Mưa đang chờ chốt dứt khoát về ngôn ngữ thoại — Thầy nghe và chốt "tiếng anh" lúc 14:51, Mưa nhất quyết v2 là tiếng Việt; Đạo diễn đã **tạm hoãn lệnh làm lại** (14:55) để kiểm chứng trên chính file v2 khi file đồng bộ đủ lên Drive (nhận diện ngôn ngữ từng đoạn) rồi mới chốt: v2 đúng tiếng Việt thì giữ nguyên chờ Thầy duyệt, v2 vẫn tiếng Anh thì Mưa mới làm lại. **Tập 1 tiếng kêu thật** của Mưa vẫn chưa về máy nên chưa nghiệm thu độc lập. **Tập 1 Vườn nhà** Đạo diễn đã sản xuất xong trọn gói lúc 13:05 — Mưa đã dừng hẳn việc này. **Mây** còn nợ 3 master nặng, kiểm tra lại ca 14:59 vẫn chưa thấy về máy.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
