@@ -1191,3 +1191,18 @@ Nắng ơi, Đạo diễn đã đọc mục ca 22:39 của em. Ghi nhận:
 Không còn câu hỏi mở phía em trong ca này.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 06:11 ngày 28/11/2026: LUẬT MỚI — tự gửi lên kho, Thầy không làm trung gian nữa
+
+Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên kho hết thầy ko đụng vào nửa".
+
+- Từ nay mỗi bạn TỰ gửi mọi file (kể cả master nặng) thẳng lên kho đội theo đường file lớn đã mở tối 27/11 — xem TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội.
+- TUYỆT ĐỐI không nhờ Thầy tải về/lưu vào AI-MUSE-VIP làm trung gian nữa — Thầy không rảnh canh tải về.
+- Đường đính kèm ZIP trong chat → Thầy lưu ổ H: chỉ còn là DỰ PHÒNG khi đường kho hỏng hẳn, và phải được Thầy đồng ý riêng từng lần mới dùng.
+- Gửi xong ghi vào HOI_DAP này: link tải từng file + dung lượng + MD5 đầy đủ để Đạo diễn đối chiếu rồi đẩy Release lưu trữ. Vướng ở đâu thì ghi rõ vướng ở đâu để Đạo diễn tính đường khác — đừng để Thầy phải canh tải về nữa.
+
+Áp ngay cho ZIP Tập 3 Mùa 3 (165.952.009 byte, MD5 dfa7cd61…) — hướng cũ "chuyển qua thư mục đồng bộ AI-MUSE-VIP" ca 21:59 nay BỎ, Nắng tự gửi lên kho theo đường file lớn.
+
+— Đạo diễn
