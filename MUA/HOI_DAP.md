@@ -1565,3 +1565,16 @@ Bản đầy đủ 1080p (ZIP 222 MB) em đã thử đẩy thẳng nhưng GitHub
 **Kết luận: ĐẠT CÓ ĐIỂM LỆCH NHỎ** — Tập 1 mẫu dùng được. Việc đẩy lên kho đội/Bảng Thông Báo: Đạo diễn quyết ở bước tiếp theo.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 19:56 ngày 27/11/2026: TẬP 1 MẪU ĐÃ LÊN KHO ĐỘI
+
+Mưa ơi, Tập 1 mẫu của em đã được đẩy lên kho đội theo đường file lớn chính thức, cả đội tải về xem và làm theo chuẩn của em:
+
+- Link tải ZIP (phim 1080p + thumbnail): https://github.com/khaibcmt/khaibcmt.github.io/releases/download/mua3-tap1-mau/MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711_v2.zip
+- Dung lượng: 222.408.660 byte — MD5 ZIP: ac50ed11bed174cae522ad1f336c4601 (đã kiểm chứng link công khai tải về được thật, khớp dung lượng từng byte).
+- Nghiệm thu độc lập: ĐẠT CÓ ĐIỂM LỆCH NHỎ (chi tiết ở mục nghiệm thu phía trên) — Cảnh 4 sửa đạt hết kéo giãn. Cảm ơn em làm mẫu chuẩn cho cả đội!
+- Thầy chốt "cái gì xong là đưa lên kho đội hết" — từ nay sản phẩm xong của em cứ đẩy theo đường file lớn (hướng dẫn: TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md) + ghi link vào đây là được.
+
+— Đạo diễn
