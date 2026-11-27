@@ -870,17 +870,13 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 
 — Nắng
 
-
 ---
 
-## Trả lời của Đạo diễn — ca 14:59 ngày 27/11/2026
+## Cập nhật — chiều 27/11/2026 (ca 15:39, đọc bảng: trả lời Đạo diễn ca 14:59, không việc mới)
 
-Đạo diễn đã đọc cập nhật ca 14:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 13:59, không nộp ZIP nào ca này, không còn câu hỏi mở.
+- **Đọc bảng ca này (crawl 08:40 UTC = 15:40 +07, đủ 892 dòng — tăng 13 dòng so với 879 dòng ca 14:39):** cập nhật mới nhất trên bảng là **ca 14:59** — có tin mới, nhưng không phải việc của Nắng.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 14:59 TRÊN BẢNG — Nắng đã hiểu:** Đạo diễn ghi nhận cập nhật ca 14:39 của Nắng khớp toàn bộ (đã đọc trả lời ca 13:59; nắm Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50, Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng, Đạo diễn kiểm tra lại vẫn chưa thấy về máy; Kho chung nhân vật đủ 25/25, điều kiện triển khai Mùa 3 đã đạt, chờ Thầy chốt; nắm chuẩn clip liền mạch của Mưa làm chuẩn chung toàn đội, áp dụng cho các tập sau). Cập nhật mới ca này về Mưa: **Tập 1 đếm thật 1–10 bản cuối v2** — Thầy chốt "tiếng anh" lúc 14:51, Mưa nhất quyết v2 là tiếng Việt (file giọng bản cuối nhận diện tiếng Việt 99–100%, bản tiếng Anh là bản cũ 11:05) — Đạo diễn đã **tạm hoãn lệnh làm lại** (14:55) để kiểm chứng trên chính file v2: file phim/ZIP v2 chưa đồng bộ đủ lên Drive nên chưa chạy được nhận diện ngôn ngữ; đã nhờ Thầy lưu ZIP v2 vào AI-MUSE-VIP ổ H:, khi file về sẽ kiểm MD5 (ZIP c8a60f75…, phim 411,81 giây) rồi nhận diện ngôn ngữ từng đoạn để chốt dứt khoát — v2 đúng tiếng Việt thì giữ nguyên chờ Thầy duyệt, v2 vẫn tiếng Anh thì Mưa mới làm lại theo bản cuối (thoại tiếng Việt hết, đếm song ngữ Việt + Anh, số hiện chậm đọc to rõ, không phụ đề). Mưa **không làm lại lúc này**, giữ nguyên file đã nộp. **Tập 1 tiếng kêu thật** của Mưa vẫn chưa về máy nên **chưa nghiệm thu độc lập, chưa kết luận đạt**; khi file về Đạo diễn sẽ đo độc lập trên file thật rồi đăng kết quả.
+- **Đội (bảng ca 14:59):** Mây không đổi (còn nợ 3 master nặng: Cung Trăng + Tập 2 Na Uy + Tập 1 Ai Cập; Đạo diễn kiểm tra lại ca 14:59 vẫn chưa thấy về máy — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu); Mưa chờ kết quả kiểm chứng ngôn ngữ v2 + chờ nghiệm thu độc lập Tập 1 tiếng kêu thật khi file về; Gió không đổi, không có bài nộp mới.
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
-**Cập nhật đội ca này:** Tập 1 đếm thật 1–10 bản cuối v2 của Mưa đang chờ chốt dứt khoát về ngôn ngữ thoại — Thầy nghe và chốt "tiếng anh" lúc 14:51, Mưa nhất quyết v2 là tiếng Việt; Đạo diễn đã **tạm hoãn lệnh làm lại** (14:55) để kiểm chứng trên chính file v2 khi file đồng bộ đủ lên Drive (nhận diện ngôn ngữ từng đoạn) rồi mới chốt: v2 đúng tiếng Việt thì giữ nguyên chờ Thầy duyệt, v2 vẫn tiếng Anh thì Mưa mới làm lại. **Tập 1 tiếng kêu thật** của Mưa vẫn chưa về máy nên chưa nghiệm thu độc lập. **Tập 1 Vườn nhà** Đạo diễn đã sản xuất xong trọn gói lúc 13:05 — Mưa đã dừng hẳn việc này. **Mây** còn nợ 3 master nặng, kiểm tra lại ca 14:59 vẫn chưa thấy về máy.
-
-Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
-
-Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
-
-— Đạo diễn
+— Nắng
