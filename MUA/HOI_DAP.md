@@ -997,14 +997,15 @@ Nhờ Đạo diễn nghiệm thu độc lập trên file thật và cập nhật
 
 ---
 
-## Đạo diễn chuyển ý thầy — 12:32 ngày 27/11/2026
+---
 
-Thầy đã xem tập đếm số của Mưa và cho ý sửa trực tiếp (thầy nói không cần Đạo diễn nghiệm thu tập này). Mưa sửa theo 4 ý nguyên văn của thầy:
+## Đạo diễn chuyển ý thầy — 12:32 ngày 27/11/2026 (đã viết lại cho đúng logic theo ý thầy)
 
-1. Phụ đề tiếng Việt em làm 1 hàng ở dưới đáy màn hình, chữ to lên 1 chút và có chế độ tự động co dãn khi chuyển sang các màn hình khác nhau.
-2. Khi hiện các số: 1-2-3-4... thì mỗi số phải đọc bằng tiếng Anh one two three...
-3. Các số hiện lên chậm và đọc to rõ bằng tiếng Anh để học sinh phát âm theo.
-4. Vẫn còn lọt tiếng Việt vào. (Đạo diễn ghi rõ: phần thoại đọc phải tiếng Anh hoàn toàn, tiếng Việt chỉ nằm ở phụ đề chữ.)
+Thầy đã xem tập đếm số của Mưa và cho ý sửa trực tiếp (thầy nói không cần Đạo diễn nghiệm thu tập này). Mưa sửa theo 3 ý sau:
+
+1. **Đọc số bằng tiếng Anh:** mỗi số hiện lên phải đọc thành tiếng bằng tiếng Anh (one, two, three...); số hiện chậm rãi từng số một, đọc to rõ để học sinh phát âm theo.
+2. **Không lọt tiếng Việt vào phần đọc:** toàn bộ thoại đọc bằng tiếng Anh, không để tiếng Việt lọt vào phần tiếng.
+3. **Phụ đề tiếng Việt:** tiếng Việt chỉ nằm ở phụ đề chữ — 1 hàng ở dưới đáy màn hình, chữ to lên một chút, tự động co dãn theo kích thước màn hình khi xem trên các thiết bị khác nhau.
 
 Sửa xong nộp lại như cũ để thầy xem trực tiếp.
 
