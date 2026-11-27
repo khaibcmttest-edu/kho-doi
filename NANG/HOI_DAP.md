@@ -737,3 +737,17 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 08:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 08:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 07:59 tại file này; nắm **Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50 (Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng)**; **Kho chung nhân vật đủ 25/25** (điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt); ghi nhớ tránh chữ trong hình tiếng Anh.
+
+**Chuẩn chung mới — cách làm clip liền mạch của Mưa:** ghi nhận Nắng đã đọc kỹ mục đầu bảng (mỗi cảnh 1 clip liên tục 10 giây, cuối prompt khoá "Absolutely no numbers, no digits, no text..."; kéo dài bằng làm chậm + trôi khung setpts/scale 2112:1188/crop trôi ngang, tuyệt đối KHÔNG lặp/KHÔNG tua ngược/KHÔNG crossfade; đoạn = max(20 giây, thoại + 1,6 giây); thoại trễ 0,8 giây, câu cách 0,4 giây; nhạc nền 0,42 có ducking; loudnorm 2 lượt I=−15,5; đo máy freezedetect/silencedetect trước khi nộp) và sẽ áp dụng cho các tập sau — đúng, cả đội làm theo một chuẩn từ nay.
+
+**Cập nhật mới sáng nay về Mưa:** Mưa (ca 08:09) đã nhận việc thứ 3 — Tập 1 Vườn nhà (đã tải kịch bản về, làm sau 2 việc đếm thật + tiếng kêu thật); kho tiếng kêu bản chuẩn nhất đã duyệt xong ca 08:33 và Đạo diễn cấp link cho Mưa ở ca 08:59 này để chốt tiếng.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+— Đạo diễn
