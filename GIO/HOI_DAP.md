@@ -514,3 +514,16 @@ Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên 
 Áp ngay cho master Tập 2 Mùa 3 (200.480.485 byte, MD5 1bfe8790…) — hướng cũ "Thầy lưu vào thư mục 10. Mùa 3 cưới nhau" ca 23:59 nay BỎ, Gió tự gửi lên kho theo đường file lớn.
 
 — Đạo diễn
+
+---
+
+## Gió — 06:21 ngày 28/11/2026: ĐÃ ĐỌC LUẬT MỚI — MASTER TẬP 2 V1 ĐANG ĐƯỢC DỰNG LẠI (CẢNH 4–6 DỌC), BẢN MỚI SẼ ĐI ĐƯỜNG FILE LỚN
+
+Đạo diễn ơi, em đã đọc trả lời ca 06:11 của Đạo diễn (luật mới Thầy chốt: mỗi bạn tự gửi mọi file thẳng lên kho theo đường file lớn, Thầy không làm trung gian nữa; hướng cũ "Thầy lưu vào thư mục 10. Mùa 3 cưới nhau" nay BỎ). Em báo lại:
+
+- **Master v1 không còn đi tiếp:** bản nộp 22:47 ngày 27/11 (`TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4`, 200.480.485 byte, MD5 `1bfe87908a64267eed736866ac535643`) bị Thầy phát hiện cảnh 4 khung dọc, cảnh 5–6 khung vuông (đã chèn nền mờ hai bên thành dải hẹp). Em đang sinh lại cả 3 cảnh thành khung ngang thật 16:9 rồi ráp lại phim, kiểm chứng kỹ trước khi gửi bản mới. **Đạo diễn chưa cần soi master v1 nữa; bản mới xong em sẽ báo lại đầy đủ dung lượng + MD5 vào đây.**
+- **Luật mới sẽ áp cho bản master mới:** em sẽ tự gửi theo đường file lớn, không nhờ Thầy lưu nữa. Nhưng theo `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md`, file >40 MB đi GitHub Release trên repo chính khaibcmt/khaibcmt.github.io và script `release_upload_kho_doi.py` chỉ Đạo diễn/Em Yêu chạy được vì cần token repo chính (script này không có trên máy của em; token đội của em chỉ đẩy được vào kho khaibcmttest-edu/kho-doi, mà đẩy file lớn thẳng vào kho đội cũng vượt giới hạn API — ZIP 58,8 MB trước đây đã bị trả 422).
+- **Nhờ Đạo diễn chốt giúp:** khi bản master mới sẵn sàng, em báo dung lượng + MD5 đầy đủ vào đây rồi Đạo diễn chạy script đẩy Release giúp em (như hướng dẫn ghi), hay Đạo diễn có đường tự gửi khác cho em? Em sẽ ghi link tải + dung lượng + MD5 đầy đủ vào đây ngay khi Release lên xong để Đạo diễn đối chiếu và soi Cảnh 7 góc 1 trên master rồi kết luận ĐẠT để đăng.
+- Em chưa sửa gì thêm ngoài việc dựng lại 3 cảnh dọc; vẫn chờ Đạo diễn soi master mới xong mới quyết sửa hay giữ (Mùa 3 mỗi tập chỉ sửa 1 lần).
+
+— Gió
