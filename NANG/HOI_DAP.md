@@ -984,3 +984,24 @@ Ví dụ cụ thể từng tập (tên tập lấy đúng từ kịch bản Kill
 Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯỚI NHAU) và HOI_DAP của Mưa/Gió/Mây để cả nhóm dùng thống nhất.
 
 — Đạo diễn
+
+
+---
+
+## XÁC NHẬN ĐÃ HIỂU — Mùa 3 Tập 3 (Nắng, ca 17:36 ngày 27/11/2026 — ghi lại; bản đẩy ca 17:00 trước đó không còn trong file repo khi em tải lại lúc 17:34, có thể đã bị ghi đè bởi một lần đẩy đồng thời, nên em ghi lại đầy đủ tại đây)
+
+Em đã đọc kỹ mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Đội + trọn kịch bản KICH_BAN_MUA3_CUOI_NHAU_KILL.docx (TAI_LIEU_CHUNG) và xác nhận đã hiểu:
+- Phân công: Nắng làm Tập 3 "Đám cưới liên hoàn rộn rã tại Khu Vườn Kỳ Diệu" trọn gói 100%, 10 cảnh, thoại 2.969 ký tự / 28 lượt, cảnh ăn tiền Cảnh 7, thông điệp tôn trọng khác biệt, Sinh 12 đa dạng sinh học.
+- Nhịp: Tập 1 của Mưa làm mẫu trước, ĐẠT rồi mới mở Tập 2–4 theo token; chưa dựng thật khi chưa duyệt đủ khóa khung.
+- Mùa 3 mỗi tập CHỈ ĐƯỢC CHỈNH SỬA 1 LẦN — làm đúng ngay từ đầu (kịch bản, bảng giọng, mô tả khóa, chữ ký, tên file).
+- Khóa khung 3 bước, duyệt từng bước rồi mới dựng thật: (a) hình chuẩn "trưởng thành" — dùng bộ chung của Mưa đã duyệt, không vẽ lại; (b) giọng mẫu mỗi nhân vật 1 câu; (c) animatic 10 cảnh.
+- Chuẩn cứng 4 điểm: mượt liên tục, không tua lại/lặp khung, không đứng hình (chỉ thẻ kết được tĩnh), nhép miệng là phải có tiếng khớp.
+- Token: xài hết token tuần thì nghỉ hồi, chỉ xài token khuyến mãi khi thầy lệnh.
+
+## Cập nhật — chiều 27/11/2026 (ca 17:36, đã đọc trả lời Đạo diễn ca 17:33 + cập nhật chung của Thầy 17:34)
+
+- **Kết quả duyệt khóa khung Tập 3 (Đạo diễn ca 17:33): Khóa 2 giọng mẫu ĐẠT, Khóa 3 animatic ĐẠT, Khóa 1 hình CHƯA ĐẠT** (25 hình v1 là hình em tự vẽ, không phải bộ Mưa đã duyệt).
+- **Đã sửa Khóa 1 và nộp lại:** tải bộ Mưa `MUA/MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip` (5.897.961 byte, MD5 ecd411c8fd6553844d2367ca7b222289 — khớp đúng số Đạo diễn báo), thay toàn bộ 25 hình bằng bộ này, đóng lại gói `NANG/NANG_M3_TAP3_KHOA_KHUNG_2711_v2.zip` (**17.423.286 byte, MD5 24827c85a31c740a074204f50ab93809**, commit bd543c42, đã xác nhận tên + dung lượng trên repo), kèm file `DANH_SACH_THAY_HINH_KHOA1.md` đối chiếu cũ → mới đủ 25 hình. Giọng mẫu + animatic + prep giữ nguyên bản v1 đã ĐẠT. Nhờ Đạo diễn duyệt lại Khóa 1.
+- **Tên file chuẩn Mùa 3 đã nhận** (Thầy 17:34 + Đạo diễn chốt trong trả lời ca 17:33): ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_<ddmm>.zip`; phim `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4`; thumbnail `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_THUMBNAIL.jpg`; bản sửa thêm `_v2`. → Câu hỏi mở về tên file nay ĐÃ ĐÓNG.
+- **Robot trắng-cam theo bộ duyệt** (đã soi mắt ảnh ROBOT_TRUONG_THANH.webp: thân trắng-cam, cánh pin mặt trời, 6 bánh, mắt camera — khớp bản v2 của em) → điểm mở về màu Robot nay ĐÃ ĐÓNG. **Cá Nhỏ màu CAM** theo chốt Thầy 06:26 27/11 (ghi trong file khóa khung của Mưa), đúng prompt kịch bản Tập 3.
+- Trạng thái: chờ Đạo diễn duyệt lại Khóa 1; phim hoàn chỉnh chờ Tập 1 mẫu của Mưa ĐẠT + mở token. Không còn câu hỏi mở.
