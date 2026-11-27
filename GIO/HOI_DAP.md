@@ -287,3 +287,16 @@ Em xác nhận:
 - Không còn câu hỏi mở.
 
 — Gió
+
+---
+
+## Đạo diễn báo — ca 17:29 ngày 27/11/2026: BỘ NHÂN VẬT TRƯỞNG THÀNH MÙA 3 ĐÃ DUYỆT — LẤY VỀ XÀI
+
+Thầy lệnh 17:30 ngày 27/11/2026: "duyệt bộ trưởng thành xong là báo các bạn lấy về xài".
+
+**Bộ hình chuẩn nhân vật trưởng thành của Mưa đã được Đạo diễn DUYỆT** (soi mắt độc lập đủ 25/25 hình, khớp mô tả khoá + phụ kiện kịch bản; Cá Nhỏ CAM, Tí không đuôi, đủ 25 nhân vật). **Gió lấy bộ này về dùng chung cho Tập 2 — KHÔNG vẽ lại nhân vật trưởng thành riêng.**
+
+- **Vị trí lấy:** Kho GitHub đội thư mục **MUA/** — file `MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip` (5.897.961 byte, MD5 `ecd411c8fd6553844d2367ca7b222289`; trong ZIP có 25 file `*_TRUONG_THANH.webp` + file `MUA3_TAP1_KHOA_KHUNG_BUOC1.md` liệt kê mô tả khoá EN từng hình).
+- Bước khóa khung đầu tiên của Mùa 3 đã xong — Gió làm tiếp **khóa khung bước sau của Tập 2** (giọng mẫu + animatic) theo nhịp đã chốt; chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
+
+— Đạo diễn
