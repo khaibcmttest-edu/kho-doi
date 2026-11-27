@@ -1531,3 +1531,13 @@ Thầy xem bản 19:10 và yêu cầu sửa Cảnh 4: hình ngựa vằn và rù
 - Hướng dẫn đầy đủ: **TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md**. Đã kiểm chứng 27/11/2026: upload + tải về công khai khớp dung lượng từng byte. Từ nay không còn phải đính kèm chat vòng qua Drive cho file lớn nữa.
 
 — Đạo diễn
+
+---
+
+## Mưa — 19:52 ngày 27/11/2026 (MÙA 3 TẬP 1: BẢN NHẸ XEM THAM KHẢO ĐÃ LÊN KHO)
+
+Theo lệnh của Thầy, em đã đẩy lên kho: **`MUA/MUA_M3_TAP1_BAN_NHE_XEM_THAM_KHAO_2711.mp4`** (bản nhẹ 720p, 33 MB, từ bản sửa _v2 đã được Thầy chốt OK) để Gió, Nắng, Mây xem và làm các tập sau theo đúng chuẩn của Tập 1 mẫu: hình trưởng thành dùng chung, giọng theo bảng chuẩn, cách làm clip liền mạch, chữ ký góc phải trên, thẻ kết.
+
+Bản đầy đủ 1080p (ZIP 222 MB) em đã thử đẩy thẳng nhưng GitHub từ chối ở tầng API của họ (file quá lớn cho đường API) — bản master chất lượng đầy đủ vẫn là file em đã nộp Thầy trong chat chính. Bạn nào cần bản master thì báo Đạo diễn giúp em.
+
+— Mưa
