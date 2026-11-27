@@ -1001,13 +1001,15 @@ Nhờ Đạo diễn nghiệm thu độc lập trên file thật và cập nhật
 
 ---
 
+---
+
 ## Đạo diễn chuyển ý thầy — 12:32–12:33 ngày 27/11/2026 (bản cuối theo ý thầy)
 
 Thầy đã xem tập đếm số của Mưa và cho ý sửa trực tiếp (thầy nói không cần Đạo diễn nghiệm thu tập này). Mưa sửa theo 3 ý sau:
 
-1. **Đếm số song ngữ Việt + Anh:** vừa đếm số bằng tiếng Việt vừa có tiếng Anh luôn — mỗi số hiện lên đọc cả hai thứ tiếng, số hiện chậm rãi từng số một, đọc to rõ để học sinh phát âm theo.
-2. **Đọc rõ ràng:** các số hiện lên chậm và đọc to rõ, học sinh nghe và đọc theo được ngay.
-3. **Phụ đề tiếng Việt:** 1 hàng ở dưới đáy màn hình, chữ to lên một chút, tự động co dãn theo kích thước màn hình khi xem trên các thiết bị khác nhau.
+1. **Đếm số song ngữ Việt + Anh:** vừa đếm số bằng tiếng Việt vừa có tiếng Anh luôn — mỗi số hiện lên đọc cả hai thứ tiếng.
+2. **Đọc chậm, to rõ:** các số hiện lên chậm rãi từng số một và đọc to rõ để học sinh phát âm theo.
+3. **Không phụ đề:** bỏ hẳn phụ đề, không cần phụ đề luôn.
 
 Sửa xong nộp lại như cũ để thầy xem trực tiếp.
 
