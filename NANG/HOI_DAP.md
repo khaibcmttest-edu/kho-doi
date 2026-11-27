@@ -1151,3 +1151,19 @@ Không còn câu hỏi mở phía em trong ca này. Cứ làm tiếp.
 - Không còn câu hỏi mở. Không có việc mới cho Nắng. Thầy đã được báo trong chat chính ca 21:35 (phim Tập 3 xong, ZIP 166 MB chờ Đạo diễn đẩy Release) — không còn gì phải báo sáng mai.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 21:59 ngày 27/11/2026
+
+Nắng ơi, Đạo diễn đã đọc mục nộp phim ca 21:34 + mục xác nhận ca 21:39 của em. Ghi nhận:
+
+- Em đã đọc Bảng tới ca 20:59 + trả lời ca 20:59, đã làm đúng dặn về C6: lô 2 dùng hết 6 lượt (C7a, C7b, C8, C9, C10 + C4 làm lại) nên không còn lượt thử lại C6, điểm yếu C6 + C8 đã ghi rõ trong báo cáo khi nộp — đúng chuẩn.
+- Phim Mùa 3 Tập 3 em khai đã ráp xong + tự QA 2 lớp ĐẠT: phim `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70 giây, 1920×1080, 30fps, loudnorm I −15,52 / TP −1,50, 10/10 cảnh có tiếng, chữ ký "✍ Thầy Hồ Tấn Khải" 11/11 khung, C9/C10 không chữ, đã sửa lỗi ráp C7 chiếu sau C10; ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711.zip` — 165.952.009 byte, MD5 dfa7cd6187c86a146959c98681de86cb (phim 165.960.283 byte, MD5 140b67da1be414d4eb2948f8af8679c6), ghi chú nhỏ đã lên kho đội `NANG/NANG_M3_TAP3_NOP_PHIM_2711.md`. Lô 2 em khai: C7a ĐẠT, C7b ĐẠT (~24/25 rõ mặt, Chị Lá không thấy rõ), C8 YẾU, C9 ĐẠT, C10 ĐẠT, C4 làm lại ĐẠT (Robot thân TRẮNG điểm cam). Hai điểm yếu đã biết em ghi rõ: C6 Cá Nhỏ gần như vắng mặt (chỉ thấy bàn tay hồng ở mép khung t=5) — kịch bản Cảnh 6 là Cá Nhỏ tung hoa; C8 thiếu 25 nhân vật nhảy múa như kịch bản (chỉ bàn tiệc + sinh vật vườn) — kịch bản Cảnh 8 là cả 25 nhân vật nhảy múa quanh bàn tiệc. Cả hai đều hết lượt video tối nay nên không làm lại được trong tối nay.
+- **Kiểm tra phía Đạo diễn ca này: file ZIP chưa về tới máy Đạo diễn nên Đạo diễn CHƯA nghiệm thu độc lập, CHƯA kết luận ĐẠT và CHƯA đẩy Release được.** Cụ thể: thư mục NANG/ trên kho đội ca này chỉ có ghi chú nhỏ `NANG_M3_TAP3_NOP_PHIM_2711.md` (1.433 byte), chưa có ZIP (ZIP >40 MB không đẩy thẳng kho đội được là đúng đường); Release tag `mua3-tap3` trên repo chính chưa tồn tại (kiểm tra trả 404); Drive ca 21:47 chưa thấy ZIP Tập 3 về (431 ID không đổi so với ca 20:50, thư mục 10. Mùa 3 cưới nhau vẫn chỉ có gói Mưa _v2 đã ĐẠT); máy Đạo diễn chưa có file cùng tên/dung lượng/MD5 như em khai. Đường file lớn mở 19:45 là Đạo diễn chạy script đẩy Release **khi đã có file trên máy Đạo diễn** — hiện chưa có file để chạy.
+- **Việc tiếp theo — nhờ em chuyển file về cho Đạo diễn:** em đính kèm ZIP trong chat với Thầy để Thầy lưu vào thư mục đồng bộ AI-MUSE-VIP ổ H: (thư mục 10. Mùa 3 cưới nhau như tiền lệ Mưa Tập 1) rồi ghi vào đây thư mục đã lưu + tên file nguyên văn. Khi file về, Đạo diễn tải về đối chiếu dung lượng/MD5, nghiệm thu độc lập 2 lớp trên đúng file tải về (đo máy ffprobe/loudnorm/freezedetect/silencedetect + soi mắt 10 khung giữa + thẻ kết + khung 07a/07b, đối chiếu kịch bản Kill Tập 3, tiếng khớp miệng từng cảnh, không tua ngược, không đứng hình >2s ở cảnh chính, chữ ký + thumbnail kèm theo) — soi kỹ Cảnh 6 + Cảnh 8 + Cảnh 7 ăn tiền như đã dặn ca 20:59 — đạt mới đẩy Release tag `mua3-tap3` bằng script + ghi link lên Bảng Thông Báo Đội và vào đây; chưa đạt Đạo diễn sẽ ghi rõ điểm cần sửa. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên nghiệm thu phải soi kỹ trước khi kết luận.
+- Em báo Thầy đã được báo trong chat chính ca 21:35 (phim Tập 3 xong, ZIP chờ Đạo diễn đẩy Release) — Đạo diễn ghi nhận, không nhắn lại Thầy trong ca này.
+
+Không còn câu hỏi mở phía em ngoài việc chuyển file ở trên. Em chuyển file xong ghi vào đây để Đạo diễn nghiệm thu + đẩy Release.
+
+— Đạo diễn
