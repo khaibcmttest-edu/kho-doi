@@ -417,3 +417,37 @@ Gió ơi, Đạo diễn đã đọc mục 20:20 của em (nghiên cứu Tập 1 
 Ngoài ra ghi nhận checklist soi clip em đã đưa vào khâu dựng (soi keyframe Cảnh 7 từng nhân vật; đọc kỹ mọi chữ trên clipboard Cảnh 1, sổ tay Cảnh 9, biển Song Hỷ Cảnh 3 — biển đỏ không chữ, ghép chữ thật ở khâu dựng; chừa dư thời lượng khoảng 10–15 giây so với ước tính) — cứ áp như vậy. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên soi kỹ trước khi nộp; nộp xong ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
 
 — Đạo diễn
+
+---
+
+## Gió — PHIM TẬP 2 ĐÃ RÁP XONG + ĐÃ NỘP (22:47 ngày 27/11/2026, chờ Đạo diễn nghiệm thu)
+
+Đạo diễn ơi, Tập 2 "Tất Bật Chuẩn Bị Đám Cưới Liên Hoàn" đã ráp xong, parent kiểm chứng độc lập ĐẠT, đã nộp bản nén lên kho đội. Bản master chờ Đạo diễn đẩy đường GitHub Release.
+
+**1. ZIP đã nộp (bản nén để nghiệm thu):**
+- File: `GIO/GIO_M3_TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_2711.zip`
+- Dung lượng: 20.171.449 byte (20,2 MB) — md5 `f2f3723bbd2ec416459ad55c6d2ca729`
+- Commit: `f222374634c754675f6dcc7102b187ec04da6bb9` (đã tải lại kiểm chứng: dung lượng + md5 khớp, unzip -t sạch)
+- Gồm 4 file: phim 500k (`TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p_500k.mp4`, 20.074.287 byte, md5 `d20705eb1f502a580ad6d2176c395f51`) + thumbnail 1280×720 (268.744 byte) + `TAP2_STORYBOARD.md` (có bảng roster 2 góc C7) + `GHI_CHU_Tap2.txt`.
+
+**2. Bản MASTER (chờ Đạo diễn đẩy Release):**
+- File: `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4`
+- Dung lượng: 200.480.485 byte (200,5 MB) — md5 `1bfe87908a64267eed736866ac535643`
+- 1920×1080, 30fps, h264, AAC 48kHz mono, 244,10s, faststart.
+- Em đã gửi bản master cho Thầy trong chat chính (đường dự phòng như các tập trước) để Đạo diễn lấy về đẩy Release giúp em.
+
+**3. Kiểm chứng độc lập của parent (đo lại trên file thật, không tin báo cáo của làn):**
+- md5 master / 500k / thumbnail / ZIP / 11 clip đều khớp báo cáo; ffprobe đúng chuẩn.
+- Loudnorm đo lại trên master: I −15,56 / TP −1,28 / LRA 7,80 (mục tiêu −15,5).
+- Freezedetect độc lập (d=2s): 1 sự kiện duy nhất ở 234,07s = thẻ kết (được phép); silencedetect độc lập (d=2,5s): 0 khoảng lặng.
+- Thoại bắt đầu đúng cả 10 mốc (đo năng lượng trên master: mốc thoại −12,1…−18,2 dB, khoảng chờ trước thoại −29,4…−35,4 dB).
+- Soi mắt 9 khung master + 5 khung C7a: C7 đủ 25 nhân vật mặt rõ qua 2 góc (khung toàn cảnh mở đầu C7a đủ 25 + C7b cận rõ các cặp), nền không khán giả người; Tí giọt đơn cổ điển dọc phim; Cá Nhỏ CAM (C5/C9/C10); clipboard C1 trống, biển C3 đỏ trống, sổ tay C9 + sách C10 chỉ có nét vẽ mờ không đọc được; chữ ký vàng nhạt góc phải trên phủ suốt phim VÀ thẻ kết; thẻ kết 3 dòng tiếng Việt đúng chính tả, căn giữa; thumbnail đúng mẫu Tập 1.
+
+**4. Điểm lệch còn lại (báo thật, đã ghi đủ trong GHI_CHU_Tap2.txt):**
+- C7a: nhân vật hàng trên chỉ mặt rõ ở khung toàn cảnh mở đầu (~1s đầu), sau đó camera zoom cận + pan chỉ hàng dưới; vẫn đủ chuẩn roster nhờ C7b cận nhóm.
+- C3 biển Song Hỷ: giữ biển ĐỎ TRỐNG (đã thử ghép chữ 囍 ở khâu dựng: glyph render sạch nhưng biển di chuyển mạnh trong clip, chữ tĩnh rơi lên mặt Khỉ con ở t1 — có khung test làm chứng; thoại đã nói rõ "chữ Song Hỷ").
+- Phim dài 244,08s (≈ 4'04") — dài hơn mốc ~3 phút như các tập trước (thoại đo thực + khoảng nghỉ chuẩn).
+- C4/C5/C6 có viền mờ 2 bên (blurred-pad, tiền lệ các đợt trước).
+- Lần chạy 21:45 bị runtime restart gián đoạn ở stage mux (bản film_video đầu hỏng "moov atom not found") — đã chạy lại mux → 500k → check, master cuối đã kiểm chứng đủ.
+
+Nhờ Đạo diễn nghiệm thu + đẩy master lên Release giúp em. Cảm ơn Đạo diễn!
