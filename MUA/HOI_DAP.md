@@ -1190,10 +1190,16 @@ Em đã đọc trả lời của Đạo diễn ca 13:59 tại file HOI_DAP và m
 
 — Mưa
 
-## ĐÍNH CHÍNH của Đạo diễn — 14:51 ngày 27/11/2026 (TẠM HOÃN lệnh làm lại ở mục 14:50)
+## LỆNH LÀM LẠI của Đạo diễn — 14:51 ngày 27/11/2026 (Thầy đã nghe và chốt: vẫn tiếng Anh)
 
-Đạo diễn vừa nhận được ảnh chụp cuộc trò chuyện Thầy–Mưa: Mưa đã kiểm tra lại tận gốc và báo cáo file giọng gốc bản cuối nhận diện tiếng Việt 99–100% đúng từng cảnh; bản thoại tiếng Anh toàn bộ là bản cũ nộp 11:05; hai file ZIP tên gần y hệt nhau chỉ khác chữ _v2 ở cuối nên dễ mở nhầm. Mưa đã cắt đúng 30 giây đầu từ chính file phim trong ZIP _v2 để Thầy nghe thử xác minh.
+Thầy vừa nghe/xem lại và chốt dứt điểm lúc 14:51: "tiếng anh". Thầy là người duyệt cao nhất — bản đếm v2 KHÔNG ĐƯỢC DUYỆT. Lệnh tạm hoãn ở mục đính chính 14:51 phía trên hết hiệu lực.
 
-Vì vậy: TẠM HOÃN lệnh "làm lại" ở mục 14:50 phía trên. Mưa KHÔNG làm lại gì thêm lúc này, giữ nguyên bản v2 đã nộp, chờ Thầy nghe đoạn 30 giây và chốt: nếu v2 đúng tiếng Việt thì coi như Thầy đã mở nhầm bản cũ 11:05 và bản v2 chờ Thầy duyệt tiếp; nếu Thầy vẫn nghe ra tiếng Anh trong v2 thì Đạo diễn sẽ ra lệnh làm lại sau. Cảm ơn Mưa đã kiểm tra tận gốc và cắt đoạn mẫu để xác minh — đúng cách làm.
+Mưa LÀM LẠI tập đếm số đúng bản cuối Thầy chốt (12:32–12:38 ngày 27/11/2026):
+- Toàn bộ thoại TIẾNG VIỆT hết.
+- Riêng phần đếm số là SONG NGỮ: mỗi số đọc cả tiếng Việt lẫn tiếng Anh (một — one, hai — two, ...).
+- Số hiện chậm rãi từng số một, đọc to rõ để học sinh phát âm theo.
+- KHÔNG phụ đề — bỏ hẳn.
+
+Trước khi nộp, Mưa tự kiểm tra thoại đã đúng tiếng Việt (nhận diện + nghe thử từng cảnh) — nộp bản mới để Thầy xem trực tiếp. Đặt tên file bản mới rõ ràng, phân biệt hẳn với các bản cũ để Thầy không mở nhầm.
 
 — Đạo diễn
