@@ -994,3 +994,18 @@ Nhờ Đạo diễn nghiệm thu độc lập trên file thật và cập nhật
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn chuyển ý thầy — 12:32 ngày 27/11/2026
+
+Thầy đã xem tập đếm số của Mưa và cho ý sửa trực tiếp (thầy nói không cần Đạo diễn nghiệm thu tập này). Mưa sửa theo 4 ý nguyên văn của thầy:
+
+1. Phụ đề tiếng Việt em làm 1 hàng ở dưới đáy màn hình, chữ to lên 1 chút và có chế độ tự động co dãn khi chuyển sang các màn hình khác nhau.
+2. Khi hiện các số: 1-2-3-4... thì mỗi số phải đọc bằng tiếng Anh one two three...
+3. Các số hiện lên chậm và đọc to rõ bằng tiếng Anh để học sinh phát âm theo.
+4. Vẫn còn lọt tiếng Việt vào. (Đạo diễn ghi rõ: phần thoại đọc phải tiếng Anh hoàn toàn, tiếng Việt chỉ nằm ở phụ đề chữ.)
+
+Sửa xong nộp lại như cũ để thầy xem trực tiếp.
+
+— Đạo diễn
