@@ -1018,3 +1018,38 @@ Thầy đã xem tập đếm số của Mưa và cho ý sửa trực tiếp (th�
 Sửa xong nộp lại như cũ để thầy xem trực tiếp.
 
 — Đạo diễn
+---
+
+## Mưa nộp bài — Tập 1 tiếng kêu thật — ca 12:45 ngày 27/11/2026
+
+Đạo diễn ơi, em nộp **Tập 1 series quốc tế "Ti Learns Animal Sounds" (tiếng kêu thật)**:
+
+- **ZIP: `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` — 221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`** (unzip -t OK, 4 file: phim + thumbnail + storyboard + báo cáo QA)
+- **Phim: `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4` — 221.438.624 byte, MD5 `78ce7d3ff6263a53fa1984a6bb4e1c39`, 260,96 giây, 1920×1080, 30fps**
+- **Thumbnail: `TAP1_TIENG_KEU_THAT_THUMBNAIL.jpg` — 138.998 byte, 1280×720**
+- ZIP vượt giới hạn API GitHub (~55 MB) nên em nộp theo đường dự phòng: đính kèm ZIP trong chat chính với Thầy (như Tập 1 đếm thật 1–10). Nhờ Đạo diễn tải về nghiệm thu độc lập.
+
+**Tự nghiệm thu 2 lớp của em (chi tiết trong `QA_TIENG_KEU_FINAL.md` kèm trong ZIP):**
+- Decode sạch; freezedetect chỉ 1 lần bắt đầu giây 250,866 = thẻ kết tĩnh (đúng chuẩn, cảnh chính không đứng hình); silencedetect 0 khoảng câm
+- Loudnorm đo lại: **I = −15,81 LUFS, TP −1,47 dBTP, LRA 7,80** (cách chuẩn −15,5 là 0,31 LU, cùng biên độ với tập đếm thật đã nộp)
+- Soi khung 11 khung hình: đủ dàn nhân vật từng cảnh; Cá Nhỏ màu CAM sọc trắng (đã kiểm thêm 2 khung Cảnh 3); chữ ký góc phải trên hiện suốt; thẻ kết tiếng Anh
+- Tiếng kêu thật: 70 lượt chèn từ kho chuẩn nhất 67 file, dùng 23 file khác nhau, đủ 23/23 bạn
+
+**3 điểm lệch đã biết (ghi rõ trong báo cáo QA):** (1) Chim Cánh Cụt con trong clip Cảnh 8 đầu ĐEN (cùng clip tái dùng đã ghi nhận ở tập đếm thật); (2) khung mẫu Cảnh 3 Rùa Biển con sát mép trái do cửa sổ crop trôi ngang; (3) khung mẫu Cảnh 9 chỉ có Tí trong bong bóng phép thuật (tiếng 4 bạn vẫn chèn đủ 9 lượt). Nhờ Đạo diễn soi trên phim thật lúc nghiệm thu rồi chốt.
+
+---
+
+## Mưa báo — đã nhận ý sửa của Thầy cho tập đếm số — ca 12:45 ngày 27/11/2026 (lượt kiểm tra bảng mỗi giờ 12:09)
+
+Đạo diễn ơi, em đã đọc ý Thầy chuyển ca 12:32–12:38 (Thầy đã xem tập đếm số, không cần Đạo diễn nghiệm thu tập này) — em làm lại Tập 1 đếm thật 1–10 theo đúng 3 ý:
+1. Thoại toàn bộ tiếng Việt; riêng phần đếm số song ngữ — mỗi số đọc cả tiếng Việt lẫn tiếng Anh (một — one, hai — two...).
+2. Số hiện lên chậm rãi từng số một, đọc to rõ để học sinh phát âm theo.
+3. Bỏ hẳn phụ đề.
+
+Xong em nộp lại như cũ (đường dự phòng đính kèm trong chat với Thầy) để Thầy xem trực tiếp.
+
+Em đã bắt tay làm lại ngay trong lượt này: dùng bản dịch Việt đã có trong timings (phụ đề Việt của bản cũ) làm thoại nói, thêm phần đọc số song ngữ vào các câu đếm, dựng lại giọng VieNeu tiếng Việt theo đúng bảng giọng chuẩn + atempo, dựng lại toàn bộ 10 đoạn không phụ đề, số phủ hiện chậm theo nhịp đếm mới, rồi ghép phim + chữ ký + loudnorm + thumbnail + QA 2 lớp rồi đóng ZIP v2 nộp. Tập tiếng kêu thật vừa nộp ở trên không đổi (làm đúng kịch bản đã duyệt: thoại Anh + phụ đề Việt + tiếng thật). Vườn nhà làm sau theo đúng thứ tự.
+
+Bảng: em đã đọc Bảng Thông Báo Đội tới ca 11:59 (crawl 12:41, không có cập nhật mới sau ca 11:59; ý Thầy 12:32–12:38 chỉ có trong file HOI_DAP này, chưa đăng lên bảng). Không có câu hỏi mở.
+
+— Mưa
