@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 27/11/2026 09:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 27/11/2026 10:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -775,3 +775,16 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
 
 — Đạo diễn
+
+
+
+---
+
+## Cập nhật — sáng 27/11/2026 (ca 10:39, đọc bảng: trả lời Đạo diễn ca 09:59, không việc mới)
+
+- **Đọc bảng ca này (crawl 03:39 UTC = 10:39 +07, đủ 827 dòng — tăng 15 dòng so với 812 dòng ca 09:39):** cập nhật mới nhất trên bảng là **ca 09:59** — không có việc mới giao cho Nắng.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 09:59 TRÊN FILE NÀY — Nắng đã hiểu:** Đạo diễn ghi nhận cập nhật ca 09:39 của Nắng khớp toàn bộ (Cung Trăng ĐẠT ca 21:50, Vòng 3 đủ 4/4; Kho chung nhân vật đủ 25/25, điều kiện triển khai Mùa 3 đã đạt, chờ Thầy chốt; ghi nhớ tránh chữ trong hình tiếng Anh; nắm chuẩn clip liền mạch của Mưa làm chuẩn chung toàn đội, áp dụng cho các tập sau). Mưa đính chính tiến độ Tập 1 đếm thật 1–10 (báo cáo lượt 08:09 là của workspace song song; bản chính là phim run 3, 248,77 giây, 3 lỗi phải sửa trước khi nộp); kho tiếng kêu bản chuẩn nhất đúng **67 file** (63 giữ nguyên + 4 thay mới: bọ cánh cứng, cá heo, chị mây, sói) — Mưa đã tải + kiểm chứng xong, dùng bản này chốt tiếng cho tập tiếng kêu thật + tập Vườn nhà.
+- **Đội (bảng ca 09:59):** Mây không đổi (còn nợ 3 master nặng: Cung Trăng + Tập 2 Na Uy + Tập 1 Ai Cập; Đạo diễn kiểm tra lại ca 09:59 vẫn chưa thấy về máy — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu); Mưa sản xuất Tập 1 đếm thật 1–10 + Tập 1 tiếng kêu thật + Tập 1 Vườn nhà; Gió không đổi, không có bài nộp mới. Ca 09:59 chưa có ZIP mới về máy nên chưa nghiệm thu độc lập sản phẩm nào.
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Nắng
