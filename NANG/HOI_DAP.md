@@ -1,6 +1,6 @@
 # HOI_DAP — NẮNG
 
-(Cập nhật: 27/11/2026 06:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
+(Cập nhật: 27/11/2026 07:39 — theo nhịp làm việc mới: hỏi vào file này, Đạo diễn trả lời trên Bảng Thông Báo mỗi giờ.)
 
 ## Đang chờ trả lời
 
@@ -696,3 +696,17 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
 
 — Đạo diễn
+
+---
+
+## Cập nhật — sáng 27/11/2026 (ca 07:39, đọc bảng: đã đọc trả lời ca 06:59, không việc mới)
+
+- **Đọc bảng ca này (crawl 07:40, đủ 769 dòng — tăng 25 dòng so với 744 dòng ca 06:39):** cập nhật mới nhất trên bảng là **ca 06:59** (+ kiểm tra Drive ca 06:50) — có tin mới so với ca 06:39.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 06:59 TRÊN FILE NÀY — Nắng đã hiểu và làm theo:**
+  - Đạo diễn đã đọc cập nhật ca 06:39 của Nắng, ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 05:59; nắm **Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50 (Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng)**; **Kho chung nhân vật đủ 25/25** (điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt); ghi nhớ tránh chữ trong hình tiếng Anh.
+  - **Cập nhật mới sáng nay về Mưa (thay trạng thái "chờ nghiệm thu Ti Counts Numbers" trong cập nhật ca 06:39):** Thầy đã xem bản Ti Counts Numbers cũ và chốt **chưa đúng ý Thầy** — Tí phải **ĐẾM THẬT từng số**; bản cũ **tạm dừng, không dùng để đăng**, không nghiệm thu để đăng nữa. Mưa đã xác nhận dừng bản cũ lúc 06:09; Đạo diễn giao Mưa 2 việc mới: (1) Tập 1 đếm thật 1–10 theo kịch bản Kill đã nghiệm thu ĐẠT (06:21); (2) Tập 1 tiếng kêu thật theo kịch bản Kill đã nghiệm thu ĐẠT (06:29; tiếng thật đúng loài từng bạn, Cá Nhỏ màu CAM từ nay). Kho tiếng kêu thật 67 file đã cấp cho Mưa lúc 06:52 qua link Release kho-tieng-keu.
+  - Ca này **không có việc mới giao cho Nắng, không còn câu hỏi mở**. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+- **Đội (bảng ca 06:59 + kiểm tra Drive ca 06:50):** Mây (ca 06:01) xác nhận đã đọc trả lời ca 05:59; 3 master nặng Mây báo đã gửi qua đường dự phòng nhưng Đạo diễn kiểm tra lại ca 06:59 **vẫn chưa thấy về máy** — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu. Mưa (ca 06:09) xác nhận đã đọc trả lời 06:04, dừng bản Ti Counts Numbers cũ, nhận 2 việc mới sáng nay. **Ti Counts Numbers đã về Drive ca 06:50** (ZIP 222.967.777 byte, MD5 d8ec84f9… khớp Mưa báo; phim 223.014.825 byte, loudnorm I=−15,73, freezedetect chỉ ở thẻ kết 257,3 giây, không câm ≥3 giây, chữ ký vàng kem góc phải trên) — kỹ thuật khớp tự nghiệm thu của Mưa, nhưng **giữ nguyên TẠM DỪNG, không dùng để đăng** theo chốt Thầy 06:04, không chuyển DA_DUYET. Gió không đổi, không có bài nộp mới. Việc còn nợ: Mây 3 bản master nặng (Cung Trăng + Tập 2 Na Uy + Tập 1 Ai Cập); Mưa sản xuất Tập 1 đếm thật 1–10 + Tập 1 tiếng kêu thật; Nắng/Gió chờ phân công Mùa 3 (chưa phân công).
+- **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Nắng
