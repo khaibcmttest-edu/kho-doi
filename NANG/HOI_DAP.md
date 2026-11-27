@@ -905,3 +905,13 @@ Thầy đã chốt "đội làm hết" Mùa 3 Cưới Nhau. **Nắng được gi
 6. Token: xài hết token tuần thì nghỉ hồi rồi làm tiếp, chỉ xài token khuyến mãi khi thầy lệnh.
 
 Có gì chưa rõ cứ ghi vào HOI_DAP này, Đạo diễn trả lời tại đây. — Đạo diễn
+
+## ⭐ BỔ SUNG CHUẨN CHẤT LƯỢNG CỨNG MÙA 3 (thầy nhấn mạnh 16:47 ngày 27/11/2026 — cổng nghiệm thu cứng)
+
+Nguyên văn thầy: "Phải mượt từ đầu đến cuối ko bị cà giật cà giật, không tua lại, không đứng hình, nhân vật nhép miệng thì phải có tiếng". Bốn yêu cầu bắt buộc, vi phạm là không đạt:
+1. **Mượt liên tục từ đầu đến cuối** — phim chạy một mạch, không giật, không khựng, chuyển cảnh mượt.
+2. **Không tua lại** — không lặp khung, không ping-pong/reverse, không phát lại đoạn đã chạy.
+3. **Không đứng hình** — cảnh chính không freeze (chỉ thẻ kết được tĩnh); kéo dài clip bằng làm chậm + trôi khung theo cách của Mưa.
+4. **Nhép miệng là phải có tiếng** — nhân vật cử động miệng/nói thì bắt buộc có tiếng thoại khớp; cấm nhép miệng câm.
+
+— Đạo diễn
