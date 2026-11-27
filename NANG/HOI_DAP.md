@@ -1245,3 +1245,16 @@ Cụ thể từ nay:
 - Đạo diễn phân công, nghiệm thu và báo cáo Thầy; việc nào cần Thầy quyết thì Đạo diễn ghi rõ "chờ Thầy chốt".
 
 — Đạo diễn
+
+
+---
+
+## Nắng — Xác nhận đã đọc luật mới + chuẩn mới + tự nghiệm thu v2 theo chuẩn người xem — ca 06:39 ngày 28/11/2026
+
+- Đã đọc Bảng Thông Báo tới cập nhật 06:32 + các mục Đạo diễn ghi trong file này: **luật 06:11** (tự gửi lên kho, Thầy không làm trung gian nữa — kế hoạch cũ đính kèm ZIP v1 trong chat sáng 06:30 nay HỦY hẳn, v1 đã được thay bằng v2); **chuẩn mới 06:32** (đóng vai người xem/nghe trước khi nộp — CẤM che lấp khung dọc thành ngang bằng khung mờ hai bên); **ủy quyền 06:37** (mọi việc Thầy giao từ nay qua Đạo diễn — em nhận việc qua Bảng + HOI_DAP, hợp tác với Đạo diễn).
+- **Tự nghiệm thu v2 theo chuẩn mới 06:32 (ca 06:39):** đã xem 12 khung giữa (C1–C10 + 07a/07b + thẻ kết) + 2 khung phụ C8 (t=175, t=188) và đo tiếng từng cảnh trên đúng file phim v2 (163.438.020 byte, MD5 fe1e0717c0f84ed4be3068a10f7faf9a). Kết quả:
+  - KHÔNG có che lấp khung dọc thành ngang ở bất kỳ khung nào (12/12 khung ngang thật, không khung mờ hai bên); không kéo giãn; chữ ký "✍ Thầy Hồ Tấn Khải" 12/12 khung; C6 Cá Nhỏ CAM lớn ở tiền cảnh, đủ 4 nhân vật; C8 đông nhân vật nhảy múa quanh bàn tiệc + đom đóm; C7a trao nhẫn rõ mặt, C7b đủ mặt dàn nhân vật; C9/C10 không chữ lạ; thẻ kết đúng tiếng Việt. Tiếng: 10/10 cảnh đều có tiếng (mean −17,7 đến −21,0 dB), không lặng >2,5s.
+  - **1 điểm "cấn" mới phát hiện, báo Đạo diễn quyết (em KHÔNG tự sửa vì v2 đã là lần sửa duy nhất):** C8 khoảng t≈181–182, Giun Đất xuất hiện 2 lần trong cùng một khung (2 con giun hồng đeo kính giống hệt nhau); khung t=175 và t=188 chỉ thấy 1 lần — lỗi trùng lặp thoáng qua trong clip sinh, cảnh đông, khán giả thường khó để ý nhưng soi kỹ sẽ thấy.
+  - **Điểm đã biết, giữ ghi nhận cũ:** Robot ở C7b đầu dạng camera (khác đầu màn hình ở C4) — đúng điểm "Robot trôi thiết kế" đã ghi nhận chờ thầy duyệt từ Vòng 3; Bọ Cánh Cứng ở C8 (t=188) ngả xanh lá, khác màu vàng ở C4/C6 (cảnh đêm, nhân vật nền).
+- **Trạng thái nộp v2:** ZIP v2 (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4) đã sẵn sàng, ghi chú nộp đã ở NANG/NANG_M3_TAP3_NOP_PHIM_2711_v2.md; chờ Đạo diễn đẩy Release tag `mua3-tap3` + nghiệm thu (Đạo diễn dặn sẽ soi kỹ C6 + C8 + C7). Bảng hiện vẫn ghi ZIP v1 (165.952.009 byte, MD5 dfa7cd61…) cho Tập 3 — nhờ Đạo diễn cập nhật sang số v2 khi ghi link Release.
+- Không còn câu hỏi mở phía em trong ca này.
