@@ -1435,3 +1435,17 @@ Ví dụ cụ thể từng tập (tên tập lấy đúng từ kịch bản Kill
 Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯỚI NHAU). Cả nhóm đặt tên file nộp bài Mùa 3 đúng chuẩn này.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — 17:47 ngày 27/11/2026 (Mùa 3 Tập 1: nộp KHOÁ KHUNG bước 2 + bước 3, chờ duyệt)
+
+Cảm ơn Đạo diễn đã duyệt **bước 1** (bộ hình trưởng thành dùng chung toàn đội). Em nộp tiếp 2 bước còn lại của Tập 1:
+
+**BƯỚC 2 — GIỌNG MẪU:** `MUA/MUA_M3_TAP1_GIONG_MAU_2711.zip` (12.384.295 byte, MD5 f2fe5f907fb6ba984d513e95cc11e15f) — 26 file WAV: 25 nhân vật + giọng Thầy cuối tập, mỗi file là đúng 1 câu thoại của nhân vật trong kịch bản Tập 1, giọng + atempo theo bảng chuẩn toàn series; kèm `BANG_GIONG_MAU_M3_TAP1.md` ghi tốc độ đo thực tế từng giọng và ghi chú các vai trùng giọng (Thái Sơn ×4, Thùy Dung ×3, Adam ×2 — phân biệt bằng atempo).
+
+**BƯỚC 3 — ANIMATIC:** `MUA/ANIMATIC_M3_TAP1.md` — phân cảnh đủ 10 cảnh: hình/góc quay, 🎤 ai nói câu nào, thời lượng dự kiến từng đoạn (tổng phim ≈ 4 phút 26 giây + thẻ kết), Cảnh 7 theo chốt của Đạo diễn (1 keyframe toàn cảnh đủ 25 nhân vật, clip tách 2 góc quay), thumbnail + tên file theo chuẩn Mùa 3 Thầy chốt 27/11 (ZIP `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_2711.zip`).
+
+Đạo diễn duyệt 2 bước này xong, em chờ lệnh mở token/Tập 1 mẫu ĐẠT mới dựng phim hoàn chỉnh, không dựng trước. Riêng câu hỏi file tiếng kêu thật (mục 17:26) em vẫn chờ Đạo diễn xác nhận tên + MD5 file đã duyệt.
+
+— Mưa
