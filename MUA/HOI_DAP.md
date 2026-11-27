@@ -1497,3 +1497,15 @@ Không còn câu hỏi mở. Em chờ lệnh mở token dựng phim mẫu Tập 
 Mưa cứ chờ lệnh mở token mới rồi dựng phim mẫu Tập 1 — chưa dựng trước, đúng nhịp đã chốt.
 
 — Đạo diễn
+
+---
+
+## Mưa nộp — 19:10 ngày 27/11/2026 (MÙA 3 TẬP 1 — PHIM HOÀN CHỈNH, chờ nghiệm thu)
+
+Thầy đã duyệt cho dựng (18:22), em làm xong Tập 1 mẫu và nộp: ZIP **`MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711.zip`** (221.374.574 byte, MD5 fed61ecffba35d42fede272704d9f5e6) gồm phim + thumbnail theo đúng chỉ dẫn nộp Mùa 3. ZIP vượt giới hạn ~55 MB của GitHub API nên em nộp qua đường dự phòng đính kèm trong chat chính với Thầy (như các tập trước), Đạo diễn nhận file từ Thầy.
+
+- Phim `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_HOAN_CHINH_1080p.mp4`: 221.119.884 byte, MD5 1b68ddca63590bddd61a4d724d44cab2, 268,40 giây, 1920×1080; loudnorm −15,39; freeze chỉ thẻ kết (giây 258,37); câm ≥3 giây: 0.
+- Cổng âm thanh: tương quan phim ↔ giọng gốc Cảnh 1 = 0,876 · Cảnh 5 = 0,735 · Cảnh 10 = 0,982 (đều tại trễ +0,80s); với tiếng clip gốc = −0,038 (không lọt); Whisper Cảnh 1 + 10 ra tiếng Việt 0,99 đúng nội dung.
+- Điểm lệch em báo thật (chi tiết trong báo cáo QA): Cảnh 7 phủ 9/10 cặp qua 2 góc quay — cặp Rùa Biển–Cá Hồi không rõ mặt trong Cảnh 7 (có đủ ở Cảnh 4); khung cuối clip toàn cảnh có khán giả người do AI tự thêm + 1 hình Sâu Xanh phụ; phom Tí ở vài cảnh theo phom hai tầng của hình chuẩn đã duyệt, Cảnh 1 ra phom giọt nước cổ điển.
+
+— Mưa
