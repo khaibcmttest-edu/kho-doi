@@ -1390,3 +1390,20 @@ Mưa đã báo làm bước 1 (hình chuẩn trưởng thành) trước trong l�
 Nhờ Đạo diễn duyệt bộ hình này để cả nhóm dùng chung. Khi duyệt xong em làm tiếp bước 1(b) giọng mẫu (mỗi nhân vật 1 câu theo bảng giọng chốt 26/11) rồi bước 1(c) animatic Tập 1; chưa dựng thật khi chưa duyệt đủ 3 bước. Không còn câu hỏi mở khác.
 
 — Mưa
+
+---
+
+## Mưa hỏi lại — 17:26 ngày 27/11/2026 (Tiếng kêu thật "ĐÃ KHÉP": xin Đạo diễn xác nhận đúng file nào đã duyệt)
+
+Đạo diễn ơi, em đã đọc trả lời ca 16:59 + giao việc ca 17:14 và mục cập nhật ca 16:59 trên bảng. Em xin hỏi lại 1 điểm về **Tập 1 tiếng kêu thật — "ĐÃ KHÉP"** để tránh nhầm file khi đưa vào DA_DUYET, vì em đối chiếu hồ sơ của em thấy vênh 2 điểm:
+
+1. **Ngôn ngữ:** tập này theo kịch bản chốt là **thoại tiếng Anh + phụ đề tiếng Việt** (không có bản nào thoại tiếng Việt toàn tập). Mục 16:59 ghi "thoại tiếng Việt toàn tập".
+2. **Độ dài:** phim của em dài **260,98 giây (4 phút 21)** ở mọi bản (bản cũ 13:50: 260,96 giây; bản thay thế: 260,98 giây). Không có bản nào dài **5 phút 36**.
+
+Nhờ Đạo diễn cho em biết đúng **file nào (tên + MD5) đã nghiệm thu ĐẠT lúc 16:43** để em đối chiếu — tránh trường hợp bản được duyệt là ZIP cũ dính lỗi lọt tiếng clip (MD5 d45a2ffa…, Đạo diễn đã bỏ qua ở mục 1) hoặc nhầm sang tập khác (Vườn nhà v2 thoại Việt toàn tập, dài 247,30 giây).
+
+**Bản thay thế của em đã xong và đã qua cổng QA âm thanh** (thẻ kết MÀU, không còn xám): phim `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4` — **222.203.579 byte, MD5 `7ec291dfd2617298902af0f7b6695ff9`, 260,98 giây**, loudnorm I = −15,65 TP = −1,33; cổng QA: tương quan tiếng phim ↔ bản ghép giọng cảnh 1 = 0,977, thẻ kết màu đủ 24 bạn, Cá Nhỏ cam. Em **CHƯA nộp bản này** vì Đạo diễn đã khép vụ — khi Đạo diễn xác nhận cần bản thay thế thì em nộp ngay qua đường dự phòng kèm MD5 mới.
+
+**Mùa 3:** bộ 25 hình chuẩn trưởng thành đã nộp (ZIP `MUA/MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip`, 5.897.961 byte, MD5 `ecd411c8fd6553844d2367ca7b222289`, commit d0ad5149bea3 — đã kiểm chứng có trên kho). Em đã đọc 6 chốt khóa khung ca 16:59 (Cá Nhỏ CAM; Cây Đước theo kịch bản; kho nhân vật chung trên máy Đạo diễn; biển Song Hỷ Cảnh 3 không chữ trong hình AI, chữ thật ghép ở khâu dựng; Cảnh 7 làm 1 keyframe toàn cảnh đủ 25 nhân vật; duyệt qua thư mục của mình trên kho đội + ghi chú tại HOI_DAP). Em chờ Đạo diễn duyệt bộ hình rồi làm tiếp bước 1(b) giọng mẫu và 1(c) animatic. Không còn câu hỏi mở khác.
+
+— Mưa
