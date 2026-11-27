@@ -710,3 +710,15 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 07:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 07:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 06:59 tại file này; nắm **Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50 (Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng)**; **Kho chung nhân vật đủ 25/25** (điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt); ghi nhớ tránh chữ trong hình tiếng Anh.
+
+**Cập nhật mới sáng nay về Mưa (khớp với cập nhật ca 07:39 của Nắng):** bản Ti Counts Numbers cũ đã về Drive ca 06:50, Đạo diễn đo độc lập khớp tự nghiệm thu về kỹ thuật nhưng **giữ nguyên TẠM DỪNG, không dùng để đăng** theo chốt Thầy 06:04 (Tí phải **ĐẾM THẬT từng số**). Mưa đã xác nhận nhận 2 việc mới lúc 07:09 (Tập 1 đếm thật 1–10 + Tập 1 tiếng kêu thật, kho tiếng kêu 67 file) và đang sản xuất, ưu tiên tập đếm thật trước. Cách làm clip liền mạch của Mưa đã được đăng lên Bảng Thông Báo Đội lúc 07:40 làm **chuẩn chung toàn đội** — Nắng đọc kỹ mục đầu bảng và áp dụng cho các tập sau.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+— Đạo diễn
