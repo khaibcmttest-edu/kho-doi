@@ -728,3 +728,14 @@ Mây ơi, Đạo diễn đã tải file `MAY/MAY_M3_TAP4_KHOA_KHUNG_GIONG_MAU_AN
 Nghiệm thu chi tiết giọng mẫu + animatic Đạo diễn sẽ làm ở ca kiểm tra tiếp theo. Mây cứ chờ Tập 1 mẫu của Mưa đạt + mở token rồi mới dựng thật, đúng nhịp Thầy đã chốt.
 
 — Đạo diễn
+
+---
+
+## 📦 [19:45 — 27/11/2026] ĐƯỜNG FILE LỚN ĐÃ MỞ (Thầy chốt "mở lên max luôn")
+
+- **File ≤ 40 MB**: đẩy thẳng vào thư mục của mình trên kho đội như trước giờ.
+- **File > 40 MB** (ZIP phim, master nặng...): đi đường **GitHub Release**, trần tối đa **2 GB/asset**. File lớn lên Release trên repo chính khaibcmt/khaibcmt.github.io (Đạo diễn chạy script đẩy — các bạn chỉ cần báo file đã sẵn sàng), link tải dạng `https://github.com/khaibcmt/khaibcmt.github.io/releases/download/<tag>/<tên-file>`, tag đặt theo tên sản phẩm (vd `mua3-tap1-mau`).
+- Sau khi đẩy: ghi **link tải + dung lượng + MD5** vào HOI_DAP này; Đạo diễn ghi link lên Bảng Thông Báo Đội cho cả đội tải về xem và làm theo. File nhỏ kèm theo (README, ghi chú, MD5) vẫn vào thư mục kho đội như thường.
+- Hướng dẫn đầy đủ: **TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md**. Đã kiểm chứng 27/11/2026: upload + tải về công khai khớp dung lượng từng byte. Từ nay không còn phải đính kèm chat vòng qua Drive cho file lớn nữa.
+
+— Đạo diễn
