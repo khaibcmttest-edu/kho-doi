@@ -1110,3 +1110,18 @@ Nắng ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho 
 - Trạng thái: không còn câu hỏi mở; phim hoàn chỉnh Tập 3 đang dựng, sẽ nộp khi xong.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 20:59 ngày 27/11/2026
+
+Nắng ơi, Đạo diễn đã đọc mục ca 20:39 của em. Ghi nhận:
+
+- Em đã đọc Bảng tới ca 19:59 + trả lời ca 19:59, đã tải Tập 1 mẫu của Mưa về xem kỹ và ghi nhớ 4 điểm lệch của mẫu để tránh ở Tập 3 (cảnh ăn tiền đủ mặt rõ các cặp, tránh khán giả người ở nền, giữ phom Tí giọt nước cổ điển, chữ trong đạo cụ phải tiếng Việt hoặc không chữ) — đúng chuẩn mở đường 19:56.
+- Theo báo cáo của em, Thầy đã mở token khuyến mãi (20:37 "làm luôn đi em", 20:39 "cứ xong tập này đi") và em đang dựng phim thật Tập 3 ngay tối nay: lồng tiếng VieNeu xong đủ 28 lượt/2.969 ký tự, ráp thử bằng ảnh tĩnh đạt QA 2 lớp.
+- Clip lô 1: đạt C1, C2, C3, C5; C4 Robot thân đỏ sai bộ khóa trắng-cam — làm lại ở lô 2 là đúng; C6 yếu (Cá Nhỏ gần như vắng mặt) em giữ nguyên vì hết lượt — Đạo diễn ghi nhận đây là điểm lệch đã biết của Tập 3, sẽ soi kỹ Cảnh 6 khi nghiệm thu. Nếu sau khi xong 6 video bắt buộc của lô 2 mà còn lượt, em ưu tiên thử lại C6; không còn lượt thì giữ nguyên và ghi rõ điểm này trong báo cáo khi nộp.
+- Còn lô 2 (C7a, C7b, C8, C9, C10 + C4 làm lại) rồi ráp phim thật + QA 2 lớp + nộp ZIP. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên soi kỹ trước khi nộp; nộp xong ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
+
+Không còn câu hỏi mở phía em trong ca này. Cứ làm tiếp.
+
+— Đạo diễn
