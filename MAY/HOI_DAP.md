@@ -771,3 +771,33 @@ Mây ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho đ
 **Kết luận: Mây đủ 3 khóa Tập 4** (Khóa 1 dùng bộ trưởng thành của Mưa đã duyệt, MD5 khớp; Khóa 2 + Khóa 3 ĐẠT ca này). Việc tiếp theo đúng nhịp đã mở đường lúc 19:56: tải Tập 1 mẫu của Mưa về xem kỹ, rà khóa khung cho khớp chuẩn Tập 1 (lưu ý 4 điểm lệch nhỏ đã ghi lúc 19:56: Cảnh 7 phải rõ mặt các cặp, tránh khán giả người ở nền, giữ phom Tí giọt nước cổ điển, khoá prompt "no text"), chờ Thầy mở token mới dựng thật — chỉ xài token khuyến mãi khi có lệnh của Thầy. Khi nộp phim nhớ tên file ĐẦY ĐỦ theo chốt 17:33: `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_<ddmm>.zip`.
 
 — Đạo diễn
+
+---
+
+## MÂY XÁC NHẬN — ĐÃ ĐỌC TRẢ LỜI CA 19:59 + ĐÃ TẢI TẬP 1 MẪU VỀ XEM KỸ + RÀ LẠI KHÓA KHUNG TẬP 4 (20:15 ngày 27/11/2026)
+
+**1. Khóa khung Tập 4 — ĐẠT, Mây đủ 3 khóa (theo trả lời Đạo diễn ca 19:59 + mục "Cập nhật ca 19:59" trên bảng):**
+- Bước (b) giọng mẫu: 23/23 WAV có tiếng thật, giọng + atempo đúng Bảng giọng chuẩn từng vai, tốc độ 13,5–17,2 ký tự/s; câu Rùa Biển con 17,2 chạm sàn 0,7 — chấp nhận tách tại dấu "..." + chèn lặng 0,4s khi thu thật.
+- Bước (c) animatic: đủ 10 cảnh, 30/30 câu thoại khớp nguyên văn kịch bản, Cảnh 7 ăn tiền, Cá Nhỏ CAM, tổng ước 246 giây.
+- Ghi nhớ tên file đầy đủ khi nộp phim: `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_<ddmm>.zip`.
+
+**2. Tập 1 mẫu của Mưa — ĐÃ TẢI VỀ, ĐÃ XEM KỸ (theo lệnh mở đường 19:56):**
+- ZIP `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711_v2.zip` (222.408.660 byte, MD5 `ac50ed11bed174cae522ad1f336c4601` khớp bảng) — phim 1920×1080 30fps, 268,4 giây; chữ ký "✍ Thầy Hồ Tấn Khải" góc phải trên xuyên suốt; thẻ kết "CẢM ƠN CÁC BẠN ĐÃ XEM! / Giọt Nước Tí — Mùa 3: Cưới Nhau / Hẹn gặp lại ở Tập 2..."; đo nhanh 30 giây đầu loudnorm input_i −15,89 (đúng băng chuẩn I=−15,5 sau chuẩn hoá 2 lượt).
+- Soi mắt 6 khung (t5/t80/t155/t180/t205/t263): Cảnh 1 (Ông Mặt Trời kính + nơ vàng, Chị Mây vương miện cầu vồng + khăn lụa trắng, Cây Ô Liu, Tí giọt nước cổ điển); cảnh rừng (Cánh Cụt đầu xám bông, Cáo Tuyết, Sơn Dương khăn đỏ, Llama); khung tiệc đêm quanh Cảnh 7 (Tí + Cá Nhỏ CAM trong bong bóng + cặp Cánh Cụt/Cáo Tuyết mặt rõ kề nhau, Ông Mặt Trời, Tia Nắng Vàng); Giun Đất + Bọ + Thỏ Ngọc + Cây Đước + Robot; Cây Ô Liu + Chị Lá — đều khớp bộ trưởng thành đã duyệt, không chữ lạ, không khán giả người trong các khung đã xem.
+
+**3. Rà lại khóa khung Tập 4 theo 4 điểm lệch của Tập 1 (đối chiếu trực tiếp animatic đã nộp):**
+- Cảnh 7: prompt hiện chỉ ghi chung "all ten couples seated happily", chưa nêu riêng cặp Rùa Biển con – Cá Hồi Hoa Anh Đào — **khi dựng bổ sung: Rùa Biển con và Cá Hồi Hoa Anh Đào ngồi hướng mặt ra trước, thấy rõ mặt** (tránh lỗi Tập 1).
+- Khóa "no text": chưa prompt nào trong 10 cảnh có câu khóa "Absolutely no numbers, no digits, no text..." — **khi dựng gắn câu khóa này vào cuối mọi prompt hình** (tránh chữ lạ trên đạo cụ như "Checklogt" ở Cảnh 10 mẫu).
+- Khán giả người ở nền: không mắc — prompt các cảnh chỉ có đúng 25 nhân vật, không có nhân vật người ở nền xa.
+- Phom Tí hai tầng: không mắc — Tí trong mọi prompt là một giọt nước duy nhất (nơ xanh da trời); chữ "hai tầng" ở Cảnh 3 là ngôi nhà của Sơn Dương con, không phải Tí.
+- Giọng Ông Mặt Trời Minh Triết 0,814 khớp Bảng giọng chuẩn mới — không đổi giọng mẫu đã nộp.
+- KHÔNG sửa lại ZIP khóa khung đã nộp (đã ĐẠT đủ 3 khóa; đội cạn token — 2 điểm trên chỉ áp ở khâu dựng khi Thầy mở token).
+
+**4. 3 master nặng — BÁO SẴN SÀNG ĐƯỜNG RELEASE MỚI (Thầy chốt 19:45 "mở lên max luôn"):**
+- Cả 3 file đã có sẵn local, đã kiểm chứng lại dung lượng + MD5 trong ca này:
+  - Tập 1 Ai Cập v3: `TAP1_AI_CAP_HOAN_CHINH_1080p_v3.mp4` — 116.597.984 byte — MD5 `b494621ac029d189269a9fb4caee065c`
+  - Tập 2 Na Uy: `TAP2_NA_UY_HOAN_CHINH_1080p.mp4` — 122.150.742 byte — MD5 `695d01a6c76dfd3b424996033af7882e`
+  - Vòng 3 Tập 1 Cung Trăng: `TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4` — 127.246.897 byte — MD5 `9c092ad73c10ae3371f9670d5daaaf76`
+- Cả 3 đều >40 MB nên đi đường GitHub Release theo quy định mới; trước đây đã gửi qua đường dự phòng nhưng chưa về máy Đạo diễn. Nhờ Đạo diễn chạy script đẩy lên Release (tag theo tên sản phẩm); khi có link, Mây sẽ ghi link tải + dung lượng + MD5 vào HOI_DAP theo quy định.
+
+**5. Chờ:** Thầy mở token mới dựng thật Tập 4 (đủ 3 khóa, chỉ chờ token); Đạo diễn đẩy 3 master lên Release.
