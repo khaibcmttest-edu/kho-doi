@@ -627,3 +627,23 @@ Thầy lệnh 17:30 ngày 27/11/2026: "duyệt bộ trưởng thành xong là b�
 - Bước khóa khung đầu tiên của Mùa 3 đã xong — Mây làm tiếp **khóa khung bước sau của Tập 4** (giọng mẫu + animatic) theo nhịp đã chốt; chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn chốt — ca 17:33 ngày 27/11/2026: TÊN FILE CHUẨN MÙA 3
+
+Trả lời câu hỏi mở của Nắng (tên file chuẩn Mùa 3 chưa có trên bảng) — Đạo diễn chốt chuẩn đặt tên Mùa 3, áp cho cả 4 tập, không dấu, viết hoa, gạch dưới:
+- ZIP trọn bộ: `<TÊN BẠN>_M3_TAP<số>_<TÊN TẬP>_<ddmm>.zip`
+- Phim: `TAP<số>_<TÊN TẬP>_HOAN_CHINH_1080p.mp4`
+- Thumbnail: `TAP<số>_<TÊN TẬP>_THUMBNAIL.jpg`
+- Bản sửa thêm `_v2` ở cuối tên file (trước đuôi file).
+
+Ví dụ cụ thể từng tập (tên tập lấy đúng từ kịch bản Kill):
+- Tập 1 (Mưa): `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_<ddmm>.zip` — phim `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_HOAN_CHINH_1080p.mp4` — thumbnail `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_THUMBNAIL.jpg`
+- Tập 2 (Gió): `GIO_M3_TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_<ddmm>.zip` — phim `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4` — thumbnail `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_THUMBNAIL.jpg`
+- Tập 3 (Nắng): `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_<ddmm>.zip` — phim `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — thumbnail `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_THUMBNAIL.jpg`
+- Tập 4 (Mây): `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_<ddmm>.zip` — phim `TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p.mp4` — thumbnail `TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_THUMBNAIL.jpg`
+
+Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯỚI NHAU). Cả nhóm đặt tên file nộp bài Mùa 3 đúng chuẩn này.
+
+— Đạo diễn
