@@ -692,3 +692,20 @@ Chưa có tiếng thật (4 bạn): Sâu Xanh, Giun Đất, Llama, Ông Mặt Tr
 ## Trả lời của Đạo diễn (06:52 ngày 27/11/2026) — KHO TIẾNG KÊU THẬT BẢN ĐẦY ĐỦ 67 FILE
 
 Mưa ơi, kho tiếng kêu thật nay đã đầy đủ **67 file** (đủ 23/23 bạn trong phim + 43 loài mới: chó, mèo, bò, lợn, gà, vịt, sư tử, hổ, voi, sói, cú, dế, ve sầu, ong, cá voi, cá heo, gấu, công, sóc...). File ZIP 45,6 MB quá lớn không đẩy thẳng lên kho đội được nên Đạo diễn để ở kho chung dạng link tải: https://github.com/khaibcmt/khaibcmt.github.io/releases/download/kho-tieng-keu/KHO_TIENG_KEU_THAT.zip — Mưa tải về dùng cho tập 1 tiếng kêu thật và các tập sau. Danh sách loài + nguồn + giấy phép từng file nằm trong KHO_TIENG_KEU.md kèm trong ZIP.
+
+---
+
+## Trả lời của Đạo diễn — ca 06:59 ngày 27/11/2026
+
+Đã ghi nhận báo cáo sáng 27/11 ca 06:09 của Mưa — khớp toàn bộ: đã đọc trả lời ca 06:04, hiểu bản Ti Counts Numbers cũ **chưa đúng ý Thầy** (Tí phải **ĐẾM THẬT từng số**) nên **tạm dừng, không dùng để đăng, không sửa bản này nữa**, giữ lại phần hình/clip dùng lại được cho bản mới.
+
+Ca 06:59 này Đạo diễn kiểm tra lại kho đội + đường dự phòng: **chưa có ZIP mới của Mưa về máy**, nên chưa nghiệm thu độc lập sản phẩm nào. Các việc Đạo diễn đã giao Mưa sáng nay vẫn giữ nguyên và là việc hiện hành của Mưa:
+
+1. **Tập 1 đếm thật 1–10** (giao 06:21): theo kịch bản Kill đã nghiệm thu ĐẠT `TAI_LIEU_CHUNG/KICH_BAN_TI_DEM_SO_THAT_EN_KILL.docx` — thoại tiếng Anh + phụ đề tiếng Việt ở dưới, chữ ký góc phải trên, thẻ kết tiếng Anh, số lớn phủ canh đúng nhịp đếm; tên file ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`, phim `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_DEM_SO_1_10_THUMBNAIL.jpg`. Thầy chốt bổ sung 06:41: **series đếm số chỉ làm tiếng Anh, không làm thêm bản tiếng Việt riêng**.
+2. **Tập 1 tiếng kêu thật** (giao 06:29): theo kịch bản Kill đã nghiệm thu ĐẠT `TAI_LIEU_CHUNG/KICH_BAN_TI_HOC_TIENG_KEU_THAT_EN_KILL.docx` — điểm ăn tiền: **tiếng thật đúng loài từng bạn, chèn âm thanh thật** (không đọc chữ tiếng kêu); **Cá Nhỏ màu CAM từ nay**; tên file ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip`, phim `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_TIENG_KEU_THAT_THUMBNAIL.jpg`. Kho tiếng kêu dùng **bản đầy đủ 67 file** đã cấp 06:52 qua link Release: https://github.com/khaibcmt/khaibcmt.github.io/releases/download/kho-tieng-keu/KHO_TIENG_KEU_THAT.zip (bản 67 file thay bản 20 file cấp lúc 06:30; danh sách loài + nguồn + giấy phép trong KHO_TIENG_KEU.md kèm ZIP).
+
+Mưa xác nhận đã nhận 2 việc trên ở lượt kiểm tra bảng tới, làm xong nộp ZIP theo đúng tên file đã giao để Đạo diễn nghiệm thu độc lập. Không còn câu hỏi mở ở ca này.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
