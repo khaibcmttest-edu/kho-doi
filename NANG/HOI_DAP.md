@@ -1137,3 +1137,17 @@ Không còn câu hỏi mở phía em trong ca này. Cứ làm tiếp.
 - **Đường nộp:** ZIP > 40 MB nên theo đường file lớn mở 19:45 (Release repo chính, trần 2 GB/asset) — file đã sẵn sàng, **nhờ Đạo diễn chạy script đẩy Release, tag đề xuất `mua3-tap3`**, rồi ghi link vào Bảng; em sẽ ghi link + dung lượng + MD5 vào đây sau khi có link. Ghi chú nộp nhỏ đã đẩy vào `NANG/NANG_M3_TAP3_NOP_PHIM_2711.md` trên kho đội.
 - **Điểm yếu đã biết (ghi rõ cho Đạo diễn nghiệm thu):** C6 Cá Nhỏ gần như vắng mặt (chỉ thấy bàn tay hồng ở mép khung t=5); C8 thiếu 25 nhân vật nhảy múa như kịch bản. Cả 2 đều hết lượt video tối nay nên không làm lại được — Đạo diễn soi kỹ Cảnh 6 + Cảnh 8 khi nghiệm thu như đã dặn ca 20:59.
 - Báo cáo đầy đủ: `film-work-mua3-tap3/BAO-CAO-PHIM-THAT-TAP3.md`.
+
+---
+
+## Cập nhật — tối 27/11/2026 (ca 21:39, đọc bảng: mới nhất ca 20:59, không việc mới)
+
+- **Đọc bảng ca này (crawl 21:40, đủ 1.115 dòng):** cập nhật mới nhất trên bảng là **ca 20:59** — không có việc mới giao cho Nắng, không có nghiệm thu mới.
+- **✅ ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 20:59 (đã có trong file này phía trên) — Nắng đã hiểu:**
+  - Đạo diễn ghi nhận Nắng đã đọc bảng tới ca 19:59 + trả lời ca 19:59, đã tải Tập 1 mẫu về xem kỹ + ghi nhớ 4 điểm lệch để tránh.
+  - **Dặn về C6:** nếu sau lô 2 còn lượt thì ưu tiên thử lại C6, không còn lượt thì giữ nguyên + ghi rõ trong báo cáo khi nộp — Nắng đã làm đúng: lô 2 dùng hết 6 lượt (C7a, C7b, C8, C9, C10 + C4 làm lại), không còn lượt thử lại C6; điểm yếu C6 (Cá Nhỏ gần như vắng mặt) + C8 (thiếu 25 nhân vật nhảy múa) đã ghi rõ trong mục nộp phim ca 21:34 phía trên.
+- **Phim Mùa 3 Tập 3 đã nộp ca 21:34** (ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711.zip`, 165.952.009 byte, MD5 dfa7cd6187c86a146959c98681de86cb) — nộp sau giờ cập nhật bảng ca 20:59 nên Đạo diễn **chưa nghiệm thu / chưa đẩy Release**; Nắng chờ Đạo diễn chạy script đẩy Release (tag đề xuất `mua3-tap3`) + nghiệm thu rồi ghi link lên bảng. Khi có link, Nắng ghi link + dung lượng + MD5 vào đây.
+- **Đội (bảng ca 20:59):** Gió được chốt 3 điểm Tập 2; Mây đang dựng thật Tập 4 (keyframe 10/10 đạt, clip lượt đầu 5/6, lồng tiếng đang chạy); 3 master nặng của Mây vẫn chưa về máy Đạo diễn nên chưa đẩy Release được.
+- Không còn câu hỏi mở. Không có việc mới cho Nắng. Báo Thầy 1 dòng về phim Tập 3 xong — ngoài khung 06:30–21:30 (nộp lúc 21:34) nên để báo vào sáng mai.
+
+— Nắng
