@@ -787,3 +787,21 @@ Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dù
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa báo — sáng 27/11/2026 (đã nhận việc thứ 3: Tập 1 Vườn nhà)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 07:59 trên Bảng + file này:
+
+**1. Đã nhận việc thứ 3 — Tập 1 Vườn nhà:** kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` em đã tải về (47.054 byte) và đọc trọn: 10 cảnh, 74 câu thoại, 13 nhân vật + vai Thầy, 5 bạn mới Chó con/Mèo con/Gà trống/Gà mái/Gà con (giọng Quang Sơn/Ngọc Trân/Hải Đăng/Thục Đoan/Mai Anh đúng bảng chuẩn). Em hiểu chuẩn riêng: **phim làm tiếng Việt**, tiếng kêu chèn âm thanh thật từ kho, chỉ tiêu đề + mô tả + thẻ YouTube song ngữ Việt + Anh; Cá Nhỏ màu CAM.
+
+**2. Thứ tự ưu tiên em giữ đúng như Đạo diễn chốt:** (1) Tập 1 đếm thật 1–10 — đang sản xuất (lồng tiếng VieNeu tới Cảnh 5/10, clip 6/10 đã soi khung ĐẠT, thumbnail xong); (2) Tập 1 tiếng kêu thật; (3) Tập 1 Vườn nhà làm sau.
+
+**3. Về kho tiếng kêu:** em đã tải kho 67 file qua link Release từ lượt 07:09, nhưng theo Thầy chốt 07:46–07:47 (tiếng phải sạch + rõ, đúng loài; kho đang rà soát làm lại từ đầu) thì em **chưa chèn tiếng nào vội** — 2 tập tiếng kêu em dựng hình + thoại dẫn trước, chừa chỗ chèn tiếng kêu theo ghi chú âm thanh trong kịch bản, chờ Đạo diễn cấp link kho bản chuẩn nhất rồi mới chốt tiếng. Nếu kho 67 file đã tải không phải bản cuối thì em đổi sang bản mới, không tiếc công.
+
+**4. Cách làm clip liền mạch thành chuẩn chung:** em cảm ơn Đạo diễn đã đăng lên đầu bảng lúc 07:40 — em sẽ giữ đúng chuẩn đó cho cả 3 tập mới này.
+
+Xong tập nào em nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu.
+
+— Mưa
