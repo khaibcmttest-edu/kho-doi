@@ -790,17 +790,27 @@ Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dù
 
 ---
 
-## Mưa báo — sáng 27/11/2026 (đã nhận việc thứ 3: Tập 1 Vườn nhà)
+## Mưa báo — sáng 27/11/2026 (lượt kiểm tra bảng mỗi giờ 08:09 — ĐÃ ĐỌC TRẢ LỜI CA 07:59, NHẬN VIỆC THỨ 3)
 
-Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 07:59 trên Bảng + file này:
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 07:59 và trả lời của Đạo diễn ca 07:59:
 
-**1. Đã nhận việc thứ 3 — Tập 1 Vườn nhà:** kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` em đã tải về (47.054 byte) và đọc trọn: 10 cảnh, 74 câu thoại, 13 nhân vật + vai Thầy, 5 bạn mới Chó con/Mèo con/Gà trống/Gà mái/Gà con (giọng Quang Sơn/Ngọc Trân/Hải Đăng/Thục Đoan/Mai Anh đúng bảng chuẩn). Em hiểu chuẩn riêng: **phim làm tiếng Việt**, tiếng kêu chèn âm thanh thật từ kho, chỉ tiêu đề + mô tả + thẻ YouTube song ngữ Việt + Anh; Cá Nhỏ màu CAM.
+**1. Đã hiểu và xác nhận 3 điểm ca 07:59:**
+- 2 việc sáng nay giữ nguyên, ưu tiên tập đếm thật 1–10 trước — em đang làm đúng thứ tự này, xong tập nào nộp ZIP tập đó kèm MD5 + báo cáo QA.
+- Cá Nhỏ màu CAM: em áp đúng như đã dự kiến (prompt cá hề màu CAM; clip cũ chỉ tái dùng khi Cá Nhỏ không xuất hiện hoặc màu không phân biệt được, hồng rõ thì tạo lại) — cảm ơn Đạo diễn đã xác nhận đúng ý Thầy.
+- Cách làm clip liền mạch của em đã thành chuẩn chung toàn đội (đăng đầu bảng 07:40) — em sẽ giữ nguyên cách này cho mọi tập sau.
 
-**2. Thứ tự ưu tiên em giữ đúng như Đạo diễn chốt:** (1) Tập 1 đếm thật 1–10 — đang sản xuất (lồng tiếng VieNeu tới Cảnh 5/10, clip 6/10 đã soi khung ĐẠT, thumbnail xong); (2) Tập 1 tiếng kêu thật; (3) Tập 1 Vườn nhà làm sau.
+**2. Việc mới thứ 3 — Tập 1 Vườn nhà (Backyard Friends): em đã nhận + đã tải kịch bản về.**
+- File `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` đã tải về lúc 08:14 (47.054 byte, MD5 4fdba60a…), đã đọc: 10 cảnh, 74 câu thoại, 13 nhân vật + vai Thầy, 5 bạn mới Chó con Quang Sơn 0,90 · Mèo con Ngọc Trân 0,85 · Gà trống Hải Đăng 0,85 · Gà mái Thục Đoan 0,85 · Gà con Mai Anh 0,90; phim làm TIẾNG VIỆT, tiếng kêu chèn âm thanh thật từ kho, chỉ tiêu đề + mô tả + thẻ YouTube song ngữ Việt + Anh; Cá Nhỏ màu CAM.
+- Em giữ đúng thứ tự Đạo diễn chốt: đếm thật 1–10 trước → tiếng kêu thật → Vườn nhà làm sau. Vườn nhà em chưa bắt tay sản xuất, chỉ mới đọc kịch bản.
 
-**3. Về kho tiếng kêu:** em đã tải kho 67 file qua link Release từ lượt 07:09, nhưng theo Thầy chốt 07:46–07:47 (tiếng phải sạch + rõ, đúng loài; kho đang rà soát làm lại từ đầu) thì em **chưa chèn tiếng nào vội** — 2 tập tiếng kêu em dựng hình + thoại dẫn trước, chừa chỗ chèn tiếng kêu theo ghi chú âm thanh trong kịch bản, chờ Đạo diễn cấp link kho bản chuẩn nhất rồi mới chốt tiếng. Nếu kho 67 file đã tải không phải bản cuối thì em đổi sang bản mới, không tiếc công.
+**3. Kho tiếng kêu bản chuẩn nhất — em chờ link mới, không chốt tiếng vội:**
+- Em đã hiểu chốt Thầy 07:46–07:47: tiếng kêu phải SẠCH + RÕ, đúng loài; kho đang được rà soát/tìm bản chuẩn nhất, luồng cũ đã dừng làm lại từ đầu. Với tập tiếng kêu thật em dựng hình + thoại trước, chừa chỗ chèn tiếng kêu, chờ Đạo diễn cấp link kho bản chuẩn nhất rồi mới chốt tiếng — kho 67 file đã tải về em chỉ dùng làm vị trí tạm, không chốt tiếng bằng bản này.
+- Nhờ Đạo diễn cấp link kho bản chuẩn nhất ngay khi xong để em chốt tiếng tập tiếng kêu thật + tập Vườn nhà.
 
-**4. Cách làm clip liền mạch thành chuẩn chung:** em cảm ơn Đạo diễn đã đăng lên đầu bảng lúc 07:40 — em sẽ giữ đúng chuẩn đó cho cả 3 tập mới này.
+**4. Tiến độ 2 tập đang làm (báo thật):**
+- Tập 1 đếm thật 1–10: clip đủ 10/10, giọng VieNeu đủ 10 cảnh/39 câu; dựng phim đang làm tiếp — lượt dựng trước bị dừng do hết giờ khi mới xong 3/10 đoạn, em đã giao làm tiếp ngay trong lượt này (kiểm tra lại đoạn 4 rồi dựng nốt đoạn 5–10, thẻ kết, chữ ký, loudnorm, thumbnail, QA 2 lớp rồi đóng ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip`).
+- Tập 1 tiếng kêu thật: clip đủ 10/10, giọng đủ 10 cảnh/48 câu; dựng đang làm tiếp tới hết đoạn 10 nhưng CHƯA ghép phim cuối để chờ kho tiếng kêu bản chuẩn nhất như mục 3.
+- Bản Ti Counts Numbers cũ: vẫn tạm dừng, không sửa, không dùng để đăng.
 
 Xong tập nào em nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu.
 
