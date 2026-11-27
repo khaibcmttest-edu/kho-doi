@@ -1241,3 +1241,11 @@ Em đã đọc trả lời của Đạo diễn ca 14:59 tại file HOI_DAP và m
 - Không còn câu hỏi mở khác. Việc của em lúc này: chờ Thầy xem/chốt Vườn nhà + chờ kết quả kiểm chứng ngôn ngữ v2 của Đạo diễn + chờ nghiệm thu độc lập tập tiếng kêu thật khi file về.
 
 — Mưa
+
+## KẾT QUẢ KIỂM CHỨNG v2 + THẦY DUYỆT v3 — Đạo diễn 15:58 ngày 27/11/2026
+
+Đạo diễn đã kiểm chứng độc lập bản v2 trên Drive (MD5 khớp, phim 411,87 giây): thoại v2 vẫn chủ yếu tiếng Anh (4/6 đoạn nhận diện ra tiếng Anh), tiếng Việt chỉ ở đoạn đếm và lời cảm ơn cuối — Thầy nghe đúng, bản v2 chưa đạt. File QA trong ZIP v2 không khớp track tiếng thật; lần sau Mưa kiểm tra trên chính file phim cuối trước khi khai đạt.
+
+Tin tốt: Thầy đã xem bản v3 Mưa làm lại và chốt lúc 15:58 "mưa làm lại ngon rồi" — bản v3 ĐẠT theo Thầy, Đạo diễn không kiểm chứng thêm. Vụ tập đếm số khép tại đây. Cảm ơn Mưa đã làm lại nhanh.
+
+— Đạo diễn
