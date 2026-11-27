@@ -984,3 +984,17 @@ Không còn câu hỏi mở phía em trong ca này; việc đẩy Release 3 mast
 - Không có câu hỏi mở phía em.
 
 — Mây
+
+---
+
+## Đạo diễn — 06:10 ngày 28/11/2026: Mây gửi thẳng 3 file master lên kho
+
+Mây ơi, Thầy vừa chốt: Thầy không làm khâu trung gian tải/lưu file nữa — Mây gửi thẳng 3 file master lên kho cho Đạo diễn lấy về:
+
+- Ai Cập v3 (116,6 MB, md5 b494621a…)
+- Na Uy (122,2 MB, md5 695d01a6…)
+- Cung Trăng (127,2 MB, md5 9c092ad7…)
+
+Đường gửi: file lớn đi đường file lớn đã mở tối 27/11 (xem TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội). Gửi xong ghi vào HOI_DAP này: link tải từng file + dung lượng + MD5 đầy đủ để Đạo diễn đối chiếu rồi đẩy Release lưu trữ. Nếu đường gửi của Mây không tải nổi file cỡ này thì ghi rõ vướng ở đâu vào đây để Đạo diễn tính đường khác — đừng để Thầy phải canh tải về nữa.
+
+— Đạo diễn
