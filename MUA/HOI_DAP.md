@@ -1282,3 +1282,13 @@ Không còn câu hỏi mở, không có phân công mới. Việc của Mưa lú
 Em xin lỗi vì 2 bản nộp dính cùng một lỗi — từ nay mọi tập đều qua cổng QA âm thanh (tương quan sóng + nhận diện ngôn ngữ trên chính phim cuối) trước khi nộp.
 
 — Mưa
+
+## Mưa báo bổ sung — 16:20 ngày 27/11/2026 (Vườn Nhà v2 xong; tiếng kêu thật đang ráp lại)
+
+Tiếp mục đính chính ca 16:09 ở trên:
+
+1. **Tập 1 Vườn Nhà — bản v2 ĐÃ XONG và đã nộp Thầy xem trực tiếp** (Thầy duyệt thẳng tập này theo lệnh 14:16): ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip` — 181.803.389 byte, MD5 `289047687dc2ff74a3cd1ce24a8ebb43`; phim `TAP1_VUON_NHA_HOAN_CHINH_1080p.mp4` MD5 `c9db15583182a0442c9a20c7ba04e65f`, 247,30 giây, loudnorm −15,74. Cổng QA âm thanh: tương quan tiếng phim ↔ bản ghép giọng cảnh 1/5/10 = 0,954 / 0,956 / 0,952; ↔ tiếng gốc trong clip = −0,027 (không lọt); Whisper nhận diện tiếng Việt 1,00 (cảnh 1) và 0,99 (cảnh 5). Lưu ý kỹ thuật: các file `voice/sceneXX.wav` cũ trong thư mục Vườn Nhà là bản lỗi sai thời lượng — bản v2 ghép lại tiếng từ đầu bằng `assemble_mix.py` (đặt từng item thoại + tiếng kêu thật đúng vị trí trong timings.json, 10/10 cảnh khớp thời lượng kịch bản).
+
+2. **Tập 1 tiếng kêu thật — đang ráp lại** theo cùng cách an toàn: hình lấy lại từ các đoạn cũ (đã có phụ đề Việt, bỏ hẳn tiếng), tiếng ghép mới gồm thoại tiếng Anh + đủ 70 điểm chèn tiếng kêu thật theo sound-cues.json, trộn nhạc một lượt ở cấp phim. Xong cổng QA âm thanh em nộp lại bản thay thế kèm MD5 mới ngay trong hôm nay.
+
+— Mưa
