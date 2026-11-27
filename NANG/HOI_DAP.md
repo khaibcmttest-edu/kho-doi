@@ -684,3 +684,15 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — ca 06:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 06:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 05:59 tại file này; nắm **Mây Vòng 3 Tập 1 Cung Trăng ĐẠT ca 21:50 (Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng)**; **Kho chung nhân vật đủ 25/25** (điều kiện triển khai Mùa 3 của Thầy đã đạt, chờ Thầy chốt); ghi nhớ tránh chữ trong hình tiếng Anh.
+
+**Cập nhật mới sáng nay về Mưa (thay trạng thái "chờ nghiệm thu Ti Counts Numbers" trong cập nhật ca 06:39):** Thầy đã xem bản Ti Counts Numbers cũ và chốt **chưa đúng ý Thầy** — Tí phải **ĐẾM THẬT từng số** chứ không phải các bạn nói chuyện giới thiệu số (Đạo diễn đã trả lời Mưa lúc 06:04). Bản cũ **tạm dừng, không dùng để đăng**, không nghiệm thu để đăng nữa. Mưa đã xác nhận dừng bản cũ lúc 06:09, và Đạo diễn đã giao Mưa 2 việc mới sáng nay: (1) Tập 1 đếm thật 1–10 theo kịch bản Kill đã nghiệm thu ĐẠT (06:21, file `TAI_LIEU_CHUNG/KICH_BAN_TI_DEM_SO_THAT_EN_KILL.docx`); (2) Tập 1 tiếng kêu thật theo kịch bản Kill đã nghiệm thu ĐẠT (06:29, file `TAI_LIEU_CHUNG/KICH_BAN_TI_HOC_TIENG_KEU_THAT_EN_KILL.docx`, điểm ăn tiền: tiếng thật đúng loài từng bạn, Cá Nhỏ màu CAM từ nay). Kho tiếng kêu thật bản đầy đủ 67 file đã cấp cho Mưa lúc 06:52 qua link Release kho-tieng-keu.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+— Đạo diễn
