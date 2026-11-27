@@ -647,3 +647,17 @@ Ví dụ cụ thể từng tập (tên tập lấy đúng từ kịch bản Kill
 Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯỚI NHAU). Cả nhóm đặt tên file nộp bài Mùa 3 đúng chuẩn này.
 
 — Đạo diễn
+
+## MÂY XÁC NHẬN — ĐÃ ĐỌC TRẢ LỜI CA 16:59 + 17:14 + 17:29; ĐÃ LẤY BỘ TRƯỞNG THÀNH; ĐÃ NỘP GIỌNG MẪU + ANIMATIC TẬP 4 (17:44 ngày 27/11/2026)
+
+**1. Đã đọc trả lời của Đạo diễn ca 16:59:** ghi nhận đầy đủ — Cá Nhỏ làm **MÀU CAM** theo chốt của Thầy 06:26 ngày 27/11 ("Nếu Cá Nhỏ màu cam thì sau này cho nó màu cam luôn", thay hẳn mô tả hồng đào 24/11 cho mọi tập vẽ mới; tập đã làm trước 27/11 giữ màu cũ); Cây Đước theo kịch bản là cây non đội nón lá; phụ kiện trưởng thành đã liệt kê được ghi nhận; câu C10 của Tí (248 ký tự) tách tại dấu câu khi lồng tiếng — Đạo diễn đã duyệt cách này; 3 master nặng vẫn chưa về máy — giữ nguyên, không gửi lại.
+
+**2. Bộ hình chuẩn trưởng thành của Mưa ĐÃ DUYỆT — em đã lấy về xài chung, không vẽ lại:** file `MUA/MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip` (5.897.961 byte, MD5 `ecd411c8fd6553844d2367ca7b222289` — khớp đúng MD5 Đạo diễn báo ca 17:29). Soi mắt 4 hình rủi ro cao: **Cá Nhỏ CAM** + vương miện san hô + bong bóng nước (đúng chốt mới); Tí nơ xanh da trời; Cây Đước non rễ chống làm chân + nón lá; Chim Cánh Cụt con đầu XÁM BÔNG toàn đầu + khăn len xanh biển dài. Cả 4 đều khớp mô tả khoá + kịch bản. Bộ này là hình chuẩn bước (a) của em cho Tập 4.
+
+**3. Khóa khung bước (b) + (c) của Tập 4 — ĐÃ NỘP, chờ Đạo diễn duyệt:**
+- File: `MAY/MAY_M3_TAP4_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip` (10.518.992 byte, MD5 `78c4018c25cec60534d91a4c37b7bc25`, commit `812c3e67`).
+- (b) Giọng mẫu: 23 file wav (48kHz), mỗi nhân vật nói trong Tập 4 đúng 1 câu mẫu = câu thoại đầu tiên của nhân vật đó trong tập, lồng VieNeu theo Bảng giọng chuẩn toàn series. Robot + Tia Nắng Vàng chỉ xuất hiện hình nên không có giọng mẫu. Tốc độ đo sau hiệu chỉnh: 18/23 câu trong khoảng 13,5–16,7 ký tự/s; 6 câu đã hiệu chỉnh atempo trong giới hạn 0,7–1,1 và ghi rõ trong README: Cáo Tuyết (Kim Thanh) ×1,294 → hiệu dụng 1,1; Ngựa con ×0,82 → 0,738; Lạc Đà con ×1,375 → 1,1; Sâu Xanh ×1,294 → 1,1; Cá Hồi ×0,843 → 0,717; Rùa Biển con ×0,875 → 0,7 (chạm sàn — câu duy nhất của Rùa Biển là câu nói chậm có dấu "...", khi thu thật em sẽ tách tại các dấu "..." và chèn khoảng lặng 0,4s để nhịp chậm đúng kịch bản).
+- (c) Animatic: `MUA3_TAP4_ANIMATIC.md` — đủ 10 cảnh (prompt hình EN nguyên văn kịch bản, hành động, thoại, giọng đọc, nhạc), cảnh ăn tiền Cảnh 7, tổng ước 236s + thẻ kết 10s = 246s, thumbnail lấy khung giữa Cảnh 7.
+- Tên file chuẩn Mùa 3 đã ghi nhớ (Thầy chốt 17:33): ZIP `<TÊN BẠN>_M3_TAP<số>_<TÊN TẬP>_<ddmm>.zip`; phim `TAP<số>_<TÊN TẬP>_HOAN_CHINH_1080p.mp4`; thumbnail `TAP<số>_<TÊN TẬP>_THUMBNAIL.jpg`; bản sửa thêm `_v2`.
+
+**4. Chờ:** Đạo diễn duyệt giọng mẫu + animatic; Tập 1 mẫu của Mưa đạt; mở token. Chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
