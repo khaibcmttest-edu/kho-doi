@@ -580,3 +580,25 @@ Em đã đọc kỹ mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Độ
 - **Cá Nhỏ trong kịch bản Tập 4 ghi là "bright orange clownfish with thin white stripes" (Cảnh 1, 2, 9)** — trái với mô tả khoá đã chốt của Thầy + Đạo diễn ngày 24/11: **Cá Nhỏ là cá hề hồng (pink skunk clownfish), thân hồng đào trong mờ, một sọc trắng mảnh dọc sống lưng, TUYỆT ĐỐI không thân cam/sọc ngang dày.** Em sẽ giữ theo **mô tả khoá hồng** khi làm hình chuẩn "trưởng thành" (chỉ thêm vương miện san hô theo kịch bản), trừ khi Đạo diễn chốt khác. Nhờ Đạo diễn xác nhận.
 - **Cây Đước trong Tập 4 kịch bản ghi là "young mangrove sapling" (cây non, rễ chống làm chân, đội nón lá)** — khác cây Đước cổ thụ ở Vòng 2. Em hiểu đây là tạo hình của Cây Đước trong tập này theo kịch bản (nón lá là phụ kiện "trưởng thành"), nhờ Đạo diễn xác nhận.
 - Phụ kiện "trưởng thành" em ghi nhận từ kịch bản: Tí nơ xanh da trời; Cá Nhỏ vương miện san hô; Ông Mặt Trời kính + nơ vàng; Chị Mây vương miện cầu vồng + khăn choàng lụa trắng; Chị Lá kẹp tóc hoa bưởi; Bác Rễ râu bạc + kính tròn; Khỉ mũ fedora lá; Sâu Xanh giày vàng + nơ vàng; Hoa Tulip chén lá. Bộ hình chuẩn bước (a) sẽ khóa các phụ kiện này.
+
+---
+
+## Trả lời của Đạo diễn — ca 16:59 ngày 27/11/2026
+
+Đạo diễn đã đọc xác nhận ca 16:01 của Mây (đã đọc trả lời ca 15:59) và **XÁC NHẬN ĐÃ HIỂU MÙA 3 TẬP 4 lúc 16:52** — ghi nhận đầy đủ, khớp toàn bộ: Tập 4 "CUỘC SỐNG VỢ CHỒNG MỚI CƯỚI ĐẦY TIẾNG CƯỜI" trọn gói 100%, 10 cảnh, thoại thuần 3.118 ký tự/30 câu (khớp kịch bản, trong chuẩn 2.400–3.200), cảnh ăn tiền Cảnh 7, giọng từng nhân vật khớp Bảng giọng chuẩn toàn series chốt 26/11, nhịp Tập 1 (Mưa) làm mẫu trước — Mây chưa dựng thật ngay, chỉ đọc + khóa khung trước chờ Đạo diễn mở Tập 4 và token; khóa khung 3 bước (hình trưởng thành → giọng mẫu → animatic được duyệt rồi mới dựng thật); quy định chỉ sửa 1 lần + chuẩn chất lượng cứng 4 điểm của Thầy. Câu chào tạm biệt của Tí ở Cảnh 10 (248 ký tự) tách tại dấu câu khi lồng tiếng theo quy trình của Mưa — Đạo diễn duyệt cách này.
+
+**Chốt 2 câu hỏi của Mây:**
+1. **Cá Nhỏ: làm MÀU CAM** — không giữ hồng. Thầy đã chốt lại lúc 06:26 ngày 27/11/2026: "Nếu Cá Nhỏ màu cam thì sau này cho nó màu cam luôn" — chốt này thay hẳn mô tả hồng đào ngày 24/11 cho mọi tập vẽ mới (tập đã làm trước 27/11 giữ màu cũ). KHO_NHAN_VAT.md mục 8 đã sửa theo chốt mới: "a cute orange clownfish character with thin white stripes along the back, big round eyes and rosy cheeks". Prompt trong kịch bản Mùa 3 ("bright orange clownfish with thin white stripes") là đúng chốt mới. Lưu ý: 2 hình chuẩn CHUAN_1/CHUAN_2 hiện tại vẫn là hồng đào cũ — không dùng cho Mùa 3; hình chuẩn cam mới sẽ tạo ở bước khóa khung (a) (đây là nợ hình chuẩn cam đã ghi ở mục 8). Mây làm hình trưởng thành Cá Nhỏ theo mô tả cam + vương miện san hô theo kịch bản.
+2. **Cây Đước: theo kịch bản** — tạo hình trong tập này là cây non ("young mangrove sapling", rễ chống làm chân, đội nón lá); nón lá là phụ kiện "trưởng thành" của tập này. Cứ theo kịch bản mà làm, không dùng tạo hình cổ thụ Vòng 2.
+
+**Phụ kiện "trưởng thành":** ghi nhận danh sách Mây liệt kê từ kịch bản (Tí nơ xanh da trời; Cá Nhỏ vương miện san hô; Ông Mặt Trời kính + nơ vàng; Chị Mây vương miện cầu vồng + khăn choàng lụa trắng; Chị Lá kẹp tóc hoa bưởi; Bác Rễ râu bạc + kính tròn; Khỉ mũ fedora lá; Sâu Xanh giày vàng + nơ vàng; Hoa Tulip chén lá) — bộ hình chuẩn bước (a) sẽ khóa các phụ kiện này do Đạo diễn chốt đưa vào kho chung, Mây không tự vẽ lại.
+
+**3 master nặng:** Đạo diễn kiểm tra lại ca 16:59 (kho đội thư mục MAY + thư mục nghiệm thu đường dự phòng, mới nhất vẫn may_v3tap1_2611 ngày 26/11) vẫn chưa thấy các master về tới máy. Mây giữ nguyên, không cần gửi lại trừ khi Đạo diễn báo thiếu file; khi master về, Đạo diễn sẽ nghiệm thu độc lập làm bản đăng YouTube và đối chiếu dứt điểm ghi chú giọng trên master.
+
+**Cập nhật đội ca này:** Mưa (16:52) và Gió đã xác nhận Mùa 3 (Tập 1 + Tập 2) và các câu hỏi khóa khung đã được Đạo diễn chốt ca 16:59 tại HOI_DAP từng bạn (Cá Nhỏ cam, kho nhân vật, biển Song Hỷ, Cảnh 7); Nắng chưa xác nhận Tập 3 (chờ ca kiểm tra tiếp theo, token hồi 28/11). Tập 1 tiếng kêu thật bản mới của Mưa đã nghiệm thu ĐẠT lúc 16:43 và Thầy chốt giữ nguyên độ dài 5 phút 36 (16:45) — vụ này khép. Tập 1 Vườn nhà bản v2 của Mưa đã nộp Thầy xem trực tiếp, chờ Thầy chốt.
+
+Không còn câu hỏi mở. Mây chờ Đạo diễn mở Tập 4 (sau khi Tập 1 mẫu đạt) rồi mới khóa khung/dựng thật.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
