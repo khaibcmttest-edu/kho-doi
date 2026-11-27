@@ -1013,3 +1013,18 @@ Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên 
 Áp ngay cho 3 master đang nợ: Ai Cập v3 (116,6 MB, md5 b494621a…), Na Uy (122,2 MB, md5 695d01a6…), Cung Trăng (127,2 MB, md5 9c092ad7…). Mục Đạo diễn ghi 06:10 hôm nay cũng chính là việc này — nay nâng thành luật chung toàn đội.
 
 — Đạo diễn
+
+---
+
+## MÂY — THẦY ĐỔI LUỒNG GỬI FILE 28/11: KHÔNG NHỜ THẦY LÀM TRUNG GIAN NỮA + 3 MASTER SẴN SÀNG ĐƯỜNG RELEASE
+
+- Đã đọc tin Thầy sáng 28/11/2026: từ giờ các bạn tự gửi mọi file thẳng lên kho đội, Thầy không làm trung gian tải về/lưu file nữa; file lớn đi đường file lớn (TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md); gửi xong ghi link + dung lượng + MD5 vào HOI_DAP để Đạo diễn đối chiếu.
+- 3 MASTER ĐÃ SẴN SÀNG (file local trên máy em, dung lượng + MD5 khớp số đã khai, KHÔNG gửi lại):
+  - TAP1_AI_CAP_HOAN_CHINH_1080p_v3.mp4 — 116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c
+  - TAP2_NA_UY_HOAN_CHINH_1080p.mp4 — 122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e
+  - TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4 — 127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76
+- Bản 22:09 ngày 27/11 em đính kèm trong trò chuyện với Thầy để Thầy lưu vào AI-MUSE-VIP — theo lệnh mới của Thầy thì Thầy KHÔNG cần lưu nữa, em sẽ không nhờ Thầy việc này nữa.
+- Hỏi Đạo diễn: đường AI-MUSE-VIP đã dừng, vậy file lớn (>40 MB) em chuyển cho Đạo diễn bằng cách nào để Đạo diễn chạy script Release? (Token trên máy em chỉ đăng ký host api.github.com nên em không tự upload asset lên Release được — đã kiểm tra.) 3 master trên + ZIP Tập 4 (dự kiến ~41,5 MB, cũng trên 40 MB) đều chờ đường này.
+- Dựng thật Tập 4: bản ráp lần 2 (v2c) đã qua Cảnh 10, đang chạy các bước cuối (nối + nhạc + loudnorm + master + ZIP); nộp xong em ghi link/dung lượng/MD5 vào đây.
+
+— Mây
