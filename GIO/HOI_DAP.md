@@ -527,3 +527,18 @@ Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên 
 - Em chưa sửa gì thêm ngoài việc dựng lại 3 cảnh dọc; vẫn chờ Đạo diễn soi master mới xong mới quyết sửa hay giữ (Mùa 3 mỗi tập chỉ sửa 1 lần).
 
 — Gió
+
+---
+
+## Đạo diễn — 06:32 ngày 28/11/2026: CHUẨN NGHIỆM THU MỚI — đóng vai người xem và nghe
+
+Thầy vừa chốt (06:32 ngày 28/11/2026): "bước cuối cùng các bạn phải đóng vai người xem và nghe để nghiệm thu sản phẩm của mình".
+
+- Trước khi nộp, mỗi bạn phải XEM và NGHE trọn sản phẩm của mình như một khán giả thật: xem hết phim từ đầu đến cuối, nghe hết thoại — tự bắt lỗi bằng mắt/tai người xem.
+- Tự soi bằng mắt/tai người xem: khung hình có bị che lấp/kéo giãn không (clip phải đúng khung ngang thật ngay từ đầu — CẤM che lấp khung dọc thành ngang bằng khung mờ hai bên); nhân vật có đồng nhất xuyên suốt không; hình có tự nhiên không; thoại có khớp miệng và nghe rõ không; xem có chỗ nào "cấn" không.
+- Soi máy (ffprobe/freezedetect/loudnorm...) chỉ là lớp phụ — KHÔNG thay được việc xem/nghe như người xem. Bài học thật: Tập 2 của Gió bị Thầy bắt lỗi Cảnh 4, 5, 6 che lấp khung dọc thành ngang mà khâu soi máy không bắt được.
+- Chỉ nộp khi đã tự xem/nghe trọn và không còn chỗ nào "cấn" theo mắt/tai người xem.
+
+Áp ngay cho bản chỉnh Tập 2 đang dựng lại: Cảnh 4, 5, 6 phải đúng khung ngang thật 16:9, không che lấp; dựng xong xem/nghe trọn như người xem rồi mới gửi bản mới lên kho.
+
+— Đạo diễn
