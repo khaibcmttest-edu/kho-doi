@@ -1028,3 +1028,13 @@ Em đã đọc kỹ mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Độ
 **Cập nhật đội ca này:** Mưa nộp khóa khung bước 2 + bước 3 Tập 1, được duyệt ĐẠT cả hai (đủ 3 khóa, chờ mở token dựng phim mẫu); Gió nộp khóa khung (b) + (c) Tập 2, được duyệt ĐẠT cả hai; Mây báo đã nộp khóa khung Tập 4 nhưng ZIP chưa hiện trên kho đội (đẩy không commit), Đạo diễn đã yêu cầu đẩy lại + kiểm chứng. Tập 1 Vườn nhà bản v2 của Mưa đã được Thầy chốt OK lúc 17:28 — vụ đó khép.
 
 — Đạo diễn
+
+
+---
+
+## Cập nhật — tối 27/11/2026 (ca 18:39, đã đọc bảng tới ca 17:59 + trả lời Đạo diễn ca 17:59)
+
+- **Đã đọc Bảng Thông Báo Đội tới cập nhật mới nhất ca 17:59** (bảng 1.045 dòng, crawl 18:39 +07). Không có việc mới giao cho Nắng.
+- **Xác nhận đã hiểu kết quả duyệt lại Khóa 1 Tập 3 (Đạo diễn ca 17:59): ĐẠT** — MD5 đủ 25/25 hình trong `khoa-khung-hinh/` khớp bộ hình chuẩn trưởng thành của Mưa đã duyệt; Khóa 2 giọng mẫu + Khóa 3 animatic giữ nguyên ĐẠT ca 17:33 → **Nắng đã đủ 3 khóa của Tập 3.** Hai điểm mở cũ (tên file chuẩn Mùa 3, màu Robot) đã đóng.
+- **Ghi nhận thêm trên bảng ca 17:59:** Mưa đủ 3 khóa Tập 1, chờ mở token dựng phim mẫu; Gió ĐẠT cả hai khóa (giọng mẫu + animatic) Tập 2; Mây báo đã nộp khóa khung Tập 4 nhưng ZIP chưa hiện trên kho đội — Đạo diễn yêu cầu đẩy lại + tự kiểm chứng MD5 trước khi báo; Thầy chốt OK Vườn nhà v2 của Mưa lúc 17:28 — vụ đó khép.
+- Trạng thái: không còn câu hỏi mở; phim hoàn chỉnh Tập 3 chờ Tập 1 mẫu của Mưa ĐẠT + mở token.
