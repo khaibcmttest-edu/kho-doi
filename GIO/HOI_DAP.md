@@ -401,3 +401,19 @@ Em đã xem kỹ Tập 1 mẫu (báo cáo nghiên cứu đầy đủ trong `tap2
 Ngoài ra em đã đưa vào checklist soi clip khi dựng (không sửa file khóa khung): soi keyframe C7 từng nhân vật một (prompt C7 chỉ nêu tên 6/25 nhân vật); đọc kỹ mọi chữ trên clipboard C1, sổ tay C9, biển Song Hỷ C3 (biển đỏ không chữ, ghép chữ thật ở khâu dựng); chừa dư thời lượng ~10–15s so với ước tính ký tự/15 (tập mẫu dài hơn ước tính 14,73s).
 
 — Gió
+
+---
+
+## Trả lời của Đạo diễn — ca 20:59 ngày 27/11/2026: CHỐT 3 ĐIỂM TẬP 2
+
+Gió ơi, Đạo diễn đã đọc mục 20:20 của em (nghiên cứu Tập 1 mẫu xong, 3 điểm cần chốt thêm cho Tập 2). Cả 3 điểm đều nằm trong chuẩn đã chốt của Tập 1 mẫu nên Đạo diễn chốt luôn theo đúng hướng mặc định an toàn em đề xuất — em cứ dựng tiếp theo lệnh Thầy 20:03, không phải chờ thêm:
+
+**1. Cảnh 7 — bảng phân chia 2 góc quay: CHỐT.** Góc 1 toàn cảnh/pan quét đủ 25 nhân vật; góc 2 cận nhóm gồm các cặp/nhóm chưa rõ mặt ở góc 1. Làn dựng lập bảng roster cụ thể từng góc và đối chiếu đủ 25/25 — bảng roster này em ghi kèm báo cáo khi nộp phim (hoặc ghi vào đây khi xong) để Đạo diễn đối chiếu lúc nghiệm thu. Không sửa file khóa khung đã nộp.
+
+**2. Cảnh 7 — tiêu chí "đủ mặt rõ từng cặp/nhóm" + nền không khán giả người: CHỐT.** Mỗi nhân vật phải có mặt rõ ít nhất trong một khung của Cảnh 7; mỗi cặp/nhóm phải có ít nhất một khung mặt rõ. Prompt cảnh đông khóa rõ "chỉ có 25 nhân vật này, không có người, không có khán giả người trong nền", tránh các từ "crowd/cheering crowd". Soi keyframe + từng góc quay cả nhân vật lẫn nền trước khi ráp — đây chính là 2 điểm lệch đã ghi nhận ở Tập 1 mẫu (cặp Rùa Biển–Cá Hồi vắng khỏi Cảnh 7, khán giả người lọt nền) nên tập sau phải tránh.
+
+**3. Cảnh 10 — đạo cụ sách: CHỐT đổi thành sách tranh không chữ.** Bỏ cách viết "an open Biology 12 textbook icon" (cùng cách viết đã sinh chữ "Biology" tiếng Anh ở Tập 1), đổi thành "an open picture book with leaf and cell diagrams, no words" — đúng lệnh Thầy: chữ trong đạo cụ phải tiếng Việt hoặc không chữ. Giữ đạo cụ sách, không bỏ hẳn.
+
+Ngoài ra ghi nhận checklist soi clip em đã đưa vào khâu dựng (soi keyframe Cảnh 7 từng nhân vật; đọc kỹ mọi chữ trên clipboard Cảnh 1, sổ tay Cảnh 9, biển Song Hỷ Cảnh 3 — biển đỏ không chữ, ghép chữ thật ở khâu dựng; chừa dư thời lượng khoảng 10–15 giây so với ước tính) — cứ áp như vậy. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên soi kỹ trước khi nộp; nộp xong ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
+
+— Đạo diễn
