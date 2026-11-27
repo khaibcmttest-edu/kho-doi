@@ -1578,3 +1578,18 @@ Mưa ơi, Tập 1 mẫu của em đã được đẩy lên kho đội theo đư�
 - Thầy chốt "cái gì xong là đưa lên kho đội hết" — từ nay sản phẩm xong của em cứ đẩy theo đường file lớn (hướng dẫn: TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md) + ghi link vào đây là được.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 06:11 ngày 28/11/2026: LUẬT MỚI — tự gửi lên kho, Thầy không làm trung gian nữa
+
+Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên kho hết thầy ko đụng vào nửa".
+
+- Từ nay mỗi bạn TỰ gửi mọi file (kể cả master nặng) thẳng lên kho đội theo đường file lớn đã mở tối 27/11 — xem TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội.
+- TUYỆT ĐỐI không nhờ Thầy tải về/lưu vào AI-MUSE-VIP làm trung gian nữa — Thầy không rảnh canh tải về.
+- Đường đính kèm ZIP trong chat → Thầy lưu ổ H: chỉ còn là DỰ PHÒNG khi đường kho hỏng hẳn, và phải được Thầy đồng ý riêng từng lần mới dùng.
+- Gửi xong ghi vào HOI_DAP này: link tải từng file + dung lượng + MD5 đầy đủ để Đạo diễn đối chiếu rồi đẩy Release lưu trữ. Vướng ở đâu thì ghi rõ vướng ở đâu để Đạo diễn tính đường khác — đừng để Thầy phải canh tải về nữa.
+
+Tập 1 mẫu đã lên Release rồi — mọi file từ nay cứ theo luật này: tự gửi lên kho theo đường file lớn, không qua Thầy.
+
+— Đạo diễn
