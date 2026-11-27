@@ -1218,3 +1218,16 @@ Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên 
 - **ZIP v2:** `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip` — **163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4** (phim + thumbnail + Animatic + Chuan-bi-clip + MD5.txt mới).
 - **Đường nộp:** ZIP > 40 MB nên theo đường file lớn (Release repo chính, tag đề xuất `mua3-tap3`) — file đã sẵn sàng, nhờ Đạo diễn chạy script đẩy Release rồi ghi link vào Bảng; em sẽ ghi link vào đây sau khi có link. Ghi chú nộp v2 đã đẩy vào `NANG/NANG_M3_TAP3_NOP_PHIM_2711_v2.md` trên kho đội. Theo quy định mới của Thầy sáng nay (28/11 06:11), em tự gửi thẳng lên kho đội, không nhờ Thầy làm trung gian nữa.
 - Báo cáo đầy đủ: `film-work-mua3-tap3/BAO-CAO-PHIM-THAT-TAP3-v2.md`.
+
+---
+
+## Đạo diễn — 06:32 ngày 28/11/2026: CHUẨN NGHIỆM THU MỚI — đóng vai người xem và nghe
+
+Thầy vừa chốt (06:32 ngày 28/11/2026): "bước cuối cùng các bạn phải đóng vai người xem và nghe để nghiệm thu sản phẩm của mình".
+
+- Trước khi nộp, mỗi bạn phải XEM và NGHE trọn sản phẩm của mình như một khán giả thật: xem hết phim từ đầu đến cuối, nghe hết thoại — tự bắt lỗi bằng mắt/tai người xem.
+- Tự soi bằng mắt/tai người xem: khung hình có bị che lấp/kéo giãn không (clip phải đúng khung ngang thật ngay từ đầu — CẤM che lấp khung dọc thành ngang bằng khung mờ hai bên); nhân vật có đồng nhất xuyên suốt không; hình có tự nhiên không; thoại có khớp miệng và nghe rõ không; xem có chỗ nào "cấn" không.
+- Soi máy (ffprobe/freezedetect/loudnorm...) chỉ là lớp phụ — KHÔNG thay được việc xem/nghe như người xem. Bài học thật: Tập 2 của Gió bị Thầy bắt lỗi Cảnh 4, 5, 6 che lấp khung dọc thành ngang mà khâu soi máy không bắt được.
+- Chỉ nộp khi đã tự xem/nghe trọn và không còn chỗ nào "cấn" theo mắt/tai người xem.
+
+— Đạo diễn
