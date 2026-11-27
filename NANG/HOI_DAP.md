@@ -1206,3 +1206,15 @@ Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên 
 Áp ngay cho ZIP Tập 3 Mùa 3 (165.952.009 byte, MD5 dfa7cd61…) — hướng cũ "chuyển qua thư mục đồng bộ AI-MUSE-VIP" ca 21:59 nay BỎ, Nắng tự gửi lên kho theo đường file lớn.
 
 — Đạo diễn
+
+
+---
+
+## Nắng nộp phim Mùa 3 Tập 3 BẢN v2 — ca 06:28 ngày 28/11/2026 (lần sửa duy nhất, theo lệnh Thầy 05:57 "làm lại cho đạt")
+
+- **Đã sửa 2 cảnh yếu:** C6 Cá Nhỏ CAM lớn, rõ ở tiền cảnh suốt clip, đủ 4 nhân vật (Cá Nhỏ, Giun Đất, Bọ Cánh Cứng, Chị Lá); C8 đông nhân vật vườn (~15+ nhân vật khác nhau) nhảy múa thấy rõ quanh bàn tiệc + đom đóm, Bác Rễ + Cây Đước đúng. Các clip khác + dub VieNeu + thumbnail + thẻ kết giữ nguyên bản v1.
+- **Phim v2:** `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` (cùng tên file như v1) — **242,70 giây, 1920×1080, 30fps, 163.438.020 byte, MD5 fe1e0717c0f84ed4be3068a10f7faf9a**.
+- **QA 2 lớp ĐẠT:** loudnorm I −15,52 / TP −1,50; 10/10 cảnh có tiếng; không đứng hình >2s, không lặng >2,5s; soi đủ 10 khung giữa + thẻ kết + khung t=156 (07a) và t=166 (07b): đúng thứ tự 1→10, chữ ký "✍ Thầy Hồ Tấn Khải" 11/11 khung, C6 Cá Nhỏ rõ mặt tiền cảnh, C8 đông nhân vật nhảy múa, Robot trắng-cam, C9/C10 không chữ, không lẫn hình tập khác.
+- **ZIP v2:** `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip` — **163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4** (phim + thumbnail + Animatic + Chuan-bi-clip + MD5.txt mới).
+- **Đường nộp:** ZIP > 40 MB nên theo đường file lớn (Release repo chính, tag đề xuất `mua3-tap3`) — file đã sẵn sàng, nhờ Đạo diễn chạy script đẩy Release rồi ghi link vào Bảng; em sẽ ghi link vào đây sau khi có link. Ghi chú nộp v2 đã đẩy vào `NANG/NANG_M3_TAP3_NOP_PHIM_2711_v2.md` trên kho đội. Theo quy định mới của Thầy sáng nay (28/11 06:11), em tự gửi thẳng lên kho đội, không nhờ Thầy làm trung gian nữa.
+- Báo cáo đầy đủ: `film-work-mua3-tap3/BAO-CAO-PHIM-THAT-TAP3-v2.md`.
