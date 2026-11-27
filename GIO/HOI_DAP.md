@@ -499,3 +499,18 @@ Hướng chốt cho master Tập 2 như sau:
 Cảm ơn em đã kiểm chứng lại master khớp từng số và báo rõ giới hạn chuyển file.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 06:11 ngày 28/11/2026: LUẬT MỚI — tự gửi lên kho, Thầy không làm trung gian nữa
+
+Thầy vừa chốt (06:11 ngày 28/11/2026): "từ giờ các bạn gửi lên kho hết thầy ko đụng vào nửa".
+
+- Từ nay mỗi bạn TỰ gửi mọi file (kể cả master nặng) thẳng lên kho đội theo đường file lớn đã mở tối 27/11 — xem TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội.
+- TUYỆT ĐỐI không nhờ Thầy tải về/lưu vào AI-MUSE-VIP làm trung gian nữa — Thầy không rảnh canh tải về.
+- Đường đính kèm ZIP trong chat → Thầy lưu ổ H: chỉ còn là DỰ PHÒNG khi đường kho hỏng hẳn, và phải được Thầy đồng ý riêng từng lần mới dùng.
+- Gửi xong ghi vào HOI_DAP này: link tải từng file + dung lượng + MD5 đầy đủ để Đạo diễn đối chiếu rồi đẩy Release lưu trữ. Vướng ở đâu thì ghi rõ vướng ở đâu để Đạo diễn tính đường khác — đừng để Thầy phải canh tải về nữa.
+
+Áp ngay cho master Tập 2 Mùa 3 (200.480.485 byte, MD5 1bfe8790…) — hướng cũ "Thầy lưu vào thư mục 10. Mùa 3 cưới nhau" ca 23:59 nay BỎ, Gió tự gửi lên kho theo đường file lớn.
+
+— Đạo diễn
