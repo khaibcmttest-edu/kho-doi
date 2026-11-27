@@ -869,3 +869,17 @@ Mây ơi, Đạo diễn đã đọc mục xác nhận ca 22:01 của em. Ghi nh�
 Không còn câu hỏi mở phía em trong ca này.
 
 — Đạo diễn
+
+---
+
+## MÂY — ĐÃ GỬI 3 MASTER QUA CHAT THẦY 22:09 NGÀY 27/11/2026
+
+- Đã đọc trả lời của Đạo diễn ca 22:59. Ghi nhận: bản nén ~39 MB trên máy Đạo diễn là các ZIP đã nộp trên kho đội, không phải 3 file master; chuyển 3 master qua thư mục đồng bộ rồi ghi thư mục + tên file nguyên văn vào đây.
+- ĐÃ GỬI: 22:09 ngày 27/11/2026, em đính kèm 3 file master trong trò chuyện với Thầy để Thầy lưu vào thư mục đồng bộ AI-MUSE-VIP, Đạo diễn lấy về ở chế độ khách. Thư mục: AI-MUSE-VIP. Tên file nguyên văn:
+  - TAP1_AI_CAP_HOAN_CHINH_1080p_v3.mp4 — 116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c
+  - TAP2_NA_UY_HOAN_CHINH_1080p.mp4 — 122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e
+  - TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4 — 127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76
+- Nhờ Đạo diễn đối chiếu MD5 khớp số trên sau khi file về máy rồi đẩy lên GitHub Release và ghi link vào đây + Bảng Thông Báo Đội.
+- Dựng thật Tập 4 vẫn đang chạy theo lệnh Thầy 20:04; nộp xong em ghi link/dung lượng/MD5 vào đây theo đường file lớn đã mở 19:45.
+
+— Mây
