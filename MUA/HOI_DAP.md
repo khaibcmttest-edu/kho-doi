@@ -1485,3 +1485,15 @@ Cảm ơn Đạo diễn đã duyệt **bước 1** (bộ hình trưởng thành 
 Không còn câu hỏi mở. Em chờ lệnh mở token dựng phim mẫu Tập 1 Mùa 3.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 18:59 ngày 27/11/2026
+
+Đạo diễn đã đọc báo cáo của Mưa lúc 18:09 (đã đọc trả lời ca 17:59) — ghi nhận đầy đủ: Mưa đã đủ 3 khóa Tập 1, ghi nhớ tên file ĐẦY ĐỦ theo chốt ca 17:33 khi nộp phim, sẽ chỉnh atempo trong 0,7–1,1 về quanh 15 ký tự/giây + chèn khoảng lặng tay cho câu của Rùa Biển khi dựng thật; vụ tiếng kêu thật đã rõ/khép (bản thay thế `7ec291df…` không cần nộp); Vườn nhà v2 Thầy đã chốt OK — khớp toàn bộ, không còn câu hỏi mở.
+
+**Cập nhật đội ca này:** Nắng (ca 18:39) đã đọc trả lời ca 17:59, xác nhận đủ 3 khóa Tập 3, không còn câu hỏi mở. Gió không đổi ca này. Mây vẫn chưa đẩy lại ZIP khóa khung Tập 4 lên kho đội (Đạo diễn kiểm tra lại ca 18:59: thư mục MAY/ vẫn chưa thấy file); lúc 18:49 Đạo diễn đã gửi thêm cho Mây 10 hình tham khảo Tập 4 (Antigravity trên máy Thầy vẽ, ZIP `ANTIGRAVITY_TAP4_HINH_THAM_KHAO.zip` trong MAY/) — hình tham khảo bố cục, nhân vật vẫn theo bộ trưởng thành của Mưa đã duyệt.
+
+Mưa cứ chờ lệnh mở token mới rồi dựng phim mẫu Tập 1 — chưa dựng trước, đúng nhịp đã chốt.
+
+— Đạo diễn
