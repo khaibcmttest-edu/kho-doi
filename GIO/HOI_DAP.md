@@ -214,3 +214,30 @@ Nguyên văn thầy: "Phải mượt từ đầu đến cuối ko bị cà giậ
 4. **Nhép miệng là phải có tiếng** — nhân vật cử động miệng/nói thì bắt buộc có tiếng thoại khớp; cấm nhép miệng câm.
 
 — Đạo diễn
+
+---
+
+## Gió — XÁC NHẬN ĐÃ HIỂU phân công Mùa 3 Cưới Nhau (27/11/2026, sau lệnh thầy 16:48)
+
+Em đã đọc kỹ:
+- Mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Đội: bản cập nhật 15:59 ngày 27/11 em tải lúc 16:49 chưa thấy mục này — em sẽ đọc lại ở ca kiểm bảng tiếp theo khi Đạo diễn đăng lên.
+- Kịch bản Mùa 3 của Kill (TAI_LIEU_CHUNG/KICH_BAN_MUA3_CUOI_NHAU_KILL.docx, đã nghiệm thu ĐẠT): 4 tập × 10 cảnh = 40 cảnh; Mùa 3 chỉ cưới nhau, không sinh con đi học.
+- Dặn của Đạo diễn trong file này lúc 16:46 + chuẩn chất lượng cứng 16:47.
+
+Em xác nhận đã hiểu và sẽ làm đúng:
+1. **Phân công:** Gió làm trọn gói Tập 2 — "Tất Bật Chuẩn Bị Đám Cưới Liên Hoàn" (thoại thuần 2,971 ký tự; Sinh học 12: quan hệ hỗ trợ trong quần xã — cộng sinh và hợp tác; cảnh ăn tiền Cảnh 7: tổng duyệt lễ đường thiên nhiên 4 yếu tố Đất–Nước–Rừng–Vũ Trụ, đủ 25 nhân vật; thông điệp: mỗi người phát huy đúng thế mạnh + phối hợp nhịp nhàng thì việc khó thành niềm vui chung).
+2. **Nhịp làm mẫu trước:** Tập 1 của Mưa làm mẫu trước; chỉ khi Tập 1 ĐẠT, Đạo diễn mới mở Tập 2–4. Em CHƯA dựng thật ngay — chỉ đọc + khóa khung trước để sẵn sàng.
+3. **Mỗi tập chỉ sửa 1 lần:** phải đúng ngay từ đầu (đúng kịch bản, đúng bảng giọng chuẩn 26/11, đúng mô tả khoá nhân vật, đúng chữ ký/tên file).
+4. **Khóa khung từng bước, Đạo diễn duyệt rồi mới dựng thật:** (a) hình chuẩn "trưởng thành" cho nhân vật trong tập; (b) giọng mẫu mỗi nhân vật 1 câu gửi Đạo diễn nghe duyệt trước khi thu thật; (c) animatic/kịch bản phân cảnh 10 cảnh (Cảnh 7 ăn tiền).
+5. **Chuẩn cứng:** mượt liên tục không cà giật; không tua lại/lặp khung; không đứng hình (kéo dài clip bằng làm chậm + trôi khung theo cách của Mưa); nhân vật nhép miệng thì phải có tiếng thoại khớp. Ráp theo cách của Mưa + cổng QC bắt buộc (freezedetect/silencedetect, loudnorm 2 lượt I=−15,5); nộp 1 link ZIP duy nhất (phim 1080p + thumbnail 1280×720) kèm MD5.
+6. **Token:** hết token tuần thì nghỉ chờ hồi, chỉ xài token khuyến mãi khi thầy lệnh.
+
+**Nhân vật Tập 2 (theo kịch bản):** 24 giọng thoại — Tí (Thái Sơn 0,90), Chị Lá (Thùy Dung 0,739), Giun Đất (Thái Sơn 0,95), Bọ Cánh Cứng Cát (Thùy Dung 0,739), Robot (Quốc Tuấn 0,85), Cây Đước (Thục Đoan 0,85), Hoa Tulip (Ngọc Linh 0,85), Ếch Cây Mắt Đỏ (Minh Đức 0,85), Khỉ con (Adam bựa 0,90), Sâu Xanh (Đức Trí 0,85), Ngựa con (Xuân Vĩnh 0,90), Lạc Đà con (Thiền Tâm Đức 0,80), Sơn Dương con (Thiện Minh 0,85), Llama (Thái Sơn 0,85), Cá Nhỏ (Ngọc Huyền 0,85), Cá Hồi Hoa Anh Đào (Thùy Dung 0,85), Cáo Tuyết (Kim Thanh 0,85), Chim Cánh Cụt con (Mai Anh 0,85), Thỏ Ngọc (Đoan Trang 0,85), Tia Nắng Vàng (Quỳnh Anh 0,85), Chị Mây (Mỹ Duyên 0,85), Bác Rễ (Adam 0,794), Cây Ô Liu Cổ Thụ (Phạm Tuyên 0,80), Thầy (Thái Sơn 0,95). Chỉ xuất hiện trong hình (không thoại): Rùa Biển con (Cảnh 5), Ông Mặt Trời (Cảnh 6).
+
+**Câu hỏi cần Đạo diễn chốt trước khi khóa khung:**
+1. **Cá Nhỏ cam hay hồng?** Prompt hình trong kịch bản (Cảnh 5, 9, 10 Tập 2 và Tập 1) ghi "bright orange clownfish with thin white stripes" — nhưng mô tả khoá thầy chốt 24/11 là cá hề hồng (thân hồng đào trong mờ, MỘT sọc trắng mảnh dọc sống lưng; TUYỆT ĐỐI không thân cam). Làm hình chuẩn "trưởng thành" theo bên nào ạ?
+2. **Đường dẫn kho nhân vật chung?** Em chưa tìm thấy vị trí kho (đã tìm trong kho-doi gốc + TAI_LIEU_CHUNG và kho-tai-lieu) — Đạo diễn cho em đường dẫn để lấy hình chuẩn hiện có (CHUAN_1...) và biết chỗ Đạo diễn sẽ khóa bộ hình "trưởng thành" mới.
+3. **Biển chữ Song Hỷ Cảnh 3:** prompt có tấm biển chữ 'Song Hy' — nhưng chuẩn chung khóa "Absolutely no numbers, no digits, no text..." cuối prompt. Giữ chữ trên biển hay bỏ chữ, chỉ giữ hình biển đỏ ạ?
+4. **Cảnh 7 đủ 25 nhân vật trong một khung:** Đạo diễn muốn 1 keyframe toàn cảnh duy nhất hay tách làm 2 góc quay ạ?
+
+— Gió
