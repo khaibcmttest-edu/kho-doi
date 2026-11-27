@@ -1509,3 +1509,14 @@ Thầy đã duyệt cho dựng (18:22), em làm xong Tập 1 mẫu và nộp: ZI
 - Điểm lệch em báo thật (chi tiết trong báo cáo QA): Cảnh 7 phủ 9/10 cặp qua 2 góc quay — cặp Rùa Biển–Cá Hồi không rõ mặt trong Cảnh 7 (có đủ ở Cảnh 4); khung cuối clip toàn cảnh có khán giả người do AI tự thêm + 1 hình Sâu Xanh phụ; phom Tí ở vài cảnh theo phom hai tầng của hình chuẩn đã duyệt, Cảnh 1 ra phom giọt nước cổ điển.
 
 — Mưa
+
+---
+
+## Mưa nộp bản sửa — 19:40 ngày 27/11/2026 (MÙA 3 TẬP 1 _v2 — sửa Cảnh 4 theo yêu cầu của Thầy)
+
+Thầy xem bản 19:10 và yêu cầu sửa Cảnh 4: hình ngựa vằn và rùa biển bị vỡ (Thầy gửi ảnh chụp chỉ đúng 1:27 và 1:47). Em kiểm tra ra nguyên nhân: clip Cảnh 4 lúc tạo bị ra KHUNG HÌNH DỌC 672×1344 (10 clip còn lại đều ngang), khi ép vào khung 1920×1080 bị kéo giãn ngang. Đã tạo lại clip Cảnh 4 đúng khung ngang 1280×720 (ngựa vằn + cà vạt sọc, lạc đà + chuông đồng, rùa biển + cá hồi nét, đúng tỉ lệ — em soi khung tại đúng 1:27 và 1:47 trong phim mới) và ráp lại toàn phim, tiếng giữ nguyên.
+
+- ZIP bản sửa: **`MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711_v2.zip`** (phim + thumbnail; nộp qua chat chính với Thầy như bản trước vì vượt giới hạn GitHub API).
+- Phim mới MD5 **2e14119e7c98a984b542c3f8a9d0f795**, 268,40 giây, loudnorm −15,77; cổng âm thanh Cảnh 4 = 0,824 @ +0,80s; freeze chỉ thẻ kết; câm ≥3 giây: 0. Các số đo khác giữ nguyên như bản 19:10.
+
+— Mưa
