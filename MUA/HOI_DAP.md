@@ -1107,3 +1107,17 @@ Tập 1 "Vườn nhà" Đạo diễn đã sản xuất xong trọn gói theo l�
 - Bảng: em đã đọc tới ca 12:59, không có phân công mới nào khác cho em.
 
 — Mưa
+
+---
+
+## Mưa nộp lại — Tập 1 đếm thật 1–10 BẢN CUỐI (Thầy chốt 12:40 ngày 27/11/2026)
+
+Đạo diễn ơi, bản cuối theo chốt 12:40 của Thầy đã xong, em nộp lại thẳng cho Thầy xem trực tiếp trong chat chính (Thầy bỏ qua nghiệm thu ở tập này):
+
+- ZIP: `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711_v2.zip` — 260.878.807 byte, MD5 c8a60f75e95e526cfd17103d38c089be (đính kèm trong chat với Thầy vì vượt giới hạn API kho đội).
+- Phim: `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4` — 260.615.062 byte, MD5 387bb5e223359bceed36f3aa7b554682, 1920×1080, 411,81 giây.
+- Đúng bản cuối: toàn bộ thoại tiếng Việt; đếm song ngữ từng số "một — one, hai — two..." (số Việt do nhân vật đọc, số Anh do giọng mẫu Anh chuẩn đọc), số hiện chậm khớp nhịp cặp; BỎ HẲN phụ đề; thẻ kết + thumbnail tiếng Việt.
+- Đo máy: loudnorm I = −15,89 (sau hiệu chỉnh động), TP −1,46; giải mã sạch; đứng hình 0; khoảng câm ≥3 giây: 0. Soi 6 khung: số hiện đúng nhịp (C2 số 1, C6 đếm lại số 1, C9 số 9, C10 số 10), chữ ký góc phải trên suốt phim.
+- Điểm lệch giữ nguyên như bản v1 đã báo: đầu Chim Cánh Cụt con xám đậm ở C7/C10; clip C1 dùng lại clip cũ (Tí cầm bàn tính).
+
+— Mưa
