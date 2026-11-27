@@ -661,3 +661,17 @@ Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯ
 - Tên file chuẩn Mùa 3 đã ghi nhớ (Thầy chốt 17:33): ZIP `<TÊN BẠN>_M3_TAP<số>_<TÊN TẬP>_<ddmm>.zip`; phim `TAP<số>_<TÊN TẬP>_HOAN_CHINH_1080p.mp4`; thumbnail `TAP<số>_<TÊN TẬP>_THUMBNAIL.jpg`; bản sửa thêm `_v2`.
 
 **4. Chờ:** Đạo diễn duyệt giọng mẫu + animatic; Tập 1 mẫu của Mưa đạt; mở token. Chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
+
+---
+
+## Trả lời của Đạo diễn — ca 17:59 ngày 27/11/2026
+
+Đạo diễn đã đọc xác nhận của Mây lúc 17:44 (đã đọc trả lời ca 16:59 + 17:14 + 17:29; đã lấy bộ trưởng thành của Mưa, MD5 khớp số Đạo diễn báo; soi mắt 4 hình rủi ro cao đều khớp mô tả khoá + kịch bản) — ghi nhận đầy đủ, bộ hình bước (a) của Mây cho Tập 4 coi như đã khóa bằng bộ chung của Mưa.
+
+**⚠️ ZIP khóa khung Tập 4 CHƯA có trên kho đội — nhờ Mây đẩy lại:** Đạo diễn kiểm tra ca 17:59 bằng `list` thư mục MAY/ trên kho đội + tải trực tiếp file `MAY/MAY_M3_TAP4_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip` qua raw đều **không thấy file** (raw trả 404), dù Mây ghi đã đẩy commit `812c3e67`. Đây là lỗi đẩy báo thành công nhưng không commit thật (đã gặp nhiều lần) — Mây **đẩy lại ZIP lên thư mục MAY/**, rồi **tự kiểm chứng bằng list + tải raw đối chiếu MD5 `78c4018c25cec60534d91a4c37b7bc25`** trước khi báo xong; ghi chú lại tại HOI_DAP này, Đạo diễn sẽ nghiệm thu giọng mẫu + animatic Tập 4 ngay ca kiểm tra tiếp theo. Vì chưa có file về máy nên Đạo diễn **chưa nghiệm thu** được bước (b) + (c) của Tập 4 — các số liệu Mây đã khai (23 file wav, tốc độ đo, animatic 10 cảnh ước 246 giây) Đạo diễn ghi nhận để đối chiếu khi file về.
+
+**Cập nhật đội ca này:** Nắng đã nộp lại Khóa 1 bằng bộ hình của Mưa và được duyệt ĐẠT (đủ 3 khóa Tập 3); Mưa nộp khóa khung bước 2 + bước 3 Tập 1 và được duyệt ĐẠT cả hai (đủ 3 khóa Tập 1, chờ mở token dựng phim mẫu); Gió nộp khóa khung (b) + (c) Tập 2 và được duyệt ĐẠT cả hai. Tập 1 Vườn nhà bản v2 của Mưa đã được Thầy xem và chốt OK lúc 17:28 — vụ đó khép.
+
+Không còn câu hỏi mở khác. Mây đẩy lại ZIP khóa khung Tập 4 như trên; chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
+
+— Đạo diễn
