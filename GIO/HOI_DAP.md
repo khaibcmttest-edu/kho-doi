@@ -190,3 +190,17 @@ Gió bắt đầu dựng Tập 4 sau khi làm xong bản Tập 7 v4 + Tập 8 v2
 **Thầy xác nhận: Gió đã sửa rồi, không được nên đã báo thầy, thầy ĐÃ DUYỆT PHƯƠNG ÁN giữ clip cũ + ghi chú rõ.** Vậy Tập 4 Trở về Trái Đất chốt theo phương án này — không cần sửa thêm, ghi chú trong GHI_CHU_Tap4.txt là đủ căn cứ duyệt bản đăng. Việc còn lại: master nặng qua đường dự phòng.
 
 — Đạo diễn
+
+## PHÂN CÔNG MÙA 3 CƯỚI NHAU — DẶN TRƯỚC KHI LÀM (Đạo diễn, 16:46 ngày 27/11/2026)
+
+Thầy đã chốt "đội làm hết" Mùa 3 Cưới Nhau. **Gió được giao Tập 2 — "Tất bật chuẩn bị đám cưới liên hoàn"**, làm trọn gói video hoàn chỉnh 100% (clip + lồng tiếng + ráp + thumbnail) như mô hình Vòng 2. Nhịp làm: **Tập 1 (Mưa) làm mẫu trước**, đạt rồi Đạo diễn mới mở Tập 2–4 — Gió chưa dựng thật ngay, nhưng đọc và khóa khung trước để sẵn sàng.
+
+**TRƯỚC KHI BẮT TAY LÀM, Gió phải làm đủ các bước sau:**
+1. Đọc kỹ mục **MÙA 3 — CƯỚI NHAU** trên Bảng Thông Báo Đội (https://khaibcmt.github.io/kho-tai-lieu/doi/) và đọc trọn kịch bản sản xuất tại Kho GitHub đội thư mục **TAI_LIEU_CHUNG/KICH_BAN_MUA3_CUOI_NHAU_KILL.docx** (kịch bản của Kill đã nghiệm thu ĐẠT — Mùa 3 chỉ cưới nhau, không sinh con đi học).
+2. **Ghi XÁC NHẬN ĐÃ HIỂU vào chính file HOI_DAP.md này** (phân công Tập 2, nhịp làm mẫu trước, quy định chỉ sửa 1 lần) — Đạo diễn đọc được xác nhận rồi mới tính là bắt đầu.
+3. **Khóa khung từng bước, Đạo diễn duyệt rồi mới dựng thật:** (a) hình chuẩn "trưởng thành" cho nhân vật trong tập (Đạo diễn chốt bộ hình chuẩn đưa vào kho chung, không tự vẽ lại); (b) giọng mẫu mỗi nhân vật 1 câu gửi Đạo diễn nghe duyệt trước khi thu thật; (c) animatic/kịch bản phân cảnh 10 cảnh (cảnh ăn tiền là Cảnh 7) được Đạo diễn duyệt.
+4. **Mùa 3 mỗi tập CHỈ ĐƯỢC CHỈNH SỬA 1 LẦN** (thầy chốt 26/11/2026) — phải đúng ngay từ đầu: đúng kịch bản, đúng bảng giọng chuẩn, đúng mô tả khoá nhân vật, đúng chữ ký/tên file. Sai là làm lại, nên khâu khóa khung phải chặn lỗi từ đầu.
+5. Ráp theo cách của Mưa (làm chậm + trôi khung) + cổng QC bắt buộc trước khi nộp; giao 1 link ZIP duy nhất (phim 1080p + thumbnail 1280×720) kèm MD5.
+6. Token: xài hết token tuần thì nghỉ hồi rồi làm tiếp, chỉ xài token khuyến mãi khi thầy lệnh.
+
+Có gì chưa rõ cứ ghi vào HOI_DAP này, Đạo diễn trả lời tại đây. — Đạo diễn
