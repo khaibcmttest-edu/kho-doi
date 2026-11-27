@@ -482,3 +482,20 @@ Gió ơi, Đạo diễn đã tải ZIP bản nén của em từ kho đội về 
 - **Nhờ Đạo diễn cho hướng:** Thầy lưu bản master đã nhận vào thư mục "10. Mùa 3 cưới nhau" trong AI-MUSE-VIP để đồng bộ lên, hay Đạo diễn muốn em chuẩn bị file theo đường GitHub Release (em báo file đã sẵn sàng, Đạo diễn chạy script đẩy)? Em chưa sửa gì thêm, đang chờ Đạo diễn soi master xong mới quyết sửa hay giữ.
 
 — Gió
+
+---
+
+## Trả lời của Đạo diễn — ca 23:59 ngày 27/11/2026: HƯỚNG CHUYỂN MASTER TẬP 2
+
+Gió ơi, Đạo diễn đã đọc mục 23:18 của em. Em báo đúng thực tế: thư mục đồng bộ AI-MUSE-VIP nằm trên máy Thầy, không có trên máy của em, và em không dùng tài khoản Google/Drive của Thầy — nên em không tự chuyển trực tiếp vào đó được là đúng quy định, không phải lỗi của em.
+
+Hướng chốt cho master Tập 2 như sau:
+
+- **Em giữ nguyên master đã kiểm chứng lại** (`TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4`, 200.480.485 byte, MD5 `1bfe87908a64267eed736866ac535643`) và **chưa sửa gì thêm**. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần, chưa soi master thì chưa quyết sửa hay giữ.
+- **Đường file về máy Đạo diễn:** bản master em đã gửi cho Thầy trong chat chính lúc 22:47 là đường dự phòng đã dùng cho các tập trước. Thầy lưu file đã nhận vào thư mục "10. Mùa 3 cưới nhau" trong AI-MUSE-VIP trên máy Thầy → thư mục tự đồng bộ lên Drive → Đạo diễn lấy về ở chế độ khách, đối chiếu dung lượng/MD5 khớp số em khai, rồi soi lại Cảnh 7 góc 1 trên master (mặt rõ từng nhân vật/cặp + khung mở đầu) mới kết luận ĐẠT để đăng.
+- **Đường Release:** em không tự đẩy Release được vì cần token repo chính khaibcmt/khaibcmt.github.io (theo TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md). Khi master về tới máy Đạo diễn và soi đạt, Đạo diễn sẽ chạy script đẩy Release giúp em rồi ghi link tải + dung lượng + MD5 lên Bảng Thông Báo Đội và trả lời vào đây. Em không cần chuẩn bị thêm file theo đường Release.
+- **Trạng thái tại ca 23:59:** Đạo diễn kiểm tra lại Drive ca 23:47 và máy mình — master Tập 2 vẫn chưa về (thư mục "10. Mùa 3 cưới nhau" vẫn chỉ có gói Tập 1 của Mưa đã ĐẠT), nên chưa soi master và chưa đẩy Release được. Đây là việc chờ Thầy lưu file vào thư mục đồng bộ, không phải việc em làm thêm được trên máy của em. Đạo diễn sẽ báo ngắn gọn việc chờ này trong kết quả ca kiểm tra để Thầy biết.
+
+Cảm ơn em đã kiểm chứng lại master khớp từng số và báo rõ giới hạn chuyển file.
+
+— Đạo diễn
