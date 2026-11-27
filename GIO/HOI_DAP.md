@@ -451,3 +451,22 @@ Ngoài ra ghi nhận checklist soi clip em đã đưa vào khâu dựng (soi key
 - Lần chạy 21:45 bị runtime restart gián đoạn ở stage mux (bản film_video đầu hỏng "moov atom not found") — đã chạy lại mux → 500k → check, master cuối đã kiểm chứng đủ.
 
 Nhờ Đạo diễn nghiệm thu + đẩy master lên Release giúp em. Cảm ơn Đạo diễn!
+
+---
+
+## Trả lời của Đạo diễn — ca 22:59 ngày 27/11/2026: NGHIỆM THU BẢN NÉN TẬP 2 — KỸ THUẬT ĐẠT, CHƯA KẾT LUẬN ĐẠT ĐỂ ĐĂNG (chờ bản master)
+
+Gió ơi, Đạo diễn đã tải ZIP bản nén của em từ kho đội về và đo độc lập trên chính file tải về, không tin số tự khai:
+
+- **ZIP:** `GIO_M3_TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_2711.zip` đủ 20.171.449 byte, MD5 `f2f3723bbd2ec416459ad55c6d2ca729` khớp đúng số em khai; bên trong đủ 4 file (phim 500k + thumbnail + `TAP2_STORYBOARD.md` + `GHI_CHU_Tap2.txt`). Phim 500k MD5 `d20705eb1f502a580ad6d2176c395f51` khớp khai; thumbnail đúng 1280×720.
+- **Đo máy trên phim 500k:** 244,10 giây, 1920×1080, 30fps, H.264 + AAC 48kHz mono; loudnorm đo thật I = −15,56 / TP = −1,28 / LRA 7,80 (khớp em khai từng số); freezedetect (d=2s) chỉ đứng hình ở thẻ kết từ 234,07s — cảnh chính không đứng hình >2s; silencedetect >3s: 0 khoảng lặng; đo năng lượng tại 10 mốc thoại bắt đầu (0,8s / 20,8s / 47,96s / 76,7s / 104,56s / 130,84s / 154,23s / 174,23s / 194,77s / 214,77s) đều có tiếng rõ (−12,6…−15,9 dB) — đủ 10/10 cảnh có thoại, không cảnh nhép miệng thiếu tiếng.
+- **Soi mắt 12 khung giữa cảnh + 10 khung Cảnh 7 + thẻ kết + thumbnail:** Cảnh 1–6, Cảnh 7 góc 2, Cảnh 8–10 và thẻ kết đều đạt như em khai — Tí giọt nước cổ điển không đuôi, Cá Nhỏ CAM ở Cảnh 5/9/10, Cánh Cụt con đầu XÁM + khăn xanh biển ở Cảnh 5, cặp Rùa Biển–Cá Hồi rõ mặt ở Cảnh 7 góc 2 (cặp từng vắng ở Tập 1), không thấy khán giả người ở nền các khung đã soi, chữ ký "✍ Thầy Hồ Tấn Khải" góc phải trên đủ mọi khung soi kể cả thẻ kết, thẻ kết 3 dòng tiếng Việt đúng chính tả và hẹn đúng Tập 3, thumbnail đúng mẫu Tập 1.
+
+**Điểm lệch ghi nhận (đối chiếu trên bản nén):**
+- **Cảnh 7 góc 1 trên bản nén vỡ hạt nặng suốt đoạn (soi các khung 155–163s):** mặt nhân vật không rõ trên bản 500k (video chỉ 485 kb/s cho cảnh đêm nhiều chi tiết + pan). Điểm này chưa kết luận được là lỗi của phim hay chỉ là nén thấp — phải soi lại trên bản master mới quyết được Cảnh 7 có đạt tiêu chí "mỗi nhân vật/cặp có mặt rõ ít nhất 1 khung qua 2 góc" đã chốt ca 20:59 hay không.
+- **Khung mở đầu Cảnh 7 góc 1 (~1 giây đầu, khung 154s)** là dàn nhân vật dạng mô hình xếp 2 hàng trên nền trơn, khác bối cảnh lễ đường thiên nhiên trong prompt góc 1 của storyboard — ghi nhận là điểm lệch bối cảnh ở đầu cảnh ăn tiền, soi lại trên master khi kết luận.
+- Các điểm em đã tự khai, Đạo diễn xác nhận đúng trên khung soi và ghi nhận giữ nguyên: Cảnh 3 biển Song Hỷ để biển đỏ trống (em đã thử ghép chữ 囍 và có khung test làm chứng chữ tĩnh rơi lên mặt Khỉ con — lý do giữ biển trống hợp lý, thoại đã nói rõ "chữ Song Hỷ"); Cảnh 4/5/6 viền mờ 2 bên (tiền lệ các đợt trước, nội dung không méo); sổ tay Cảnh 9 + sách Cảnh 10 chỉ có nét vẽ mờ không đọc được chữ; phim dài 244,08s như các tập trước.
+
+**Kết luận ca này: bản nén ĐẠT kỹ thuật đo máy + soi mắt đạt ngoại trừ Cảnh 7 góc 1 chưa kết luận được trên bản nén. Đạo diễn CHƯA kết luận ĐẠT để đăng và CHƯA đẩy Release được vì bản master (200.480.485 byte, MD5 `1bfe87908a64267eed736866ac535643` như em khai) chưa về tới máy Đạo diễn** — em khai đã gửi master cho Thầy trong chat chính, Đạo diễn kiểm tra máy mình chưa có file này. Việc tiếp theo: nhờ em chuyển bản master qua thư mục đồng bộ AI-MUSE-VIP (thư mục 10. Mùa 3 cưới nhau, như tiền lệ Tập 1 của Mưa) rồi ghi vào đây thư mục đã lưu + tên file nguyên văn. Master về tới nơi, Đạo diễn đối chiếu dung lượng/MD5, soi lại Cảnh 7 góc 1 trên master (mặt rõ từng nhân vật/cặp + khung mở đầu) rồi mới kết luận ĐẠT để đăng và đẩy Release. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên chưa soi master thì chưa quyết sửa hay giữ — em chưa cần sửa gì trong lúc chờ.
+
+— Đạo diễn
