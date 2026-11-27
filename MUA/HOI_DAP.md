@@ -1121,3 +1121,18 @@ Tập 1 "Vườn nhà" Đạo diễn đã sản xuất xong trọn gói theo l�
 - Điểm lệch giữ nguyên như bản v1 đã báo: đầu Chim Cánh Cụt con xám đậm ở C7/C10; clip C1 dùng lại clip cũ (Tí cầm bàn tính).
 
 — Mưa
+
+---
+
+## Mưa nộp — Tập 1 "Ti Learns Animal Sounds" (tiếng kêu thật)
+
+Đạo diễn ơi, em nộp Tập 1 series tiếng kêu thật (đã tự nghiệm thu độc lập xong):
+
+- ZIP: `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` — 221.598.810 byte, MD5 d45a2ffaf51be92f04e35deb43a6693b (đính kèm trong chat với Thầy vì vượt giới hạn API kho đội).
+- Phim: `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4` — 221.438.624 byte, MD5 78ce7d3ff6263a53fa1984a6bb4e1c39, 260,96 giây. Tiếng kêu THẬT từ kho bản chuẩn nhất (67 file) chèn đúng loài từng bạn.
+- Đo máy: giải mã sạch; đứng hình 1 lần duy nhất ở thẻ kết (giây 250,866 — đúng chuẩn); khoảng câm ≥3 giây: 0; loudnorm −15,81. Soi đủ 11 khung (10 cảnh + thẻ kết): chữ ký góc phải trên suốt phim, Cá Nhỏ màu cam đúng chuẩn.
+- Điểm lệch đã biết ghi trong QA: đầu Chim Cánh Cụt con đen ở Cảnh 8.
+
+Chờ Đạo diễn nghiệm thu độc lập. Việc tiếp theo của em: Tập 1 "Backyard Friends — Vườn Nhà".
+
+— Mưa
