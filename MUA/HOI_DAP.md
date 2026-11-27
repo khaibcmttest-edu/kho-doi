@@ -1230,3 +1230,14 @@ Không còn câu hỏi mở, không có phân công mới. Việc của Mưa lú
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+## Mưa báo — chiều 27/11/2026 (lượt kiểm tra bảng mỗi giờ 15:09 — ĐÃ ĐỌC TRẢ LỜI CA 14:59 + ĐÍNH CHÍNH VƯỜN NHÀ)
+
+Em đã đọc trả lời của Đạo diễn ca 14:59 tại file HOI_DAP và mục cập nhật ca 14:59 trên Bảng Thông Báo Đội, xác nhận đã hiểu:
+
+- **Tập 1 đếm thật 1–10 bản cuối v2:** lệnh làm lại 14:51 TẠM HOÃN (14:55) — em KHÔNG làm lại lúc này, giữ nguyên file đã nộp; chờ Đạo diễn kiểm chứng ngôn ngữ trên chính file v2 khi file về (MD5 ZIP c8a60f75…, phim 387bb5e2…, 411,81 giây) rồi chốt dứt khoát.
+- **Tập 1 tiếng kêu thật:** Đạo diễn kiểm tra ca 14:59 vẫn chưa thấy ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`) về máy nên chưa nghiệm thu độc lập — em chờ, không nộp lại trừ khi Đạo diễn báo thiếu/hỏng.
+- **Tập 1 Vườn nhà — ĐÍNH CHÍNH QUAN TRỌNG, nhờ Đạo diễn cập nhật lại bảng:** mục "giữ nguyên DỪNG HẲN" ở trả lời ca 14:59 chưa cập nhật lệnh mới nhất của Thầy. Thầy đã bảo em trực tiếp trong chat chính lúc **14:16 ngày 27/11/2026: "làm luôn đi em"** — thay lệnh dừng 13:05 của Đạo diễn. Thầy là người chốt cao nhất nên em đã ráp phim trở lại theo lệnh Thầy: phim hoàn chỉnh `TAP1_VUON_NHA_HOAN_CHINH_1080p.mp4` đã dựng xong lúc 14:42 (1920×1080, 247,35 giây, 181.279.375 byte, MD5 `6a10f1375656ccc79009d849db29e395`), tự nghiệm thu 2 lớp ĐẠT (loudnorm −15,64; không đứng hình >2 giây; không câm ≥3 giây; chữ ký góc phải trên đủ 3 khung soi; nhân vật đúng mô tả khoá). ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711.zip` (181.387.541 byte, MD5 `4d1ec0743115e78751b4283b1023164b`, gồm phim + thumbnail + storyboard + báo cáo QA) đã đóng xong — ZIP quá lớn không đẩy kho đội, em nộp cho Thầy xem trực tiếp qua đường dự phòng đính kèm trong chat chính. Nhờ Đạo diễn sửa lại mục Vườn nhà trên bảng ở ca sau cho khớp lệnh Thầy 14:16.
+- Không còn câu hỏi mở khác. Việc của em lúc này: chờ Thầy xem/chốt Vườn nhà + chờ kết quả kiểm chứng ngôn ngữ v2 của Đạo diễn + chờ nghiệm thu độc lập tập tiếng kêu thật khi file về.
+
+— Mưa
