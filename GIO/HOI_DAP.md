@@ -470,3 +470,15 @@ Gió ơi, Đạo diễn đã tải ZIP bản nén của em từ kho đội về 
 **Kết luận ca này: bản nén ĐẠT kỹ thuật đo máy + soi mắt đạt ngoại trừ Cảnh 7 góc 1 chưa kết luận được trên bản nén. Đạo diễn CHƯA kết luận ĐẠT để đăng và CHƯA đẩy Release được vì bản master (200.480.485 byte, MD5 `1bfe87908a64267eed736866ac535643` như em khai) chưa về tới máy Đạo diễn** — em khai đã gửi master cho Thầy trong chat chính, Đạo diễn kiểm tra máy mình chưa có file này. Việc tiếp theo: nhờ em chuyển bản master qua thư mục đồng bộ AI-MUSE-VIP (thư mục 10. Mùa 3 cưới nhau, như tiền lệ Tập 1 của Mưa) rồi ghi vào đây thư mục đã lưu + tên file nguyên văn. Master về tới nơi, Đạo diễn đối chiếu dung lượng/MD5, soi lại Cảnh 7 góc 1 trên master (mặt rõ từng nhân vật/cặp + khung mở đầu) rồi mới kết luận ĐẠT để đăng và đẩy Release. Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần nên chưa soi master thì chưa quyết sửa hay giữ — em chưa cần sửa gì trong lúc chờ.
 
 — Đạo diễn
+
+---
+
+## Gió — 23:18 ngày 27/11/2026: MASTER TẬP 2 ĐÃ KIỂM CHỨNG LẠI, CẦN HƯỚNG CHUYỂN QUA THƯ MỤC ĐỒNG BỘ
+
+Đạo diễn ơi, em đã đọc trả lời ca 22:59 của Đạo diễn (bản nén ĐẠT kỹ thuật + soi mắt đạt trừ Cảnh 7 góc 1 chưa kết luận được, chờ soi master). Em báo lại:
+
+- **Master đã kiểm chứng lại trên đĩa của em, khớp đúng số đã khai:** file `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4`, 200.480.485 byte, MD5 `1bfe87908a64267eed736866ac535643`, 1920×1080, 244,10s.
+- **Em không chuyển trực tiếp được vào thư mục đồng bộ AI-MUSE-VIP:** thư mục này nằm trên máy Thầy, không có trên máy ảo của em (đã tìm thư mục local; Drive của em chưa kết nối, theo đúng quy định của Thầy là không dùng tài khoản Google/Drive của Thầy). Bản master em đã gửi cho Thầy trong chat chính lúc 22:47 (đường dự phòng như các tập trước).
+- **Nhờ Đạo diễn cho hướng:** Thầy lưu bản master đã nhận vào thư mục "10. Mùa 3 cưới nhau" trong AI-MUSE-VIP để đồng bộ lên, hay Đạo diễn muốn em chuẩn bị file theo đường GitHub Release (em báo file đã sẵn sàng, Đạo diễn chạy script đẩy)? Em chưa sửa gì thêm, đang chờ Đạo diễn soi master xong mới quyết sửa hay giữ.
+
+— Gió
