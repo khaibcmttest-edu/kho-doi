@@ -1053,3 +1053,23 @@ Em đã bắt tay làm lại ngay trong lượt này: dùng bản dịch Việt 
 Bảng: em đã đọc Bảng Thông Báo Đội tới ca 11:59 (crawl 12:41, không có cập nhật mới sau ca 11:59; ý Thầy 12:32–12:38 chỉ có trong file HOI_DAP này, chưa đăng lên bảng). Không có câu hỏi mở.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 12:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cả 2 mục mới của Mưa (nộp bài tiếng kêu thật ca 12:45 và báo nhận ý sửa đếm số ca 12:45) — ghi nhận đầy đủ:
+
+**1. Tập 1 tiếng kêu thật — đã ghi nhận nộp bài, CHƯA nghiệm thu độc lập vì file chưa về máy:**
+- Mưa báo đã nộp ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (**221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`**, 4 file: phim + thumbnail + storyboard + báo cáo QA) qua đường dự phòng đính kèm trong chat chính với Thầy; phim `TAP1_TIENG_KEU_THAT_HOAN_CHINH_1080p.mp4` (**221.438.624 byte, MD5 `78ce7d3ff6263a53fa1984a6bb4e1c39`, 260,96 giây, 1920×1080, 30fps**); thumbnail `TAP1_TIENG_KEU_THAT_THUMBNAIL.jpg` 1280×720.
+- Tự nghiệm thu 2 lớp của Mưa (decode sạch; freezedetect chỉ 1 lần ở giây 250,866 = thẻ kết tĩnh; silencedetect 0 khoảng câm; loudnorm I = −15,81 LUFS; soi khung 11 khung hình đủ nhân vật, Cá Nhỏ màu CAM, chữ ký góc phải trên; tiếng kêu thật 70 lượt chèn từ kho chuẩn nhất 67 file, đủ 23/23 bạn; 3 điểm lệch đã biết ghi rõ: Chim Cánh Cụt con Cảnh 8 đầu ĐEN, khung mẫu Cảnh 3 Rùa Biển con sát mép trái, khung mẫu Cảnh 9 chỉ có Tí trong bong bóng) — Đạo diễn **ghi nhận là báo cáo tự nghiệm thu của Mưa**, chưa phải kết luận của Đạo diễn.
+- Đạo diễn kiểm tra ca 12:59: kho đội thư mục MUA **không có ZIP này**; thư mục nghiệm thu đường dự phòng trên máy Đạo diễn **chưa thấy file mới** (mới nhất vẫn may_v3tap1_2611 ngày 26/11). Vì file chưa về máy, Đạo diễn **chưa nghiệm thu độc lập và chưa kết luận ĐẠT** — không bịa kết quả trên file chưa tải về được.
+- Khi ZIP về máy, Đạo diễn sẽ nghiệm thu độc lập trên file thật: đối chiếu MD5 ZIP + MD5 phim, kiểm 1920×1080/thời lượng, đo freezedetect + silencedetect + loudnorm, soi khung kiểm chứng 3 điểm lệch + Cá Nhỏ CAM + chữ ký góc phải trên + thumbnail 1280×720 + tiếng kêu thật đủ 23/23 bạn, rồi đăng kết quả lên Bảng Thông Báo Đội. Mưa giữ nguyên file đã nộp, **không cần nộp lại** trừ khi Đạo diễn báo thiếu/hỏng file.
+
+**2. Tập 1 đếm thật 1–10 — ghi nhận Mưa đã nhận ý sửa của Thầy và đang làm lại:** đúng 3 ý bản cuối (thoại tiếng Việt hết; đếm số song ngữ Việt + Anh từng số, chậm to rõ cho học sinh phát âm theo; không phụ đề) — Thầy đã nói không cần Đạo diễn nghiệm thu tập này, Mưa làm lại xong nộp lại để Thầy xem trực tiếp. Cách làm Mưa nêu (dùng bản dịch Việt trong timings làm thoại nói, thêm đọc số song ngữ, dựng lại giọng VieNeu tiếng Việt đúng bảng giọng + atempo, dựng lại 10 đoạn không phụ đề) — đúng hướng, cứ làm vậy.
+
+**3. Thứ tự việc giữ nguyên:** đếm thật 1–10 bản song ngữ (đang làm lại, nộp để Thầy xem trực tiếp) → tiếng kêu thật (đã nộp, chờ file về để nghiệm thu độc lập) → Vườn nhà. Không còn câu hỏi mở.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
