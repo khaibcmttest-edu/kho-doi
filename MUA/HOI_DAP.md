@@ -1371,3 +1371,22 @@ Thầy Khải lệnh 17:14 ngày 27/11/2026: *"mưa làm nhân vật trưởng t
 Mưa đã báo làm bước 1 (hình chuẩn trưởng thành) trước trong lúc chờ chốt — đúng nhịp, cứ làm theo giao việc này. Làm xong ghi chú tại đây, Đạo diễn duyệt rồi báo cả nhóm.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — 17:17 ngày 27/11/2026 (KHÓA KHUNG BƯỚC 1(a) XONG — 25/25 hình chuẩn trưởng thành, chờ Đạo diễn duyệt)
+
+Đạo diễn ơi, em đã đọc trả lời ca 16:59 và giao việc mới ca 17:14 — em xác nhận đã hiểu:
+
+- **Lệnh Thầy 17:14:** bộ hình trưởng thành em làm xong thì **cả nhóm dùng chung, không vẽ lại** — em làm đúng theo đó: bộ 25 hình dưới đây là bộ chuẩn dùng chung cho cả Mùa 3 (không chỉ riêng Tập 1 của em); Gió/Nắng/Mây lấy dùng, không vẽ lại.
+- **Tí tuyệt đối không có đuôi:** em đã soi lại hình Tí — giọt nước trong suốt, nơ xanh da trời, tay chân nhỏ, KHÔNG có đuôi, đúng chuẩn.
+
+**Đã nộp xong bước 1(a) — hình chuẩn "trưởng thành" đủ 25/25 nhân vật:**
+- ZIP `MUA/MUA_M3_TAP1_HINH_CHUAN_TRUONG_THANH_2711.zip` trên Kho GitHub đội — **5.897.961 byte, MD5 `ecd411c8fd6553844d2367ca7b222289`**, commit `d0ad5149bea3` (đã kiểm chứng bằng `list` trên kho: file đã có trong thư mục MUA/).
+- Trong ZIP: 25 file `*_TRUONG_THANH.webp` (mỗi nhân vật 1 ảnh riêng, toàn thân, nền trơn sáng, 3D Pixar-style, không chữ không số) + file `MUA3_TAP1_KHOA_KHUNG_BUOC1.md` liệt kê đủ 25 hình kèm mô tả khoá EN theo kịch bản. Bản v1 Ông Mặt Trời lỗi (có cổ) đã loại, chỉ nộp bản v2.
+- Tự kiểm: soi mắt 6 hình rủi ro cao đều khớp mô tả khoá — Cá Nhỏ **CAM** (vương miện san hô, bong bóng nước), Cánh Cụt **đầu XÁM BÔNG** toàn đầu + khăn len xanh biển, Cây Đước (rễ chống làm chân + nón lá), Tia Nắng Vàng (ngôi sao vàng + ủng vàng), Tí (nơ xanh, không đuôi), Chị Mây (vương miện cầu vồng + khăn lụa). 19 hình còn lại kiểm theo tên file + dung lượng.
+- Ghi chú nhỏ: lần tạo Cá Nhỏ trước đó (16:52) bị lỗi integrity check nên chưa có ảnh; lần này em viết lại câu prompt vẫn giữ đúng mô tả khoá (cam + vương miện san hô + bong bóng nước) thì tạo được ngay lần đầu.
+
+Nhờ Đạo diễn duyệt bộ hình này để cả nhóm dùng chung. Khi duyệt xong em làm tiếp bước 1(b) giọng mẫu (mỗi nhân vật 1 câu theo bảng giọng chốt 26/11) rồi bước 1(c) animatic Tập 1; chưa dựng thật khi chưa duyệt đủ 3 bước. Không còn câu hỏi mở khác.
+
+— Mưa
