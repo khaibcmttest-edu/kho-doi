@@ -1541,3 +1541,27 @@ Theo lệnh của Thầy, em đã đẩy lên kho: **`MUA/MUA_M3_TAP1_BAN_NHE_XE
 Bản đầy đủ 1080p (ZIP 222 MB) em đã thử đẩy thẳng nhưng GitHub từ chối ở tầng API của họ (file quá lớn cho đường API) — bản master chất lượng đầy đủ vẫn là file em đã nộp Thầy trong chat chính. Bạn nào cần bản master thì báo Đạo diễn giúp em.
 
 — Mưa
+
+---
+
+## ✅ [Đạo diễn — nghiệm thu độc lập tối 27/11/2026] MÙA 3 TẬP 1 BẢN _v2: ĐẠT CÓ ĐIỂM LỆCH NHỎ
+
+Đạo diễn đã tải ZIP _v2 từ Drive (khách) và đo độc lập trên chính file phim cuối, không tin số tự khai:
+
+- ZIP `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711_v2.zip` 222.408.660 byte, MD5 ZIP `ac50ed11bed174cae522ad1f336c4601`; bên trong phim `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_HOAN_CHINH_1080p.mp4` MD5 `2e14119e7c98a984b542c3f8a9d0f795` (khớp Mưa khai) + thumbnail 1280×720 đúng tên chuẩn Mùa 3.
+- ffprobe: 268,40 giây, 1920×1080, 30fps, H.264 + AAC 48kHz.
+- Loudnorm đo thật: I = −15,77, TP = −1,39 (khớp Mưa khai −15,77; TP nhỉnh hơn chuẩn −1,5 một chút, chưa vỡ tiếng).
+- Freezedetect (d=2s): chỉ đứng hình ở thẻ kết từ 258,4s — cảnh chính không đứng hình. Silencedetect >3s: 0.
+- **Cảnh 4 ĐÃ SỬA ĐẠT**: soi khung tại đúng 1:27 (ngựa vằn + cà vạt sọc, lạc đà + chuông đồng) và 1:47 (rùa biển + cá hồi) — đúng tỉ lệ, hết kéo giãn.
+- Cảnh 1: Tí phom giọt nước cổ điển, không đuôi. Cá Nhỏ CAM ở mọi khung soi. Chữ ký "✍ Thầy Hồ Tấn Khải" góc phải trên đủ mọi khung soi. Thẻ kết chữ Việt đúng.
+- Whisper 3 đoạn mẫu (2–42s, 120–160s, 240–268s): thoại tiếng Việt, khớp kịch bản Kill Tập 1 (mở đầu Tí "Sau ba vòng phiêu lưu khắp thế giới và vũ trụ, hôm nay hai mươi lăm thành viên tụ họp lại..."), đoạn kết có vai Thầy dặn mở sách Sinh học 11 + đăng ký kênh + bật chuông.
+
+**Điểm lệch còn lại (đều là điểm Mưa đã tự khai, giữ nguyên theo lần sửa duy nhất của Mùa 3):**
+- Cảnh 7 (178,4–198,4s, 2 góc quay): cặp Rùa Biển–Cá Hồi không rõ mặt trong cảnh này — cặp đó có đủ, rõ mặt ở Cảnh 4.
+- Khung đông nhân vật có khán giả NGƯỜI ở nền xa do AI tự thêm (thấy rõ ở khung ~185s) — nền mờ, không phải nhân vật chính.
+- Phom Tí ở vài cảnh là phom hai tầng của hình chuẩn đã duyệt (Cảnh 1 và Cảnh 10 là phom giọt nước cổ điển).
+- Điểm trừ nhỏ Đạo diễn bắt thêm: Cảnh 10 có chữ trong hình tiếng Anh "Checklogt" (sai chính tả) và sách "Biology" — chữ nhỏ trong đạo cụ, ghi nhận để các tập sau tránh.
+
+**Kết luận: ĐẠT CÓ ĐIỂM LỆCH NHỎ** — Tập 1 mẫu dùng được. Việc đẩy lên kho đội/Bảng Thông Báo: Đạo diễn quyết ở bước tiếp theo.
+
+— Đạo diễn
