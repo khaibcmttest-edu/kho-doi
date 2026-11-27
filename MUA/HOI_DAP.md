@@ -1449,3 +1449,23 @@ Cảm ơn Đạo diễn đã duyệt **bước 1** (bộ hình trưởng thành 
 Đạo diễn duyệt 2 bước này xong, em chờ lệnh mở token/Tập 1 mẫu ĐẠT mới dựng phim hoàn chỉnh, không dựng trước. Riêng câu hỏi file tiếng kêu thật (mục 17:26) em vẫn chờ Đạo diễn xác nhận tên + MD5 file đã duyệt.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 17:59 ngày 27/11/2026: DUYỆT KHÓA KHUNG BƯỚC 2 + BƯỚC 3 TẬP 1 — ĐẠT; XÁC NHẬN FILE TIẾNG KÊU THẬT ĐÃ DUYỆT
+
+Đạo diễn đã đọc báo cáo của Mưa lúc 17:47 (nộp khóa khung bước 2 + bước 3 Tập 1) và nghiệm thu độc lập trên file tải về:
+
+**Bước 2 — Giọng mẫu: ĐẠT.** ZIP `MUA_M3_TAP1_GIONG_MAU_2711.zip` (12.384.295 byte, MD5 `f2fe5f907fb6ba984d513e95cc11e15f` — khớp số Mưa khai). Đo máy đủ 26/26 file WAV: đều có tiếng thật (âm lượng trung bình −18,2…−21,2 dB, không file nào câm), thời lượng từng file khớp bảng `BANG_GIONG_MAU_M3_TAP1.md` Mưa khai; giọng + atempo đúng Bảng giọng chuẩn toàn series chốt 26/11 từng vai (kể cả 3 vai trùng giọng Thái Sơn/Thùy Dung/Adam phân biệt bằng atempo như Mưa ghi chú). Ghi nhận 3 giọng nền chậm (Sâu Xanh 10,8 · Cáo Tuyết 10,9 · Lạc Đà con 10,9 ký tự/giây) và 3 giọng hơi nhanh (Khỉ con 18,1 · Ngựa con 17,9 · Rùa Biển con 19,7) — Mưa đã ghi rõ khi dựng thật sẽ chỉnh atempo trong 0,7–1,1 về quanh 15 ký tự/giây và chèn khoảng lặng tay cho câu của Rùa Biển — Đạo diễn chấp nhận cách này (đúng tiền lệ duyệt Khóa 2 của Nắng ca 17:33).
+
+**Bước 3 — Animatic: ĐẠT.** `ANIMATIC_M3_TAP1.md` đủ 10 cảnh; Đạo diễn đối chiếu bằng máy: toàn bộ câu thoại trong animatic khớp nguyên văn kịch bản Kill trên kho đội; cảnh ăn tiền Cảnh 7 đúng chốt ca 16:59 (1 keyframe toàn cảnh đủ 25 nhân vật, dựng clip tách 2 góc quay); Cá Nhỏ CAM, chữ ký góc phải trên, thumbnail Cảnh 7, cách dựng liền mạch + cổng QA âm thanh đều ghi đủ. **Một điểm nhắc khi nộp phim:** dùng tên file ĐẦY ĐỦ theo chốt ca 17:33 — ZIP `MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711.zip`, phim `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_HOAN_CHINH_1080p.mp4`, thumbnail `TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_THUMBNAIL.jpg` (thay tên rút gọn đang ghi trong animatic).
+
+**→ Mưa đã đủ 3 khóa của Tập 1.** Chờ lệnh mở token mới dựng phim hoàn chỉnh (Tập 1 là tập mẫu mở đường cho cả Mùa 3) — chưa dựng trước.
+
+**Trả lời câu hỏi 17:26 — file tiếng kêu thật đã duyệt:** file nghiệm thu ĐẠT lúc 16:43 là **`TI_HOC_TIENG_KEU_DONG_VAT.mp4`** — 322.628.309 byte, **MD5 `82822fec5068ddb08b5df1e284683011`**, dài **335,6 giây (5 phút 36)**, thoại tiếng Việt toàn tập + tiếng kêu thật đúng loài. Đạo diễn vừa đo lại MD5 + thời lượng trực tiếp trên file gốc, khớp đúng các số trên. Đây là **bản Đạo diễn dựng lúc 07:13 ngày 27/11** (đã giao Thầy), **không phải file của Mưa** — bản của Mưa (tiếng Anh + phụ đề tiếng Việt, 260,98 giây) là file khác, và bản thay thế MD5 `7ec291df…` Mưa **không cần nộp** cho vụ này. Mục cập nhật ca 16:59 ghi chưa rõ nguồn file nên làm Mưa vênh hồ sơ — Đạo diễn xin lỗi và đính chính dứt điểm tại đây: vụ tiếng kêu thật đã khép với file trên, Thầy chốt 16:45 giữ nguyên 5 phút 36.
+
+**Vườn nhà v2:** Đạo diễn ghi nhận Thầy đã xem và chốt OK lúc 17:28 ngày 27/11 — tập này khép, đã ghi lên Bảng Thông Báo Đội ca 17:59.
+
+**Cập nhật đội ca này:** Nắng nộp lại Khóa 1 bằng bộ hình của Mưa, được duyệt ĐẠT (đủ 3 khóa Tập 3); Gió nộp khóa khung (b) + (c) Tập 2, được duyệt ĐẠT cả hai; Mây báo đã nộp khóa khung Tập 4 nhưng ZIP chưa hiện trên kho đội (đẩy không commit), Đạo diễn đã yêu cầu đẩy lại + kiểm chứng. Không còn câu hỏi mở.
+
+— Đạo diễn
