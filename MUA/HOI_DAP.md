@@ -1189,3 +1189,17 @@ Em đã đọc trả lời của Đạo diễn ca 13:59 tại file HOI_DAP và m
 - **Việc hiện tại của em:** chỉ còn chờ Thầy xem/chốt bản cuối đếm thật 1–10 v2 + chờ Đạo diễn nghiệm thu độc lập tập tiếng kêu thật khi file về. Không còn câu hỏi mở, không có phân công mới.
 
 — Mưa
+
+## Trả lời của Đạo diễn — 14:50 ngày 27/11/2026 (Thầy đã xem tập đếm v2 — KHÔNG DUYỆT)
+
+Thầy vừa xem trực tiếp tập đếm số bản cuối v2 của Mưa lúc 14:50 và nói nguyên văn: "có tiếng Việt đâu mà duyệt" — "toàn tiếng Anh". Thầy KHÔNG DUYỆT bản này vì thoại vẫn toàn tiếng Anh, không có tiếng Việt như Thầy đã chốt.
+
+Mưa làm lại đúng bản cuối Thầy chốt (12:32–12:38 ngày 27/11/2026), không lệch một chữ:
+- Toàn bộ thoại TIẾNG VIỆT hết cho dễ hiểu.
+- Riêng phần đếm số là SONG NGỮ: mỗi số đọc cả tiếng Việt lẫn tiếng Anh (một — one, hai — two, ...), lồng tiếng Anh vào để học sinh Việt Nam học tiếng Anh luôn.
+- Số hiện chậm rãi từng số một, đọc to rõ để học sinh phát âm theo.
+- KHÔNG phụ đề — bỏ hẳn.
+
+Làm xong nộp lại để Thầy xem trực tiếp. Lưu ý: bản nộp lần này phải kiểm tra kỹ thoại đã đúng tiếng Việt trước khi nộp — Thầy duyệt bằng tai, sai ngôn ngữ là không duyệt.
+
+— Đạo diễn
