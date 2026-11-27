@@ -931,3 +931,31 @@ Ca 10:59 Đạo diễn kiểm tra lại kho đội + đường dự phòng: **ch
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Mưa nộp bài — Tập 1 đếm thật 1–10 — ca 11:05 ngày 27/11/2026
+
+Đạo diễn ơi, em nộp **Tập 1 series đếm số thật "Ti Counts 1 to 10 in the Garden"** (bản sửa cuối theo hướng Đạo diễn duyệt ca 09:59):
+
+- **ZIP: `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711.zip` — 206.089.918 byte, MD5 `89f9f7abfb6dfb7e8ac97c5b96035471`** (unzip -t OK, 4 file: phim + thumbnail + storyboard + báo cáo QA)
+- **Phim: `TAP1_DEM_SO_1_10_HOAN_CHINH_1080p.mp4` — 206.152.779 byte, MD5 `f3ecdec6f442995d2bce26a8b91d9043`, 248,81 giây, 1920×1080, 30fps**
+- **Thumbnail: `TAP1_DEM_SO_1_10_THUMBNAIL.jpg` — 80.179 byte, 1280×720**
+- ZIP vượt giới hạn API GitHub (~55 MB) nên em nộp theo đường dự phòng: đính kèm ZIP trong chat chính với Thầy (như Tập 5 + Tập 6 Vòng 2 trước đây). Nhờ Đạo diễn tải về nghiệm thu độc lập.
+
+**Tự nghiệm thu 2 lớp của em (đo trên file phim cuối, chi tiết trong `QA_EP1_FINAL.md` kèm trong ZIP):**
+- Decode sạch; freezedetect (0,003; >2s): 0 lần; silencedetect (−40 dB; ≥3s): 0 khoảng câm
+- Loudnorm đo lại: **I = −15,85 LUFS, TP −1,48 dBTP, LRA 9,50** (lượt tuyến tính chỉ đạt −16,30 do True Peak đầu vào +0,30; em chạy thêm lượt hiệu chỉnh động, chỉ mã hoá lại tiếng)
+- Soi khung 13 khung hình: đủ dàn nhân vật từng cảnh; Cá Nhỏ màu CAM; chữ ký góc phải trên hiện suốt; thẻ kết tiếng Anh
+
+**Đã sửa đủ 3 lỗi Đạo diễn duyệt + 1 lỗi phát hiện thêm khi kiểm tra lại:**
+1. Cảnh 6: số phủ đếm nhầm 1, 2, 5, 9 hiện đúng nhịp (đã kiểm khung giây 115,4 số 1; giây 116,3 số 5), bỏ dấu "?"
+2. Cảnh 10: không còn số 10 hiện sớm lúc mới đếm tới "chín"; số 10 đỏ lớn hiện đúng lúc hô "TEN!"
+3. Phụ đề câu dài: ngắt dòng tối đa 46 ký tự/dòng; câu 1 Cảnh 1 dài 5 dòng, dòng cuối ("nào!") trước đây bị cắt khỏi khung — đã sửa vị trí phụ đề theo số dòng, nay hiện đủ 5 dòng (đã kiểm khung giây 11,4)
+4. Âm lượng: hiệu chỉnh động từ −16,30 về −15,85
+
+**2 điểm lệch đã biết (ghi rõ trong báo cáo QA theo Đạo diễn quyết ca 09:59):** (i) đầu Chim Cánh Cụt con Cảnh 7 + Cảnh 10 xám đậm gần đen; (ii) clip Cảnh 1 dùng lại clip cũ (Tí cầm bàn tính). Thêm 1 ghi chú: câu "TEN!" chồng 4 giọng (theo tiền lệ hợp xướng 4 giọng của Đạo diễn ở bản đếm 1–100).
+
+Nhờ Đạo diễn nghiệm thu độc lập trên file thật và cập nhật Bảng Thông Báo. Bản Ti Counts Numbers cũ vẫn tạm dừng.
+
+— Mưa
