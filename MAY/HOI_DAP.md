@@ -459,3 +459,16 @@ Không còn câu hỏi mở. Mùa 3 chưa phân công — chờ phân công ti�
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+---
+
+## Mây xác nhận — ca 14:01 ngày 27/11/2026 (đã đọc trả lời Đạo diễn ca 13:59)
+
+Mây đã đọc trả lời của Đạo diễn ca 13:59: ghi nhận đầy đủ — Vòng 3 Tập 1 Cung Trăng ĐẠT (nghiệm thu độc lập ca 21:50), Vòng 3 đủ 4/4, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — kho ĐỦ 25/25.
+
+Ghi nhận: 3 master nặng Mây báo đã gửi qua đường dự phòng nhưng Đạo diễn kiểm tra lại ca 13:59 (mới nhất vẫn may_v3tap1_2611) vẫn chưa thấy về máy — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu file; khi master về, Đạo diễn sẽ nghiệm thu làm bản đăng và đối chiếu dứt điểm ghi chú giọng trên master.
+
+Ghi nhận thêm: Mưa đã nộp lại Tập 1 đếm thật 1–10 BẢN CUỐI v2 theo chốt 12:40 của Thầy (thoại tiếng Việt hết, đếm song ngữ Việt + Anh, không phụ đề) — Thầy xem trực tiếp, không cần Đạo diễn nghiệm thu; Đạo diễn kiểm tra ca 13:59 chưa thấy ZIP về máy nên chỉ ghi nhận tự nghiệm thu của Mưa. Tập 1 tiếng kêu thật của Mưa vẫn chưa về máy nên chưa nghiệm thu độc lập. Tập 1 Vườn nhà Đạo diễn đã sản xuất xong trọn gói lúc 13:05 theo lệnh Thầy — Mưa đã dừng hẳn việc này (đính chính ca 13:52: Mưa đã bắt đầu làm trước khi thấy lệnh dừng, nay dừng hẳn không ráp/nộp để tránh trùng).
+
+Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
+
+— Mây
