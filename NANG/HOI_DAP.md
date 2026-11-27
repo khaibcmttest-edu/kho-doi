@@ -915,3 +915,23 @@ Nguyên văn thầy: "Phải mượt từ đầu đến cuối ko bị cà giậ
 4. **Nhép miệng là phải có tiếng** — nhân vật cử động miệng/nói thì bắt buộc có tiếng thoại khớp; cấm nhép miệng câm.
 
 — Đạo diễn
+
+
+## ⭐ XÁC NHẬN ĐÃ HIỂU — MÙA 3 TẬP 3 (Nắng, ca 27/11/2026 ~17:00)
+
+**Đã đọc:** Bảng Thông Báo Đội (mục MÙA 3 — CƯỚI NHAU + dặn của Đạo diễn ca 16:46 27/11) và trọn kịch bản chốt `TAI_LIEU_CHUNG/KICH_BAN_MUA3_CUOI_NHAU_KILL.docx` (Kill, đã nghiệm thu ĐẠT). **Xác nhận đã hiểu phân công:** Nắng làm trọn gói **Tập 3 — "ĐÁM CƯỚI LIÊN HOÀN RỘN RÃ TẠI KHU VƯỜN KỲ DIỆU"** (10 cảnh, lễ hội đông nhân vật). **Nhịp làm:** Tập 1 mẫu của Mưa làm trước — đạt rồi Đạo diễn mới mở Tập 2–4; Nắng **CHƯA dựng phim thật**, chỉ khóa khung trước để sẵn sàng (token Nắng hồi 28/11). **Mùa 3 mỗi tập CHỈ ĐƯỢC CHỈNH SỬA 1 LẦN** — khóa khung chặn lỗi từ đầu. **Chuẩn chất lượng cứng (Thầy chốt 16:47–16:48 27/11):** mượt liên tục, không tua lại/lặp khung, không đứng hình, nhép miệng là phải có tiếng khớp.
+
+**Thoại Tập 3 (đếm trực tiếp từ kịch bản chốt): 2.969 ký tự — KHỚP 100% với con số 2.969 ghi ở đầu tập (không chênh lệch).** 28 lượt thoại, 10/10 cảnh đều có thoại. Cảnh ăn tiền: Cảnh 7 (trao nhẫn thiên nhiên + cổng hào quang cầu vồng). Bài học Sinh học 12: đa dạng sinh học. File thoại: `kich-ban-thoai-mua3-tap3.txt` (trong gói khóa khung).
+
+**10 cặp đôi (từ bảng bắt cặp trong kịch bản):** Cặp 1 Tí + Cá Nhỏ · Cặp 2 Chim Cánh Cụt con + Cáo Tuyết · Cặp 3 Sơn Dương con + Llama · Cặp 4 Ngựa con + Lạc Đà con · Cặp 5 Khỉ con + Ếch Cây Mắt Đỏ · Cặp 6 Rùa Biển con + Cá Hồi Hoa Anh Đào · Cặp 7 Sâu Xanh + Hoa Tulip · Cặp 8 Giun Đất + Bọ Cánh Cứng Cát · Cặp 9 Thỏ Ngọc + Tia Nắng Vàng · Cặp 10 Robot + Cây Đước. 5 trưởng bối: Bác Rễ + Cây Ô Liu chủ hôn; Ông Mặt Trời, Chị Mây, Chị Lá ban tổ chức.
+
+**Nhân vật + giọng Tập 3 (theo bảng 26 nhân vật chốt 26/11):** có thoại 23 nhân vật + Thầy = 24 giọng mẫu đã tổng hợp (xem khóa khung 2). **Ông Mặt Trời + Chị Mây CHỈ XUẤT HIỆN HÌNH trong Tập 3, không có thoại** (theo ma trận 25 nhân vật trong kịch bản) nên không có mẫu giọng cho 2 nhân vật này trong tập — chỉ có ảnh khóa khung.
+
+**3 khóa khung ĐÃ LÀM XONG (chờ Đạo diễn duyệt từng bước, chưa phải phim):**
+1. **Hình chuẩn "trưởng thành":** 25 ảnh tham chiếu `khoa-khung-hinh/01–25.webp` (mỗi nhân vật 1 ảnh, mô tả khóa nguyên văn trong prompt kịch bản + phụ kiện cưới: Tí nơ xanh da trời, Cá Nhỏ vương miện san hô, Khỉ mũ fedora lá, Ngựa cà vạt sọc, Bác Rễ râu bạc dài hơn, Ông Mặt Trời nơ vàng + kính học giả, Chị Mây vương miện cầu vồng + khăn lụa trắng, Cây Đước nón lá...). Đã soi mắt đủ 25 ảnh: 24 đạt ngay; ảnh Robot làm lại 1 lần (bản đầu thân nâu đồng + 1 mắt camera, lệch thiết kế chuẩn Vòng 3 — bản v2 đã đúng: thân trắng-cam, mắt ống nhòm, cánh pin mặt trời, 6 bánh).
+2. **Giọng mẫu:** 24 file wav `khoa-khung-giong/mau-giong-*.wav` (48kHz mono, đã atempo theo bảng 26) + `pace-mau-giong.txt`. Pace: 22/24 trong khung 11–17 ký tự/s; 2 giọng nền nhanh vẫn vội sau 2 lần chỉnh — Ngựa con (Xuân Vĩnh 0,76) 18,5 ch/s, Rùa Biển con (Thanh Bình 0,70 = sàn) 17,3 ch/s — ghi chú rõ trong pace file (lúc dựng đoạn = max(20s, thoại+1,6s) nên không vỡ nhịp). 5 lần chỉnh atempo khác bảng: Cá Hồi 0,85→0,78; Khỉ 0,90→0,83; Thầy 0,95→0,88; Ngựa 0,90→0,76; Rùa 0,80→0,70. Chậm mà rõ, giữ nguyên atempo bảng: Cáo Tuyết 11,4; Lạc Đà 11,3; Ếch 12,3; Sâu Xanh 13,0; Llama 13,6.
+3. **Animatic:** `Animatic-Mua-3-Tap-3_NANG_2711.docx` (10 cảnh: ảnh tham chiếu + prompt nguyên văn + nhịp diễn biến + người nói/giọng/thoại + nhạc + thời lượng dự kiến ~15 ký tự/s, tối thiểu 20s/cảnh; tổng dự kiến ≈ 234,8s gồm thẻ kết 10s). Prep clip: `Chuan-bi-clip-Mua-3-Tap-3_NANG_2711.docx` (10 cảnh, prompt nguyên văn + người nói + ước lượng ký tự thoại).
+
+**Gói khóa khung đã nộp:** `NANG_M3_TAP3_KHOA_KHUNG_2711.zip` trong thư mục NANG/ trên kho-doi (ảnh khóa khung + giọng mẫu wav + animatic + prep + file thoại) — **đây là gói khóa khung chờ Đạo diễn duyệt từng bước, CHƯA PHẢI PHIM.** Phim hoàn chỉnh CHỜ Tập 1 Mưa ĐẠT + Đạo diễn mở token.
+
+**Câu hỏi mở (1):** Tên file chuẩn Mùa 3 CHƯA CÓ trên bảng — chuẩn 26/11 chỉ ghi Mùa 2 Vòng 1–3 (`<TÊN>_M2V<vòng>_TAP<số>_<TÊN TẬP>_<ddmm>.zip`). Nhờ Đạo diễn chốt tên file Mùa 3 (ZIP/phim/thumbnail) trước khi Nắng nộp phim — Nắng KHÔNG tự đặt tên theo suy đoán. Ngoài ra không còn câu hỏi mở.
