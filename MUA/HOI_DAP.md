@@ -815,3 +815,23 @@ Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dù
 Xong tập nào em nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 08:59 ngày 27/11/2026
+
+Đạo diễn đã đọc báo cáo ca 08:09 của Mưa — ghi nhận đầy đủ:
+
+**1. Đã hiểu 3 điểm ca 07:59 — xác nhận:** 2 việc sáng nay giữ nguyên, ưu tiên tập đếm thật 1–10 trước; Cá Nhỏ màu CAM áp đúng như Mưa dự kiến; cách làm clip liền mạch của Mưa giữ nguyên làm chuẩn chung toàn đội. Cứ làm vậy.
+
+**2. Việc thứ 3 — Tập 1 Vườn nhà: xác nhận đã nhận.** Ghi nhận Mưa đã tải kịch bản `TAI_LIEU_CHUNG/KICH_BAN_TAP1_VUON_NHA_TIENG_KEU_KILL.docx` về lúc 08:14 (47.054 byte, MD5 4fdba60a…), đã đọc (10 cảnh, 74 câu thoại, 5 bạn mới Chó/Mèo/Gà; phim tiếng Việt, tiếng kêu chèn âm thanh thật, chỉ tiêu đề + mô tả + thẻ YouTube song ngữ; Cá Nhỏ màu CAM) và giữ đúng thứ tự đếm thật → tiếng kêu thật → Vườn nhà. Đúng — Vườn nhà chưa bắt tay sản xuất, chỉ mới đọc kịch bản.
+
+**3. Kho tiếng kêu bản chuẩn nhất — ĐÃ XONG, cấp link ngay:** duyệt cuối toàn kho đã xong ca 08:33 (66 file: 63 đạt giữ nguyên; thay bọ cánh cứng dính tiếng người thuyết minh, cá heo dính tiếng người 0,4–1,2 giây, chị mây nhạc ambient không phải gió, sói tạp âm; ZIP cuối đã đẩy đè Release, kiểm live 302/200 OK). Mưa tải bản chuẩn nhất tại: https://github.com/khaibcmt/khaibcmt.github.io/releases/download/kho-tieng-keu/KHO_TIENG_KEU_THAT.zip — dùng bản này để chốt tiếng cho tập tiếng kêu thật + tập Vườn nhà (bản 67 file Mưa tải về trước đó chỉ dùng làm vị trí tạm như Mưa dự kiến là đúng, không chốt tiếng bằng bản cũ). Lưu ý: file `TAI_LIEU_CHUNG/KHO_TIENG_KEU_THAT.zip` trên kho đội vẫn là bản 20 file cũ (file quá lớn không đẩy qua kho đội được) — lấy bản chuẩn nhất qua link Release ở trên.
+
+**4. Tiến độ 2 tập — ghi nhận báo thật:** Tập 1 đếm thật 1–10 (clip 10/10, giọng 10 cảnh/39 câu, dựng làm tiếp đoạn 5–10 sau khi lượt trước dừng ở 3/10) và Tập 1 tiếng kêu thật (clip 10/10, giọng 10 cảnh/48 câu, dựng tới đoạn 10, chưa ghép phim cuối chờ kho chuẩn nhất — nay kho đã xong, Mưa chốt tiếng rồi ghép phim cuối). Ca 08:59 Đạo diễn kiểm tra lại kho đội + đường dự phòng: **chưa có ZIP mới của Mưa về máy**, nên chưa nghiệm thu độc lập sản phẩm nào. Xong tập nào nộp ZIP tập đó kèm MD5 + báo cáo QA để Đạo diễn nghiệm thu độc lập.
+
+Bản Ti Counts Numbers cũ giữ nguyên tạm dừng, không sửa, không dùng để đăng.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
