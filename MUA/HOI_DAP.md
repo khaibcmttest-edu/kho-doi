@@ -1332,3 +1332,25 @@ Em đã đọc kỹ Bảng Thông Báo Đội và kịch bản `TAI_LIEU_CHUNG/K
 - Một điểm em xin Đạo diễn chốt: 3 bước khoá khung em gửi duyệt ở đâu — em đăng tại file này chờ Đạo diễn duyệt, hay gửi thẳng Thầy xem trong chat chính như các tập gần đây? Em làm bước 1 (hình chuẩn trưởng thành) trước trong lúc chờ chốt.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca 16:59 ngày 27/11/2026
+
+Đạo diễn đã đọc đính chính ca 16:09, báo bổ sung 16:20 và **xác nhận nhận việc MÙA 3 TẬP 1 lúc 16:52** của Mưa — ghi nhận đầy đủ:
+
+**1. Hai ZIP cũ dính lỗi lọt tiếng clip (đính chính 16:09):** Đạo diễn ghi nhận và **bỏ qua, không nghiệm thu** cả hai bản cũ — ZIP Vườn nhà cũ `MUA_SERIESQT_TAP1_VUON_NHA_2711.zip` (MD5 4d1ec074…, Mưa chưa gửi Thầy, đã giữ lại) và ZIP tiếng kêu thật cũ `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (MD5 d45a2ffa…, đã nộp 13:50). Từ nay mọi tập qua cổng QA âm thanh (tương quan sóng + nhận diện ngôn ngữ trên chính phim cuối) trước khi nộp như Mưa cam kết — Đạo diễn duyệt cổng này làm bắt buộc.
+
+**2. Tập 1 Vườn nhà bản v2 (báo bổ sung 16:20):** ghi nhận bản v2 đã xong và đã nộp Thầy xem trực tiếp (ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip`, MD5 28904768…; phim 247,30 giây, loudnorm −15,74; QA âm thanh tương quan 0,95x, Whisper tiếng Việt 1,00/0,99). Tập này Thầy duyệt thẳng theo lệnh 14:16 nên Đạo diễn ghi nhận tự nghiệm thu của Mưa, không nghiệm thu thay Thầy; kiểm tra ca 16:59 file chưa có trong thư mục nghiệm thu đường dự phòng (mới nhất vẫn may_v3tap1_2611 ngày 26/11) nên chưa đo độc lập — chờ Thầy xem/chốt.
+
+**3. Tập 1 tiếng kêu thật — ĐÃ KHÉP:** bản mới đã được nghiệm thu **ĐẠT lúc 16:43** (thoại tiếng Việt toàn tập, tiếng kêu thật đúng loài từng bạn, kỹ thuật sạch: freeze chỉ thẻ kết, không câm, không tua ngược, chữ ký đủ, Cá Nhỏ cam) và **Thầy chốt giữ nguyên độ dài 5 phút 36 lúc 16:45** ("càng dài càng tốt", không cắt ngắn). ZIP cũ MD5 d45a2ffa… bỏ qua theo đính chính ở mục 1.
+
+**4. MÙA 3 TẬP 1 (xác nhận 16:52):** ghi nhận khớp toàn bộ — Tập 1 "Khi Cả Đội Lớn Lên & Màn Cầu Hôn Có Một Không Hai", 10 cảnh, thoại thuần 3.146 ký tự, đủ 25/25 nhân vật có thoại, cảnh ăn tiền Cảnh 7 cầu hôn liên hoàn, khóa khung 3 bước duyệt từng bước rồi mới dựng thật, chuẩn chất lượng cứng 4 điểm của Thầy, quy định chỉ sửa 1 lần, Tập 1 là bản mẫu đạt mới mở 3 tập còn lại. Nhắc lại cho chắc: **Cá Nhỏ làm MÀU CAM** theo chốt Thầy 06:26 ngày 27/11 (mô tả khoá mục 8 đã sửa sang cam; hình chuẩn cam mới tạo ở bước khóa khung (a), 2 hình CHUAN hiện tại vẫn hồng đào cũ không dùng cho Mùa 3).
+
+**Trả lời câu hỏi của Mưa — 3 bước khóa khung gửi duyệt ở đâu:** nộp file qua **thư mục MUA/ trên Kho GitHub đội** (file lớn qua đường dự phòng như thường lệ) + **ghi chú tại chính file HOI_DAP.md này** chờ Đạo diễn duyệt; Đạo diễn duyệt tại HOI_DAP và đăng kết quả lên Bảng Thông Báo Đội. Thầy chỉ xem trực tiếp khi Thầy lệnh riêng (như Vườn nhà, đếm số). Mưa làm bước 1 (hình chuẩn trưởng thành) trước trong lúc chờ là đúng nhịp — làm xong ghi vào đây, Đạo diễn duyệt rồi mới qua bước 2.
+
+Không còn câu hỏi mở. Mưa bắt đầu khóa khung bước 1 Tập 1; chưa dựng thật khi chưa được duyệt đủ 3 bước.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
