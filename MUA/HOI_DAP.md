@@ -1316,3 +1316,19 @@ Nguyên văn thầy: "Phải mượt từ đầu đến cuối ko bị cà giậ
 4. **Nhép miệng là phải có tiếng** — nhân vật cử động miệng/nói thì bắt buộc có tiếng thoại khớp; cấm nhép miệng câm.
 
 — Đạo diễn
+
+## Mưa xác nhận — 16:52 ngày 27/11/2026 (NHẬN VIỆC MÙA 3 "CƯỚI NHAU" — TẬP 1)
+
+Em đã đọc kỹ Bảng Thông Báo Đội và kịch bản `TAI_LIEU_CHUNG/KICH_BAN_MUA3_CUOI_NHAU_KILL.docx` (Kill, đã nghiệm thu ĐẠT). Em xác nhận hiểu và nhận **Tập 1 Mùa 3 — "Khi Cả Đội Lớn Lên & Màn Cầu Hôn Có Một Không Hai"**:
+
+- Nội dung tập: 10 cảnh, thoại thuần 3.146 ký tự (đúng chuẩn 2.400–3.200), đủ **25/25 nhân vật có thoại** — 10 cặp hợp gu (Tí–Cá Nhỏ, Cánh Cụt–Cáo Tuyết, Sơn Dương–Llama, Ngựa–Lạc Đà, Khỉ–Ếch Cây, Rùa Biển–Cá Hồi, Sâu Xanh–Hoa Tulip, Giun Đất–Bọ Cánh Cứng, Thỏ Ngọc–Tia Nắng Vàng, Robot–Cây Đước) + 5 trưởng bối (Bác Rễ, Cây Ô Liu, Ông Mặt Trời, Chị Mây, Chị Lá). Cảnh ăn tiền: **Cảnh 7** — cầu hôn liên hoàn 10 cặp dưới hoàng hôn. Kiến thức lồng nhẹ: Sinh học 11 — tập tính tỏ tình, ghép đôi theo sự phù hợp sinh thái.
+- **KHOÁ KHUNG TRƯỚC KHI DỰNG — em làm đúng 3 bước, duyệt từng bước rồi mới dựng thật:**
+  1. Hình chuẩn "trưởng thành" cho nhân vật của Tập 1: giữ nguyên tạo hình gốc, chỉ thêm phụ kiện đúng mô tả khoá trong prompt kịch bản (Tí thêm nơ xanh da trời, Cá Nhỏ thêm vương miện san hô, Bác Rễ râu dài điểm bạc, Ông Mặt Trời thêm kính + nơ vàng, Chị Mây vương miện cầu vồng + khăn lụa, Chị Lá kẹp hoa bưởi, Khỉ con mũ fedora lá, Ngựa con cà vạt sọc, Sâu Xanh nơ vàng, Cánh Cụt khăn len dài xanh biển, Sơn Dương khăn đỏ rộng, Giun Đất nơ hồng...).
+  2. Giọng mẫu theo đúng bảng giọng chốt 26/11/2026 như kịch bản ghi từng cảnh (Tí Thái Sơn 0,90 · Bác Rễ Adam 0,794 · Cây Ô Liu Phạm Tuyên 0,80 · câu Thầy cuối tập Thái Sơn 0,95...).
+  3. Animatic/kịch bản phân cảnh Tập 1 (10 cảnh: hình, hành động, ai nói câu nào, thời lượng dự kiến từng đoạn).
+- **Chuẩn chất lượng cứng em cam kết:** mượt từ đầu đến cuối, không cà giật; không tua ngược, không lặp khung, không đứng hình ở cảnh chính; cảnh nhân vật nhép miệng bắt buộc có tiếng thoại khớp. Em ráp theo cách an toàn đã chuẩn hoá sau sự cố 27/11 (clip tắt tiếng hẳn, trộn tiếng bằng mixer riêng, cổng QA âm thanh bắt buộc: tương quan sóng phim ↔ file giọng + nhận diện giọng nói trên phim cuối) nên không lặp lại lỗi lọt tiếng clip.
+- Em rõ quy định **mỗi tập chỉ được sửa 1 lần** — làm đúng ngay từ đầu; Tập 1 là bản mẫu, đạt mới mở 3 tập còn lại theo token.
+- Nộp bài: **1 file ZIP duy nhất** gồm phim hoàn chỉnh + thumbnail, theo đường nộp như các tập trước (ZIP lớn thì đính kèm chat chính với Thầy + ghi chú tại đây).
+- Một điểm em xin Đạo diễn chốt: 3 bước khoá khung em gửi duyệt ở đâu — em đăng tại file này chờ Đạo diễn duyệt, hay gửi thẳng Thầy xem trong chat chính như các tập gần đây? Em làm bước 1 (hình chuẩn trưởng thành) trước trong lúc chờ chốt.
+
+— Mưa
