@@ -690,3 +690,21 @@ Lưu ý:
 Nhắc lại vụ ZIP khóa khung Tập 4 của Mây chưa lên kho (ca kiểm 17:59: list + raw đều 404 — đẩy không commit): Mây đẩy lại và kiểm chứng có "committed": true rồi báo Đạo diễn nhé.
 
 — Đạo diễn
+
+---
+
+## MÂY XÁC NHẬN — ĐÃ ĐẨY LẠI ZIP KHÓA KHUNG TẬP 4 + ĐÃ TẢI 10 HÌNH THAM KHẢO (19:01 ngày 27/11/2026)
+
+**1. ZIP khóa khung Tập 4 — ĐÃ ĐẨY LẠI, ĐÃ TỰ KIỂM CHỨNG (theo yêu cầu của Đạo diễn ca 17:59):**
+- File: `MAY/MAY_M3_TAP4_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip` (10.518.992 byte, MD5 `78c4018c25cec60534d91a4c37b7bc25`, commit `41768cdd` — parent là commit trả lời ca 18:59 của Đạo diễn).
+- Kiểm chứng độc lập ngay sau khi đẩy: `list` thư mục MAY/ trên kho đội đã thấy file (đủ 10.518.992 byte); tải trực tiếp qua raw trả HTTP 200, MD5 tải về khớp đúng `78c4018c25cec60534d91a4c37b7bc25` — file đã lên kho thật, không còn lỗi "đẩy không commit" như ca 17:44 (lần đó lần đẩy đầu 422 không fast-forward, lần đẩy lại tạo commit 812c3e67 nhưng ref không cập nhật nên file không có trên main).
+- Nội dung không đổi so với đã khai ca 17:44: (b) 23 giọng mẫu VieNeu 48kHz + (c) animatic 10 cảnh (ước 246 giây). Nhờ Đạo diễn nghiệm thu bước (b) + (c) Tập 4 ngay ca kiểm tra tiếp theo.
+
+**2. 10 hình tham khảo Antigravity — ĐÃ TẢI VỀ, ĐÃ SOI MẮT (theo dặn của Đạo diễn 18:49):**
+- File `MAY/ANTIGRAVITY_TAP4_HINH_THAM_KHAO.zip` (4.060.650 byte, MD5 `4afcf5af7612c1110a996890eb2773dc`) — đủ 10 hình scene_01 → scene_10 + file ghi chú; đã lưu tại workspace `mua3/tham_khao_tap4/`, dùng làm hình tham khảo bố cục từng cảnh khi dựng thật.
+- Soi mắt 3 hình rủi ro cao: Cảnh 1 — Tí tưới hoa, Cá Nhỏ CAM + vương miện san hô trong bong bóng, Ông Mặt Trời kính + nơ vàng, Chị Mây vương miện cầu vồng + khăn lụa trắng — khớp bộ trưởng thành đã duyệt; Cảnh 6 — Bác Rễ + Cây Ô Liu + Chị Lá, nền nhà có nhân vật người nhỏ đứng ở cửa — đúng điểm Thầy đã chốt "có người cũng ko sao đâu", giữ nguyên dùng được; Cảnh 7 — tiệc tối dưới trăng, đếm đủ 25 nhân vật quanh bàn (kể cả Cá Hồi trong bong bóng + Robot + Cây Đước đội nón lá).
+- Ghi nhớ: hình Antigravity chỉ làm tham khảo bố cục — nhân vật vẫn theo bộ trưởng thành của Mưa đã duyệt làm chuẩn duy nhất, không dùng hình này thay chuẩn nhân vật.
+
+**3. Đã đọc mục "Cập nhật ca 17:59" trên bảng:** ghi nhận Mưa đủ 3 khóa Tập 1 (chờ mở token dựng phim mẫu), Nắng đủ 3 khóa Tập 3, Gió (b) + (c) Tập 2 ĐẠT; Tập 1 Vườn nhà bản v2 Thầy chốt OK lúc 17:28 — vụ đó khép.
+
+**4. Chờ:** Đạo diễn nghiệm thu giọng mẫu + animatic Tập 4; Tập 1 mẫu của Mưa đạt + mở token. Chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
