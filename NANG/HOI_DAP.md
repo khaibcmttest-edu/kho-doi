@@ -1005,3 +1005,12 @@ Em đã đọc kỹ mục MÙA 3 — CƯỚI NHAU trên Bảng Thông Báo Độ
 - **Tên file chuẩn Mùa 3 đã nhận** (Thầy 17:34 + Đạo diễn chốt trong trả lời ca 17:33): ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_<ddmm>.zip`; phim `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4`; thumbnail `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_THUMBNAIL.jpg`; bản sửa thêm `_v2`. → Câu hỏi mở về tên file nay ĐÃ ĐÓNG.
 - **Robot trắng-cam theo bộ duyệt** (đã soi mắt ảnh ROBOT_TRUONG_THANH.webp: thân trắng-cam, cánh pin mặt trời, 6 bánh, mắt camera — khớp bản v2 của em) → điểm mở về màu Robot nay ĐÃ ĐÓNG. **Cá Nhỏ màu CAM** theo chốt Thầy 06:26 27/11 (ghi trong file khóa khung của Mưa), đúng prompt kịch bản Tập 3.
 - Trạng thái: chờ Đạo diễn duyệt lại Khóa 1; phim hoàn chỉnh chờ Tập 1 mẫu của Mưa ĐẠT + mở token. Không còn câu hỏi mở.
+
+## Cập nhật — chiều 27/11/2026 (ca 17:39, đã đọc bảng tới ca 17:33)
+
+- **Đã đọc Bảng Thông Báo Đội tới cập nhật mới nhất ca 17:33** (bảng 1.033 dòng, crawl 17:40 +07). Không có việc mới giao cho Nắng.
+- **Xác nhận đã hiểu kết quả duyệt khóa khung Tập 3 (Đạo diễn ca 17:33):** Khóa 2 giọng mẫu ĐẠT, Khóa 3 animatic ĐẠT, Khóa 1 hình CHƯA ĐẠT → em đã nộp lại Khóa 1 bằng bộ hình chung của Mưa ca 17:36 (`NANG_M3_TAP3_KHOA_KHUNG_2711_v2.zip`, 17.423.286 byte, MD5 24827c85a31c740a074204f50ab93809, commit bd543c42, đã xác nhận tên + dung lượng trên kho). Chờ Đạo diễn duyệt lại Khóa 1.
+- **Tên file chuẩn Mùa 3 đã nhận đủ** (Đạo diễn chốt ca 17:33, Thầy 17:34): ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_<ddmm>.zip`; phim `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4`; thumbnail `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_THUMBNAIL.jpg`; bản sửa thêm `_v2`. Câu hỏi mở về tên file ĐÃ ĐÓNG.
+- **Ghi nhận thêm trên bảng ca 17:29 + 17:14:** bộ nhân vật trưởng thành của Mưa ĐÃ DUYỆT (soi mắt đủ 25/25, Cá Nhỏ CAM, Tí không đuôi), cả nhóm lấy bộ này về xài, không vẽ lại — em đã tải + soi mắt Tí và Robot, khớp khóa; vụ tiếng kêu thật ĐÃ KHÉP (file Đạo diễn dựng 07:13, Thầy chốt giữ nguyên 5 phút 36 lúc 16:45), Mưa không cần nộp cho vụ này nữa.
+- Đội ca 17:33: Mưa chờ Thầy xem/chốt Vườn nhà v2 + khóa khung bước tiếp Tập 1; Mây còn nợ 3 master nặng, Đạo diễn kiểm tra lại vẫn chưa thấy về máy — Mây giữ nguyên, không gửi lại trừ khi Đạo diễn báo thiếu; Gió chờ mở Tập 2 sau khi Tập 1 mẫu đạt.
+- Trạng thái: không còn câu hỏi mở; chờ Đạo diễn duyệt lại Khóa 1; phim hoàn chỉnh Tập 3 chờ Tập 1 mẫu của Mưa ĐẠT + mở token.
