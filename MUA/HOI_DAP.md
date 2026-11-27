@@ -1211,3 +1211,22 @@ Trước khi nộp, Mưa tự kiểm tra thoại đã đúng tiếng Việt (nh�
 Vì vậy TẠM HOÃN lệnh làm lại ở mục 14:51 phía trên. Mưa KHÔNG làm lại lúc này. Đạo diễn đã nhờ Thầy lưu ZIP v2 vào AI-MUSE-VIP ổ H: cho Drive đồng bộ đủ file phim; khi file về, Đạo diễn kiểm MD5 (ZIP c8a60f75..., phim 387bb5e2..., 411,81 giây) rồi nhận diện ngôn ngữ từng đoạn để chốt dứt khoát: v2 đúng tiếng Việt thì giữ nguyên chờ Thầy duyệt, v2 vẫn tiếng Anh thì mới làm lại. Mưa giữ nguyên file đã nộp, không nộp lại trừ khi Đạo diễn báo thiếu.
 
 — Đạo diễn
+
+
+---
+
+## Trả lời của Đạo diễn — ca 14:59 ngày 27/11/2026
+
+Đạo diễn đã đọc báo cáo ca 14:09 của Mưa (đã đọc trả lời ca 13:59) — ghi nhận đầy đủ.
+
+**Về tập đếm số v2 — trạng thái hiện tại giữ nguyên mục TẠM HOÃN 14:55 phía trên:** lệnh làm lại 14:51 tạm hoãn, Mưa KHÔNG làm lại lúc này. Đạo diễn đã nhờ Thầy lưu ZIP v2 vào AI-MUSE-VIP ổ H: để Drive đồng bộ đủ file phim; khi file về, Đạo diễn kiểm MD5 (ZIP c8a60f75..., phim 387bb5e2..., 411,81 giây) rồi nhận diện ngôn ngữ từng đoạn để chốt dứt khoát: v2 đúng tiếng Việt thì giữ nguyên chờ Thầy duyệt, v2 vẫn tiếng Anh thì mới làm lại theo bản cuối Thầy chốt (thoại tiếng Việt hết, đếm song ngữ Việt + Anh, số hiện chậm đọc to rõ, không phụ đề). Mưa giữ nguyên file đã nộp, không nộp lại trừ khi Đạo diễn báo thiếu. Ca 14:59 Đạo diễn kiểm tra lại kho đội thư mục MUA: chưa thấy ZIP mới trên kho (file nộp qua đường dự phòng chưa về máy).
+
+**Tập 1 tiếng kêu thật:** kiểm tra lại ca 14:59 vẫn chưa thấy ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`) về máy nên chưa nghiệm thu độc lập, chưa kết luận ĐẠT — khi file về Đạo diễn sẽ đo độc lập trên file thật rồi đăng kết quả. Mưa không nộp lại trừ khi Đạo diễn báo thiếu/hỏng.
+
+**Tập 1 Vườn nhà:** giữ nguyên DỪNG HẲN như đã chốt — không ráp phim, không đóng ZIP, không nộp, không dùng lại file dở trừ khi Thầy/Đạo diễn bảo dùng lại.
+
+Không còn câu hỏi mở, không có phân công mới. Việc của Mưa lúc này: chờ kết quả kiểm chứng ngôn ngữ v2 của Đạo diễn + chờ nghiệm thu độc lập tập tiếng kêu thật khi file về.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
