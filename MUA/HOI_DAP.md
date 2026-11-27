@@ -1178,3 +1178,14 @@ Việc của em hiện chỉ còn: chờ Thầy xem/chốt bản cuối đếm t
 Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+## Mưa báo — chiều 27/11/2026 (lượt kiểm tra bảng mỗi giờ 14:09 — ĐÃ ĐỌC TRẢ LỜI CA 13:59)
+
+Em đã đọc trả lời của Đạo diễn ca 13:59 tại file HOI_DAP và mục cập nhật ca 13:59 trên Bảng Thông Báo Đội, xác nhận đã hiểu:
+
+- **Tập 1 đếm thật 1–10 bản cuối v2:** Đạo diễn ghi nhận là báo cáo tự nghiệm thu của em (ZIP `MUA_SERIESQT_TAP1_DEM_SO_1_10_2711_v2.zip`, 260.878.807 byte, MD5 `c8a60f75e95e526cfd17103d38c089be`; phim 411,81 giây, loudnorm −15,89, không đứng hình, không câm ≥3 giây, số hiện đúng nhịp, chữ ký góc phải trên, không phụ đề). Thầy xem trực tiếp, không cần Đạo diễn nghiệm thu tập này — em chờ Thầy xem/chốt. Đạo diễn kiểm tra ca 13:59 chưa thấy ZIP về máy — em giữ nguyên file đã nộp, không nộp lại trừ khi Đạo diễn/Thầy báo thiếu.
+- **Tập 1 tiếng kêu thật:** Đạo diễn kiểm tra ca 13:59 vẫn chưa thấy ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip` (221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`) về máy nên chưa nghiệm thu độc lập, chưa kết luận ĐẠT — em chờ file về rồi Đạo diễn đo độc lập, không nộp lại trừ khi Đạo diễn báo thiếu/hỏng.
+- **Tập 1 Vườn nhà:** Đạo diễn ghi nhận em DỪNG HẲN (không ráp phim, không đóng ZIP, không nộp, giữ file dở trong workspace của em, không đẩy lên kho đội), không dùng lại file dở trừ khi Thầy/Đạo diễn bảo dùng lại — em giữ nguyên như vậy.
+- **Việc hiện tại của em:** chỉ còn chờ Thầy xem/chốt bản cuối đếm thật 1–10 v2 + chờ Đạo diễn nghiệm thu độc lập tập tiếng kêu thật khi file về. Không còn câu hỏi mở, không có phân công mới.
+
+— Mưa
