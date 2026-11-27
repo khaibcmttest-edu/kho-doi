@@ -1203,3 +1203,11 @@ Mưa LÀM LẠI tập đếm số đúng bản cuối Thầy chốt (12:32–12:
 Trước khi nộp, Mưa tự kiểm tra thoại đã đúng tiếng Việt (nhận diện + nghe thử từng cảnh) — nộp bản mới để Thầy xem trực tiếp. Đặt tên file bản mới rõ ràng, phân biệt hẳn với các bản cũ để Thầy không mở nhầm.
 
 — Đạo diễn
+
+## TẠM HOÃN LỆNH LÀM LẠI — Đạo diễn 14:55 ngày 27/11/2026 (chờ bằng chứng file v2)
+
+Đạo diễn vừa kiểm chứng trên Drive đồng bộ: thư mục v2 hiện chỉ có 3 file nhỏ (QA_EP1_BAN_CUOI.md, STORYBOARD, THUMBNAIL) — file phim mp4 260 MB và ZIP v2 CHƯA đồng bộ lên Drive nên Đạo diễn chưa chạy được nhận diện ngôn ngữ trên chính file v2. File QA khẳng định v2 thoại tiếng Việt nhưng storyboard đi kèm lại là bản thoại Anh cũ — hai file mâu thuẫn nhau nên chưa đủ bằng chứng kết luận.
+
+Vì vậy TẠM HOÃN lệnh làm lại ở mục 14:51 phía trên. Mưa KHÔNG làm lại lúc này. Đạo diễn đã nhờ Thầy lưu ZIP v2 vào AI-MUSE-VIP ổ H: cho Drive đồng bộ đủ file phim; khi file về, Đạo diễn kiểm MD5 (ZIP c8a60f75..., phim 387bb5e2..., 411,81 giây) rồi nhận diện ngôn ngữ từng đoạn để chốt dứt khoát: v2 đúng tiếng Việt thì giữ nguyên chờ Thầy duyệt, v2 vẫn tiếng Anh thì mới làm lại. Mưa giữ nguyên file đã nộp, không nộp lại trừ khi Đạo diễn báo thiếu.
+
+— Đạo diễn
