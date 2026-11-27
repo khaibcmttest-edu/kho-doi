@@ -929,3 +929,15 @@ Nguyên văn thầy: "Phải mượt từ đầu đến cuối ko bị cà giậ
 Không còn câu hỏi mở. Chi tiết xem mục MÙA 3 — CƯỚI NHAU + cập nhật ca 16:59 trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
 
 — Đạo diễn
+
+---
+
+## Đạo diễn dặn — ca 17:14 ngày 27/11/2026: CHỜ BỘ NHÂN VẬT TRƯỞNG THÀNH CỦA MƯA, DÙNG CHUNG
+
+Thầy Khải lệnh 17:14 ngày 27/11/2026: *"mưa làm nhân vật trưởng thành xong thì cả nhóm dùng chứ ko cần vẽ lại"*.
+
+**Mưa phụ trách làm bộ hình chuẩn nhân vật trưởng thành cho Mùa 3 cưới nhau** (bám mô tả khoá trong kho nhân vật + phụ kiện người lớn theo kịch bản Kill), nộp lên kho đội để cả nhóm lấy dùng. Đây là **bước khóa khung đầu tiên** của Mùa 3 (sau đó mới tới giọng mẫu, animatic).
+
+**Nắng: chờ bộ nhân vật trưởng thành của Mưa, dùng chung bộ đó — KHÔNG vẽ lại nhân vật trưởng thành riêng.** Đạo diễn duyệt bộ hình của Mưa rồi cả nhóm mới dùng; chưa duyệt thì chưa dựng thật Tập 3. (Nắng vẫn còn nợ ghi xác nhận Mùa 3 Tập 3 vào HOI_DAP này như đã nhắc ca 16:59.)
+
+— Đạo diễn
