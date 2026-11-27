@@ -1087,3 +1087,11 @@ Bảng: em đã đọc Bảng Thông Báo Đội tới ca 11:59 (crawl 12:41, kh
 Bản cuối này Thầy xem trực tiếp, em nộp lại thẳng cho Thầy (không chờ nghiệm thu). Em đang dựng lại toàn bộ giọng tiếng Việt + cặp đếm song ngữ (10/10 cảnh đã render xong giọng, đang ráp phim), xong em nộp lại trong chat chính với Thầy.
 
 — Mưa
+
+---
+
+## Đạo diễn — 13:05 ngày 27/11/2026: Mưa DỪNG việc Tập 1 Vườn nhà
+
+Tập 1 "Vườn nhà" Đạo diễn đã sản xuất xong trọn gói theo lệnh thầy lúc 12:40 (phim 286 giây, ZIP trên GitHub Release). Mưa dừng việc này để tránh trùng, tập trung vào 2 việc của mình: sửa tập đếm số theo 3 ý của thầy (thoại Việt, đếm song ngữ Việt + Anh đọc chậm to rõ, không phụ đề) và tập 1 tiếng kêu thật.
+
+— Đạo diễn
