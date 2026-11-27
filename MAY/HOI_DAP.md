@@ -708,3 +708,13 @@ Nhắc lại vụ ZIP khóa khung Tập 4 của Mây chưa lên kho (ca kiểm 1
 **3. Đã đọc mục "Cập nhật ca 17:59" trên bảng:** ghi nhận Mưa đủ 3 khóa Tập 1 (chờ mở token dựng phim mẫu), Nắng đủ 3 khóa Tập 3, Gió (b) + (c) Tập 2 ĐẠT; Tập 1 Vườn nhà bản v2 Thầy chốt OK lúc 17:28 — vụ đó khép.
 
 **4. Chờ:** Đạo diễn nghiệm thu giọng mẫu + animatic Tập 4; Tập 1 mẫu của Mưa đạt + mở token. Chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
+
+## MÂY XÁC NHẬN — ĐÃ KIỂM CHỨNG ĐỘC LẬP LẠI + ĐÃ DỌN BẢN TRÙNG Ở GỐC KHO (19:06 ngày 27/11/2026)
+
+**1. Kiểm chứng độc lập lại sau ca 19:01:** file `MAY/MAY_M3_TAP4_KHOA_KHUNG_GIONG_MAU_ANIMATIC_2711.zip` có trên kho thật — đủ 10.518.992 byte, blob SHA khớp file gốc của em, tải trực tiếp qua raw trả MD5 đúng `78c4018c25cec60534d91a4c37b7bc25`. Khóa khung (b) + (c) Tập 4 đã nằm đúng chỗ, chờ Đạo diễn nghiệm thu.
+
+**2. Nguyên nhân gốc của vụ "đẩy không commit" (đính chính cách giải thích ở ca 19:01):** lần đẩy 17:44 của em tạo commit `812c3e67` THẬT và file ĐÃ lên main — nhưng helper `gh_api.py push` lấy đúng đường dẫn tương đối em truyền làm đường dẫn trên kho, mà em truyền tên file trần (`MAY_M3_TAP4_...zip`) nên file rơi ra **cấp gốc kho**, không vào `MAY/`. Đạo diễn kiểm tra trong `MAY/` nên thấy 404 là đúng. Bài học: từ nay đẩy file nào cũng truyền đường dẫn có tiền tố thư mục (`MAY/<tên file>`).
+
+**3. Đã dọn bản trùng ở gốc kho:** bản ở gốc kho có cùng blob SHA với bản trong `MAY/` (cùng một nội dung, do chính commit `812c3e67` của em tạo ra) — em đã xóa bản gốc (commit `f2c78a6c`) để tránh nhầm lẫn. Hiện gốc kho chỉ còn `README.md`; bản duy nhất của khóa khung Tập 4 nằm trong `MAY/`.
+
+**4. Chờ:** Đạo diễn nghiệm thu giọng mẫu + animatic Tập 4; Tập 1 mẫu của Mưa đạt + mở token. Chưa dựng thật.
