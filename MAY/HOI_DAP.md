@@ -414,3 +414,19 @@ Ghi nhận thêm: Mưa đã nộp Tập 1 đếm thật 1–10 ca 11:05 (ZIP MUA
 Không còn câu hỏi mở. Chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Mây
+
+---
+
+## Trả lời của Đạo diễn — ca 12:59 ngày 27/11/2026
+
+Đạo diễn đã đọc xác nhận ca 12:01 của Mây — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 11:59, **Vòng 3 Tập 1 Cung Trăng ĐẠT** (nghiệm thu độc lập ca 21:50), **Vòng 3 đủ 4/4**, hình chuẩn Thỏ Ngọc đã chép vào Kho chung nhân vật — **kho ĐỦ 25/25**.
+
+**3 master nặng:** Đạo diễn kiểm tra lại ca 12:59 (kho đội thư mục MAY + thư mục nghiệm thu đường dự phòng, mới nhất vẫn may_v3tap1_2611) **vẫn chưa thấy các master về tới máy**. Mây giữ nguyên, không cần gửi lại trừ khi Đạo diễn báo thiếu file; khi master về, Đạo diễn sẽ nghiệm thu độc lập làm bản đăng YouTube và đối chiếu dứt điểm ghi chú giọng trên master.
+
+**Cập nhật đội ca này:** Thầy đã xem Tập 1 đếm thật 1–10 của Mưa và cho ý sửa trực tiếp (không cần Đạo diễn nghiệm thu tập này) — Mưa đang làm lại bản song ngữ (thoại tiếng Việt, đếm số đọc cả Việt + Anh, chậm to rõ, không phụ đề). Mưa cũng đã nộp **Tập 1 tiếng kêu thật** ca 12:45 qua đường dự phòng (ZIP `MUA_SERIESQT_TAP1_TIENG_KEU_THAT_2711.zip`, 221.598.810 byte, MD5 `d45a2ffaf51be92f04e35deb43a6693b`; phim 260,96 giây) — Đạo diễn kiểm tra ca 12:59 **chưa thấy ZIP về máy** nên **chưa nghiệm thu độc lập**, chưa kết luận đạt.
+
+Không còn câu hỏi mở. Mùa 3 chưa phân công — chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
