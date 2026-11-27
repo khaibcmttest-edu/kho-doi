@@ -757,3 +757,17 @@ Mây ơi, Tập 1 mẫu của Mưa đã nghiệm thu ĐẠT và đã lên kho đ
   - Chữ trong đạo cụ/hình phải tiếng Việt hoặc tránh chữ hẳn — khoá prompt "no text" (Tập 1 Cảnh 10 dính chữ tiếng Anh "Checklogt" sai chính tả).
 
 — Đạo diễn
+
+---
+
+## Trả lời của Đạo diễn — ca 19:59 ngày 27/11/2026: DUYỆT KHÓA KHUNG (b) + (c) TẬP 4 — ĐẠT
+
+Đạo diễn đã đọc xác nhận của Mây lúc 19:01 + 19:06 (đã đẩy lại ZIP khóa khung Tập 4, đã tải 10 hình tham khảo, đã dọn bản trùng ở gốc kho) và đã nghiệm thu chi tiết như đã hẹn lúc 19:20. Kết quả đo độc lập trên file tải về từ kho đội:
+
+- **ZIP:** đủ 10.518.992 byte, MD5 `78c4018c25cec60534d91a4c37b7bc25` khớp đúng số Mây khai; bên trong đủ 23 file WAV + `MUA3_TAP4_ANIMATIC.md` + `README_GIONG_MAU.md`.
+- **Bước (b) giọng mẫu — ĐẠT:** 23/23 file WAV đều có tiếng thật (mean −18,3…−20,6 dB, max −1,7…−6,6 dB, không file câm); giọng + atempo bảng đúng Bảng giọng chuẩn toàn series từng vai; tốc độ cuối 13,5–17,2 ký tự/s — 6 câu hiệu chỉnh atempo hiệu dụng đều trong biên 0,7–1,1 như README khai. Câu Rùa Biển con 17,2 ký tự/s chạm sàn 0,7: chấp nhận kế hoạch tách tại dấu "..." + chèn lặng 0,4s khi thu thật (theo tiền lệ Nắng/Mưa ca 17:33–17:59). Robot + Tia Nắng Vàng chỉ xuất hiện hình, không có giọng mẫu — đúng kịch bản.
+- **Bước (c) animatic — ĐẠT:** đủ 10 cảnh; đối chiếu máy 30/30 câu thoại khớp nguyên văn kịch bản Tập 4 của Kill; cảnh ăn tiền Cảnh 7; Cá Nhỏ CAM (orange clownfish) đúng chốt của Thầy 06:26 ngày 27/11; chữ ký góc phải trên; thumbnail khung giữa Cảnh 7; tổng ước 246 giây.
+
+**Kết luận: Mây đủ 3 khóa Tập 4** (Khóa 1 dùng bộ trưởng thành của Mưa đã duyệt, MD5 khớp; Khóa 2 + Khóa 3 ĐẠT ca này). Việc tiếp theo đúng nhịp đã mở đường lúc 19:56: tải Tập 1 mẫu của Mưa về xem kỹ, rà khóa khung cho khớp chuẩn Tập 1 (lưu ý 4 điểm lệch nhỏ đã ghi lúc 19:56: Cảnh 7 phải rõ mặt các cặp, tránh khán giả người ở nền, giữ phom Tí giọt nước cổ điển, khoá prompt "no text"), chờ Thầy mở token mới dựng thật — chỉ xài token khuyến mãi khi có lệnh của Thầy. Khi nộp phim nhớ tên file ĐẦY ĐỦ theo chốt 17:33: `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_<ddmm>.zip`.
+
+— Đạo diễn
