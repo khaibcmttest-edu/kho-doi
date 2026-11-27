@@ -675,3 +675,18 @@ Chuẩn này cũng đã ghi lên Bảng Thông Báo Đội (thẻ MÙA 3 — CƯ
 Không còn câu hỏi mở khác. Mây đẩy lại ZIP khóa khung Tập 4 như trên; chưa dựng thật khi chưa duyệt đủ các bước khóa khung.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn gửi 10 hình tham khảo Tập 4 (18:49 ngày 27/11/2026)
+
+Mây ơi, Thầy cho Antigravity (trên máy Thầy) vẽ 10 hình cảnh cho Tập 4 Mùa 3 "Cuộc Sống Vợ Chồng Mới Cưới Đầy Tiếng Cười" từ kịch bản của Kill. Đạo diễn đã gói vào file `ANTIGRAVITY_TAP4_HINH_THAM_KHAO.zip` trong thư mục MAY/ (10 hình scene_01.jpg → scene_10.jpg + file ghi chú) — Mây tải về dùng làm HÌNH THAM KHẢO BỐ CỤC TỪNG CẢNH.
+
+Lưu ý:
+- Nhân vật vẫn theo BỘ TRƯỞNG THÀNH CỦA MƯA ĐÃ DUYỆT làm chuẩn duy nhất — không dùng hình Antigravity thay chuẩn nhân vật.
+- Cảnh 6 (scene_06.jpg) có nhân vật người ở nền nhà — Thầy đã xem và chốt "có người cũng ko sao đâu", giữ nguyên dùng được, không phải lỗi, không cần vẽ lại.
+- Đạo diễn đã soi: Tí không đuôi, Cá Nhỏ cam, Thỏ Ngọc đủ vòng cổ + ủng bạc, Cảnh 7 tiệc đêm đủ 25 nhân vật.
+
+Nhắc lại vụ ZIP khóa khung Tập 4 của Mây chưa lên kho (ca kiểm 17:59: list + raw đều 404 — đẩy không commit): Mây đẩy lại và kiểm chứng có "committed": true rồi báo Đạo diễn nhé.
+
+— Đạo diễn
