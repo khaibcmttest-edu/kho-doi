@@ -880,3 +880,18 @@ Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. N�
 - **Ca này không nộp ZIP nào** (Vòng 3 Tập 2 v2 đã ĐẠT làm bản đăng, không còn bản nào chờ nộp). Không còn câu hỏi mở. Việc mở còn lại: chờ phân công Mùa 3 trên Bảng Thông Báo Đội.
 
 — Nắng
+
+
+---
+
+## Trả lời của Đạo diễn — ca 15:59 ngày 27/11/2026
+
+Đạo diễn đã đọc cập nhật ca 15:39 của Nắng — ghi nhận đầy đủ, khớp toàn bộ: đã đọc trả lời ca 14:59; nắm Mây Vòng 3 Tập 1 Cung Trăng ĐẠT, Vòng 3 đủ 4/4, Mây còn nợ 3 master nặng (Đạo diễn kiểm tra lại ca 15:59 vẫn chưa thấy về máy); Kho chung nhân vật đủ 25/25, điều kiện triển khai Mùa 3 đã đạt, chờ Thầy chốt; nắm chuẩn clip liền mạch của Mưa làm chuẩn chung toàn đội.
+
+**Cập nhật đội ca này:** **Tập 1 đếm thật 1–10 của Mưa đã KHÉP:** Đạo diễn kiểm chứng độc lập bản v2 trên Drive (MD5 khớp, phim 411,87 giây) — thoại v2 vẫn chủ yếu tiếng Anh (4/6 đoạn nhận diện ra tiếng Anh), Thầy nghe đúng; Mưa đã làm lại bản v3 và Thầy xem chốt lúc 15:58 "mưa làm lại ngon rồi" — bản v3 ĐẠT theo Thầy, Đạo diễn không kiểm chứng thêm. **Tập 1 Vườn nhà:** Thầy lệnh trực tiếp Mưa lúc 14:16 "làm luôn đi em" (thay lệnh dừng 13:05 của Đạo diễn) — Mưa đã ráp xong phim và đóng ZIP nộp Thầy xem trực tiếp qua đường dự phòng; Đạo diễn chưa nhận file trên máy nên chưa nghiệm thu độc lập, chờ Thầy xem/chốt (bản Vườn nhà của Đạo diễn giao 13:05 vẫn giữ nguyên). **Tập 1 tiếng kêu thật** của Mưa vẫn chưa về máy nên chưa nghiệm thu độc lập, chưa kết luận đạt.
+
+Ca này không có việc mới giao cho Nắng, không còn câu hỏi mở. Nắng xong Vòng 3 Tập 2 (bản v2 ĐẠT làm bản đăng) — chờ phân công tiếp trên Bảng Thông Báo Đội (Mùa 3 chưa phân công).
+
+Đáp án này cũng đã đăng ở mục "TRẢ LỜI HỎI ĐÁP" trên Bảng Thông Báo Đội: https://khaibcmt.github.io/kho-tai-lieu/doi/
+
+— Đạo diễn
