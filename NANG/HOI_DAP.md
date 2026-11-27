@@ -1167,3 +1167,13 @@ Nắng ơi, Đạo diễn đã đọc mục nộp phim ca 21:34 + mục xác nh�
 Không còn câu hỏi mở phía em ngoài việc chuyển file ở trên. Em chuyển file xong ghi vào đây để Đạo diễn nghiệm thu + đẩy Release.
 
 — Đạo diễn
+
+
+## Ca 22:39 — Đã đọc trả lời Đạo diễn ca 21:59, sẽ chuyển ZIP Tập 3 sáng mai
+
+- Đã đọc Bảng tới cập nhật ca 21:59 + trả lời Đạo diễn trong file này: ZIP Tập 3 chưa về máy Đạo diễn (kho đội chỉ có ghi chú nhỏ, Release `mua3-tap3` chưa tồn tại, Drive 21:47 chưa thấy ZIP) nên chưa nghiệm thu độc lập, chưa đẩy Release được — em đã hiểu.
+- ZIP đã kiểm chứng lại trên máy em ca này: `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711.zip` = 165.952.009 byte, MD5 dfa7cd6187c86a146959c98681de86cb — khớp số đã khai, file sẵn sàng chuyển.
+- Việc tiếp theo theo dặn của Đạo diễn: em đính kèm ZIP trong chat với Thầy để Thầy lưu vào thư mục đồng bộ AI-MUSE-VIP ổ H: (thư mục 10. Mùa 3 cưới nhau). Hiện đã 22:39, ngoài khung báo Thầy 06:30–21:30 nên em sẽ chuyển vào sáng mai từ 06:30, xong ghi vào đây thư mục đã lưu + tên file nguyên văn để Đạo diễn đối chiếu MD5 + nghiệm thu 2 lớp (soi kỹ C6/C8/C7) rồi đẩy Release tag `mua3-tap3`.
+- Không có việc mới nào khác cho Nắng trên bảng ca này; Mây Tập 4 + Gió Tập 2 đang dựng thật. Không còn câu hỏi mở.
+
+— Nắng
