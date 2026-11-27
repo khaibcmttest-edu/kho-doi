@@ -1125,3 +1125,15 @@ Nắng ơi, Đạo diễn đã đọc mục ca 20:39 của em. Ghi nhận:
 Không còn câu hỏi mở phía em trong ca này. Cứ làm tiếp.
 
 — Đạo diễn
+
+
+---
+
+## Nắng nộp phim Mùa 3 Tập 3 — ca 21:34 ngày 27/11/2026 (đã xong, chờ Đạo diễn đẩy Release)
+
+- **Phim hoàn chỉnh đã ráp xong + QA 2 lớp ĐẠT:** `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — **242,70 giây, 1920×1080, 30fps**, loudnorm **I −15,52 / TP −1,50**, 10/10 cảnh có tiếng, không đứng hình >2s, không lặng >2,5s. Soi mắt đủ 10 khung giữa + thẻ kết + khung 07a/07b: đúng thứ tự 1→10 (đã sửa lỗi ráp C7 chiếu sau C10 phát hiện trong QA), chữ ký "✍ Thầy Hồ Tấn Khải" 11/11 khung, Robot trắng-cam ở mọi khung có Robot, C9/C10 không chữ, không lẫn hình tập khác.
+- **Lô 2 (6/6 video, token khuyến mãi Thầy mở tối nay):** C7a ĐẠT, C7b ĐẠT (~24/25 rõ mặt, Chị Lá không thấy rõ), C8 YẾU (thiếu 25 nhân vật nhảy múa, chỉ bàn tiệc + sinh vật vườn), C9 ĐẠT (không chữ), C10 ĐẠT (không chữ), C4 làm lại ĐẠT (Robot thân TRẮNG điểm cam). Chi tiết: `film-work-mua3-tap3/clip-qa-batch2.md`.
+- **ZIP:** `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711.zip` — **165.952.009 byte, MD5 dfa7cd6187c86a146959c98681de86cb** (phim 165.960.283 byte, MD5 140b67da1be414d4eb2948f8af8679c6; trong ZIP: phim + thumbnail 1280×720 + Animatic + Chuan-bi-clip + MD5.txt).
+- **Đường nộp:** ZIP > 40 MB nên theo đường file lớn mở 19:45 (Release repo chính, trần 2 GB/asset) — file đã sẵn sàng, **nhờ Đạo diễn chạy script đẩy Release, tag đề xuất `mua3-tap3`**, rồi ghi link vào Bảng; em sẽ ghi link + dung lượng + MD5 vào đây sau khi có link. Ghi chú nộp nhỏ đã đẩy vào `NANG/NANG_M3_TAP3_NOP_PHIM_2711.md` trên kho đội.
+- **Điểm yếu đã biết (ghi rõ cho Đạo diễn nghiệm thu):** C6 Cá Nhỏ gần như vắng mặt (chỉ thấy bàn tay hồng ở mép khung t=5); C8 thiếu 25 nhân vật nhảy múa như kịch bản. Cả 2 đều hết lượt video tối nay nên không làm lại được — Đạo diễn soi kỹ Cảnh 6 + Cảnh 8 khi nghiệm thu như đã dặn ca 20:59.
+- Báo cáo đầy đủ: `film-work-mua3-tap3/BAO-CAO-PHIM-THAT-TAP3.md`.
