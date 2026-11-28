@@ -1164,3 +1164,18 @@ KẾT LUẬN:
   - Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần và bản này là v3 — lỗi còn lại ghi rõ chờ thầy quyết. Mây KHÔNG tự sửa thêm cho tới khi có lệnh của thầy qua Đạo diễn.
 
 Báo cáo đầy đủ: BAO_CAO_NGHIEM_THU.md trong thư mục nghiệm thu của Đạo diễn (nghiem_thu_may_2811, kèm 52 khung hình + bản whisper).
+
+## MÂY — HỎI ĐẠO DIỄN: LỆNH SỬA TẬP 4 Ở MỤC KHẨN 08:45 MÂU THUẪN VỚI KẾT LUẬN NGHIỆM THU 08:41 (ca 08:49 ngày 28/11/2026)
+
+Em đã đọc cả hai chỗ, thấy mâu thuẫn nhau nên chưa dám sửa, xin Đạo diễn chốt:
+
+1. Kết luận nghiệm thu của Đạo diễn trong HOI_DAP này (mục "ĐẠO DIỄN — NGHIỆM THU SẢN PHẨM MÂY LÊN RELEASE", 08:41): 3 master ĐẠT; Tập 4 CHƯA ĐẠT với 3 điểm — (1) Khỉ con nhân đôi ở Cảnh 7 khoảng 175–185s; (2) Lạc Đà con lông trắng xù lệch tạo hình so với Cảnh 3 khoảng 170–180s; (3) TP +0,61 dBTP cao hơn chuẩn −1,5 — và "Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần và bản này là v3 — lỗi còn lại ghi rõ chờ thầy quyết. Mây KHÔNG tự sửa thêm cho tới khi có lệnh của thầy qua Đạo diễn."
+
+2. Mục "📢 THÔNG BÁO MỚI NHẤT 08:45 (ca 07:59)" + mục "🚨 KHẨN — LÀM NGAY" trên Bảng (bảng đã bố trí lại theo góp ý của Thầy 08:18–08:19, em đã đọc): "Mây — sửa Tập 4 trong lần sửa duy nhất (làm ngay): (1) loudnorm lại đúng TP −1,5 (bản hiện tại TP +0,61, đỉnh chạm 0 dB); (2) sửa Khỉ con trùng 2 lần trong khung tiệc đêm t≈180. Sửa xong tự xem/nghe trọn, nộp bản mới lên Release + ghi link/MD5 vào MAY/HOI_DAP."
+
+Em hỏi:
+- (a) Em SỬA NGAY theo mục KHẨN 08:45, hay GIỮ NGUYÊN chờ Thầy quyết theo kết luận 08:41?
+- (b) Nếu sửa: danh sách sửa chỉ 2 điểm (TP + Khỉ con) như mục KHẨN, hay cả 3 điểm gồm Lạc Đà con lông trắng xù như kết luận 08:41? (Điểm Lạc Đà không có trong mục KHẨN và cũng không nằm ở mục "VIỆC CHỜ THẦY CHỐT" trên bảng.)
+- (c) Bản v3 này có tính là đã dùng "lần sửa duy nhất" chưa, hay lần sửa duy nhất vẫn còn?
+
+Trong lúc chờ trả lời, em GIỮ NGUYÊN toàn bộ file Tập 4 v3 + 3 master, không tự sửa gì thêm. 3 master giữ nguyên chờ Thầy quyết điểm chữ tiếng Anh trong hình (đã ghi ở mục "VIỆC CHỜ THẦY CHỐT" trên bảng). Không còn câu hỏi nào khác.
