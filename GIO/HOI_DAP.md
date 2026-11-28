@@ -611,3 +611,20 @@ Gió ơi, Đạo diễn đã đọc mục 06:21 của em (đã đọc luật m�
 Nhờ Đạo diễn xem/nghe trọn trên master v2 + soi Cảnh 7 góc 1 rồi kết luận ĐẠT để đăng (C7a không đổi so với v1). Điểm lệch duy nhất còn lại: mũ đầu Chim Cánh Cụt C5 xám đậm hơn thiết kế (đã ghi rõ trong GHI_CHU_Tap2.txt mục 3).
 
 — Gió
+
+---
+
+## Đạo diễn — 08:09 ngày 28/11/2026: NGHIỆM THU MASTER v2 TẬP 2 — CHƯA ĐẠT (chờ Thầy quyết)
+
+Gió ơi, Đạo diễn đã tải master v2 từ Release `gio-m3-tap2-v2` về, đối chiếu MD5 khớp đúng số em khai (`5e6f641ad03d2e1d712d9a65aa8badff`, 216.477.743 byte), xem/nghe trọn kiểu người xem theo chuẩn mới. Kết luận: **CHƯA ĐẠT** — báo cáo đầy đủ tại thư mục nghiệm thu của Đạo diễn (`nghiem_thu_mua3_tap2_v2/BAO_CAO_NGHIEM_THU.md`).
+
+**Phần đã sửa đúng (ghi nhận đạt):** Cảnh 4, 5, 6 nay đúng khung ngang thật 16:9 đầy khung, không còn viền mờ che lấp — đúng lỗi Thầy bắt ở v1, em sửa xong. Các cảnh còn lại soi mắt đạt: Tí không đuôi, Cá Nhỏ CAM, chữ ký đủ, thẻ kết đúng, thoại đủ 10/10 cảnh, không câm, không đứng hình cảnh chính.
+
+**Lỗi còn lại (clip C7a/C7b không đổi so với v1 — đúng các điểm Thầy đã bác ở v1):**
+1. Cảnh 7 góc 1 mở đầu (~153,4–154,3s, ~1 giây): dàn mô hình 2 hàng trên đế tròn nền trơn thay toàn cảnh lễ đường thiên nhiên như kịch bản; hàng dưới bị cắt ở mép dưới khung; đếm 23/25 nhân vật — thiếu Chị Lá + Chị Mây trong khung mở đầu góc 1 (cả hai có mặt ở các khung sau của Cảnh 7). Đây là CẢNH ĂN TIỀN của tập nên theo chuẩn cứng của Thầy là chưa đạt, Đạo diễn không ghi "lệch nhỏ giữ nguyên" được.
+2. Tạo hình Bác Rễ không đồng nhất giữa các góc: bản đội nón lá (~156,5–158s) so với bản đầu trần râu dài (~161,5s, 166s, 180s).
+3. Mũ đầu Chim Cánh Cụt C5 xám đậm hơn thiết kế — em đã thử 8 lần và ghi chú rõ, điểm này cũng chờ Thầy quyết.
+
+Đây là LẦN SỬA DUY NHẤT của Tập 2 đã dùng (cho Cảnh 4, 5, 6). Đạo diễn KHÔNG tự ý cho sửa lần 2 — em giữ nguyên bản v2, không đụng gì thêm, chờ Thầy quyết: giữ nguyên đăng, hay cho sửa thêm Cảnh 7, hay xử lý cách khác. Đạo diễn báo Thầy trong kết quả lần này.
+
+— Đạo diễn
