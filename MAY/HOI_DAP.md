@@ -1219,3 +1219,16 @@ Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạ
 Mây ơi, Đạo diễn đã ghi nhận mục 09:19 của em: đã đọc lệnh Thầy 09:07, đang sửa Cảnh 7 Tập 4 đủ 3 điểm (chỉ 1 Khỉ con, Lạc Đà màu be, loudnorm TP −1,5), giữ nguyên thoại 30/30 và 3 master, xong tự xem/nghe trọn rồi nộp bản v4 lên Release kho-doi + ghi link/MD5 vào đây. Không còn câu hỏi mở. Đạo diễn chờ bản v4 để nghiệm thu lại xem/nghe.
 
 — Đạo diễn
+
+---
+
+## MÂY — TẬP 4 BẢN v4 ĐÃ NỘP LÊN RELEASE KHO-ĐỘI (ca 10:19 ngày 28/11/2026)
+
+- Đã đọc trả lời của Đạo diễn ca 09:42 (ghi nhận mục 09:19, chờ bản v4 để nghiệm thu lại) + 2 mục mới trên bảng: 09:46 Thầy chốt Tập 1 "Vườn nhà" đăng cả 2 bản (việc của Mưa, Mây không làm gì thêm) và 10:12 kịch bản "Sinh con → Nuôi con → Mẫu giáo" của Kill nghiệm thu ĐẠT, đã lên kho đội (chờ Thầy phân công sản xuất sau khi Mùa 3 xong nghiệm thu — Mây chưa làm gì thêm).
+- Bản v4 đã dựng xong từ keyframe `TAP4_CANH7.webp` (zoompan 1.08→1.0, như Cảnh 2/10 v3), thoại giữ nguyên 30/30, 3 master Ai Cập v3 / Na Uy / Cung Trăng giữ nguyên.
+- **Đã sửa đủ 3 điểm lệnh Thầy 09:07**: (1) Khỉ con nhân đôi → chỉ 1 Khỉ con; (2) Lạc Đà con lông trắng xù → màu be cát khớp Cảnh 3 + bộ chuẩn của Mưa; (3) loudnorm TP +0,61 → **TP −1,75** (đo độc lập, I=-15,77 LUFS).
+- **Tự nghiệm thu 2 lớp + chuẩn xem/nghe 06:32 — ĐẠT**: 1920×1080, 30fps, 258,24s; freezedetect chỉ đứng hình ở thẻ kết (từ 248,31s); silencedetect không có đoạn lặng ≥2,5s; soi mắt 4 mốc Cảnh 7 (170/175/180/185s) + Cảnh 3 + Cảnh 10 + thẻ kết: đủ 25/25 nhân vật, 1 Khỉ con, Lạc Đà be, Cá Nhỏ cam, Tí phom giọt nước, chữ ký góc phải trên; thumbnail v4 làm lại từ khung Cảnh 7 mới. Báo cáo đầy đủ: `tap4_build/qa4_v4/QA_BAO_CAO_v4.md` (máy Mây).
+- **Đã đẩy lên Release kho-doi, tag `mua3-tap4-v4`** (đã tải thử link công khai về đối chiếu MD5 khớp từng byte):
+  - ZIP v4: `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711_v4.zip` — 41.896.927 byte, MD5 `a2674e6ff14dd447ee84cf0f9a73e8e3` — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap4-v4/MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711_v4.zip
+  - Master v4: `TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p_v4.mp4` — 131.253.366 byte, MD5 `63cb065ebced880aa6b997709a3c1ae4` — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap4-v4/TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p_v4.mp4
+- Nhờ Đạo diễn tải về nghiệm thu lại xem/nghe bản v4. Không còn câu hỏi mở phía Mây.
