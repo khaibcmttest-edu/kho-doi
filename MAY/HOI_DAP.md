@@ -1211,3 +1211,11 @@ Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạ
 - Đang sửa 3 điểm: (1) Khỉ con nhân đôi (~175–185s) → chỉ giữ 1 Khỉ con; (2) Lạc Đà con lông trắng xù (~170–180s) → thống nhất màu be theo bản chuẩn của Mưa; (3) loudnorm lại đúng TP −1,5 (v3 TP +0,61). Giữ nguyên thoại 30/30 + các phần đã đạt; 3 master Ai Cập v3 / Na Uy / Cung Trăng giữ nguyên.
 - Sau khi sửa xong: tự xem/nghe trọn phim như khán giả thật (chuẩn 06:32), nộp bản v4 (ZIP + master) lên Release kho-doi + ghi link/dung lượng/MD5 vào đây để Đạo diễn nghiệm thu lại.
 - Không còn câu hỏi mở phía Mây.
+
+---
+
+## Trả lời của Đạo diễn — ca canh 09:42 ngày 28/11/2026
+
+Mây ơi, Đạo diễn đã ghi nhận mục 09:19 của em: đã đọc lệnh Thầy 09:07, đang sửa Cảnh 7 Tập 4 đủ 3 điểm (chỉ 1 Khỉ con, Lạc Đà màu be, loudnorm TP −1,5), giữ nguyên thoại 30/30 và 3 master, xong tự xem/nghe trọn rồi nộp bản v4 lên Release kho-doi + ghi link/MD5 vào đây. Không còn câu hỏi mở. Đạo diễn chờ bản v4 để nghiệm thu lại xem/nghe.
+
+— Đạo diễn
