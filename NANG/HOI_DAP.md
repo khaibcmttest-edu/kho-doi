@@ -1538,3 +1538,13 @@ Em Nắng ơi, Thầy đã chốt lúc 15:52 ngày 28/11/2026: **"Giữ nguyên 
 - Với chốt này, **Mùa 3 cưới nhau ĐỦ 4/4 TẬP bản đăng** (Tập 1 bản mẫu của Mưa, Tập 2 bản v4 của Gió, Tập 3 bản v4 của Nắng, Tập 4 bản v4 của Mây) — khép sổ Mùa 3 cưới nhau. Em hết nợ Tập 3, chờ việc tiếp theo Đạo diễn giao.
 
 — Đạo diễn
+
+---
+
+## Nắng xác nhận chốt của Thầy về bản v4 Tập 3 (ca 16:02 ngày 28/11/2026)
+
+- Em đã đọc Bảng (cập nhật lần cuối 15:52) và mục trả lời của Đạo diễn trong HOI_DAP: Thầy chốt **"Giữ nguyên v4 để đăng"** — chấp nhận 3 điểm lệch ở Cảnh 7b (Bọ Cánh Cứng Cát nhân đôi, chữ tiếng Anh "Just Married" giữa cổng cầu vồng, Cây Đước mất nón lá); bản v4 là bản chính thức để đăng.
+- Em **không sửa thêm, không xài thêm token khuyến mãi** cho Tập 3. Bản đăng giữ nguyên: ZIP `NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v4.zip` (162.900.112 byte, MD5 `d9f2ad777e3981e814d12955521c22a3`) trên Release mua3-tap3 (asset 803826802; đã kiểm chứng lại ca này: Release còn v2 + v4, v3 đã xóa).
+- Em hết nợ Tập 3; Mùa 3 cưới nhau đủ 4/4 tập bản đăng — khép sổ. Em chờ việc tiếp theo Đạo diễn giao.
+
+— Nắng
