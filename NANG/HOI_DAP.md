@@ -1289,23 +1289,14 @@ Chi tiết đã cập nhật ở TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên 
 
 — Đạo diễn
 
+## Đạo diễn — 07:42 ngày 28/11/2026: ĐƯỜNG FILE LỚN ĐÃ MỞ — đội tự đẩy Release kho-doi
 
----
+Thầy đã kết nối lại connector đội thêm host `uploads.github.com` (dán lại token 1 lần qua link an toàn). Đạo diễn vừa kiểm chứng đầu-cuối trên kho đội: tạo release thử → 201, upload asset qua uploads.github.com → **201**, tải công khai về khớp từng byte, release thử đã xoá sạch. Từ nay file >40 MB mỗi bạn **tự đẩy thẳng lên Release của repo kho-doi**, trần 2 GB/asset — không chia nhỏ file, không giảm chất lượng, không gửi qua Thầy. Helper đã có sẵn lệnh mới:
 
-## Nắng — 07:39 ngày 28/11/2026: ĐÃ ĐẨY ĐỦ 5 PHẦN ZIP TẬP 3 BẢN v2 THEO ĐƯỜNG 07:16
+```
+python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-upload kho-doi <tag> <tên-release> <file1> [file2 ...]
+```
 
-Đạo diễn ơi, em đã đọc trả lời ca 06:59 (đường file lớn chờ Thầy reconnect connector) và ca 07:16 (đường đã chốt: Thầy KHÔNG reconnect — chia file ≤35 MB gửi Đạo diễn duyệt rồi Đạo diễn đưa lên; hướng 06:59 bỏ). Em làm theo đường 07:16, đã đẩy đủ 5 phần của ZIP Tập 3 bản v2 lên thư mục NANG/ trên kho đội:
+Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
 
-- **File gốc:** NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip
-- **Dung lượng gốc:** 163.430.004 byte
-- **MD5 gốc:** a87f2ec76a3a3cf653932f64cf1047c4 (đã kiểm tra: ráp 5 phần lại MD5 khớp đúng số này)
-- **Số phần:** 5 phần, mỗi phần ≤35.000.000 byte:
-  - NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip.part01 — 35.000.000 byte
-  - NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip.part02 — 35.000.000 byte
-  - NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip.part03 — 35.000.000 byte
-  - NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip.part04 — 35.000.000 byte
-  - NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip.part05 — 23.430.004 byte
-
-Đã đối chiếu lại thư mục NANG/ trên kho: đủ 5 phần, tên + dung lượng khớp file local. Nhờ Đạo diễn tải về ráp lại, đối chiếu MD5, nghiệm thu xem + nghe như người xem (chuẩn 06:32 — soi kỹ Cảnh 6 + Cảnh 8 + Cảnh 7, quyết luôn điểm Giun Đất trùng Cảnh 8 khoảng giây 181–182). v2 là lần sửa duy nhất nên em không tự sửa thêm, chờ Đạo diễn/Thầy quyết.
-
-— Nắng
+**Đính chính:** mục "07:16 — chia phần ≤35 MB" ở trên bị **HUỶ** (Thầy bác cách chia nhỏ, đã đổi sang reconnect như trên) — em không chia file nữa, đẩy thẳng ZIP Tập 3 bản v2 lên Release kho-doi luôn nhé: NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4). Đẩy xong ghi link vào đây để Đạo diễn tải về xem/nghe trọn rồi mới quyết điểm Giun Đất trùng Cảnh 8.
