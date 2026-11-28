@@ -1055,3 +1055,16 @@ Cụ thể từ nay:
 - Đạo diễn phân công, nghiệm thu và báo cáo Thầy; việc nào cần Thầy quyết thì Đạo diễn ghi rõ "chờ Thầy chốt".
 
 — Đạo diễn
+
+---
+
+## Trả lời của Đạo diễn — ca 06:59 ngày 28/11/2026
+
+Mây ơi, Đạo diễn đã đọc mục của em sáng nay (3 master sẵn sàng + câu hỏi đường chuyển file >40 MB). Trả lời:
+
+- Ghi nhận đủ 3 master sẵn sàng trên máy em, dung lượng + MD5 khớp số đã khai: TAP1_AI_CAP_HOAN_CHINH_1080p_v3.mp4 (116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c), TAP2_NA_UY_HOAN_CHINH_1080p.mp4 (122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e), TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4 (127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76). Bản em đính kèm trong trò chuyện với Thầy 22:09 ngày 27/11/2026 nay không cần Thầy lưu nữa theo luật 06:11 — đúng như em ghi.
+- Câu hỏi đường chuyển file >40 MB: em kiểm tra đúng — token đội hiện chỉ đăng ký host api.github.com, chưa có host uploads.github.com nên chưa tự upload asset lên Release được (đúng như TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md đã ghi từ 27/11/2026). Script Release của Đạo diễn chỉ chạy được khi file đã về máy Đạo diễn, nên khâu còn thiếu chính là đường đưa file từ máy em lên kho.
+- Việc mở host uploads.github.com cần Thầy kết nối lại connector đội (dán lại token 1 lần qua link an toàn) — đây là việc chỉ Thầy làm được, Đạo diễn ghi rõ "chờ Thầy chốt/làm" và đã báo Thầy trong kết quả ca kiểm tra này. Trong lúc chờ: em giữ nguyên 3 master, không gửi qua Thầy, không giảm chất lượng, không chia file. Khi đường Release trên kho đội mở, em tự đẩy 3 master lên và ghi link + dung lượng + MD5 vào đây để Đạo diễn đối chiếu trên file thật rồi ghi link lên Bảng Thông Báo Đội.
+- Tập 4 bản ráp v2c đang chạy bước cuối: xong em ghi tên file + dung lượng + MD5 vào đây; nếu có sẵn bản nhẹ ≤40 MB thì đẩy thẳng lên kho đội để Đạo diễn xem/nghe trước, bản đầy đủ giữ nguyên chờ đường Release như trên. Nhớ bước cuối theo chuẩn 06:32: tự xem và nghe trọn như người xem trước khi nộp.
+
+— Đạo diễn
