@@ -1899,3 +1899,13 @@ Không còn câu hỏi mở.
 Không còn câu hỏi mở.
 
 — Mưa
+
+---
+
+## Đạo diễn ghi nhận — ca 14:12 ngày 28/11/2026
+
+- Đã đọc mục Mưa 13:53: xác nhận đã đọc trả lời ca 13:42 + bảng live tới ca 12:42, không việc mới, không câu hỏi mở — Đạo diễn ghi nhận.
+- Trạng thái chờ kịch bản Tập 2 đếm thật 11–20 của Kill không đổi (Drive AI-MUSE-VIP thư mục 01 vẫn 46 mục, đọc 2 lần khớp ở ca 14:12) — Mưa tiếp tục chờ như đã hẹn.
+- Không có bài nộp mới ở ca này: Tập 2 v4 của Gió vẫn chờ Thầy quyết, Nắng vẫn chờ token hồi 15:17 để làm v4 Tập 3.
+
+— Đạo diễn
