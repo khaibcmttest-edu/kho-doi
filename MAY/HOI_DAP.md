@@ -1112,3 +1112,21 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
 
 **Đính chính:** mục "07:16 — chia phần ≤35 MB" ở trên bị **HUỶ** (Thầy bác cách chia nhỏ, đã đổi sang reconnect như trên) — em không chia file nữa, đẩy thẳng 3 master đang nợ lên Release kho-doi luôn nhé: Ai Cập v3 (116.597.984 byte, MD5 b494621a…) · Na Uy (122.150.742 byte, MD5 695d01a6…) · Cung Trăng (127.246.897 byte, MD5 9c092ad7…). Đẩy xong ghi link + MD5 đầy đủ từng file vào đây.
+
+---
+
+## MÂY — TẬP 4 BẢN RÁP v3 XONG + 3 MASTER + ZIP/MASTER TẬP 4 ĐÃ LÊN RELEASE KHO-ĐỘI (28/11)
+
+- Đã đọc luật vĩnh viễn của Thầy (07:48) + mục Đạo diễn 07:42: đường Release kho-đội đã mở, cách chia phần 07:16 bị HUỶ. Em đã dừng đẩy các phần chia: trên MAY/ hiện còn các phần chia mồ côi (ZIP Tập 4 đủ 2/2, Ai Cập v3 đủ 4/4, Cung Trăng đủ 4/4, Na Uy mới 2/4, master Tập 4 chưa có) — các phần này KHÔNG dùng nữa, Đạo diễn cứ bỏ qua (hoặc xoá giúp em).
+- 5 FILE LỚN ĐÃ LÊN RELEASE KHO-ĐỘI (tự đẩy bằng connector đã reconnect thêm host uploads.github.com, đã kiểm chứng từng asset đúng dung lượng):
+  - Ai Cập v3 master — 116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c — https://github.com/khaibcmttest-edu/kho-doi/releases/download/ai-cap-v3/TAP1_AI_CAP_HOAN_CHINH_1080p_v3.mp4 (tag ai-cap-v3)
+  - Na Uy master — 122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e — https://github.com/khaibcmttest-edu/kho-doi/releases/download/na-uy/TAP2_NA_UY_HOAN_CHINH_1080p.mp4 (tag na-uy)
+  - Cung Trăng master — 127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76 — https://github.com/khaibcmttest-edu/kho-doi/releases/download/cung-trang/TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4 (tag cung-trang)
+  - Tập 4 ZIP — 41.999.271 byte, MD5 f85c4be8224a7dd562ee02919da6539d — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap4/MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711.zip (tag mua3-tap4; trong ZIP: phim 1200k 41.873.003 byte MD5 f9f81048359258d55b948ff7685c9a01 + thumbnail 283.793 byte MD5 3ee26ea21495de0d3e51d2d9aa5b344b + animatic)
+  - Tập 4 master — 134.789.975 byte, MD5 8ab72c6a42af2511ef09a0776fc5d43f — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap4/TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p.mp4 (tag mua3-tap4)
+  - Bản xem trước Tập 4 (1000k, nguyên file trong MAY/) — 32.485.577 byte, MD5 e586b0f430bb60b70e6c5b4012b3098c — https://raw.githubusercontent.com/khaibcmttest-edu/kho-doi/main/MAY/MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_XEM_TRUOC_2811.mp4 (để Đạo diễn xem/nghe trước; bản đầy đủ là 2 link Release trên)
+- QA TẬP 4 v3 — ĐẠT 2 lớp + chuẩn xem/nghe 06:32: ffprobe 1920×1080 30fps 258,393s; loudnorm độc lập −15,68 LUFS (đích −15,5); freezedetect >2s: không có; silencedetect >2,5s: không có; âm lượng từng cảnh −15,2…−16,8 dB (có thoại cả 10 cảnh); chữ ký vàng kem góc phải trên ~12% ở mọi mốc 5–248s; mép phải xanh lá ≤3% ở mọi mốc (điểm 22,1% ở t=100s là lá cây trong cảnh C4, đã soi mắt xác nhận không phải dải lỗi); soi mắt 10/10 cảnh + thẻ kết + thumbnail (không chữ ký, đúng mẫu); xem trọn 26 khung mỗi 10s: không khung dọc che thành ngang, không kéo giãn, nhân vật đồng nhất, không chỗ nào "cấn".
+- Các điểm đã khai báo rõ: C2 dựng bằng keyframe (công cụ làm clip báo lỗi toàn vẹn, không thử lại); C10 dựng bằng keyframe (clip v2 zoom quá mạnh); C5 v2 + C7 v2 làm lại (khóa đầu xám chim cánh cụt); 6 hiệu chỉnh atempo (dòng 05/07/09/10/14/15, hệ số trong 0,7–1,1); chữ ký phủ từng cảnh riêng (bản ráp đầu mất chữ ký sau 20s do nối -c copy); C2/C10 chuyển sang zoompan (bản v2c bị dải xanh mép phải do scale eval=frame); thumbnail lấy từ cảnh chưa phủ chữ ký. 2 điểm mềm đã soi kỹ khi xem trọn: đầu chim cánh cụt ở C10 sẫm hơn C2 do ánh sáng đêm nhưng vẫn xám (không đen); vệt cầu vồng trên đầu Chị Mây ở C10 là vòng vương miện của chị, không phải chữ.
+- Nhờ Đạo diễn tải về đối chiếu MD5, xem/nghe nghiệm thu rồi báo kết quả. 3 master trên em giữ nguyên bản local, không gửi lại trừ khi Đạo diễn báo thiếu.
+
+— Mây
