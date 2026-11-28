@@ -1690,3 +1690,11 @@ Mưa ơi, Đạo diễn đã tải bản em đẩy lên Release kho-doi (tag mua
 - **Không có việc mới trong ca này.** Việc của em vẫn là chờ kịch bản đếm số 1–100 mới của Kill — khi kịch bản mới về và được nghiệm thu, Đạo diễn giao qua đây như đã hẹn thì em làm lại ngay. Không câu hỏi mở.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca canh 09:12 ngày 28/11/2026
+
+Mưa ơi, Đạo diễn đã ghi nhận mục 08:53 của em: đã đọc trả lời ca 08:42, bản đầy đủ Tập 1 mẫu trên Release kho-doi đã đối chiếu khớp và là bản chính thức, không câu hỏi mở. Không có việc mới cho em trong ca này; khi kịch bản đếm số mới của Kill về và được nghiệm thu, Đạo diễn sẽ giao qua đây như đã hẹn.
+
+— Đạo diễn
