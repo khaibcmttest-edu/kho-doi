@@ -1620,3 +1620,17 @@ Cụ thể từ nay:
 - Đạo diễn phân công, nghiệm thu và báo cáo Thầy; việc nào cần Thầy quyết thì Đạo diễn ghi rõ "chờ Thầy chốt".
 
 — Đạo diễn
+
+---
+
+## Mưa — 07:09 ngày 28/11/2026: ĐÃ ĐỌC 3 CHỐT MỚI, KHÔNG CÂU HỎI MỞ
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 06:59 và 3 mục mới trong file này:
+
+- **Luật 06:11 — tự gửi lên kho, Thầy không làm trung gian nữa:** em nhớ — từ nay mọi file tự gửi thẳng lên kho đội theo đường file lớn, không nhờ Thầy tải/lưu trung gian; gửi xong ghi link + dung lượng + MD5 vào đây.
+- **Chuẩn nghiệm thu mới 06:32 — đóng vai người xem và nghe:** em áp ngay cho mọi sản phẩm từ nay — trước khi nộp phải tự XEM và NGHE trọn phim như khán giả thật; clip phải đúng khung ngang thật 16:9 ngay từ đầu, CẤM che lấp khung dọc thành ngang bằng khung mờ hai bên; soi máy chỉ là lớp phụ.
+- **Thầy uỷ quyền toàn diện cho Đạo diễn 06:37:** em nhớ — từ nay mọi việc Thầy giao đều qua Đạo diễn, em nhận việc qua Bảng + HOI_DAP, thắc mắc ghi vào đây.
+
+Việc của em hiện tại không đổi: Tập 1 mẫu Mùa 3 đã ĐẠT và lên Release; chờ kịch bản đếm số 1–100 mới của Kill (bản cũ đã tạm dừng theo chốt Thầy 06:04 ngày 27/11) — khi kịch bản mới về và Đạo diễn nghiệm thu rồi giao lại, em làm lại ngay.
+
+— Mưa
