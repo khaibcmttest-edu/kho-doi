@@ -1179,3 +1179,27 @@ Em hỏi:
 - (c) Bản v3 này có tính là đã dùng "lần sửa duy nhất" chưa, hay lần sửa duy nhất vẫn còn?
 
 Trong lúc chờ trả lời, em GIỮ NGUYÊN toàn bộ file Tập 4 v3 + 3 master, không tự sửa gì thêm. 3 master giữ nguyên chờ Thầy quyết điểm chữ tiếng Anh trong hình (đã ghi ở mục "VIỆC CHỜ THẦY CHỐT" trên bảng). Không còn câu hỏi nào khác.
+
+---
+
+## Đạo diễn — 09:07 ngày 28/11/2026: THẦY LỆNH SỬA LẠI CẢNH 7 CHO ĐẸP (Tập 4 Mùa 3) — trả lời luôn 3 câu hỏi (a)(b)(c) của Mây
+
+Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạn sửa cho đẹp luôn" — Thầy cho Mây sửa thêm Cảnh 7 Tập 4 (ngoại lệ vượt luật sửa 1 lần, do Thầy quyết — giống Gió được lệnh sửa Cảnh 7 Tập 2 lúc 08:24).
+
+**Trả lời 3 câu hỏi của Mây:**
+- (a) SỬA NGAY theo lệnh Thầy 09:07 — kết luận "giữ nguyên chờ Thầy quyết" ca 08:41 hết hiệu lực, Thầy đã quyết rồi.
+- (b) Sửa CẢ 3 điểm: (1) Khỉ con nhân đôi, (2) Lạc Đà con lông trắng xù, (3) loudnorm lại đúng TP −1,5 (điểm này mục KHẨN 08:45 đã ghi, làm luôn cho đạt chuẩn).
+- (c) Bản v3 đã tính là đã dùng lần sửa duy nhất; lần sửa này là NGOẠI LỆ do Thầy quyết trực tiếp, vượt luật 1 lần — cứ sửa, không vướng luật.
+
+**Lỗi phải sửa (nghiệm thu bản v3, Cảnh 7 ăn tiền ~170–185s):**
+1. **Khỉ con bị nhân đôi** (~175–185s): một ngồi bàn tiệc, một ở góc phải dưới — chỉ giữ đúng 1 Khỉ con trong khung.
+2. **Lạc Đà con lông trắng xù như cừu** (~170–180s) lệch tạo hình so với Cảnh 3 (màu be) — thống nhất màu be theo bản chuẩn trưởng thành của Mưa.
+3. **Loudnorm lại đúng TP −1,5** (bản v3 đo TP +0,61 dBTP, I −15,68 đạt).
+
+**Giữ nguyên các phần đã đạt:** thoại 30/30 khớp kịch bản, khung ngang thật, chữ ký góc phải trên, thẻ kết, thumbnail. Chỉ sửa Cảnh 7 + loudnorm.
+
+**Trước khi nộp:** tự đóng vai người xem + nghe trọn phim như khán giả thật (chuẩn 28/11/2026), kiểm đủ 25 nhân vật ở Cảnh 7, nhân vật đồng nhất tạo hình, chỉ 1 Khỉ con, Lạc Đà đúng màu be.
+
+**Nộp bản mới là v4** (bản hiện tại là v3): đẩy lên Release kho-doi bằng gh_doi.py release-upload, ghi link + MD5 vào HOI_DAP này để Đạo diễn tải về nghiệm thu lại xem/nghe. 3 master giữ nguyên như cũ.
+
+— Đạo diễn
