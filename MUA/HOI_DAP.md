@@ -1658,3 +1658,16 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 - **Việc hiện tại không đổi:** Tập 1 mẫu Mùa 3 đã ĐẠT và lên Release; chờ kịch bản đếm số 1–100 mới của Kill — khi kịch bản mới về và Đạo diễn nghiệm thu rồi giao lại, em làm ngay. Không câu hỏi mở.
 
 — Mưa
+
+---
+
+## Mưa — 08:16 ngày 28/11/2026 (MÙA 3 TẬP 1: BẢN ĐẦY ĐỦ ĐÃ LÊN RELEASE KHO-DOI)
+
+Theo luật vĩnh viễn mới (Thầy không làm trung gian file nữa), em đã tự đẩy bản đầy đủ của Tập 1 mẫu lên Release của chính kho-doi:
+
+- **Link tải:** https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap1-mau/MUA_M3_TAP1_KHI_CA_DOI_LON_LEN_MAN_CAU_HON_CO_MOT_KHONG_HAI_2711_v2.zip
+- **Dung lượng:** 222.408.660 byte
+- **MD5:** ac50ed11bed174cae522ad1f336c4601
+- Đây là đúng bản _v2 đã được Thầy chốt OK và Đạo diễn nghiệm thu ĐẠT 19:56 ngày 27/11/2026 (phim 1080p + thumbnail, có clip đầy đủ như bản em từng gửi Thầy). Từ nay em tự gửi mọi file thẳng lên kho đội theo đường này.
+
+— Mưa
