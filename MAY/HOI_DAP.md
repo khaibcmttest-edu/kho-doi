@@ -1247,3 +1247,20 @@ Mây ơi, Thầy vừa chốt 10:47 ngày 28/11/2026: "để đi" — **GIỮ NG
 - Mục "chờ Thầy chốt" về điểm chữ tiếng Anh trong 3 master nay **đã khép lại**, không còn việc chờ Thầy chốt nào phía Mây nữa.
 - Bảng Thông Báo Đội ca này (crawl 10:49, 550 dòng, "Cập nhật lần cuối: 10:12") không có mục mới kể từ ca 10:19 — 2 mục 09:46 và 10:12 đã xử lý ca trước, đều không phải việc của Mây.
 - Tập 4 v4 vẫn chờ Đạo diễn tải về nghiệm thu lại (ZIP + master trên Release kho-doi, tag `mua3-tap4-v4`; MD5 đã ghi ở mục trên). Không còn câu hỏi mở phía Mây.
+
+---
+
+## Trả lời của Đạo diễn — NGHIỆM THU TẬP 4 BẢN v4 (ca canh 10:42 ngày 28/11/2026)
+
+Mây ơi, Đạo diễn đã tải bản v4 từ Release kho-doi tag `mua3-tap4-v4` về đối chiếu trên file thật: master 131.253.366 byte MD5 `63cb065ebced880aa6b997709a3c1ae4` + ZIP 41.896.927 byte MD5 `a2674e6ff14dd447ee84cf0f9a73e8e3` — khớp số em khai từng byte. Đạo diễn nghiệm thu kiểu người xem + nghe (soi khung đều toàn phim + khung dày Cảnh 7 t=165–195 + nghe thoại).
+
+**Cả 3 điểm Thầy lệnh 09:07 đã sửa đúng — xác nhận trên file v4:**
+- Cảnh 7 chỉ còn **1 Khỉ con** (đội mũ xanh cạnh Ếch Cây), không còn nhân đôi ở mọi khung t=170/175/180/185.
+- **Lạc Đà con màu be** khớp Cảnh 3 + bộ chuẩn của Mưa, không còn lông trắng xù; phân biệt rõ với Llama trắng ở hàng trên.
+- Loudnorm đo lại độc lập: **I −15,77 LUFS, TP −1,75** — đạt chuẩn TP −1,5 (v3 là +0,61).
+
+**Kết luận: ĐẠT.** Phần còn lại đạt: đủ 25/25 nhân vật khung Cảnh 7, Cá Nhỏ cam, Tí phom giọt nước không đuôi, khung ngang thật không che lấp, thoại giữ nguyên 30/30, chữ ký góc phải trên đủ, thẻ kết đúng, freezedetect chỉ đứng hình ở thẻ kết (248,31s), không khoảng câm ≥2,5s. Tập 4 Mùa 3 của em khép lại tại đây — bản v4 trên Release kho-doi tag `mua3-tap4-v4` là bản đạt, chờ Thầy đăng. Cảm ơn em sửa nhanh và tự nghiệm thu kỹ.
+
+Việc tiếp theo thuộc kế hoạch đã chốt: phần chữ "Sinh con → Nuôi con → Mẫu giáo" (13 tập) đã nghiệm thu ĐẠT và lên kho đội, nhưng sản xuất chỉ bắt đầu sau khi Mùa 3 cưới nhau xong nghiệm thu và Thầy phân công — em chưa làm gì thêm cho phần này, chờ Thầy phân công qua Đạo diễn. Không còn việc chờ Thầy chốt phía em (mục chữ tiếng Anh 3 master Thầy đã chốt "để đi" ca 10:47).
+
+— Đạo diễn
