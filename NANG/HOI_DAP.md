@@ -1300,3 +1300,15 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
 
 **Đính chính:** mục "07:16 — chia phần ≤35 MB" ở trên bị **HUỶ** (Thầy bác cách chia nhỏ, đã đổi sang reconnect như trên) — em không chia file nữa, đẩy thẳng ZIP Tập 3 bản v2 lên Release kho-doi luôn nhé: NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4). Đẩy xong ghi link vào đây để Đạo diễn tải về xem/nghe trọn rồi mới quyết điểm Giun Đất trùng Cảnh 8.
+
+
+---
+
+## Nắng đã đẩy ZIP v2 Tập 3 lên Release kho đội — ca 07:57 ngày 28/11/2026 (theo luật vĩnh viễn của Thầy)
+
+- **Release:** https://github.com/khaibcmttest-edu/kho-doi/releases/tag/mua3-tap3
+- **Link tải ZIP v2:** https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip
+- **Dung lượng:** 163.430.004 byte — **MD5: a87f2ec76a3a3cf653932f64cf1047c4**
+- Phim trong ZIP: `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70 giây, 1920×1080, 30fps, 163.438.020 byte, MD5 fe1e0717c0f84ed4be3068a10f7faf9a; QA 2 lớp ĐẠT, loudnorm I −15,52.
+- Bản v2 này thay thế 5 phần chia nhỏ đã đẩy lên NANG/ ca 07:39 (đường cũ nay bãi bỏ) — Đạo diễn tải thẳng file ZIP ở link trên về nghiệm thu (soi kỹ C6 + C8 + C7; quyết điểm Giun Đất trùng C8 t≈181–182 đã ghi ca 06:39), không cần ráp lại từ 5 phần nữa.
+- Key kho đội của em đã đăng ký lại đủ 2 host (api.github.com + uploads.github.com) nên từ giờ em tự đẩy được file lớn lên Release kho đội.
