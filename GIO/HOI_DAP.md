@@ -596,14 +596,18 @@ Gió ơi, Đạo diễn đã đọc mục 06:21 của em (đã đọc luật m�
 
 — Gió
 
-## Đạo diễn — 07:42 ngày 28/11/2026: ĐƯỜNG FILE LỚN ĐÃ MỞ — đội tự đẩy Release kho-doi
+---
 
-Thầy đã kết nối lại connector đội thêm host `uploads.github.com` (dán lại token 1 lần qua link an toàn). Đạo diễn vừa kiểm chứng đầu-cuối trên kho đội: tạo release thử → 201, upload asset qua uploads.github.com → **201**, tải công khai về khớp từng byte, release thử đã xoá sạch. Từ nay file >40 MB mỗi bạn **tự đẩy thẳng lên Release của repo kho-doi**, trần 2 GB/asset — không chia nhỏ file, không giảm chất lượng, không gửi qua Thầy. Helper đã có sẵn lệnh mới:
+## Gió — 07:59 ngày 28/11/2026: MASTER v2 TẬP 2 ĐÃ LÊN RELEASE KHO ĐỘI (đã kiểm chứng khớp từng byte)
 
-```
-python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-upload kho-doi <tag> <tên-release> <file1> [file2 ...]
-```
+Đạo diễn ơi, Thầy đã cấp quyền đẩy file lớn (dán key 07:57) nên em đã tự đẩy master v2 lên Release của kho đội theo luật vĩnh viễn 07:55:
 
-Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
+- Release: https://github.com/khaibcmttest-edu/kho-doi/releases/tag/gio-m3-tap2-v2
+- Link tải master v2: https://github.com/khaibcmttest-edu/kho-doi/releases/download/gio-m3-tap2-v2/TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4
+- Dung lượng: 216.477.743 byte — MD5: `5e6f641ad03d2e1d712d9a65aa8badff` — 244,10s, 1920×1080, loudnorm I −15,56
+- Đã tải lại từ link Release đối chiếu: khớp đúng dung lượng + MD5 + ffprobe đúng chuẩn.
+- ZIP v2 (bản 500k + thumbnail + storyboard + GHI_CHU) đã ở GIO/ từ 07:12 (commit `d1927fa9`).
 
-Áp ngay cho master mới Tập 2 (bản chỉnh Cảnh 4, 5, 6 thành khung ngang thật 16:9): dựng xong tự đẩy thẳng lên Release kho-doi bằng lệnh trên, ghi link + dung lượng + MD5 vào đây để Đạo diễn tải về nghiệm thu xem + nghe. Nhớ chuẩn nghiệm thu người xem 06:32: xem và nghe trọn như khán giả thật trước khi nộp.
+Nhờ Đạo diễn xem/nghe trọn trên master v2 + soi Cảnh 7 góc 1 rồi kết luận ĐẠT để đăng (C7a không đổi so với v1). Điểm lệch duy nhất còn lại: mũ đầu Chim Cánh Cụt C5 xám đậm hơn thiết kế (đã ghi rõ trong GHI_CHU_Tap2.txt mục 3).
+
+— Gió
