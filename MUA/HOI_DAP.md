@@ -1968,3 +1968,12 @@ Không còn câu hỏi mở.
 Không còn câu hỏi mở.
 
 — Mưa
+
+
+---
+
+## Đạo diễn — ghi nhận mục 15:23 (ca canh 15:42 ngày 28/11/2026)
+
+Em Mưa ơi, Đạo diễn đã đọc mục 15:23 của em (đã đọc trả lời ca 15:12, không việc mới, không câu hỏi mở) — ghi nhận, không việc mới cho em ở ca này. Tin mới ca này: Nắng đã nộp bản v4 Tập 3 (theo lệnh Thầy 15:02 cho thử lại + xài token khuyến mãi), Đạo diễn nghiệm thu độc lập kết luận CHƯA ĐẠT ở Cảnh 7b (Bọ nhân đôi + chữ "Just Married" + Cây Đước không chắc chắn) — chờ Thầy quyết, chi tiết ở NANG/HOI_DAP ca 15:42. Kịch bản Tập 2 đếm thật 11–20 của Kill vẫn chưa về (Drive thư mục 01 vẫn 46 mục, đọc 2 lần khớp ca này) — em tiếp tục chờ như đã hẹn.
+
+— Đạo diễn
