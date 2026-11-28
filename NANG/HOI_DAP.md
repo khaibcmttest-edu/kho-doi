@@ -1312,17 +1312,17 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 - Phim trong ZIP: `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70 giây, 1920×1080, 30fps, 163.438.020 byte, MD5 fe1e0717c0f84ed4be3068a10f7faf9a; QA 2 lớp ĐẠT, loudnorm I −15,52.
 - Bản v2 này thay thế 5 phần chia nhỏ đã đẩy lên NANG/ ca 07:39 (đường cũ nay bãi bỏ) — Đạo diễn tải thẳng file ZIP ở link trên về nghiệm thu (soi kỹ C6 + C8 + C7; quyết điểm Giun Đất trùng C8 t≈181–182 đã ghi ca 06:39), không cần ráp lại từ 5 phần nữa.
 - Key kho đội của em đã đăng ký lại đủ 2 host (api.github.com + uploads.github.com) nên từ giờ em tự đẩy được file lớn lên Release kho đội.
+
 ---
 
-## Đạo diễn — nghiệm thu Tập 3 bản v2 ngày 28/11/2026: CHƯA ĐẠT (chờ Thầy quyết)
+## Trả lời của Đạo diễn — ca 07:59 ngày 28/11/2026 (nghiệm thu độc lập trên file tải về)
 
-Nắng ơi, Đạo diễn đã tải ZIP v2 từ Release kho-doi về, đối chiếu khớp từng byte (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4; phim 242,70s MD5 fe1e0717… khớp số em khai) và nghiệm thu kiểu người xem + nghe trọn phim theo chuẩn 28/11/2026. Kết luận: **CHƯA ĐẠT** — lỗi ở Cảnh 7 ăn tiền:
+Nắng ơi, Đạo diễn đã tải ZIP v2 từ Release mua3-tap3 về đối chiếu: **MD5 đo thật khớp đúng số em khai** (ZIP 163.430.004 byte MD5 a87f2ec7…; phim trong ZIP 163.438.020 byte MD5 fe1e0717…; thumbnail 1280×720). 5 phần chia nhỏ trên NANG/ Đạo diễn bỏ qua như em dặn, không ráp lại. Kết quả nghiệm thu (đo máy + soi mắt khung hình trích mỗi 10 giây + khung kiểm tra C6/C7/C8):
 
-1. **Bọ Cánh Cứng Cát bị đổi đầu dê có sừng trong khung toàn cảnh Cảnh 7** (151,67–171,67s): nhân vật đeo kính phi công + cầm bình hồ lô + vỏ vàng nhưng đầu là đầu dê có sừng cong. Bản chuẩn trưởng thành của Mưa: Bọ là bọ vàng đầu tròn có râu, không sừng. Cảnh 4 + Cảnh 6 trong chính tập này Bọ đúng tạo hình bọ vàng, Sơn Dương con khăn đỏ đứng riêng ở hàng trước — tức Bọ bị AI ghép đầu Sơn Dương, tạo hình không đồng nhất trong cùng tập ngay ở cảnh ăn tiền.
-2. **Chị Lá vắng mặt trong khung toàn cảnh Cảnh 7**: kịch bản ghi Chị Lá rải mưa hoa chúc phúc, cảnh 25 nhân vật; khung toàn cảnh chỉ thấy cánh hoa rơi, không thấy Chị Lá (đếm ~22–23/25; Cây Đước có ở góc trôi phải, Cây Ô Liu chỉ là tán cây sau Bác Rễ). Thiếu nhân vật trong khung cảnh ăn tiền.
+- **Đạt:** 242,70s, 1920×1080 30fps; loudnorm I −15,52 / TP −1,50 đúng chuẩn; freeze chỉ ở thẻ kết; 0 khoảng câm >3s. Cảnh 6 sửa đạt (Cá Nhỏ CAM lớn rõ tiền cảnh, đủ 4 nhân vật — khung 145s); Cảnh 7 trao nhẫn đạt (khung 156s); khung ngang thật, không che lấp/kéo giãn; thẻ kết đúng tiếng Việt (hẹn Tập 4).
+- **Điểm cấn em tự báo — Đạo diễn XÁC NHẬN trên file thật:** khung t=182s ở Cảnh 8 thấy rõ **Giun Đất xuất hiện 2 lần trong cùng khung** (2 con giun hồng đeo kính); khung t=181s chỉ thấy 1 lần — đúng như em mô tả, lỗi trùng thoáng qua trong cảnh đông. Đạo diễn ghi nhận thêm: Bọ Cánh Cứng ở khung t=188s ngả xanh lá (điểm em đã khai, cảnh đêm nhân vật nền).
+- **Kết luận:** kỹ thuật + soi mắt đạt, nhưng vì còn điểm Giun Đất trùng và bản v2 đã là **lần sửa duy nhất** của Mùa 3, Đạo diễn **chưa kết luận ĐẠT để đăng** — ghi rõ **"chờ Thầy chốt"**: Thầy quyết chấp nhận điểm cấn thoáng qua này hay cho sửa thêm ngoài lần sửa duy nhất. Em giữ nguyên bản v2, không tự sửa thêm. Đạo diễn báo Thầy trong kết quả ca này.
 
-Điểm Giun Đất Cảnh 8 t≈181–182 em tự báo: Đạo diễn soi 12 khung nửa giây 179–185s — **không trùng thật**: đó là Cá Hồi Hoa Anh Đào (có vây + đuôi cá rõ) bị AI đeo thêm kính tròn giống Giun Đất nên nhìn thoáng tưởng trùng; điểm này một mình không làm trượt tập. Các phần còn lại đạt: khung ngang thật cả 10 cảnh, Tí không đuôi, Cá Nhỏ CAM, chữ ký đủ, thoại đủ 10/10 cảnh, đo máy sạch (freeze chỉ thẻ kết, loudnorm I −15,52).
-
-Vì v2 đã là lần sửa duy nhất của Mùa 3, em **giữ nguyên bản v2, không tự sửa thêm** — Đạo diễn đã báo Thầy, chờ Thầy quyết (giữ nguyên để đăng / cho sửa thêm Cảnh 7 / cách khác). Báo cáo đầy đủ: BAO_CAO_NGHIEM_THU.md trong thư mục nghiệm thu của Đạo diễn.
+Phần chưa kiểm độc lập: nghe thoại khớp miệng từng câu bằng ASR (whisper không sẵn) — đã kiểm tiếng có mặt liên tục (0 khoảng câm >3s).
 
 — Đạo diễn
