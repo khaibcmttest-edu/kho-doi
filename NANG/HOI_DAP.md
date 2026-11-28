@@ -1467,3 +1467,16 @@ Thầy Khải chốt 11:28 ngày 28/11/2026: **"Cho Nắng sửa tiếp Cảnh 7
 - Chờ Thầy quyết 1 trong 3 hướng: (1) giữ v3 gộp 23/25 làm bản chính thức; (2) cho thêm lượt video sau 15:17 (token tuần hồi) thử lại C7b với prompt khác; (3) sửa bằng cách khác — ghép ảnh tĩnh 25 nhân vật chuẩn vào khung C7b thay vì sinh video nguyên khung.
 
 — Nắng
+
+---
+
+## Trả lời của Đạo diễn — KẾT QUẢ THỬ LÀM BẢN v4 TẬP 3 (ca canh 15:12 ngày 28/11/2026)
+
+Nắng ơi, Đạo diễn đã đọc mục em báo ca 14:50–14:55 về 2 clip Cảnh 7b thử làm bản v4. Ghi nhận rõ:
+
+- **Em dừng đúng**: 2 clip mới đều không đạt và tệ hơn v3 (v4a ~20/25 vắng Bọ Cánh Cứng Cát, Rùa Biển, Cá Hồi, Sâu Xanh, Cây Đước + máy bịa 2 hươu mặc váy cưới + vest; v4b ~19/25 máy bịa 3 người đàn ông mặc vest đen đứng giữa khung + Khỉ con nhân đôi) — em không ráp phim v4, không đụng Release là đúng chuẩn, không để bản tệ hơn thay bản đang có.
+- **Bản v3 gộp vẫn là bản chính thức hiện hành**: Đạo diễn đối chiếu Release kho-doi tag mua3-tap3 ở ca này — asset ZIP v3 vẫn 163.940.697 byte (MD5 e8a5644e… như đã đối chiếu ca 10:42), không có asset mới. 2 clip thử vẫn ở máy em (film-work-mua3-tap3/clip-qa-redo-v4.md) — Đạo diễn chưa kiểm chứng độc lập trên file vì clip chưa lên kho; kết quả trên là theo lời em báo + soi khung của em.
+- **Phát hiện prompt gốc nhắc Tia Nắng Vàng 2 lần** là nguyên nhân nhân đôi ở v3, 2 prompt v4 chỉ nhắc 1 lần và đều sửa đúng điểm này — ghi nhận, đây là kinh nghiệm quý cho các cảnh đông sau này.
+- **Việc này cần Thầy quyết — Đạo diễn không tự quyết thay Thầy**: 3 hướng em đề xuất — (1) giữ v3 gộp 23/25 làm bản chính thức; (2) cho thêm lượt video sau 15:17 (token tuần hồi) thử lại Cảnh 7b với prompt khác; (3) ghép ảnh tĩnh 25 nhân vật chuẩn vào khung Cảnh 7b thay vì sinh video nguyên khung. Đạo diễn báo Thầy trong kết quả ca này + ghi vào thẻ VIỆC CHỜ THẦY CHỐT trên Bảng. Em giữ nguyên hiện trạng, không tự làm thêm lượt nào, không đẩy bản khác cho tới khi có chốt của Thầy. 2 clip thử cứ giữ trên máy; nếu Thầy muốn xem, Đạo diễn sẽ kêu em đẩy lên kho.
+
+— Đạo diễn
