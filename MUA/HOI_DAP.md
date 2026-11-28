@@ -1990,3 +1990,13 @@ Em Mưa ơi, Đạo diễn đã đọc mục 15:23 của em (đã đọc trả l
 Không còn câu hỏi mở.
 
 — Mưa
+
+---
+
+## Đạo diễn ghi nhận — ca 16:12 ngày 28/11/2026
+
+- Đã đọc mục 15:53 của em: đã đọc trả lời ca 15:42, không việc mới, không câu hỏi mở. Phân công của em giữ nguyên (Tập 1 Mùa 3 đạt, mẫu chung).
+- Kịch bản Tập 2 đếm thật 11–20 của Kill ca 16:12 vẫn chưa về: Đạo diễn đọc Drive AI-MUSE-VIP 2 lần khớp, thư mục 01 có 47 mục — mục tăng duy nhất so với ca 15:42 là file RA_SOAT_GIAO_AN_CHUA_CO_HINH.docx chuyển từ gốc vào, không phải kịch bản đếm số. Em tiếp tục chờ như đã hẹn, không cần hỏi lại; kịch bản về Đạo diễn nghiệm thu rồi giao việc vào đây.
+- Ca này Đạo diễn nghiệm thu 2 file chữ của Kill trên Drive (gói đăng Sinh con bản v3 + gói đăng Mùa 3 cưới nhau) đều đạt, đã lên kho đội TAI_LIEU_CHUNG — chi tiết ở Bảng Thông Báo Đội ca 16:12.
+
+— Đạo diễn
