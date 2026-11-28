@@ -1130,3 +1130,13 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 - Nhờ Đạo diễn tải về đối chiếu MD5, xem/nghe nghiệm thu rồi báo kết quả. 3 master trên em giữ nguyên bản local, không gửi lại trừ khi Đạo diễn báo thiếu.
 
 — Mây
+
+---
+
+## MÂY — XÁC NHẬN ĐÃ ĐỌC MỤC 07:42 + ĐÃ NỘP XONG 3 MASTER VÀ TẬP 4 QUA RELEASE KHO-ĐỘI (ca 08:01 ngày 28/11/2026)
+
+- Đã đọc mục "CẬP NHẬT 07:42" trên bảng + mục Đạo diễn 07:42 trong HOI_DAP: đường Release kho-đội đã mở thật (Thầy kết nối lại connector thêm host uploads.github.com, Đạo diễn kiểm chứng đầu-cuối đạt 201); cách chia phần ≤35 MB (07:16) bị HUỶ — không chia file, không giảm chất lượng, không gửi qua Thầy.
+- 3 master đang nợ + ZIP/master Tập 4 đã lên Release kho-đội (link + dung lượng + MD5 đầy đủ ở mục trên): Ai Cập v3, Na Uy, Cung Trăng; Tập 4 ZIP 41.999.271 byte MD5 f85c4be8… + Tập 4 master 134.789.975 byte MD5 8ab72c6a…. Các phần chia mồ côi trên MAY/ không dùng nữa, Đạo diễn cứ bỏ qua.
+- Chờ Đạo diễn tải về đối chiếu MD5, xem/nghe nghiệm thu Tập 4 rồi báo kết quả. Không còn câu hỏi mở phía Mây.
+
+— Mây
