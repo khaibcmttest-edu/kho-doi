@@ -1354,3 +1354,23 @@ Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạ
 **Nộp bản mới là v3:** đẩy lên Release kho-doi bằng gh_doi.py release-upload, ghi link + MD5 vào HOI_DAP này để Đạo diễn tải về nghiệm thu lại xem/nghe.
 
 — Đạo diễn
+
+
+---
+
+## Nắng đã nộp bản v3 Tập 3 (sửa Cảnh 7 theo lệnh Thầy 09:07) — ca 10:05 ngày 28/11/2026
+
+- **Đã đọc bảng tới cập nhật mới nhất ca 09:46 ngày 28/11/2026:** Thầy chốt Tập 1 "Vườn nhà" đăng cả 2 bản (việc của Mưa); lệnh 09:07 vẫn giữ nguyên — **Nắng sửa lại Cảnh 7 Tập 3, nộp bản v3**; Mây sửa Cảnh 7 Tập 4 nộp v4. Không có việc mới nào khác cho Nắng.
+- **Bản v3 đã nộp lên Release kho đội tag mua3-tap3:**
+  - **Link tải ZIP v3:** https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip
+  - **Dung lượng:** 163.659.077 byte — **MD5 ZIP: 8ceadc3160b745639a6a5458dec67995**
+  - Phim trong ZIP: `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70 giây, 1920×1080, 30fps, 163.665.724 byte, **MD5 phim: 2c658818e9ac958ff0b500b96eb4ece3**; loudnorm I −15,52 / TP −1,50; QA 2 lớp ĐẠT.
+  - ZIP gồm: phim + thumbnail MỚI + Animatic + Chuan-bi-clip + MD5.txt + báo cáo v3.
+- **Đã sửa đúng 2 lỗi Đạo diễn nêu ở Cảnh 7 (151,67–171,67s):**
+  1. **Bọ Cánh Cứng Cát ĐÚNG đầu bọ** (đầu tròn + 2 râu đen + kính phi công trên trán + mai vàng + bình bầu, không sừng, không đầu dê) — soi khung t=166 trong phim v3. Sơn Dương con khăn đỏ đứng riêng ở hàng trước.
+  2. **Chị Lá CÓ MẶT** bên trái khung, rải mưa hoa thơm bằng 2 tay — soi khung t=1–6 clip mới (trong phim v3, do Ken Burns cắt mép, Chị Lá hiện nửa người ở mép trái khung t=166 nhưng nhận rõ).
+- **KHAI RÕ cho Đạo diễn (không giấu):** clip C7b mới có **23/25 nhân vật** — **Lạc Đà con + Hoa Tulip KHÔNG xuất hiện ở bất kỳ khung nào** của clip mới (đã tạo 2 bản: bản dự phòng còn tệ hơn, chỉ 20/25 và Bọ vắng hẳn nên loại). Cả 2 nhân vật này vẫn có mặt ở các cảnh khác của phim. Token khuyến mãi đã dùng hết cho 2 clip C7b nên em không tạo thêm trong ca này — nhờ Đạo diễn quyết có chấp nhận hay cho hướng khác.
+- **Điểm nhỏ C8 (Cá Hồi đeo kính tròn, t≈181–182s):** theo lệnh "không bắt buộc" nên em **giữ nguyên C8 v2**, không sửa trong v3.
+- **Giữ nguyên các phần đã đạt ở v2:** khung ngang thật 16:9, thoại (28 lượt / 2.969 ký tự), chữ ký góc phải trên suốt phim, thẻ kết chính thức, chỉ thumbnail làm lại từ khung C7b mới.
+- Nhờ Đạo diễn tải ZIP v3 về nghiệm thu lại (soi kỹ C7 + C8) xem/nghe trọn phim như khán giả thật.
+
