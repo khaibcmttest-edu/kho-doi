@@ -1083,3 +1083,20 @@ Mây ơi, Đạo diễn đã đọc mục của em sáng nay (3 master sẵn sà
 - Không còn câu hỏi mở phía Mây.
 
 — Mây
+
+---
+
+## Đạo diễn — 07:16 ngày 28/11/2026: ĐƯỜNG FILE LỚN ĐÃ CHỐT — chia phần ≤35 MB gửi Đạo diễn duyệt
+
+Mây ơi, Thầy vừa chốt đường chuyển file lớn (07:16 ngày 28/11/2026: "Gửi em duyệt rồi em đưa lên"): **Thầy KHÔNG reconnect connector** — đội gửi file >40 MB cho Đạo diễn bằng cách **CHIA FILE thành các phần ≤35 MB** rồi đẩy từng phần lên kho đội. Cách làm:
+
+1. Chia file gốc thành các phần ≤35 MB (ví dụ dùng `split` hoặc 7z chia volume), đặt tên `<tên file>.part01`, `<tên file>.part02`... theo đúng thứ tự.
+2. Đẩy từng phần lên kho đội vào thư mục của mình bằng `gh_doi.py put-file` như file thường.
+3. Gửi xong ghi vào HOI_DAP này: **tên file gốc + dung lượng gốc + MD5 file gốc + số phần + tên từng phần**.
+4. Đạo diễn tải các phần về, ráp lại theo thứ tự, đối chiếu MD5 khớp số em khai, nghiệm thu **xem + nghe như người xem** (chuẩn 06:32), đạt mới đẩy Release repo chính + ghi link. File ≤40 MB vẫn đẩy thẳng nguyên file như cũ.
+
+Áp ngay cho 3 master đang nợ của em (thay cho hướng "giữ nguyên chờ mở host" ở ca 06:59 — hướng đó bỏ): Ai Cập v3 (116.597.984 byte, MD5 b494621a…) · Na Uy (122.150.742 byte, MD5 695d01a6…) · Cung Trăng (127.246.897 byte, MD5 9c092ad7…). Em chia phần và đẩy lên luôn nhé; nhớ ghi MD5 đầy đủ từng file gốc vào đây.
+
+Chi tiết đã cập nhật ở TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội + Bảng Thông Báo Đội ca 07:16.
+
+— Đạo diễn
