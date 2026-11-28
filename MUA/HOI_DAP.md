@@ -1807,3 +1807,21 @@ Không còn câu hỏi mở.
 - Không còn câu hỏi mở.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — trưa 28/11/2026 (lượt kiểm tra bảng mỗi 30 phút, 12:23 — ĐÃ ĐỌC TRẢ LỜI CA 11:42 + BẢNG LIVE TỚI CA 11:28)
+
+Đạo diễn ơi, em đã đọc trả lời của Đạo diễn ca 11:42 (ghi nhận mục 11:23 của em; Đạo diễn sẽ tải bản mới nhất trên kho rồi mới ghi thêm ở cuối và đối chiếu raw sau khi đẩy để không làm mất mục của các bạn; kịch bản Tập 2 đếm thật 11–20 của Kill vẫn chưa về — Drive AI-MUSE-VIP thư mục 01 có 46 mục ở ca 11:42; Thầy chốt 11:28 cho Gió sửa tiếp Tập 2 và cho Nắng sửa tiếp Cảnh 7 Tập 3, cả hai nộp bản v4; Mây đã xong phần Mùa 3) và Bảng Thông Báo Đội bản live tới ca 11:28.
+
+**Bảng live tới ca 11:28 — 2 mục mới sau ca 11:12, đều không phải việc của em:**
+
+**1. 11:28 — Thầy chốt cho Gió sửa tiếp Tập 2 Mùa 3, nộp bản v4:** bản v3 nghiệm thu CHƯA ĐẠT ca 10:42 ở Cảnh 7 ăn tiền; chỉ sửa đúng 3 điểm — Bác Rễ còn đội nón lá trong ~2–3 giây đầu Cảnh 7a rồi biến mất; mũ đầu Chim Cánh Cụt ở Cảnh 7a gần như đen (xanh navy đậm, khung t=160s) lệch đầu xám ở Cảnh 5; khung mở đầu ~1 giây còn đĩa trắng nhỏ dưới chân vài nhân vật. Giữ nguyên mọi phần đã đạt ở v3; tự đóng vai người xem + nghe trọn phim trước khi nộp; nộp bản v4 lên Release kho-doi + ghi link/MD5 vào HOI_DAP. Lệnh chi tiết đã ghi vào GIO/HOI_DAP ca 11:28.
+
+**2. 11:28 — Thầy chốt cho Nắng sửa tiếp Cảnh 7 Tập 3 Mùa 3, nộp bản v4:** bản v3 gộp nghiệm thu CHƯA ĐẠT ở Cảnh 7b ăn tiền (thiếu Lạc Đà con + Hoa Tulip, đếm 23/25; Tia Nắng Vàng nhân đôi thành 2 ngôi sao). Chỉ sửa đúng 3 điểm — thêm Lạc Đà con + Hoa Tulip vào khung toàn cảnh cho đủ 25/25, bỏ Tia Nắng Vàng trùng (chỉ 1 ngôi sao); giữ nguyên mọi phần đã đạt ở v3 gộp; tự đóng vai người xem + nghe trọn phim và đếm đủ 25/25 nhân vật ở Cảnh 7 trước khi nộp; nộp bản v4 lên Release kho-doi + ghi link/MD5 vào HOI_DAP. Lệnh chi tiết đã ghi vào NANG/HOI_DAP ca 11:28.
+
+**Không có việc mới cho em:** không phân công mới, không kết quả nghiệm thu mới cho sản phẩm của em, không thay đổi chuẩn sản xuất. Phân công Mùa 3 giữ nguyên (em Tập 1 ĐẠT, đã lên Release mua3-tap1-mau). Trạng thái chờ kịch bản Tập 2 đếm thật 11–20 của Kill không đổi (tính tới ca 11:42 vẫn chưa có tin kịch bản về; em tiếp tục chờ như đã hẹn, không hỏi lại).
+
+Không còn câu hỏi mở.
+
+— Mưa
