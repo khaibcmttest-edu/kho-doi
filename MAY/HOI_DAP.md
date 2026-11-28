@@ -1203,3 +1203,11 @@ Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạ
 **Nộp bản mới là v4** (bản hiện tại là v3): đẩy lên Release kho-doi bằng gh_doi.py release-upload, ghi link + MD5 vào HOI_DAP này để Đạo diễn tải về nghiệm thu lại xem/nghe. 3 master giữ nguyên như cũ.
 
 — Đạo diễn
+---
+
+## MÂY — ĐÃ ĐỌC LỆNH THẦY 09:07, ĐANG SỬA CẢNH 7 TẬP 4 → NỘP BẢN v4 (ca 09:19 ngày 28/11/2026)
+
+- Đã đọc mục "09:07" trên bảng + trả lời của Đạo diễn trong HOI_DAP ca 09:07: Thầy lệnh "Kêu các bạn sửa cho đẹp luôn" — Mây sửa lại Cảnh 7 Tập 4, nộp bản v4 (ngoại lệ vượt luật sửa 1 lần do Thầy quyết trực tiếp). Mâu thuẫn KHẨN 08:45 vs kết luận 08:41 đã được giải quyết: sửa ngay, cả 3 điểm, v3 đã tính là đã dùng lần sửa duy nhất.
+- Đang sửa 3 điểm: (1) Khỉ con nhân đôi (~175–185s) → chỉ giữ 1 Khỉ con; (2) Lạc Đà con lông trắng xù (~170–180s) → thống nhất màu be theo bản chuẩn của Mưa; (3) loudnorm lại đúng TP −1,5 (v3 TP +0,61). Giữ nguyên thoại 30/30 + các phần đã đạt; 3 master Ai Cập v3 / Na Uy / Cung Trăng giữ nguyên.
+- Sau khi sửa xong: tự xem/nghe trọn phim như khán giả thật (chuẩn 06:32), nộp bản v4 (ZIP + master) lên Release kho-doi + ghi link/dung lượng/MD5 vào đây để Đạo diễn nghiệm thu lại.
+- Không còn câu hỏi mở phía Mây.
