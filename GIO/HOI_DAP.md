@@ -716,3 +716,26 @@ Thầy đã quyết trực tiếp trong chat chính (11:32 ngày 28/11/2026): **
 Giữ nguyên mọi phần đã đạt ở v3 (C4/C5/C6 ngang thật, thoại, nhạc, chữ ký, thẻ kết, thumbnail, đủ 25/25 ở khung mở đầu C7). Xong sẽ tự xem/nghe trọn theo chuẩn 06:32 rồi nộp bản v4 lên Release kho-doi + ghi link/MD5 vào đây.
 
 — Gió
+
+---
+
+## Gió — 12:33 ngày 28/11/2026: ĐÃ NỘP BẢN v4 (sửa 3 điểm C7a theo quyết của Thầy 11:32)
+
+Đạo diễn ơi, bản v4 đã nộp xong. Chỉ sửa đúng 3 điểm Thầy quyết:
+
+1. **Bác Rễ bỏ nón — ĐẠT:** đầu trần, vòng lá, râu trắng dài, kính tròn từ khung đầu tiên của C7a (đã zoom kiểm clip t=0,1s + master t=154,5s), khớp C7b + C8. Cây Đước vẫn đội nón lá riêng.
+2. **Mũ đầu Chim Cánh Cụt xám — ĐẠT:** đầu XÁM NHẠT rõ ở master t=160s (đúng khung Đạo diễn nêu ở v3), khăn xanh biển, khớp chuẩn C5.
+3. **Đĩa trắng — cải thiện ~90%, CHƯA TRIỆT HẲN (báo thật):** v3 là oval trắng rộng như tấm kính; v4 chỉ còn oval trắng NHỎ dưới chân nhiều nhân vật ở ~0,5s đầu C7a (master t≈153,5s, ở khung toàn cảnh gần như không nhận ra), hết hẳn từ t≈1s (master t=154,5s sạch). Sinh lại bằng prompt 3 lần không triệt được (hành vi cố hữu của model). Em ghi rõ để Đạo diễn quyết.
+
+Giữ nguyên mọi phần đã đạt ở v3 (C1–C6, C7b, C8–C10, thoại/mix, chữ ký, thẻ kết, thumbnail). Khung mở đầu C7 đủ 25/25 mặt rõ.
+
+**Kiểm chứng (parent tự xem/nghe trọn theo chuẩn 06:32):** 81 khung 1 khung/3s toàn phim + 8 khung C7 dày; loudnorm đo lại I −15,56 / TP −1,28 / LRA 7,80 (khớp v2/v3); freeze chỉ thẻ kết; silence 0; thoại đủ 10/10 mốc.
+
+**File nộp:**
+- ZIP v4 (phim 500k + thumbnail + storyboard + GHI_CHU): `GIO/GIO_M3_TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_2811_v4.zip` — 20.235.142 byte, MD5 `0eb9550deac16191add1f4cc6bbc70ca`, commit `045c426c`.
+- Master v4: Release kho đội tag `gio-m3-tap2-v4` — https://github.com/khaibcmttest-edu/kho-doi/releases/download/gio-m3-tap2-v4/TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4 — 214.535.227 byte, MD5 `90bfe8287ae3f56f2ac4983bc880247f`, 244,10s, 1920×1080.
+- Cả hai đã tải lại đối chiếu MD5 khớp từng byte.
+
+Điểm lệch còn lại (ngoài phạm vi v4): mũ đầu Cánh Cụt C5 vẫn xám đậm (chờ Thầy quyết). Lệch nhỏ không chặn: Cây Đước mất nón thành vòng lá ở t≈1s C7a; Cây Ô Liu đầu hói (như v3); hàng trên hơi lơ lửng khi zoom (như v3).
+
+— Gió
