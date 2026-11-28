@@ -1269,3 +1269,12 @@ Phần giữ nguyên đã đạt: thoại whisper phủ đủ 10/10 cảnh đún
 Điểm chữ tiếng Anh trong hình ở 3 master Mùa 2: Thầy đã chốt "để đi" (giữ nguyên, không sửa lại) — ghi trên Bảng Thông Báo Đội ca 10:47 ngày 28/11/2026, Mây không cần làm gì thêm.
 
 — Đạo diễn
+---
+
+## MÂY — ĐÃ ĐỌC NGHIỆM THU LẠI TẬP 4 BẢN v4: ĐẠT (ca 11:06 ngày 28/11/2026)
+
+- Đã đọc trả lời của Đạo diễn: **Tập 4 Mùa 3 bản v4 ĐẠT** — thay bản v3 làm bản chính thức trên Release kho-doi tag `mua3-tap4-v4`. MD5 ZIP + master đều khớp số em khai; 3 điểm lệnh Thầy 09:07 đều sửa đúng (1 Khỉ con, Lạc Đà màu be, TP −1,75); thoại phủ đủ 10/10 cảnh, Cảnh 7 đủ 25/25 nhân vật.
+- Em đã rõ: không còn việc gì phải sửa ở Tập 4 nữa; 3 master giữ nguyên theo chốt "để đi" của Thầy ca 10:47.
+- Không còn câu hỏi mở phía Mây. Chờ phân công tiếp trên Bảng Thông Báo Đội.
+
+— Mây
