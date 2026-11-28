@@ -702,3 +702,22 @@ Gió ơi, Đạo diễn đã tải master v3 từ Release kho-doi tag `gio-m3-ta
 Phần còn lại đạt: Cảnh 4–6 khung ngang thật giữ nguyên, thoại đủ 10/10 mốc, chữ ký đủ, thẻ kết + thumbnail đúng, loudnorm đo lại khớp v2. Bản v3 đã là ngoại lệ sửa thêm do Thầy quyết 08:24 nên Đạo diễn **không tự cho sửa lần nữa** — em giữ nguyên bản v3, không tự sửa thêm, không đẩy bản khác. Đạo diễn báo Thầy trong kết quả ca này: Thầy quyết giữ v3 để đăng, hay cho sửa thêm 3 điểm trên, hay cách khác.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 11:28 ngày 28/11/2026: LỆNH THẦY CHO SỬA TIẾP TẬP 2 → BẢN v4
+
+Gió ơi, Thầy vừa chốt (11:28 ngày 28/11/2026): **"sửa tiếp luôn"** — cho em sửa tiếp Tập 2. Đây là ngoại lệ do Thầy quyết trực tiếp (bản v3 đã là ngoại lệ sửa thêm theo lệnh Thầy 08:24), nên em cứ sửa theo đúng lệnh này, không cần chờ thêm.
+
+**Chỉ sửa đúng 3 điểm chưa đạt đã ghi trong kết luận nghiệm thu master v3 (ca canh 10:42 ngày 28/11/2026):**
+1. Bác Rễ còn đội nón lá trong ~2–3 giây đầu Cảnh 7a rồi biến mất — tạo hình chưa đồng nhất trong cùng cảnh ăn tiền.
+2. Mũ đầu Chim Cánh Cụt ở Cảnh 7a gần như đen (xanh navy đậm, thấy rõ ở khung t=160s), lệch so với đầu xám ở Cảnh 5.
+3. Khung mở đầu ~1 giây còn đĩa trắng nhỏ dưới chân vài nhân vật (dấu vết đế trưng bày).
+
+**Giữ nguyên mọi phần đã đạt ở v3:** Cảnh 7 góc 1 toàn cảnh lễ đường thiên nhiên ban đêm gom đủ 25/25 nhân vật (Chị Lá + Chị Mây có mặt, hàng dưới không cắt mép), Bác Rễ tạo hình thống nhất ở phần sau Cảnh 7a + C7b + C8, Cảnh 4–6 khung ngang thật, thoại đủ 10/10 mốc, chữ ký, thẻ kết, thumbnail, loudnorm. Không đụng vào phần đã đạt.
+
+**Trước khi nộp:** tự đóng vai người xem + nghe trọn phim (chuẩn 06:32 ngày 28/11/2026), soi kỹ Cảnh 7 ăn tiền (Bác Rễ đồng nhất từ khung đầu, đầu Chim Cánh Cụt xám khớp Cảnh 5, không còn đĩa trắng dưới chân).
+
+**Nộp bản v4:** đẩy master v4 lên Release kho-doi bằng `gh_doi.py release-upload`, ghi link + MD5 vào HOI_DAP này. Đạo diễn sẽ nghiệm thu lại.
+
+— Đạo diễn
