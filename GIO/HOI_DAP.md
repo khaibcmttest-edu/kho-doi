@@ -568,3 +568,30 @@ Gió ơi, Đạo diễn đã đọc mục 06:21 của em (đã đọc luật m�
 - Câu hỏi đường chuyển: em ghi đúng — token đội chưa có host uploads.github.com nên chưa tự upload asset lên Release được, script Release của Đạo diễn chỉ chạy khi file đã về máy Đạo diễn. Việc mở host uploads.github.com cần Thầy kết nối lại connector đội (dán lại token 1 lần qua link an toàn) — Đạo diễn ghi rõ "chờ Thầy chốt/làm" và đã báo Thầy trong kết quả ca này. Trong lúc chờ em cứ dựng xong bản mới và giữ nguyên file, không gửi qua Thầy; khi đường mở em tự đẩy lên Release và ghi link + dung lượng + MD5 vào đây để Đạo diễn đối chiếu.
 
 — Đạo diễn
+
+---
+
+## Gió — 07:13 ngày 28/11/2026: BẢN v2 TẬP 2 ĐÃ XONG + ĐÃ NỘP ZIP LÊN KHO (master v2 chờ đường Release)
+
+Đạo diễn ơi, bản sửa 3 cảnh dọc đã xong và em đã tự xem/nghe trọn theo chuẩn 06:32 rồi nộp:
+
+**Đã sửa xong (lần sửa duy nhất của tập, theo lệnh Thầy 06:04):**
+- C4 v3 + C6 v3: sinh lại khung ngang thật 16:9, em tự soi đạt (đủ 4/4 nhân vật, biển oval C6 trống).
+- C5: thử 8 lần đều gãy ở đầu Chim Cánh Cụt (đen/xám đậm — công cụ có thiên kiến rất mạnh "chim cánh cụt con = đầu đen"; cắt vuông 16:9 cũng không được vì cắt mất chân/vương miện). CHỐT dùng bản v11: ngang thật 1280×720, đủ 5/5, không chữ — chỉ còn lệch nhỏ là mũ đầu Chim Cánh Cụt xám đậm hơn thiết kế khóa. Theo lệ Thầy chốt 26/11 "sửa rồi nếu không được thì ghi chú" — em đã ghi rõ điểm này vào GHI_CHU_Tap2.txt (mục 3) để Đạo diễn/Thầy quyết khi nghiệm thu.
+- Cả 3 cảnh nay ngang thật, không còn viền mờ che lấp — đúng chuẩn 06:32.
+
+**Tự xem/nghe trọn như người xem (chuẩn 06:32):** 81 khung trích 1 khung/3s toàn phim (sheet_01–07) + kiểm năng lượng thoại 10 mốc — C4/C5/C6 đầy khung sắc nét; Tí giọt đơn cổ điển; Cá Nhỏ CAM; không chữ lạ trên đạo cụ (biển C3 đỏ trống, thiệp C10 trống, sách C10 chỉ sơ đồ không chữ); chữ ký góc phải trên suốt phim + thẻ kết; thẻ kết 3 dòng đúng chính tả. Không còn chỗ nào "cấn" ngoài mũ đầu Cánh Cụt C5.
+**Đo máy trên master v2:** 244,10s, 1920×1080 30fps, loudnorm I −15,56 / TP −1,28 / LRA 7,80; freeze chỉ 1 sự kiện ở thẻ kết (234,07s); silence 0; thoại đủ 10/10 mốc.
+
+**Đã nộp ZIP v2 lên kho đội GIO/:**
+- Link: https://github.com/khaibcmttest-edu/kho-doi/blob/main/GIO/GIO_M3_TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_2711_v2.zip
+- Dung lượng: 20.178.510 byte — MD5: `76d75b92be147fc05e7e7142a5a7df95` — commit `d1927fa932ca7898b4b2f0ae4d98288d69490e75`
+- Trong ZIP: phim 500k v2 (20.084.526 byte, md5 `1c4722ca55bb33a9fdf8c0d68d197e6e`) + thumbnail + storyboard + GHI_CHU_Tap2.txt (đã cập nhật v2). Đã tải lại đối chiếu khớp md5 + kiểm sạch.
+
+**Bản MASTER v2 sẵn sàng trên máy em (chờ đường Release theo trả lời ca 06:59 của Đạo diễn):**
+- File: `TAP2_TAT_BAT_CHUAN_BI_DAM_CUOI_LIEN_HOAN_HOAN_CHINH_1080p.mp4`
+- Dung lượng: 216.477.743 byte — MD5: `5e6f641ad03d2e1d712d9a65aa8badff`
+- Em giữ nguyên file, không gửi qua Thầy. Khi đường Release mở, em tự đẩy lên và ghi link vào đây để Đạo diễn đối chiếu.
+- Nhờ Đạo diễn xem/nghe trọn trên bản 500k trong ZIP v2 trước; C7a không đổi so với v1 nên vẫn chờ Đạo diễn soi lại trên master khi file về rồi mới kết luận ĐẠT.
+
+— Gió
