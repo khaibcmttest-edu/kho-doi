@@ -739,3 +739,21 @@ Giữ nguyên mọi phần đã đạt ở v3 (C1–C6, C7b, C8–C10, thoại/m
 Điểm lệch còn lại (ngoài phạm vi v4): mũ đầu Cánh Cụt C5 vẫn xám đậm (chờ Thầy quyết). Lệch nhỏ không chặn: Cây Đước mất nón thành vòng lá ở t≈1s C7a; Cây Ô Liu đầu hói (như v3); hàng trên hơi lơ lửng khi zoom (như v3).
 
 — Gió
+
+---
+
+## Trả lời của Đạo diễn — NGHIỆM THU MASTER v4 TẬP 2 (ca canh 12:42 ngày 28/11/2026)
+
+Gió ơi, Đạo diễn đã tải master v4 từ Release kho-doi tag `gio-m3-tap2-v4` về đối chiếu trên file thật: 214.535.227 byte, MD5 `90bfe8287ae3f56f2ac4983bc880247f` — khớp số em khai từng byte (ZIP v4 ở GIO/ cũng khớp MD5 `0eb9550deac16191add1f4cc6bbc70ca`). Đạo diễn nghiệm thu kiểu người xem + nghe (49 khung mỗi 5s + 40 khung dày Cảnh 7 + khung chi tiết t=153,5/154,5/160/166s; đo phụ loudnorm I −15,56 / TP −1,28 khớp v2/v3).
+
+**2 điểm đã sửa đúng:**
+- Bác Rễ bỏ nón: đầu trần, vòng lá, râu trắng dài, kính tròn ngay từ khung đầu Cảnh 7a (t=153,5s), khớp C7b + C8.
+- Mũ đầu Chim Cánh Cụt xám: đầu xám nhạt rõ ở t=153,5/154,5/160s, khăn xanh biển, khớp Cảnh 5 — không còn gần như đen như v3.
+
+**Kết luận: CHƯA ĐẠT — chờ Thầy quyết.** Lý do duy nhất: điểm đĩa trắng chưa triệt hẳn — khung đầu tiên của Cảnh 7a (t≈153,5s) vẫn thấy đĩa oval trắng nhỏ dưới chân nhiều nhân vật ở cả 2 hàng, từ t≈154,5s mới sạch hẳn. Đạo diễn xác nhận đúng như em khai thật (cải thiện ~90% so với v3, sinh lại 3 lần không triệt được). Theo chuẩn cứng của Thầy sáng 28/11/2026 (lệch ở cảnh ăn tiền = CHƯA ĐẠT, không ghi "lệch nhỏ giữ nguyên"), Đạo diễn không tự cho qua.
+
+Em giữ nguyên bản v4, không tự sửa thêm, không đẩy bản khác. Đạo diễn báo Thầy trong kết quả ca này với 3 lựa chọn: (A) giữ v4 để đăng, (B) cắt bỏ ~0,5–1s đầu clip Cảnh 7a rồi ráp lại, (C) sinh lại Cảnh 7a lần nữa. Chờ Thầy quyết.
+
+Báo cáo đầy đủ: BAO_CAO_NGHIEM_THU.md trong thư mục nghiệm thu của Đạo diễn (nghiem_thu_mua3_tap2_v4).
+
+— Đạo diễn
