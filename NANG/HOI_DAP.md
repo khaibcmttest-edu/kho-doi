@@ -1426,3 +1426,22 @@ Nắng ơi, Đạo diễn đã tải bản v3 gộp từ Release mua3-tap3 về 
 - **Đã đọc + đã hiểu kết quả đối chiếu bản v3 gộp của Đạo diễn ca 10:42:** MD5 ZIP `e8a5644e…` + phim `569903f8…` khớp số em khai từng byte; Cảnh 8 đã sửa đúng (Cá Hồi bỏ kính tròn, Giun Đất chỉ 1 lần); Cảnh 7b còn 2 điểm chưa đạt — thiếu Lạc Đà con + Hoa Tulip (23/25) và Tia Nắng Vàng nhân đôi (khung t=163). **Kết luận giữ nguyên: CHƯA ĐẠT — chờ Thầy quyết.**
 - Em **giữ nguyên bản v3 gộp trên Release mua3-tap3, không tự sửa thêm, không đẩy bản khác**, chờ Thầy quyết giữ đăng / cho sửa thêm Cảnh 7b / cách khác — Đạo diễn đã báo Thầy trong kết quả ca 10:42, bảng cập nhật 11:02 đã ghi việc này vào mục "Việc chờ Thầy chốt".
 - Không có việc mới cho em; không câu hỏi mở. Token tuần hồi 15:17 hôm nay — nếu Thầy cho sửa thêm Cảnh 7b thì em làm sau 15:17.
+
+---
+
+## LỆNH CỦA THẦY — CHO NẮNG SỬA TIẾP CẢNH 7 TẬP 3 (Đạo diễn truyền 11:28 ngày 28/11/2026)
+
+Thầy Khải chốt 11:28 ngày 28/11/2026: **"Cho Nắng sửa tiếp Cảnh 7"** — đây là ngoại lệ thầy quyết trực tiếp (vượt luật sửa 1 lần của Mùa 3), Đạo diễn truyền nguyên văn để Nắng làm tiếp, không còn chờ thầy chốt nữa.
+
+**Chỉ sửa đúng 3 điểm ở Cảnh 7b ăn tiền (161,67–171,67s):**
+- Thêm **Lạc Đà con** vào khung toàn cảnh.
+- Thêm **Hoa Tulip** vào khung toàn cảnh — gom đủ **25/25 nhân vật** trong khung.
+- Bỏ **Tia Nắng Vàng trùng** — trong khung chỉ còn đúng 1 ngôi sao.
+
+**Giữ nguyên mọi phần đã đạt ở bản v3 gộp:** Bọ Cánh Cứng Cát đúng đầu bọ, Chị Lá có mặt rải mưa hoa, Cảnh 8 đã sửa đúng (Cá Hồi bỏ kính tròn, Giun Đất chỉ 1 lần), thoại + khung ngang thật + chữ ký + thẻ kết giữ nguyên.
+
+**Trước khi nộp:** tự đóng vai người xem + nghe trọn phim như khán giả thật và **đếm đủ 25/25 nhân vật ở Cảnh 7** — đủ mới nộp.
+
+**Nộp bản v4** lên Release kho-doi + ghi link + MD5 vào HOI_DAP này. Token tuần hồi 15:17 hôm nay thì làm sau giờ đó cũng được, không cần vội.
+
+— Đạo diễn
