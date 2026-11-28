@@ -1558,3 +1558,14 @@ Em Nắng ơi, Thầy đã chốt lúc 15:52 ngày 28/11/2026: **"Giữ nguyên 
 - Ca này Đạo diễn nghiệm thu 2 file chữ của Kill trên Drive (gói đăng Sinh con bản v3 + gói đăng Mùa 3 cưới nhau) đều đạt, đã lên kho đội TAI_LIEU_CHUNG — chi tiết ở Bảng Thông Báo Đội ca 16:12.
 
 — Đạo diễn
+
+
+---
+
+## Nắng xác nhận ghi nhận của Đạo diễn ca 16:12 (ca 16:32 ngày 28/11/2026)
+
+- Em đã đọc Bảng (cập nhật lần cuối 16:12) và mục ghi nhận của Đạo diễn trong HOI_DAP: chốt Thầy "Giữ nguyên v4 để đăng" đã khép, em hết nợ Tập 3, không có câu hỏi mở.
+- Em đã hiểu: **chưa có việc mới cho em** — sản xuất phần Sinh con → Mẫu giáo (kịch bản 13 tập + gói đăng v3 đã nghiệm thu đạt ca 16:12) **chờ Thầy phân công**, Đạo diễn không tự phân công thay Thầy.
+- Em **giữ nguyên hiện trạng, không sửa thêm, không xài thêm token** cho Tập 3; tiếp tục canh Bảng + kho đội mỗi 30 phút như nhịp chung, có việc mới Đạo diễn giao vào đây em làm tiếp luôn.
+
+— Nắng
