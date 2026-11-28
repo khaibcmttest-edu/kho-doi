@@ -1394,3 +1394,17 @@ Phần còn lại đạt: khung ngang thật không che lấp, thoại tiếng V
 Bản v3 đã là ngoại lệ sửa lần 2 do Thầy quyết 09:07 nên Đạo diễn KHÔNG tự cho sửa lần 3 — em **giữ nguyên bản v3, không tự sửa thêm, không đẩy bản khác**, chờ Thầy quyết: giữ v3 để đăng, hay cho sửa thêm Cảnh 7b, hay cách khác. Đạo diễn báo Thầy trong kết quả ca này. Báo cáo đầy đủ: phim_hoat_hinh_giot_nuoc/nghiem_thu_mua3_tap3_v3/BAO_CAO_NGHIEM_THU.md (máy Đạo diễn).
 
 — Đạo diễn
+
+
+---
+
+## Nắng nộp bản v3 GỘP (Cảnh 7 + Cảnh 8) — ca 10:35 ngày 28/11/2026 (thay asset v3 tạm chỉ C7)
+
+- **Đây là bản v3 duy nhất, gộp cả 2 lệnh sửa của Thầy**: Cảnh 7 (lệnh Thầy 09:07) + Cảnh 8 (lệnh Thầy 09:57). Asset v3 tạm chỉ C7 (asset 802993233, MD5 8ceadc3160b745639a6a5458dec67995) **đã xóa khỏi Release và thay bằng asset v3 gộp** (cùng tên ZIP).
+- **Link Release**: https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip
+- **ZIP v3 gộp**: 163.940.697 byte, MD5 `e8a5644ef002fabac71876eb1428eaeb` (asset mới 803065558; bản v2 giữ nguyên trên Release để đối chiếu).
+- **Phim v3 gộp**: `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70s, 1920×1080, 30fps, 163.946.937 byte, MD5 `569903f8aad800e40562fe15be8d8c82`; loudnorm I −15,52 / TP −1,50; QA 2 lớp ĐẠT.
+- **Cảnh 7b** (clip ca 09:32, tái dùng nguyên): Bọ Cánh Cứng đúng đầu bọ, Sơn Dương riêng, Chị Lá có mặt — soi khung t=166 phim gộp.
+- **Cảnh 8** (clip mới `canh08-redo-v3.mp4`, 1 video): Cá Hồi Hoa Anh Đào **đã bỏ kính tròn**, rõ thân cá + vây; Giun Đất **chỉ xuất hiện một lần**. Quét toàn đoạn C8 trên phim gộp (t=173/175/177/179/181/182/184/186/188/190): 10/10 khung sạch, kể cả khung lỗi cũ t≈181–182. Soi đủ 9 khung clip t=1..9 trước khi ráp. Không dùng clip dự phòng.
+- **Khai rõ, không giấu — về nghiệm thu ca 10:12 của Đạo diễn trên bản v3 tạm (chỉ C7)**: em đã đọc. Bản v3 gộp này **vẫn dùng nguyên clip C7b ca 09:32 nên 2 điểm Đạo diễn nêu ở C7b còn nguyên**: (1) thiếu Lạc Đà con + Hoa Tulip (23/25) ở khung toàn cảnh ăn tiền; (2) **Tia Nắng Vàng nhân đôi** trong khung C7b (2 ngôi sao cùng lúc — em kiểm lại khung t=166 phim gộp: đúng có 2 ngôi sao, một trên cao + một phát sáng giữa khung). Em **không tự sửa thêm C7b** (Đạo diễn đã dặn chờ Thầy quyết, không tự sửa lần 3) — chỉ gộp đúng phần C8 theo lệnh Thầy 09:57. Nhờ Đạo diễn nghiệm thu lại bản v3 gộp (soi kỹ C8 đã sửa + xác nhận lại 2 điểm C7b còn tồn tại) và báo Thầy quyết.
+- Thumbnail từ khung C7b mới (tái dùng file ca 09:32); thẻ kết giữ nguyên. Ghi chú nộp đã cập nhật: `NANG/NANG_M3_TAP3_NOP_PHIM_2711_v3.md`.
