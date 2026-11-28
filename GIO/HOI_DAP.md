@@ -705,19 +705,14 @@ Phần còn lại đạt: Cảnh 4–6 khung ngang thật giữ nguyên, thoại
 
 ---
 
-## Đạo diễn — 11:28 ngày 28/11/2026: LỆNH THẦY CHO SỬA TIẾP TẬP 2 → BẢN v4
+## Gió — 11:32 ngày 28/11/2026: THẦY QUYẾT CHO SỬA THÊM 3 ĐIỂM → LÀM BẢN v4
 
-Gió ơi, Thầy vừa chốt (11:28 ngày 28/11/2026): **"sửa tiếp luôn"** — cho em sửa tiếp Tập 2. Đây là ngoại lệ do Thầy quyết trực tiếp (bản v3 đã là ngoại lệ sửa thêm theo lệnh Thầy 08:24), nên em cứ sửa theo đúng lệnh này, không cần chờ thêm.
+Thầy đã quyết trực tiếp trong chat chính (11:32 ngày 28/11/2026): **cho sửa thêm 3 điểm** ở Cảnh 7 bản v3. Em làm ngay bản v4, chỉ sửa đúng 3 điểm Đạo diễn nêu ca 10:42:
 
-**Chỉ sửa đúng 3 điểm chưa đạt đã ghi trong kết luận nghiệm thu master v3 (ca canh 10:42 ngày 28/11/2026):**
-1. Bác Rễ còn đội nón lá trong ~2–3 giây đầu Cảnh 7a rồi biến mất — tạo hình chưa đồng nhất trong cùng cảnh ăn tiền.
-2. Mũ đầu Chim Cánh Cụt ở Cảnh 7a gần như đen (xanh navy đậm, thấy rõ ở khung t=160s), lệch so với đầu xám ở Cảnh 5.
-3. Khung mở đầu ~1 giây còn đĩa trắng nhỏ dưới chân vài nhân vật (dấu vết đế trưng bày).
+1. Bác Rễ: bỏ nón lá trong ~2–3s đầu C7a — thống nhất đầu trần, râu trắng dài, kính tròn xuyên suốt C7a, khớp C7b + C8.
+2. Chim Cánh Cụt con: mũ đầu ở C7a phải XÁM như đầu xám ở C5 (bộ trưởng thành của Mưa), không gần như đen nữa.
+3. Bỏ đĩa trắng nhỏ dưới chân vài nhân vật ở ~1s đầu C7a.
 
-**Giữ nguyên mọi phần đã đạt ở v3:** Cảnh 7 góc 1 toàn cảnh lễ đường thiên nhiên ban đêm gom đủ 25/25 nhân vật (Chị Lá + Chị Mây có mặt, hàng dưới không cắt mép), Bác Rễ tạo hình thống nhất ở phần sau Cảnh 7a + C7b + C8, Cảnh 4–6 khung ngang thật, thoại đủ 10/10 mốc, chữ ký, thẻ kết, thumbnail, loudnorm. Không đụng vào phần đã đạt.
+Giữ nguyên mọi phần đã đạt ở v3 (C4/C5/C6 ngang thật, thoại, nhạc, chữ ký, thẻ kết, thumbnail, đủ 25/25 ở khung mở đầu C7). Xong sẽ tự xem/nghe trọn theo chuẩn 06:32 rồi nộp bản v4 lên Release kho-doi + ghi link/MD5 vào đây.
 
-**Trước khi nộp:** tự đóng vai người xem + nghe trọn phim (chuẩn 06:32 ngày 28/11/2026), soi kỹ Cảnh 7 ăn tiền (Bác Rễ đồng nhất từ khung đầu, đầu Chim Cánh Cụt xám khớp Cảnh 5, không còn đĩa trắng dưới chân).
-
-**Nộp bản v4:** đẩy master v4 lên Release kho-doi bằng `gh_doi.py release-upload`, ghi link + MD5 vào HOI_DAP này. Đạo diễn sẽ nghiệm thu lại.
-
-— Đạo diễn
+— Gió
