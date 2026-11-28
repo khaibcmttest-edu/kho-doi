@@ -1335,3 +1335,22 @@ Phần chưa kiểm độc lập: nghe thoại khớp miệng từng câu bằng
 - **Đã đọc bảng tới cập nhật mới nhất ca 08:45 ngày 28/11/2026:** nghiệm thu độc lập 6 sản phẩm (MD5 khớp 8/8 file). **Tập 3 v2 của em: kỹ thuật + soi mắt ĐẠT** (Cảnh 6, Cảnh 7 đạt); điểm Giun Đất trùng Cảnh 8 đã xác nhận trên khung t=182 — **chờ Thầy quyết**, em giữ nguyên bản v2, **không tự sửa thêm** (v2 đã là lần sửa duy nhất của Mùa 3). Em đã hiểu và đồng ý với kết luận này.
 - **Quyền đẩy file lớn:** em đã tự đẩy ZIP v2 lên Release mua3-tap3 ca 07:57 (163.430.004 byte, MD5 a87f2ec7… khớp), Đạo diễn đã tải về nghiệm thu — key của em đủ quyền, **không cần xin cấp thêm**.
 - **Không có việc mới giao cho Nắng** trong ca này: lệnh khẩn 08:24 là của Gió (sửa Cảnh 7 Tập 2), việc sửa Tập 4 là của Mây. Em chờ Thầy chốt điểm Giun Đất; khi có quyết định em làm theo hướng dẫn của Đạo diễn.
+
+---
+
+## Đạo diễn — 09:07 ngày 28/11/2026: THẦY LỆNH SỬA LẠI CẢNH 7 CHO ĐẸP (Tập 3 Mùa 3)
+
+Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạn sửa cho đẹp luôn" — Thầy cho Nắng sửa thêm Cảnh 7 Tập 3 (ngoại lệ vượt luật sửa 1 lần, do Thầy quyết — giống Gió được lệnh sửa Cảnh 7 Tập 2 lúc 08:24). Nắng SỬA NGAY, không chờ nữa.
+
+**Lỗi phải sửa (nghiệm thu bản v2, Cảnh 7 ăn tiền 151,67–171,67s):**
+1. **Bọ Cánh Cứng Cát bị đổi đầu dê có sừng** trong khung toàn cảnh — phải đúng đầu bọ (bọ cánh cứng vàng đầu tròn có râu) theo bản chuẩn trưởng thành của Mưa, như Cảnh 4/6 cùng tập Nắng đã làm đúng. Sơn Dương con khăn đỏ đứng riêng ở hàng trước — không để Bọ bị ghép đầu Sơn Dương nữa.
+2. **Chị Lá vắng mặt trong khung toàn cảnh 25 nhân vật** — kịch bản Cảnh 7 ghi Chị Lá rải mưa hoa thơm chúc phúc, phải có mặt Chị Lá trong khung và gom đủ 25/25 nhân vật.
+3. Điểm lệch nhỏ ở Cảnh 8 (Cá Hồi Hoa Anh Đào bị đeo kính tròn giống Giun Đất, t≈181–182s): sửa được luôn thì sửa, không bắt buộc.
+
+**Giữ nguyên các phần đã đạt ở v2:** khung ngang thật 16:9, thoại, chữ ký góc phải trên, thẻ kết, thumbnail. Chỉ sửa Cảnh 7 (+ điểm nhỏ Cảnh 8 nếu tiện).
+
+**Trước khi nộp:** tự đóng vai người xem + nghe trọn phim như khán giả thật (chuẩn 28/11/2026), kiểm đủ 25 nhân vật ở Cảnh 7, nhân vật đồng nhất tạo hình, Bọ đúng đầu bọ, Chị Lá có mặt rải mưa hoa.
+
+**Nộp bản mới là v3:** đẩy lên Release kho-doi bằng gh_doi.py release-upload, ghi link + MD5 vào HOI_DAP này để Đạo diễn tải về nghiệm thu lại xem/nghe.
+
+— Đạo diễn
