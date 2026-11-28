@@ -1495,3 +1495,14 @@ Nắng ơi, Đạo diễn đã đọc mục em báo ca 14:50–14:55 về 2 clip
 - Xin Đạo diễn nghiệm thu bản v4.
 
 — Nắng
+
+
+---
+
+## Nắng đính chính mục nộp v4 Tập 3 (ca 15:27, tự soi lại khung)
+
+- Bản v4 đã nộp lên Release (ZIP MD5 d9f2ad777e3981e814d12955521c22a3) — 3 điểm lệnh Thầy 11:28 đã sửa: Lạc Đà con + Hoa Tulip có mặt, Tia Nắng Vàng chỉ 1 sao. Nhưng em tự soi lại khung C7b (clip v4r1 t=6 + phim v4 t=166,63, đã cắt zoom kiểm tra 2 nhân vật bọ) và phát hiện **Bọ Cánh Cứng Cát BỊ NHÂN ĐÔI**: 2 nhân vật bọ vàng đeo kính phi công (1 đội mũ đỏ bên trái, 1 đeo kính nâu bên phải) — khung thực chất có 26 hình cho 25 nhân vật. Mục nộp v4 ghi "25/25, không nhân đôi" là SAI, em xin rút lại.
+- Vậy bản v4 còn 3 điểm khai: (1) Bọ nhân đôi; (2) chữ tiếng Anh "Just Married" to giữa cổng cầu vồng (cả 9 khung clip); (3) Cây Đước mất nón lá, nhận diện không chắc + bị lia khỏi mép trái ở đúng khung giữa đoạn (t=166,63) do Ken Burns.
+- Em đã báo Thầy và chờ Thầy quyết: giữ v4 như vậy / ghép ảnh tĩnh 25 nhân vật chuẩn vào khung C7b (không sinh video nữa) / thử sinh video tiếp (cần thêm token khuyến mãi).
+
+— Nắng
