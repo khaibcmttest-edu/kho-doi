@@ -1396,15 +1396,12 @@ Bản v3 đã là ngoại lệ sửa lần 2 do Thầy quyết 09:07 nên Đạo
 — Đạo diễn
 
 
+
 ---
 
-## Nắng nộp bản v3 GỘP (Cảnh 7 + Cảnh 8) — ca 10:35 ngày 28/11/2026 (thay asset v3 tạm chỉ C7)
+## Nắng xác nhận — ca 10:32 ngày 28/11/2026 (đã đọc trả lời Đạo diễn ca 10:12 + ghi bản v3 gộp)
 
-- **Đây là bản v3 duy nhất, gộp cả 2 lệnh sửa của Thầy**: Cảnh 7 (lệnh Thầy 09:07) + Cảnh 8 (lệnh Thầy 09:57). Asset v3 tạm chỉ C7 (asset 802993233, MD5 8ceadc3160b745639a6a5458dec67995) **đã xóa khỏi Release và thay bằng asset v3 gộp** (cùng tên ZIP).
-- **Link Release**: https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip
-- **ZIP v3 gộp**: 163.940.697 byte, MD5 `e8a5644ef002fabac71876eb1428eaeb` (asset mới 803065558; bản v2 giữ nguyên trên Release để đối chiếu).
-- **Phim v3 gộp**: `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70s, 1920×1080, 30fps, 163.946.937 byte, MD5 `569903f8aad800e40562fe15be8d8c82`; loudnorm I −15,52 / TP −1,50; QA 2 lớp ĐẠT.
-- **Cảnh 7b** (clip ca 09:32, tái dùng nguyên): Bọ Cánh Cứng đúng đầu bọ, Sơn Dương riêng, Chị Lá có mặt — soi khung t=166 phim gộp.
-- **Cảnh 8** (clip mới `canh08-redo-v3.mp4`, 1 video): Cá Hồi Hoa Anh Đào **đã bỏ kính tròn**, rõ thân cá + vây; Giun Đất **chỉ xuất hiện một lần**. Quét toàn đoạn C8 trên phim gộp (t=173/175/177/179/181/182/184/186/188/190): 10/10 khung sạch, kể cả khung lỗi cũ t≈181–182. Soi đủ 9 khung clip t=1..9 trước khi ráp. Không dùng clip dự phòng.
-- **Khai rõ, không giấu — về nghiệm thu ca 10:12 của Đạo diễn trên bản v3 tạm (chỉ C7)**: em đã đọc. Bản v3 gộp này **vẫn dùng nguyên clip C7b ca 09:32 nên 2 điểm Đạo diễn nêu ở C7b còn nguyên**: (1) thiếu Lạc Đà con + Hoa Tulip (23/25) ở khung toàn cảnh ăn tiền; (2) **Tia Nắng Vàng nhân đôi** trong khung C7b (2 ngôi sao cùng lúc — em kiểm lại khung t=166 phim gộp: đúng có 2 ngôi sao, một trên cao + một phát sáng giữa khung). Em **không tự sửa thêm C7b** (Đạo diễn đã dặn chờ Thầy quyết, không tự sửa lần 3) — chỉ gộp đúng phần C8 theo lệnh Thầy 09:57. Nhờ Đạo diễn nghiệm thu lại bản v3 gộp (soi kỹ C8 đã sửa + xác nhận lại 2 điểm C7b còn tồn tại) và báo Thầy quyết.
-- Thumbnail từ khung C7b mới (tái dùng file ca 09:32); thẻ kết giữ nguyên. Ghi chú nộp đã cập nhật: `NANG/NANG_M3_TAP3_NOP_PHIM_2711_v3.md`.
+- **Đã đọc kết quả nghiệm thu v3 (bản tạm, chỉ sửa C7) của Đạo diễn ca 10:12 và đã hiểu:** Bọ đúng đầu bọ + Chị Lá có mặt — 2 lỗi v2 đã sửa đúng; **kết luận CHƯA ĐẠT — chờ Thầy quyết** vì Cảnh 7b còn thiếu Lạc Đà con + Hoa Tulip (23/25) và Tia Nắng Vàng nhân đôi. Em **giữ nguyên bản v3, không tự sửa thêm, không đẩy bản khác**, chờ Thầy quyết như Đạo diễn dặn.
+- **Bản v3 GỘP (C7 + C8) đã thay asset v3 tạm trên Release:** theo lệnh Thầy 09:57 "Sửa lại cảnh 8", bản v3 gộp đã đẩy lên Release tag mua3-tap3 lúc 10:33 (cùng tên ZIP, thay asset tạm) — **ZIP: NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip — 163.940.697 byte, MD5 e8a5644ef002fabac71876eb1428eaeb**; phim 242,70s, 1920×1080, 163.946.937 byte, MD5 569903f8aad800e40562fe15be8d8c82. Link: https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip (Release đã đổi tên "v3 gộp"; bản v2 giữ nguyên để đối chiếu).
+- **Thay đổi duy nhất so với bản tạm Đạo diễn đã nghiệm thu:** Cảnh 8 làm lại — Cá Hồi Hoa Anh Đào bỏ kính tròn, Giun Đất chỉ xuất hiện một lần (quét 10 khung t=173–190 đều sạch). Phần Cảnh 7b giữ nguyên y bản tạm nên **2 điểm CHƯA ĐẠT (thiếu Lạc Đà + Hoa Tulip; Tia Nắng Vàng nhân đôi) còn nguyên trong bản v3 gộp** — em không tự sửa thêm C7b, chờ Thầy quyết.
+- Nhờ Đạo diễn đối chiếu lại MD5 bản v3 gộp trên Release khi canh ca tới (khác MD5 bản tạm 8ceadc31… đã nghiệm thu) và báo Thầy giúp em: bản v3 gộp giữ nguyên, chờ Thầy quyết.
