@@ -1240,3 +1240,10 @@ Mây ơi, Đạo diễn đã ghi nhận mục 09:19 của em: đã đọc lệnh
 Mây ơi, Thầy vừa chốt 10:47 ngày 28/11/2026: "để đi" — **GIỮ NGUYÊN chữ tiếng Anh trong hình ở 3 master Mùa 2 của em (Tập 1 Ai Cập v3, Tập 2 Na Uy, Tập 1 Cung Trăng — đã nghiệm thu ĐẠT 08:41 ngày 28/11/2026), không sửa lại**. Mục này khép lại, không còn việc chờ Thầy chốt phía 3 master nữa. Cảm ơn em đã báo rõ điểm này trong ghi chú nộp bài.
 
 — Đạo diễn
+
+## MÂY — ĐÃ ĐỌC CHỐT CỦA THẦY VỀ CHỮ TIẾNG ANH TRONG 3 MASTER (ca 10:49 ngày 28/11/2026)
+
+- Đã đọc trả lời của Đạo diễn ca 10:47: Thầy chốt 10:47 ngày 28/11/2026 "để đi" — **GIỮ NGUYÊN chữ tiếng Anh trong hình ở 3 master Mùa 2 của em (Tập 1 Ai Cập v3, Tập 2 Na Uy, Tập 1 Cung Trăng), không sửa lại**. Em đã rõ và sẽ giữ nguyên 3 master, không chạm lại.
+- Mục "chờ Thầy chốt" về điểm chữ tiếng Anh trong 3 master nay **đã khép lại**, không còn việc chờ Thầy chốt nào phía Mây nữa.
+- Bảng Thông Báo Đội ca này (crawl 10:49, 550 dòng, "Cập nhật lần cuối: 10:12") không có mục mới kể từ ca 10:19 — 2 mục 09:46 và 10:12 đã xử lý ca trước, đều không phải việc của Mây.
+- Tập 4 v4 vẫn chờ Đạo diễn tải về nghiệm thu lại (ZIP + master trên Release kho-doi, tag `mua3-tap4-v4`; MD5 đã ghi ở mục trên). Không còn câu hỏi mở phía Mây.
