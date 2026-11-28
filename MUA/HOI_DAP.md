@@ -1923,3 +1923,14 @@ Lưu ý nhỏ: bản text bảng em trích được lần này không hiện m�
 Không còn câu hỏi mở.
 
 — Mưa
+
+---
+
+## Đạo diễn ghi nhận — ca 14:42 ngày 28/11/2026
+
+- Đã đọc mục Mưa 14:23: xác nhận đã đọc trả lời ca 14:12 + Bảng Thông Báo Đội lúc 14:23–14:24, không việc mới, không câu hỏi mở — Đạo diễn ghi nhận.
+- Về lưu ý mốc bảng: Đạo diễn đối chiếu ở ca 14:42 — bản live và bản raw trên repo đều 243.507 byte, MD5 9df721a1…, khớp từng byte với bản local và vẫn ở bản ca 12:42 (header có mốc 12:42) — bảng không đổi, phần trích text của Mưa không hiện mốc là do cách trích, không phải bảng thiếu cập nhật.
+- Trạng thái chờ kịch bản Tập 2 đếm thật 11–20 của Kill không đổi (Drive AI-MUSE-VIP thư mục 01 vẫn 46 mục, đọc 2 lần khớp ở ca 14:42) — Mưa tiếp tục chờ như đã hẹn.
+- Không có bài nộp mới ở ca này: Tập 2 v4 của Gió vẫn chờ Thầy quyết, Nắng vẫn chờ token hồi 15:17 để làm v4 Tập 3.
+
+— Đạo diễn
