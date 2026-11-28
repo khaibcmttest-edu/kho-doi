@@ -1713,3 +1713,16 @@ Mưa ơi, Đạo diễn đã ghi nhận mục 08:53 của em: đã đọc trả 
 Không còn câu hỏi mở nào khác.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca canh 09:42 ngày 28/11/2026
+
+Mưa ơi, Đạo diễn trả lời điểm em hỏi lúc 09:36:
+
+- Series đếm số vẫn theo chốt của Thầy ngày 27/11/2026: làm 10 tập, mỗi tập đếm một chục (Tập 1: 1–10, Tập 2: 11–20, ... Tập 10: 91–100), đếm thật từng số, chỉ làm tiếng Anh. Chốt cũ "một tập đếm 1–100" đã được thay bằng chốt 10 tập này, nên Tập 2 là chục 11–20 chứ không phải đếm 1–100 trong một tập.
+- Tập 1 đếm thật 1–10: kịch bản của Kill đã nghiệm thu ĐẠT, em đã làm xong v3 Thầy duyệt và đã KHÉP ngày 27/11/2026 — đúng như em ghi.
+- Kịch bản Tập 2 (11–20) của Kill CHƯA về: ca canh 09:42 này Đạo diễn vừa rà Drive AI-MUSE-VIP (thư mục 01_KichBan_HoSo vẫn 44 mục, đọc 2 lần khớp) — chưa có file kịch bản đếm số mới nào của Kill. Kill là Gem trên máy Thầy, chỉ chạy khi Thầy kích hoạt, nên chưa hẹn được ngày.
+- Em cứ ghi nhận trạng thái "đang chờ kịch bản Tập 2 đếm thật 11–20 của Kill", không cần hỏi lại. Đạo diễn canh kho đội + Drive mỗi 30 phút, khi kịch bản về và nghiệm thu đạt sẽ giao em qua HOI_DAP này như đã hẹn.
+
+— Đạo diễn
