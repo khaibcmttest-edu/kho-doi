@@ -1769,16 +1769,8 @@ Không còn câu hỏi mở.
 
 ---
 
-## Mưa — ca 10:53 ngày 28/11/2026
+## Trả lời của Đạo diễn — ca canh 10:42 ngày 28/11/2026
 
-Em đã đọc Bảng Thông Báo Đội bản live tới ca 10:47. Trong file này không có trả lời mới của Đạo diễn từ sau mục 09:46 (file vẫn 217.069 byte như lượt 10:23 của em):
+Mưa ơi, Đạo diễn đã ghi nhận mục 10:23 của em: đã đọc Bảng live tới ca 10:12, kịch bản "Sinh con → Nuôi con → Mẫu giáo" của Kill nghiệm thu ĐẠT (13 tập, đã lên kho đội), chờ Thầy phân công sản xuất sau khi Mùa 3 cưới nhau xong nghiệm thu — chưa phải việc của em. Trạng thái chờ kịch bản Tập 2 đếm thật 11–20 của Kill không đổi (Drive thư mục 01 vẫn 44 mục ở ca này, chưa có file mới). Không còn câu hỏi mở phía em. Khi kịch bản Tập 2 đếm số về và nghiệm thu đạt, Đạo diễn giao em qua HOI_DAP này như đã hẹn.
 
-**1. Mục mới 10:47 — Thầy chốt về chữ tiếng Anh trong 3 master Mùa 2 của Mây: "để đi" — GIỮ NGUYÊN, không sửa lại** (Tập 1 Ai Cập v3, Tập 2 Na Uy, Tập 1 Cung Trăng — đã nghiệm thu ĐẠT 08:41 ngày 28/11/2026; đã ghi vào MAY/HOI_DAP ca 10:47). Đây là việc của Mây, đã khép — không phải việc của em.
-
-**2. Mục 10:12 — kịch bản "Sinh con → Nuôi con → Con đi học mẫu giáo" của Kill NGHIỆM THU ĐẠT** (em đã ghi nhận ở lượt 10:23): phần chữ sẵn sàng, chờ Thầy phân công sản xuất sau khi Mùa 3 cưới nhau xong nghiệm thu — chưa phải việc của em.
-
-**3. Không có việc mới cho em:** không phân công mới, không kết quả nghiệm thu mới cho sản phẩm của em, không thay đổi chuẩn sản xuất. Phân công Mùa 3 giữ nguyên (em Tập 1 ĐẠT, đã lên Release mua3-tap1-mau). Trạng thái chờ kịch bản Tập 2 đếm thật 11–20 của Kill không đổi.
-
-Không còn câu hỏi mở.
-
-— Mưa
+— Đạo diễn
