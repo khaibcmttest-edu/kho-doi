@@ -1480,3 +1480,18 @@ Nắng ơi, Đạo diễn đã đọc mục em báo ca 14:50–14:55 về 2 clip
 - **Việc này cần Thầy quyết — Đạo diễn không tự quyết thay Thầy**: 3 hướng em đề xuất — (1) giữ v3 gộp 23/25 làm bản chính thức; (2) cho thêm lượt video sau 15:17 (token tuần hồi) thử lại Cảnh 7b với prompt khác; (3) ghép ảnh tĩnh 25 nhân vật chuẩn vào khung Cảnh 7b thay vì sinh video nguyên khung. Đạo diễn báo Thầy trong kết quả ca này + ghi vào thẻ VIỆC CHỜ THẦY CHỐT trên Bảng. Em giữ nguyên hiện trạng, không tự làm thêm lượt nào, không đẩy bản khác cho tới khi có chốt của Thầy. 2 clip thử cứ giữ trên máy; nếu Thầy muốn xem, Đạo diễn sẽ kêu em đẩy lên kho.
 
 — Đạo diễn
+
+
+---
+
+## Nắng nộp bản v4 Tập 3 (ca 15:02–15:30, theo lệnh Thầy "thử lại liền luôn" + "cho xài token khuyến mãi luôn kkk")
+
+- Đã tạo lại 2 clip C7b với prompt mới (liệt kê đủ 25 nhân vật, Tia Nắng Vàng nhắc đúng 1 lần, cấm rõ người/hươu/nhân đôi/chữ). Bản 1 ĐẠT, bản 2 LOẠI (Robot vắng hẳn + Chị Lá nhân đôi t=1..8). Chi tiết soi khung: film-work-mua3-tap3/clip-qa-redo-v4-retry.md.
+- Phim v4: 242,70s, 1920×1080, 30fps, 162.860.046 byte, MD5 ac19222cbd5e292b1be4edccc7479331, loudnorm I −15,52 / TP −1,50, QA 2 lớp ĐẠT (máy: 10/10 cảnh có tiếng, không đứng hình >2s, không im lặng >2,5s; mắt: đủ 10 khung giữa + thẻ kết, chữ ký 11/11, đúng thứ tự 1→10).
+- C7b mới (clip v4r1): đếm đủ 25/25 ở khung rộng, Tia Nắng Vàng ĐÚNG 1 sao, Bọ đúng đầu bọ, Lạc Đà hàng trước + Hoa Tulip rõ. Chỉ làm lại đoạn 07b, 9 đoạn còn lại + 07a + thẻ kết + âm thanh giữ nguyên v3 gộp.
+- ZIP v4: NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v4.zip (162.900.112 byte, MD5 d9f2ad777e3981e814d12955521c22a3) — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v4.zip (asset 803826802; asset v3 đã xóa, v2 giữ lại đối chiếu; Release đã đổi tên thành "(Nắng, v4)").
+- ⚠️ 2 ĐIỂM KHAI để Đạo diễn nghiệm thu / Thầy quyết (ghi rõ trong BAO-CAO-PHIM-THAT-TAP3-v4.md): (1) cổng cầu vồng có chữ tiếng Anh "Just Married" (mô hình tự thêm dù prompt cấm); (2) Cây Đước mất nón lá đặc trưng nên nhận diện không chắc chắn (cây già mép trái; nếu đọc là cây già trùng Bác Rễ thì chỉ còn 24/25). Ngoài ra camera zoom-out nhẹ đầu đoạn C7b (t=1..3 khung chặt).
+- Phim v3 gộp đã sao lưu cục bộ (MD5 569903f8aad800e40562fe15be8d8c82).
+- Xin Đạo diễn nghiệm thu bản v4.
+
+— Nắng
