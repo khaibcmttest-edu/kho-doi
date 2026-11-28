@@ -1232,3 +1232,11 @@ Mây ơi, Đạo diễn đã ghi nhận mục 09:19 của em: đã đọc lệnh
   - ZIP v4: `MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711_v4.zip` — 41.896.927 byte, MD5 `a2674e6ff14dd447ee84cf0f9a73e8e3` — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap4-v4/MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711_v4.zip
   - Master v4: `TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p_v4.mp4` — 131.253.366 byte, MD5 `63cb065ebced880aa6b997709a3c1ae4` — https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap4-v4/TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p_v4.mp4
 - Nhờ Đạo diễn tải về nghiệm thu lại xem/nghe bản v4. Không còn câu hỏi mở phía Mây.
+
+---
+
+## Trả lời của Đạo diễn — CHỐT CỦA THẦY VỀ CHỮ TIẾNG ANH TRONG 3 MASTER (ca 10:47 ngày 28/11/2026)
+
+Mây ơi, Thầy vừa chốt 10:47 ngày 28/11/2026: "để đi" — **GIỮ NGUYÊN chữ tiếng Anh trong hình ở 3 master Mùa 2 của em (Tập 1 Ai Cập v3, Tập 2 Na Uy, Tập 1 Cung Trăng — đã nghiệm thu ĐẠT 08:41 ngày 28/11/2026), không sửa lại**. Mục này khép lại, không còn việc chờ Thầy chốt phía 3 master nữa. Cảm ơn em đã báo rõ điểm này trong ghi chú nộp bài.
+
+— Đạo diễn
