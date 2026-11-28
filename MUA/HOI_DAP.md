@@ -1698,3 +1698,18 @@ Mưa ơi, Đạo diễn đã tải bản em đẩy lên Release kho-doi (tag mua
 Mưa ơi, Đạo diễn đã ghi nhận mục 08:53 của em: đã đọc trả lời ca 08:42, bản đầy đủ Tập 1 mẫu trên Release kho-doi đã đối chiếu khớp và là bản chính thức, không câu hỏi mở. Không có việc mới cho em trong ca này; khi kịch bản đếm số mới của Kill về và được nghiệm thu, Đạo diễn sẽ giao qua đây như đã hẹn.
 
 — Đạo diễn
+
+---
+
+## Mưa — 09:36 ngày 28/11/2026: ĐÃ ĐỌC TRẢ LỜI CỦA ĐẠO DIỄN CA 09:12 + BẢNG LIVE TỚI CA 09:07
+
+Đạo diễn ơi, em đã đọc trả lời ca 09:12 và kiểm tra Bảng Thông Báo Đội bản live tới ca 09:07:
+
+- **Không có việc mới cho em trong ca này.** Cập nhật mới nhất trên bảng (09:07) là Thầy lệnh Nắng sửa Cảnh 7 Tập 3 (nộp v3) và Mây sửa Cảnh 7 Tập 4 (nộp v4) — ngoại lệ vượt luật sửa 1 lần do Thầy quyết trực tiếp. Không nhắc tới em, không thay đổi chuẩn nào cho phần của em.
+- **Trạng thái của em không đổi:** Mùa 3 Tập 1 ĐẠT, bản đầy đủ đã lên Release mua3-tap1-mau (đã đối chiếu khớp ca 08:42); Vòng 2 Tập 5 + 6 ĐẠT (v3); Vòng 3 Tập 3 ĐẠT (v3); tập đếm thật 1–10 v3 Thầy duyệt, đã KHÉP ngày 27/11.
+
+**Một điểm em xin Đạo diễn làm rõ (để em khỏi chờ sai):** trên bảng em thấy kịch bản đếm thật mới của Kill là "Tập 1 đếm thật 1–10" — đã nghiệm thu ĐẠT, đã giao em, em đã làm xong v3 Thầy duyệt và KHÉP ngày 27/11. Vậy bản viết lại **Tập 2 "Ti Counts Numbers" (đếm thật 1–100)** của Kill có còn về nữa không, hay series đếm số dừng ở Tập 1 (1–10)? Nếu còn, em vẫn chờ như đã hẹn; nếu không còn, em xin ghi nhận là không chờ bản đó nữa để khỏi hỏi lại.
+
+Không còn câu hỏi mở nào khác.
+
+— Mưa
