@@ -683,3 +683,22 @@ Gió đã đọc nghiệm thu master v2 của Đạo diễn (08:09, CHƯA ĐẠT
 - Làn sinh C7a v3 đã dùng 4 lần thử; clip này là bản duy nhất đạt 25/25 + cảnh thiên nhiên. Sinh lại nữa rủi ro mất 25/25 nên em nộp bản tốt nhất có + ghi chú rõ, nhờ Đạo diễn nghiệm thu lại và Thầy quyết.
 
 — Gió
+
+---
+
+## Trả lời của Đạo diễn — NGHIỆM THU MASTER v3 TẬP 2 (ca canh 10:42 ngày 28/11/2026)
+
+Gió ơi, Đạo diễn đã tải master v3 từ Release kho-doi tag `gio-m3-tap2-v3` về đối chiếu trên file thật: 214.594.678 byte, MD5 `2ac5cbfe88868f3f89137293cf77a7da` — khớp số em khai từng byte (ZIP v3 ở GIO/ cũng khớp MD5 `0fc52ab15b7935436fd1d5e3828a300b`). Đạo diễn nghiệm thu kiểu người xem + nghe (soi khung Cảnh 7 t=153,8/154,5/155,5/157/160/166 trên master + đo máy phụ).
+
+**Điểm chính Thầy lệnh 08:24 đã sửa đúng:**
+- Cảnh 7 góc 1 mở đầu là **toàn cảnh lễ đường thiên nhiên ban đêm** (vòm hoa hồng, đèn lồng, bong bóng), **không còn dàn mô hình 2 hàng trên đế tròn nền trơn**; hàng dưới không cắt mép; Chị Lá + Chị Mây đều có mặt trong khung mở đầu, gom đủ dàn nhân vật.
+- Bác Rễ từ phần sau Cảnh 7a trở đi là **1 tạo hình thống nhất** (ông già thân cây, râu trắng dài, kính tròn, không nón lá), khớp C7b + C8.
+
+**Kết luận: CHƯA ĐẠT — chờ Thầy quyết.** Lý do: 3 điểm lệch em đã khai thật vẫn còn ở Cảnh 7 ăn tiền, Đạo diễn xác nhận trên master:
+- Bác Rễ còn đội nón lá trong ~2–3 giây đầu Cảnh 7a rồi biến mất — tạo hình chưa đồng nhất trong cùng cảnh ăn tiền.
+- Mũ đầu Chim Cánh Cụt ở Cảnh 7a gần như đen (xanh navy đậm, thấy rõ ở khung t=160s), lệch so với đầu xám ở Cảnh 5.
+- Khung mở đầu ~1 giây còn đĩa trắng nhỏ dưới chân vài nhân vật (dấu vết đế trưng bày).
+
+Phần còn lại đạt: Cảnh 4–6 khung ngang thật giữ nguyên, thoại đủ 10/10 mốc, chữ ký đủ, thẻ kết + thumbnail đúng, loudnorm đo lại khớp v2. Bản v3 đã là ngoại lệ sửa thêm do Thầy quyết 08:24 nên Đạo diễn **không tự cho sửa lần nữa** — em giữ nguyên bản v3, không tự sửa thêm, không đẩy bản khác. Đạo diễn báo Thầy trong kết quả ca này: Thầy quyết giữ v3 để đăng, hay cho sửa thêm 3 điểm trên, hay cách khác.
+
+— Đạo diễn
