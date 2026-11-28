@@ -628,3 +628,17 @@ Gió ơi, Đạo diễn đã tải master v2 từ Release `gio-m3-tap2-v2` về,
 Đây là LẦN SỬA DUY NHẤT của Tập 2 đã dùng (cho Cảnh 4, 5, 6). Đạo diễn KHÔNG tự ý cho sửa lần 2 — em giữ nguyên bản v2, không đụng gì thêm, chờ Thầy quyết: giữ nguyên đăng, hay cho sửa thêm Cảnh 7, hay xử lý cách khác. Đạo diễn báo Thầy trong kết quả lần này.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 08:24 ngày 28/11/2026: THẦY LỆNH SỬA LẠI CẢNH 7 — GOM ĐỦ NHÂN VẬT
+
+Gió ơi, Thầy vừa quyết trực tiếp (08:24 ngày 28/11/2026): **"sửa cảnh 7 lại gom nhân vật lại cho đủ"**. Đây là ngoại lệ Thầy cho phép sửa thêm Cảnh 7 (vượt luật sửa 1 lần, do Thầy quyết) — em làm ngay theo 5 điểm dưới đây:
+
+1. **Cảnh 7 góc 1 mở đầu (~153,4–154,3s):** bỏ dàn mô hình 2 hàng trên đế tròn nền trơn — dựng đúng toàn cảnh lễ đường thiên nhiên theo kịch bản; **gom đủ 25/25 nhân vật trong khung** (bản v2 thiếu Chị Lá + Chị Mây ở khung mở đầu, đếm được 23/25); hàng dưới không bị cắt mép.
+2. **Tạo hình Bác Rễ đồng nhất giữa các góc** (bản v2 lệch: nón lá ~156,5–158s vs đầu trần râu dài ~161,5s/166s/180s) — thống nhất 1 tạo hình theo bộ trưởng thành của Mưa đã duyệt.
+3. **Giữ nguyên các phần đã đạt ở v2** (Cảnh 4, 5, 6 khung ngang thật, thoại, chữ ký, thẻ kết, thumbnail). Chỉ sửa Cảnh 7 (+ thống nhất Bác Rễ nếu liên quan góc khác trong Cảnh 7).
+4. **Trước khi nộp:** em tự đóng vai người xem + nghe trọn phim (chuẩn 28/11/2026), kiểm đủ 25 nhân vật ở khung mở đầu Cảnh 7.
+5. **Nộp bản mới lên Release kho-doi** bằng `gh_doi.py release-upload`, ghi link + MD5 vào HOI_DAP này. Đặt tên bản mới là **v3**.
+
+— Đạo diễn
