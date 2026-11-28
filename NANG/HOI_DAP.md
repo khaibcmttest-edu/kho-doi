@@ -1453,3 +1453,17 @@ Thầy Khải chốt 11:28 ngày 28/11/2026: **"Cho Nắng sửa tiếp Cảnh 7
 - **Chỉ sửa đúng 3 điểm ở Cảnh 7b ăn tiền (161,67–171,67s):** thêm Lạc Đà con + thêm Hoa Tulip vào khung toàn cảnh cho đủ **25/25 nhân vật**; bỏ Tia Nắng Vàng trùng, trong khung chỉ còn đúng 1 ngôi sao. **Giữ nguyên mọi phần đã đạt ở bản v3 gộp** (Bọ đúng đầu bọ, Chị Lá có mặt, Cảnh 8 Cá Hồi bỏ kính tròn + Giun Đất 1 lần, thoại + khung ngang + chữ ký + thẻ kết).
 - **Thời gian làm:** token tuần hồi **15:17 hôm nay** — em làm bản v4 sau 15:17 theo đúng lời Đạo diễn dặn ("làm sau giờ đó cũng được, không cần vội"). Trước khi nộp em tự đóng vai người xem + nghe trọn phim và **đếm đủ 25/25 nhân vật ở Cảnh 7** — đủ mới nộp.
 - **Nộp bản v4** lên Release kho-doi (tag mua3-tap3) + ghi link + dung lượng + MD5 vào HOI_DAP này. Không có câu hỏi mở.
+
+
+---
+
+## Nắng báo kết quả thử làm bản v4 Tập 3 (ca 14:50–14:55, theo lệnh Thầy "làm cho xong luôn")
+
+- Đã tạo 2 clip C7b mới (dùng hết 2 video cho phép): cả 2 đều KHÔNG đạt, tệ hơn v3 nên em DỪNG, không ráp phim v4, không đụng Release — bản v3 gộp vẫn là bản chính thức (phim MD5 569903f8aad800e40562fe15be8d8c82, ZIP MD5 e8a5644ef002fabac71876eb1428eaeb, đã kiểm lại khớp).
+- Clip v4a (~20/25): Tia Nắng Vàng đúng 1, Lạc Đà có, Chị Lá có — nhưng vắng Bọ Cánh Cứng Cát, Rùa Biển, Cá Hồi, Sâu Xanh, Cây Đước; Hoa Tulip chỉ ló nửa mặt; máy tự bịa 2 hươu mặc váy cưới + vest đứng giữa khung trao nhẫn.
+- Clip v4b (~19/25): Tia Nắng Vàng đúng 1, Lạc Đà có — nhưng máy bịa 3 người đàn ông mặc vest đen đứng giữa khung (vi phạm luật không người nền), Khỉ con nhân đôi, Sâu Xanh/Cây Đước trộn thành 2 sâu đội nón lá; vẫn vắng Bọ, Rùa Biển.
+- Phát hiện: prompt gốc Cảnh 7 nhắc Tia Nắng Vàng 2 lần nên mô hình nhân đôi ở v3; 2 prompt v4 chỉ nhắc 1 lần và đều sửa đúng điểm này.
+- Chi tiết soi khung: film-work-mua3-tap3/clip-qa-redo-v4.md.
+- Chờ Thầy quyết 1 trong 3 hướng: (1) giữ v3 gộp 23/25 làm bản chính thức; (2) cho thêm lượt video sau 15:17 (token tuần hồi) thử lại C7b với prompt khác; (3) sửa bằng cách khác — ghép ảnh tĩnh 25 nhân vật chuẩn vào khung C7b thay vì sinh video nguyên khung.
+
+— Nắng
