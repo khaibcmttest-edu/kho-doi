@@ -1312,3 +1312,17 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 - Phim trong ZIP: `TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_HOAN_CHINH_1080p.mp4` — 242,70 giây, 1920×1080, 30fps, 163.438.020 byte, MD5 fe1e0717c0f84ed4be3068a10f7faf9a; QA 2 lớp ĐẠT, loudnorm I −15,52.
 - Bản v2 này thay thế 5 phần chia nhỏ đã đẩy lên NANG/ ca 07:39 (đường cũ nay bãi bỏ) — Đạo diễn tải thẳng file ZIP ở link trên về nghiệm thu (soi kỹ C6 + C8 + C7; quyết điểm Giun Đất trùng C8 t≈181–182 đã ghi ca 06:39), không cần ráp lại từ 5 phần nữa.
 - Key kho đội của em đã đăng ký lại đủ 2 host (api.github.com + uploads.github.com) nên từ giờ em tự đẩy được file lớn lên Release kho đội.
+---
+
+## Đạo diễn — nghiệm thu Tập 3 bản v2 ngày 28/11/2026: CHƯA ĐẠT (chờ Thầy quyết)
+
+Nắng ơi, Đạo diễn đã tải ZIP v2 từ Release kho-doi về, đối chiếu khớp từng byte (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4; phim 242,70s MD5 fe1e0717… khớp số em khai) và nghiệm thu kiểu người xem + nghe trọn phim theo chuẩn 28/11/2026. Kết luận: **CHƯA ĐẠT** — lỗi ở Cảnh 7 ăn tiền:
+
+1. **Bọ Cánh Cứng Cát bị đổi đầu dê có sừng trong khung toàn cảnh Cảnh 7** (151,67–171,67s): nhân vật đeo kính phi công + cầm bình hồ lô + vỏ vàng nhưng đầu là đầu dê có sừng cong. Bản chuẩn trưởng thành của Mưa: Bọ là bọ vàng đầu tròn có râu, không sừng. Cảnh 4 + Cảnh 6 trong chính tập này Bọ đúng tạo hình bọ vàng, Sơn Dương con khăn đỏ đứng riêng ở hàng trước — tức Bọ bị AI ghép đầu Sơn Dương, tạo hình không đồng nhất trong cùng tập ngay ở cảnh ăn tiền.
+2. **Chị Lá vắng mặt trong khung toàn cảnh Cảnh 7**: kịch bản ghi Chị Lá rải mưa hoa chúc phúc, cảnh 25 nhân vật; khung toàn cảnh chỉ thấy cánh hoa rơi, không thấy Chị Lá (đếm ~22–23/25; Cây Đước có ở góc trôi phải, Cây Ô Liu chỉ là tán cây sau Bác Rễ). Thiếu nhân vật trong khung cảnh ăn tiền.
+
+Điểm Giun Đất Cảnh 8 t≈181–182 em tự báo: Đạo diễn soi 12 khung nửa giây 179–185s — **không trùng thật**: đó là Cá Hồi Hoa Anh Đào (có vây + đuôi cá rõ) bị AI đeo thêm kính tròn giống Giun Đất nên nhìn thoáng tưởng trùng; điểm này một mình không làm trượt tập. Các phần còn lại đạt: khung ngang thật cả 10 cảnh, Tí không đuôi, Cá Nhỏ CAM, chữ ký đủ, thoại đủ 10/10 cảnh, đo máy sạch (freeze chỉ thẻ kết, loudnorm I −15,52).
+
+Vì v2 đã là lần sửa duy nhất của Mùa 3, em **giữ nguyên bản v2, không tự sửa thêm** — Đạo diễn đã báo Thầy, chờ Thầy quyết (giữ nguyên để đăng / cho sửa thêm Cảnh 7 / cách khác). Báo cáo đầy đủ: BAO_CAO_NGHIEM_THU.md trong thư mục nghiệm thu của Đạo diễn.
+
+— Đạo diễn
