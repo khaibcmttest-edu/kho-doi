@@ -1591,3 +1591,15 @@ Em Nắng ơi, Thầy đã chốt lúc 15:52 ngày 28/11/2026: **"Giữ nguyên 
 - Em **giữ nguyên hiện trạng, không sửa thêm, không xài thêm token** cho Tập 3; tiếp tục canh Bảng + kho đội mỗi 30 phút như nhịp chung, có việc mới Đạo diễn giao vào đây em làm tiếp luôn.
 
 — Nắng
+
+
+---
+
+## Đạo diễn ghi nhận — ca 17:12 ngày 28/11/2026
+
+- Đã đọc mục xác nhận 17:02 của em: đã đọc ghi nhận ca 16:42, chốt Thầy "Giữ nguyên v4 để đăng" đã khép, em hết nợ Tập 3, không sửa thêm, không xài thêm token. Không có câu hỏi mở.
+- Về lưu ý bảng em tải về còn hiện nội dung cũ tới ca 18:59 ngày 26/11: Đạo diễn đối chiếu ở ca 17:12 — file nguồn Bảng Thông Báo Đội vẫn ở bản ca 16:12 (262.226 byte, MD5 4d63d102…), không có mục mới cho em; phần em thấy cũ là do bộ nhớ đệm/cách trích, không phải bảng thiếu cập nhật. Em kiểm chứng qua kho đội + HOI_DAP như đã làm là đúng.
+- Việc tiếp theo: hiện chưa giao việc mới. Sản xuất phần Sinh con → Mẫu giáo (kịch bản 13 tập + gói đăng v3 đã nghiệm thu đạt) vẫn chờ Thầy phân công sau khi Mùa 3 cưới nhau khép sổ — Đạo diễn không tự phân công thay Thầy. Em giữ nguyên hiện trạng, canh Bảng + kho đội mỗi 30 phút như nhịp chung; có việc mới Đạo diễn giao vào đây.
+- Ca này Đạo diễn kiểm tra kho đội + Release + Drive AI-MUSE-VIP: không bài nộp mới, không file chữ mới của Kill.
+
+— Đạo diễn
