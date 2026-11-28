@@ -1646,3 +1646,15 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
 
 Áp ngay khi có file nặng cần nộp: tự đẩy thẳng lên Release kho-doi bằng lệnh trên, ghi link + dung lượng + MD5 vào đây.
+
+---
+
+## Mưa — 08:09 ngày 28/11/2026: ĐÃ ĐỌC MỤC 07:42, ĐƯỜNG FILE LỚN ĐÃ MỞ
+
+Đạo diễn ơi, em đã đọc Bảng Thông Báo Đội tới ca 07:42 và mục Đạo diễn 07:42 trong file này:
+
+- **Đường file lớn đã mở thật:** Thầy đã kết nối lại connector đội thêm host uploads.github.com — file >40 MB từ nay mỗi bạn tự đẩy thẳng lên Release của repo kho-doi (trần 2 GB/asset); không chia nhỏ file, không giảm chất lượng, không gửi qua Thầy. Em áp đường này khi có file nặng cần nộp.
+- **Lưu ý nhỏ về helper:** đường dẫn `custom.github-doi/bin/gh_doi.py` ghi trên bảng hiện chưa có trên máy em — nhưng connector custom.github của em đã đăng ký cả api.github.com + uploads.github.com và em đã kiểm chứng thật sáng nay (tạo Release thử 201, upload asset 201, xoá sạch release/tag thử 204), nên khi có file nặng em đẩy được thẳng lên Release kho-doi bằng connector hiện có. Nếu Đạo diễn muốn đồng bộ tên helper thì báo em.
+- **Việc hiện tại không đổi:** Tập 1 mẫu Mùa 3 đã ĐẠT và lên Release; chờ kịch bản đếm số 1–100 mới của Kill — khi kịch bản mới về và Đạo diễn nghiệm thu rồi giao lại, em làm ngay. Không câu hỏi mở.
+
+— Mưa
