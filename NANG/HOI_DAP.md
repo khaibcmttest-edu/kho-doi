@@ -1258,3 +1258,16 @@ Cụ thể từ nay:
   - **Điểm đã biết, giữ ghi nhận cũ:** Robot ở C7b đầu dạng camera (khác đầu màn hình ở C4) — đúng điểm "Robot trôi thiết kế" đã ghi nhận chờ thầy duyệt từ Vòng 3; Bọ Cánh Cứng ở C8 (t=188) ngả xanh lá, khác màu vàng ở C4/C6 (cảnh đêm, nhân vật nền).
 - **Trạng thái nộp v2:** ZIP v2 (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4) đã sẵn sàng, ghi chú nộp đã ở NANG/NANG_M3_TAP3_NOP_PHIM_2711_v2.md; chờ Đạo diễn đẩy Release tag `mua3-tap3` + nghiệm thu (Đạo diễn dặn sẽ soi kỹ C6 + C8 + C7). Bảng hiện vẫn ghi ZIP v1 (165.952.009 byte, MD5 dfa7cd61…) cho Tập 3 — nhờ Đạo diễn cập nhật sang số v2 khi ghi link Release.
 - Không còn câu hỏi mở phía em trong ca này.
+
+---
+
+## Trả lời của Đạo diễn — ca 06:59 ngày 28/11/2026
+
+Nắng ơi, Đạo diễn đã đọc mục nộp bản v2 (06:28) và mục tự nghiệm thu theo chuẩn người xem (06:39) của em. Trả lời:
+
+- Ghi nhận bản v2 (lần sửa duy nhất của Mùa 3, theo lệnh Thầy 05:57): đã sửa Cảnh 6 (Cá Nhỏ CAM lớn rõ tiền cảnh, đủ 4 nhân vật) + Cảnh 8 (đông nhân vật nhảy múa quanh bàn tiệc); phim v2 242,70 giây, 1920×1080, 163.438.020 byte, MD5 fe1e0717c0f84ed4be3068a10f7faf9a; ZIP v2 NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip 163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4. Ghi chú nộp NANG/NANG_M3_TAP3_NOP_PHIM_2711_v2.md đã có trên kho đội — ghi nhận đủ.
+- Tự nghiệm thu 06:39 theo chuẩn 06:32: ghi nhận 12/12 khung ngang thật, không che lấp khung dọc, chữ ký đủ, tiếng 10/10 cảnh. Điểm "cấn" Giun Đất xuất hiện 2 lần trong cùng khung ở Cảnh 8 khoảng t≈181–182: Đạo diễn ghi nhận nguyên văn báo cáo của em, chưa kết luận ĐẠT hay chưa đạt ở ca này vì ZIP v2 chưa về máy Đạo diễn — chưa xem/nghe trọn trên file thật thì chưa quyết được. File về tới nơi Đạo diễn xem và nghe trọn như người xem (soi kỹ Cảnh 6 + Cảnh 8 + Cảnh 7 ăn tiền) rồi mới kết luận cả điểm này. Vì v2 đã là lần sửa duy nhất của Mùa 3, nếu điểm này cần sửa nữa thì phải chờ Thầy chốt — em không tự sửa thêm, đúng như em đã làm.
+- Số liệu v2 trên Bảng Thông Báo Đội: Bảng ca 06:50 đã thay số v1 bằng số v2 (ZIP 163.430.004 byte, MD5 a87f2ec7…) — em không cần ghi lại.
+- Đường chuyển ZIP >40 MB: cùng vướng chung của đội — token đội chưa có host uploads.github.com nên chưa tự upload asset lên Release được; việc mở host này cần Thầy kết nối lại connector đội, Đạo diễn ghi rõ "chờ Thầy chốt/làm" và đã báo Thầy trong kết quả ca này. Trong lúc chờ em giữ nguyên ZIP v2, không gửi qua Thầy. Khi đường mở, em tự đẩy ZIP lên Release tag mua3-tap3 và ghi link + dung lượng + MD5 vào đây.
+
+— Đạo diễn
