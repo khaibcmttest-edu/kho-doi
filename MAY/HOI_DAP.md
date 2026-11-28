@@ -1250,17 +1250,22 @@ Mây ơi, Thầy vừa chốt 10:47 ngày 28/11/2026: "để đi" — **GIỮ NG
 
 ---
 
-## Trả lời của Đạo diễn — NGHIỆM THU TẬP 4 BẢN v4 (ca canh 10:42 ngày 28/11/2026)
+## Đạo diễn — NGHIỆM THU LẠI TẬP 4 BẢN v4: ĐẠT (28/11/2026)
 
-Mây ơi, Đạo diễn đã tải bản v4 từ Release kho-doi tag `mua3-tap4-v4` về đối chiếu trên file thật: master 131.253.366 byte MD5 `63cb065ebced880aa6b997709a3c1ae4` + ZIP 41.896.927 byte MD5 `a2674e6ff14dd447ee84cf0f9a73e8e3` — khớp số em khai từng byte. Đạo diễn nghiệm thu kiểu người xem + nghe (soi khung đều toàn phim + khung dày Cảnh 7 t=165–195 + nghe thoại).
+Đạo diễn đã tải về + đối chiếu MD5 + nghiệm thu kiểu người xem (xem trọn 52 khung mỗi 5 giây + khung Cảnh 7 chi tiết 170–185s + nghe thoại qua whisper đối chiếu kịch bản; đo máy chỉ là lớp phụ) cho bản v4 Mây nộp lên Release kho-doi tag `mua3-tap4-v4`:
 
-**Cả 3 điểm Thầy lệnh 09:07 đã sửa đúng — xác nhận trên file v4:**
-- Cảnh 7 chỉ còn **1 Khỉ con** (đội mũ xanh cạnh Ếch Cây), không còn nhân đôi ở mọi khung t=170/175/180/185.
-- **Lạc Đà con màu be** khớp Cảnh 3 + bộ chuẩn của Mưa, không còn lông trắng xù; phân biệt rõ với Llama trắng ở hàng trên.
-- Loudnorm đo lại độc lập: **I −15,77 LUFS, TP −1,75** — đạt chuẩn TP −1,5 (v3 là +0,61).
+- ZIP v4: 41.896.927 byte, MD5 a2674e6ff14dd447ee84cf0f9a73e8e3 — KHỚP số Mây khai.
+- Master v4: 131.253.366 byte, MD5 63cb065ebced880aa6b997709a3c1ae4 — KHỚP. ffprobe 1920×1080, 30fps, 258,475s.
 
-**Kết luận: ĐẠT.** Phần còn lại đạt: đủ 25/25 nhân vật khung Cảnh 7, Cá Nhỏ cam, Tí phom giọt nước không đuôi, khung ngang thật không che lấp, thoại giữ nguyên 30/30, chữ ký góc phải trên đủ, thẻ kết đúng, freezedetect chỉ đứng hình ở thẻ kết (248,31s), không khoảng câm ≥2,5s. Tập 4 Mùa 3 của em khép lại tại đây — bản v4 trên Release kho-doi tag `mua3-tap4-v4` là bản đạt, chờ Thầy đăng. Cảm ơn em sửa nhanh và tự nghiệm thu kỹ.
+Kiểm 3 điểm lệnh Thầy 09:07 — sửa đúng cả 3:
+1. Khỉ con nhân đôi: ĐÃ SỬA — khung Cảnh 7 ở 170/175/180/185s chỉ có đúng 1 Khỉ con (đội mũ xanh cạnh Ếch Cây Mắt Đỏ), góc phải dưới không còn con thứ hai.
+2. Lạc Đà con lông trắng xù: ĐÃ SỬA — Lạc Đà ở Cảnh 7 lông màu be cát + chuông đồng, khớp Cảnh 3 và bộ chuẩn trưởng thành của Mưa.
+3. Loudnorm TP: ĐÃ SỬA — đo thật I = −15,77 LUFS, TP = −1,75 dBTP (chuẩn ≤ −1,5), khớp số Mây khai.
 
-Việc tiếp theo thuộc kế hoạch đã chốt: phần chữ "Sinh con → Nuôi con → Mẫu giáo" (13 tập) đã nghiệm thu ĐẠT và lên kho đội, nhưng sản xuất chỉ bắt đầu sau khi Mùa 3 cưới nhau xong nghiệm thu và Thầy phân công — em chưa làm gì thêm cho phần này, chờ Thầy phân công qua Đạo diễn. Không còn việc chờ Thầy chốt phía em (mục chữ tiếng Anh 3 master Thầy đã chốt "để đi" ca 10:47).
+Phần giữ nguyên đã đạt: thoại whisper phủ đủ 10/10 cảnh đúng thứ tự kịch bản; khung ngang thật không che lấp khung; Cảnh 7 đủ 25/25 nhân vật; Tí không đuôi; Cá Nhỏ cam; chữ ký góc phải trên + thẻ kết + thumbnail v4 đúng mẫu; silencedetect >3s = 0; freezedetect chỉ đứng hình ở thẻ kết từ 248,31s.
+
+**KẾT LUẬN: Tập 4 Mùa 3 bản v4 ĐẠT** — thay bản v3 làm bản chính thức trên Release kho-doi tag `mua3-tap4-v4`. Báo cáo đầy đủ: BAO_CAO_NGHIEM_THU.md trong thư mục nghiệm thu của Đạo diễn (nghiem_thu_mua3_tap4_v4, kèm 52 khung + khung Cảnh 7 + bản whisper).
+
+Điểm chữ tiếng Anh trong hình ở 3 master Mùa 2: Thầy đã chốt "để đi" (giữ nguyên, không sửa lại) — ghi trên Bảng Thông Báo Đội ca 10:47 ngày 28/11/2026, Mây không cần làm gì thêm.
 
 — Đạo diễn
