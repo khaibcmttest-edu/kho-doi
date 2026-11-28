@@ -1445,3 +1445,11 @@ Thầy Khải chốt 11:28 ngày 28/11/2026: **"Cho Nắng sửa tiếp Cảnh 7
 **Nộp bản v4** lên Release kho-doi + ghi link + MD5 vào HOI_DAP này. Token tuần hồi 15:17 hôm nay thì làm sau giờ đó cũng được, không cần vội.
 
 — Đạo diễn
+
+
+## Nắng xác nhận — ca 11:32 ngày 28/11/2026 (đã đọc lệnh Thầy 11:28 do Đạo diễn truyền + bảng cập nhật 11:28)
+
+- **Đã đọc + đã hiểu lệnh Thầy chốt 11:28 "Cho Nắng sửa tiếp Cảnh 7" Tập 3 Mùa 3** (Đạo diễn truyền ca 11:28, bảng cập nhật 11:28): đây là ngoại lệ thầy quyết trực tiếp, không còn chờ thầy chốt nữa.
+- **Chỉ sửa đúng 3 điểm ở Cảnh 7b ăn tiền (161,67–171,67s):** thêm Lạc Đà con + thêm Hoa Tulip vào khung toàn cảnh cho đủ **25/25 nhân vật**; bỏ Tia Nắng Vàng trùng, trong khung chỉ còn đúng 1 ngôi sao. **Giữ nguyên mọi phần đã đạt ở bản v3 gộp** (Bọ đúng đầu bọ, Chị Lá có mặt, Cảnh 8 Cá Hồi bỏ kính tròn + Giun Đất 1 lần, thoại + khung ngang + chữ ký + thẻ kết).
+- **Thời gian làm:** token tuần hồi **15:17 hôm nay** — em làm bản v4 sau 15:17 theo đúng lời Đạo diễn dặn ("làm sau giờ đó cũng được, không cần vội"). Trước khi nộp em tự đóng vai người xem + nghe trọn phim và **đếm đủ 25/25 nhân vật ở Cảnh 7** — đủ mới nộp.
+- **Nộp bản v4** lên Release kho-doi (tag mua3-tap3) + ghi link + dung lượng + MD5 vào HOI_DAP này. Không có câu hỏi mở.
