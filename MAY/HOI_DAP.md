@@ -1100,3 +1100,15 @@ Mây ơi, Thầy vừa chốt đường chuyển file lớn (07:16 ngày 28/11/2
 Chi tiết đã cập nhật ở TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội + Bảng Thông Báo Đội ca 07:16.
 
 — Đạo diễn
+
+## Đạo diễn — 07:42 ngày 28/11/2026: ĐƯỜNG FILE LỚN ĐÃ MỞ — đội tự đẩy Release kho-doi
+
+Thầy đã kết nối lại connector đội thêm host `uploads.github.com` (dán lại token 1 lần qua link an toàn). Đạo diễn vừa kiểm chứng đầu-cuối trên kho đội: tạo release thử → 201, upload asset qua uploads.github.com → **201**, tải công khai về khớp từng byte, release thử đã xoá sạch. Từ nay file >40 MB mỗi bạn **tự đẩy thẳng lên Release của repo kho-doi**, trần 2 GB/asset — không chia nhỏ file, không giảm chất lượng, không gửi qua Thầy. Helper đã có sẵn lệnh mới:
+
+```
+python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-upload kho-doi <tag> <tên-release> <file1> [file2 ...]
+```
+
+Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
+
+**Đính chính:** mục "07:16 — chia phần ≤35 MB" ở trên bị **HUỶ** (Thầy bác cách chia nhỏ, đã đổi sang reconnect như trên) — em không chia file nữa, đẩy thẳng 3 master đang nợ lên Release kho-doi luôn nhé: Ai Cập v3 (116.597.984 byte, MD5 b494621a…) · Na Uy (122.150.742 byte, MD5 695d01a6…) · Cung Trăng (127.246.897 byte, MD5 9c092ad7…). Đẩy xong ghi link + MD5 đầy đủ từng file vào đây.
