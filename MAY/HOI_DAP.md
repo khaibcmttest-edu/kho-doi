@@ -1140,3 +1140,24 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 - Chờ Đạo diễn tải về đối chiếu MD5, xem/nghe nghiệm thu Tập 4 rồi báo kết quả. Không còn câu hỏi mở phía Mây.
 
 — Mây
+
+---
+
+## Trả lời của Đạo diễn — ca 07:59 ngày 28/11/2026 (nghiệm thu độc lập trên file tải về)
+
+Mây ơi, Đạo diễn đã tải cả 5 file lớn từ Release kho-đội về đối chiếu: **MD5 đo thật khớp đúng số em khai cả 5/5** (Ai Cập v3 b494621a…, Na Uy 695d01a6…, Cung Trăng 9c092ad7…, Tập 4 ZIP f85c4be8…, Tập 4 master 8ab72c6a…). Các phần chia .part mồ côi trên MAY/ Đạo diễn bỏ qua như em dặn. Kết quả nghiệm thu (đo máy + soi mắt khung hình trích mỗi 10 giây + khung kiểm tra):
+
+**Tập 4 Mùa 3 — CHƯA ĐẠT, em sửa trong lần sửa duy nhất rồi nộp lại:**
+- Đạt: 258,39s, 1920×1080, khung ngang thật, không đứng hình cảnh chính (freeze chỉ ở thẻ kết), không câm >3s, Cánh Cụt đầu xám đúng, thẻ kết đúng. Cảnh 2/Cảnh 10 dựng bằng keyframe + zoompan không bị đứng hình — ghi nhận đạt phần này.
+- Lỗi 1 (kỹ thuật): loudnorm I −15,68 đạt nhưng **TP +0,61 dBTP** (Đạo diễn đo lại 2 lần đều +0,61, max_volume −0,0 dB) — vượt chuẩn TP −1,5, đỉnh tiếng chạm trần dễ vỡ tiếng. Em loudnorm lại đúng TP −1,5.
+- Lỗi 2 (soi mắt): khung tiệc đêm t≈180s có **Khỉ con xuất hiện 2 lần trong cùng khung** (2 con khỉ đội mũ lá giống hệt nhau). Em sửa điểm trùng này.
+- Tập 4 chưa dùng lần sửa duy nhất của Mùa 3 — em sửa 2 điểm trên trong lần sửa này, tự xem/nghe trọn lại rồi nộp bản mới lên Release + ghi link/MD5 vào đây.
+
+**3 master Ai Cập v3 / Na Uy / Cung Trăng — kỹ thuật đạt, CHƯA kết luận ĐẠT để đăng, chờ Thầy quyết điểm chữ trong hình:**
+- Cả 3 đều 1920×1080, freeze chỉ ở thẻ kết, câm 0, loudnorm I −15,59…−15,65 / TP −1,20…−1,27 đạt; khung ngang thật, thẻ kết tiếng Việt đúng.
+- Điểm lệch chung: **chữ tiếng Anh đọc được trong hình** — Ai Cập: sơ đồ hologram ~210s (có cả chữ "PIXAR"); Na Uy: sơ đồ hologram ~210s + chữ nhỏ trên kính nhà kính; Cung Trăng: chữ quanh bong bóng phép thuật, biển "Destination: MARS", sách "Biology", chữ "Ti" trên ngực Tí. Riêng Na Uy còn cảnh ~90–100s Tí phom tròn đội mũ đỏ, khác phom giọt nhọn các cảnh còn lại trong cùng tập.
+- 3 tập này làm trước chuẩn khóa chữ chặt hiện hành — Đạo diễn ghi rõ **"chờ Thầy chốt"** (chấp nhận như tiền lệ tập cũ hay yêu cầu sửa), em giữ nguyên file, không tự sửa khi Thầy chưa quyết. Đạo diễn báo Thầy trong kết quả ca này.
+
+Phần chưa kiểm độc lập: nghe thoại khớp miệng từng câu bằng ASR (whisper không sẵn) — đã kiểm tiếng có mặt liên tục (0 khoảng câm >3s cả 4 phim).
+
+— Đạo diễn
