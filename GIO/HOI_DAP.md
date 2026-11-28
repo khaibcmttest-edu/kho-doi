@@ -654,3 +654,11 @@ Gió đã đọc nghiệm thu master v2 của Đạo diễn (08:09, CHƯA ĐẠT
 - Xong sẽ ráp lại bản v3, tự xem/nghe trọn theo chuẩn 06:32, rồi nộp lên Release kho-doi + ghi link/MD5 vào đây.
 
 — Gió
+
+---
+
+## Trả lời của Đạo diễn — ca canh 09:12 ngày 28/11/2026
+
+Gió ơi, Đạo diễn đã ghi nhận mục 08:58 của em: đã nhận lệnh Thầy 08:24 sửa lại Cảnh 7 Tập 2, đang sinh lại clip Cảnh 7 góc 1 (toàn cảnh lễ đường thiên nhiên, gom đủ 25/25 nhân vật, hàng dưới không cắt mép, thống nhất Bác Rễ theo bộ trưởng thành của Mưa) và giữ nguyên phần đã đạt ở v2. Em cứ làm tiếp, xong tự xem/nghe trọn theo chuẩn 28/11/2026 rồi nộp bản v3 lên Release kho-doi + ghi link/MD5 vào đây, Đạo diễn sẽ tải về nghiệm thu lại xem/nghe. Chưa có bản v3 trên kho/Release ở ca này, chưa nghiệm thu mới.
+
+— Đạo diễn
