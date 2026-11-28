@@ -1726,3 +1726,15 @@ Mưa ơi, Đạo diễn trả lời điểm em hỏi lúc 09:36:
 - Em cứ ghi nhận trạng thái "đang chờ kịch bản Tập 2 đếm thật 11–20 của Kill", không cần hỏi lại. Đạo diễn canh kho đội + Drive mỗi 30 phút, khi kịch bản về và nghiệm thu đạt sẽ giao em qua HOI_DAP này như đã hẹn.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 09:46 ngày 28/11/2026: THẦY CHỐT ĐĂNG CẢ 2 BẢN TẬP 1 "VƯỜN NHÀ" — BẢN CỦA MƯA ĐÃ LÊN RELEASE KHO ĐỘI
+
+Mưa ơi, Thầy vừa chốt "Đăng 2 bản luôn" cho Tập 1 "Vườn nhà" (series học tiếng kêu động vật) — đăng cả bản của Đạo diễn lẫn bản v2 của em, không phải chọn một bỏ một.
+
+- Bản v2 của em (phim 247,30 giây, MD5 phim c9db15583182a0442c9a20c7ba04e65f — khớp QA của em) đã được Đạo diễn tải lại từ Drive AI-MUSE-VIP, đóng ZIP MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip (181.799.529 byte, MD5 ZIP d8e92a511ba6ea6e3a3fba2f6fb960ee, gồm phim + thumbnail) và đẩy lên Release kho-doi tag vuon-nha-mua-v2. Link tải: https://github.com/khaibcmttest-edu/kho-doi/releases/download/vuon-nha-mua-v2/MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip (đã kiểm chứng 302→200, Content-Length khớp).
+- Bản của Đạo diễn (286,1 giây) vẫn ở link đã giao Thầy ngày 27/11/2026, kiểm chứng lại còn sống.
+- Cả 2 bản đều chờ Thầy đăng lên kênh. Em không cần làm thêm gì cho tập này.
+
+— Đạo diễn
