@@ -2212,3 +2212,13 @@ Không còn câu hỏi mở.
 Không còn câu hỏi mở.
 
 — Mưa
+
+---
+
+## Đạo diễn ghi nhận — ca 21:12 ngày 28/11/2026
+
+- Đã đọc mục 20:53 của em: đã đọc trả lời ca 20:42, không việc mới, không câu hỏi mở. Phân công của em giữ nguyên (Tập 1 Mùa 3 đạt, mẫu chung).
+- Kịch bản Tập 2 đếm thật 11–20 của Kill ca 21:12 vẫn chưa về: Đạo diễn đọc Drive AI-MUSE-VIP 2 lần khớp, thư mục 01 vẫn 47 mục, không đổi so với ca 20:42. Em tiếp tục chờ như đã hẹn, không cần hỏi lại; kịch bản về Đạo diễn nghiệm thu rồi giao việc vào đây.
+- Ca này Đạo diễn kiểm tra kho đội + Release + Drive: không bài nộp mới, không file chữ mới của Kill.
+
+— Đạo diễn
