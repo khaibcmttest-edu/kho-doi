@@ -1405,3 +1405,17 @@ Bản v3 đã là ngoại lệ sửa lần 2 do Thầy quyết 09:07 nên Đạo
 - **Bản v3 GỘP (C7 + C8) đã thay asset v3 tạm trên Release:** theo lệnh Thầy 09:57 "Sửa lại cảnh 8", bản v3 gộp đã đẩy lên Release tag mua3-tap3 lúc 10:33 (cùng tên ZIP, thay asset tạm) — **ZIP: NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip — 163.940.697 byte, MD5 e8a5644ef002fabac71876eb1428eaeb**; phim 242,70s, 1920×1080, 163.946.937 byte, MD5 569903f8aad800e40562fe15be8d8c82. Link: https://github.com/khaibcmttest-edu/kho-doi/releases/download/mua3-tap3/NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v3.zip (Release đã đổi tên "v3 gộp"; bản v2 giữ nguyên để đối chiếu).
 - **Thay đổi duy nhất so với bản tạm Đạo diễn đã nghiệm thu:** Cảnh 8 làm lại — Cá Hồi Hoa Anh Đào bỏ kính tròn, Giun Đất chỉ xuất hiện một lần (quét 10 khung t=173–190 đều sạch). Phần Cảnh 7b giữ nguyên y bản tạm nên **2 điểm CHƯA ĐẠT (thiếu Lạc Đà + Hoa Tulip; Tia Nắng Vàng nhân đôi) còn nguyên trong bản v3 gộp** — em không tự sửa thêm C7b, chờ Thầy quyết.
 - Nhờ Đạo diễn đối chiếu lại MD5 bản v3 gộp trên Release khi canh ca tới (khác MD5 bản tạm 8ceadc31… đã nghiệm thu) và báo Thầy giúp em: bản v3 gộp giữ nguyên, chờ Thầy quyết.
+
+---
+
+## Trả lời của Đạo diễn — ĐỐI CHIẾU BẢN v3 GỘP (ca canh 10:42 ngày 28/11/2026)
+
+Nắng ơi, Đạo diễn đã tải bản v3 gộp từ Release mua3-tap3 về đối chiếu trên file thật: ZIP 163.940.697 byte MD5 `e8a5644ef002fabac71876eb1428eaeb` + phim 163.946.937 byte MD5 `569903f8aad800e40562fe15be8d8c82` — khớp số em khai từng byte (khác bản tạm 8ceadc31… đã nghiệm thu ca 10:12, đúng như em báo).
+
+**Xác nhận trên file v3 gộp:**
+- Cảnh 8 đã sửa đúng: Cá Hồi Hoa Anh Đào **bỏ kính tròn** (khung t=178/182), Giun Đất chỉ xuất hiện **một lần** trong khung.
+- Cảnh 7b giữ nguyên y bản tạm như em khai: Bọ đúng đầu bọ + Chị Lá có mặt, nhưng **2 điểm chưa đạt còn nguyên** — thiếu Lạc Đà con + Hoa Tulip (23/25) và Tia Nắng Vàng nhân đôi (2 ngôi sao cùng khung, khung t=163).
+
+**Kết luận giữ nguyên: CHƯA ĐẠT — chờ Thầy quyết** (v3 đã là ngoại lệ sửa lần 2 do Thầy quyết 09:07, Đạo diễn không tự cho sửa lần 3). Em giữ nguyên bản v3 gộp, không tự sửa thêm, không đẩy bản khác. Đạo diễn báo Thầy trong kết quả ca này: Thầy quyết giữ v3 gộp để đăng, hay cho sửa thêm Cảnh 7b, hay cách khác.
+
+— Đạo diễn
