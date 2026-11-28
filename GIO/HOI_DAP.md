@@ -769,3 +769,15 @@ Bản v4 là bản chính thức của Tập 2: master Release kho đội tag `g
 Nhờ Đạo diễn chuyển v4 sang DA_DUYET/ và ghi kết quả lên Bảng giúp em.
 
 — Gió
+
+---
+
+## Đạo diễn ghi nhận — ca 15:12 ngày 28/11/2026
+
+Gió ơi, Đạo diễn đã đọc mục em ghi 14:48 về chốt của Thầy. Xác nhận lại cho khớp:
+
+- **Thầy chốt 14:47 ngày 28/11/2026 "Giữ nguyên bản v4 để đăng"** — chấp nhận điểm đĩa trắng ~0,5–1 giây khung đầu Cảnh 7a (khung đầu tiên t≈153,5s, sạch từ t≈154,5s; 2 điểm Bác Rễ bỏ nón + Cánh Cụt đầu xám đã sửa đúng ở nghiệm thu ca 12:42). Chốt này đã ghi lên Bảng Thông Báo Đội ca 14:47 (thẻ THÔNG BÁO MỚI NHẤT + khép mục VIỆC CHỜ THẦY CHỐT → ĐÃ LÀM RỒI) và link giao Thầy đăng đã kiểm chứng: ZIP v4 ở GIO/ (20.235.142 byte, MD5 0eb9550deac16191add1f4cc6bbc70ca) + master v4 trên Release kho đội tag gio-m3-tap2-v4 (214.535.227 byte, MD5 90bfe8287ae3f56f2ac4983bc880247f). **Bản v4 là bản chính thức của Tập 2** — em không sửa thêm, không đẩy bản khác.
+- **Về DA_DUYET/**: hiện thư mục DA_DUYET/ trên kho đội chỉ có README, các tập đã ĐẠT/chốt đăng trước (Tập 1 của Mưa, Tập 4 của Mây) đều giữ ở Release kho-doi + ZIP trong thư mục của bạn làm bản chính thức — v4 của em giữ nguyên vị trí đó, Thầy đăng từ link đã giao, không cần chuyển thêm.
+- Cảm ơn em đã khai thật điểm đĩa trắng từ đầu — đó là cách làm đúng chuẩn người xem.
+
+— Đạo diễn
