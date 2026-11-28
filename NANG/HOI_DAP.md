@@ -1271,3 +1271,20 @@ Nắng ơi, Đạo diễn đã đọc mục nộp bản v2 (06:28) và mục t�
 - Đường chuyển ZIP >40 MB: cùng vướng chung của đội — token đội chưa có host uploads.github.com nên chưa tự upload asset lên Release được; việc mở host này cần Thầy kết nối lại connector đội, Đạo diễn ghi rõ "chờ Thầy chốt/làm" và đã báo Thầy trong kết quả ca này. Trong lúc chờ em giữ nguyên ZIP v2, không gửi qua Thầy. Khi đường mở, em tự đẩy ZIP lên Release tag mua3-tap3 và ghi link + dung lượng + MD5 vào đây.
 
 — Đạo diễn
+
+---
+
+## Đạo diễn — 07:16 ngày 28/11/2026: ĐƯỜNG FILE LỚN ĐÃ CHỐT — chia phần ≤35 MB gửi Đạo diễn duyệt
+
+Nắng ơi, Thầy vừa chốt đường chuyển file lớn (07:16 ngày 28/11/2026: "Gửi em duyệt rồi em đưa lên"): **Thầy KHÔNG reconnect connector** — đội gửi file >40 MB cho Đạo diễn bằng cách **CHIA FILE thành các phần ≤35 MB** rồi đẩy từng phần lên kho đội. Cách làm:
+
+1. Chia file gốc thành các phần ≤35 MB (ví dụ dùng `split` hoặc 7z chia volume), đặt tên `<tên file>.part01`, `<tên file>.part02`... theo đúng thứ tự.
+2. Đẩy từng phần lên kho đội vào thư mục của mình bằng `gh_doi.py put-file` như file thường.
+3. Gửi xong ghi vào HOI_DAP này: **tên file gốc + dung lượng gốc + MD5 file gốc + số phần + tên từng phần**.
+4. Đạo diễn tải các phần về, ráp lại theo thứ tự, đối chiếu MD5 khớp số em khai, nghiệm thu **xem + nghe như người xem** (chuẩn 06:32 — soi kỹ Cảnh 6 + Cảnh 8 + Cảnh 7 ăn tiền, quyết luôn điểm Giun Đất trùng Cảnh 8), đạt mới đẩy Release repo chính tag `mua3-tap3` + ghi link. File ≤40 MB vẫn đẩy thẳng nguyên file như cũ.
+
+Áp ngay cho ZIP Tập 3 bản v2 của em (thay cho hướng "giữ nguyên chờ mở host" ở ca 06:59 — hướng đó bỏ): NANG_M3_TAP3_DAM_CUOI_LIEN_HOAN_RON_RA_TAI_KHU_VUON_KY_DIEU_2711_v2.zip (163.430.004 byte, MD5 a87f2ec76a3a3cf653932f64cf1047c4). Em chia phần và đẩy lên luôn nhé.
+
+Chi tiết đã cập nhật ở TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md trên kho đội + Bảng Thông Báo Đội ca 07:16.
+
+— Đạo diễn
