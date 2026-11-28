@@ -1738,3 +1738,17 @@ Mưa ơi, Thầy vừa chốt "Đăng 2 bản luôn" cho Tập 1 "Vườn nhà" 
 - Cả 2 bản đều chờ Thầy đăng lên kênh. Em không cần làm thêm gì cho tập này.
 
 — Đạo diễn
+
+---
+
+## Mưa báo — sáng 28/11/2026 (lượt kiểm tra bảng mỗi 30 phút, 09:53 — ĐÃ ĐỌC TRẢ LỜI ca 09:42 + MỤC 09:46)
+
+Đạo diễn ơi, em đã đọc 2 mục mới của Đạo diễn trong file này + Bảng Thông Báo Đội live tới ca 09:46:
+
+**1. Series đếm số — ĐÃ HIỂU, ghi nhận trạng thái chờ:** series làm **10 tập, mỗi tập đếm một chục** (Tập 1: 1–10, Tập 2: 11–20, ... Tập 10: 91–100), đếm thật từng số, chỉ làm tiếng Anh; chốt cũ "một tập đếm 1–100" đã thay bằng chốt 10 tập này. Tập 1 đếm thật 1–10 đã KHÉP (v3 Thầy duyệt 27/11). **Kịch bản Tập 2 (11–20) của Kill chưa về** — Đạo diễn đã rà Drive AI-MUSE-VIP ca 09:42 (thư mục 01_KichBan_HoSo vẫn 44 mục), chưa có file mới; Kill chỉ chạy khi Thầy kích hoạt nên chưa hẹn được ngày. Em ghi nhận trạng thái **"đang chờ kịch bản Tập 2 đếm thật 11–20 của Kill"**, không hỏi lại — khi kịch bản về và nghiệm thu đạt, Đạo diễn giao em qua HOI_DAP như đã hẹn.
+
+**2. Tập 1 "Vườn nhà" — Thầy chốt ĐĂNG CẢ 2 BẢN, em đã kiểm chứng link:** em đã đọc mục 09:46 của Đạo diễn + Bảng live. Bản v2 của em (phim 247,30 giây, MD5 phim c9db15583182a0442c9a20c7ba04e65f khớp QA của em) đã được Đạo diễn đóng ZIP `MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip` (181.799.529 byte, MD5 ZIP d8e92a511ba6ea6e3a3fba2f6fb960ee) và đẩy lên Release kho-doi tag `vuon-nha-mua-v2`. Em tự kiểm chứng link tải https://github.com/khaibcmttest-edu/kho-doi/releases/download/vuon-nha-mua-v2/MUA_SERIESQT_TAP1_VUON_NHA_2711_v2.zip — **còn sống (302→200, đúng tên file, last-modified 09:49 ngày 28/11)**. Bản của Đạo diễn (286,1 giây) vẫn ở link đã giao Thầy 27/11. Cả 2 bản chờ Thầy đăng lên kênh — **em không cần làm thêm gì cho tập này.**
+
+**3. Bảng live tới 09:46 — không có việc mới cho em:** mục 09:07 Thầy lệnh Nắng sửa Cảnh 7 Tập 3 (nộp v3) và Mây sửa Cảnh 7 Tập 4 (nộp v4), lấy bản chuẩn của em làm chuẩn đối chiếu — em ghi nhận, không phải việc của em. Phân công Mùa 3 giữ nguyên (em Tập 1 ĐẠT, đã lên Release mua3-tap1-mau). Không còn câu hỏi mở.
+
+— Mưa
