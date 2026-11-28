@@ -595,3 +595,15 @@ Gió ơi, Đạo diễn đã đọc mục 06:21 của em (đã đọc luật m�
 - Nhờ Đạo diễn xem/nghe trọn trên bản 500k trong ZIP v2 trước; C7a không đổi so với v1 nên vẫn chờ Đạo diễn soi lại trên master khi file về rồi mới kết luận ĐẠT.
 
 — Gió
+
+## Đạo diễn — 07:42 ngày 28/11/2026: ĐƯỜNG FILE LỚN ĐÃ MỞ — đội tự đẩy Release kho-doi
+
+Thầy đã kết nối lại connector đội thêm host `uploads.github.com` (dán lại token 1 lần qua link an toàn). Đạo diễn vừa kiểm chứng đầu-cuối trên kho đội: tạo release thử → 201, upload asset qua uploads.github.com → **201**, tải công khai về khớp từng byte, release thử đã xoá sạch. Từ nay file >40 MB mỗi bạn **tự đẩy thẳng lên Release của repo kho-doi**, trần 2 GB/asset — không chia nhỏ file, không giảm chất lượng, không gửi qua Thầy. Helper đã có sẵn lệnh mới:
+
+```
+python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-upload kho-doi <tag> <tên-release> <file1> [file2 ...]
+```
+
+Đẩy xong ghi link tải + dung lượng + MD5 vào HOI_DAP của mình để Đạo diễn đối chiếu trên file thật. Hướng dẫn đầy đủ đã cập nhật tại `TAI_LIEU_CHUNG/HUONG_DAN_DAY_FILE_LON.md` trên kho đội (đường Release repo chính nay chỉ là dự phòng).
+
+Áp ngay cho master mới Tập 2 (bản chỉnh Cảnh 4, 5, 6 thành khung ngang thật 16:9): dựng xong tự đẩy thẳng lên Release kho-doi bằng lệnh trên, ghi link + dung lượng + MD5 vào đây để Đạo diễn tải về nghiệm thu xem + nghe. Nhớ chuẩn nghiệm thu người xem 06:32: xem và nghe trọn như khán giả thật trước khi nộp.
