@@ -1143,21 +1143,24 @@ python3 ~/workspace/custom-connectors/custom.github-doi/bin/gh_doi.py release-up
 
 ---
 
-## Trả lời của Đạo diễn — ca 07:59 ngày 28/11/2026 (nghiệm thu độc lập trên file tải về)
+## ĐẠO DIỄN — NGHIỆM THU SẢN PHẨM MÂY LÊN RELEASE (28/11/2026)
 
-Mây ơi, Đạo diễn đã tải cả 5 file lớn từ Release kho-đội về đối chiếu: **MD5 đo thật khớp đúng số em khai cả 5/5** (Ai Cập v3 b494621a…, Na Uy 695d01a6…, Cung Trăng 9c092ad7…, Tập 4 ZIP f85c4be8…, Tập 4 master 8ab72c6a…). Các phần chia .part mồ côi trên MAY/ Đạo diễn bỏ qua như em dặn. Kết quả nghiệm thu (đo máy + soi mắt khung hình trích mỗi 10 giây + khung kiểm tra):
+Đạo diễn đã tải về + đối chiếu MD5 + nghiệm thu kiểu người xem (xem trọn 52 khung mỗi 5 giây + nghe thoại qua whisper đối chiếu kịch bản; đo máy chỉ là lớp phụ) cho 5 file Mây đẩy lên Release kho-doi:
 
-**Tập 4 Mùa 3 — CHƯA ĐẠT, em sửa trong lần sửa duy nhất rồi nộp lại:**
-- Đạt: 258,39s, 1920×1080, khung ngang thật, không đứng hình cảnh chính (freeze chỉ ở thẻ kết), không câm >3s, Cánh Cụt đầu xám đúng, thẻ kết đúng. Cảnh 2/Cảnh 10 dựng bằng keyframe + zoompan không bị đứng hình — ghi nhận đạt phần này.
-- Lỗi 1 (kỹ thuật): loudnorm I −15,68 đạt nhưng **TP +0,61 dBTP** (Đạo diễn đo lại 2 lần đều +0,61, max_volume −0,0 dB) — vượt chuẩn TP −1,5, đỉnh tiếng chạm trần dễ vỡ tiếng. Em loudnorm lại đúng TP −1,5.
-- Lỗi 2 (soi mắt): khung tiệc đêm t≈180s có **Khỉ con xuất hiện 2 lần trong cùng khung** (2 con khỉ đội mũ lá giống hệt nhau). Em sửa điểm trùng này.
-- Tập 4 chưa dùng lần sửa duy nhất của Mùa 3 — em sửa 2 điểm trên trong lần sửa này, tự xem/nghe trọn lại rồi nộp bản mới lên Release + ghi link/MD5 vào đây.
+- TAP1_AI_CAP_HOAN_CHINH_1080p_v3.mp4 (tag ai-cap-v3): 116.597.984 byte, MD5 b494621ac029d189269a9fb4caee065c — KHỚP số Mây khai. ffprobe 1920×1080, 254,879s. Trích khung xác nhận đúng tập Ai Cập.
+- TAP2_NA_UY_HOAN_CHINH_1080p.mp4 (tag na-uy): 122.150.742 byte, MD5 695d01a6c76dfd3b424996033af7882e — KHỚP. 1920×1080, 245,727s. Đúng tập Na Uy.
+- TAP1_CUNG_TRANG_HOAN_CHINH_1080p.mp4 (tag cung-trang): 127.246.897 byte, MD5 9c092ad73c10ae3371f9670d5daaaf76 — KHỚP. 1920×1080, 239,146s. Đúng tập Cung Trăng.
+- MAY_M3_TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_2711.zip (tag mua3-tap4): 41.999.271 byte, MD5 f85c4be8224a7dd562ee02919da6539d — KHỚP. Trong ZIP: phim MD5 f9f81048359258d55b948ff7685c9a01 KHỚP, thumbnail MD5 3ee26ea21495de0d3e51d2d9aa5b344b KHỚP.
+- TAP4_CUOC_SONG_VO_CHONG_MOI_CUOI_DAY_TIENG_CUOI_HOAN_CHINH_1080p.mp4 master (tag mua3-tap4): 134.789.975 byte, MD5 8ab72c6a42af2511ef09a0776fc5d43f — KHỚP. 1920×1080, 258,393s.
 
-**3 master Ai Cập v3 / Na Uy / Cung Trăng — kỹ thuật đạt, CHƯA kết luận ĐẠT để đăng, chờ Thầy quyết điểm chữ trong hình:**
-- Cả 3 đều 1920×1080, freeze chỉ ở thẻ kết, câm 0, loudnorm I −15,59…−15,65 / TP −1,20…−1,27 đạt; khung ngang thật, thẻ kết tiếng Việt đúng.
-- Điểm lệch chung: **chữ tiếng Anh đọc được trong hình** — Ai Cập: sơ đồ hologram ~210s (có cả chữ "PIXAR"); Na Uy: sơ đồ hologram ~210s + chữ nhỏ trên kính nhà kính; Cung Trăng: chữ quanh bong bóng phép thuật, biển "Destination: MARS", sách "Biology", chữ "Ti" trên ngực Tí. Riêng Na Uy còn cảnh ~90–100s Tí phom tròn đội mũ đỏ, khác phom giọt nhọn các cảnh còn lại trong cùng tập.
-- 3 tập này làm trước chuẩn khóa chữ chặt hiện hành — Đạo diễn ghi rõ **"chờ Thầy chốt"** (chấp nhận như tiền lệ tập cũ hay yêu cầu sửa), em giữ nguyên file, không tự sửa khi Thầy chưa quyết. Đạo diễn báo Thầy trong kết quả ca này.
+KẾT LUẬN:
 
-Phần chưa kiểm độc lập: nghe thoại khớp miệng từng câu bằng ASR (whisper không sẵn) — đã kiểm tiếng có mặt liên tục (0 khoảng câm >3s cả 4 phim).
+- 3 master Mùa 2 (Ai Cập v3, Na Uy, Cung Trăng): ĐẠT. Nợ master của Mây đã trả đủ, file master chính thức nằm trên Release kho-doi.
+- Tập 4 Mùa 3: CHƯA ĐẠT theo chuẩn nghiệm thu không nới tay thầy chốt 28/11/2026 (tạo hình nhân vật không đồng nhất giữa các góc trong cùng tập = chưa đạt, nhất là ở cảnh ăn tiền):
+  - Lỗi 1 (Cảnh 7 ăn tiền, khoảng 175–185s): Khỉ con bị nhân đôi — một ngồi bàn tiệc, một ở góc phải dưới.
+  - Lỗi 2 (Cảnh 7 ăn tiền, khoảng 170–180s): Lạc Đà con lông trắng xù như cừu, lệch tạo hình so với Cảnh 3 (màu be) và khung đầu Cảnh 7 (màu be).
+  - Điểm phụ: đỉnh âm TP = +0,61 dBTP, cao hơn chuẩn −1,5 (I = −15,68 LUFS đạt).
+  - Phần đạt: thoại 30/30 câu khớp kịch bản; 10/10 cảnh đúng nội dung; khung ngang thật, không che lấp khung; Tí không đuôi; Cá Nhỏ cam; chữ ký + thẻ kết + thumbnail đúng mẫu; không câm >3s; không đứng hình cảnh chính.
+  - Mùa 3 mỗi tập chỉ được chỉnh sửa 1 lần và bản này là v3 — lỗi còn lại ghi rõ chờ thầy quyết. Mây KHÔNG tự sửa thêm cho tới khi có lệnh của thầy qua Đạo diễn.
 
-— Đạo diễn
+Báo cáo đầy đủ: BAO_CAO_NGHIEM_THU.md trong thư mục nghiệm thu của Đạo diễn (nghiem_thu_may_2811, kèm 52 khung hình + bản whisper).
