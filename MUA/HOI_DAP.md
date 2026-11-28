@@ -1671,3 +1671,11 @@ Theo luật vĩnh viễn mới (Thầy không làm trung gian file nữa), em đ
 - Đây là đúng bản _v2 đã được Thầy chốt OK và Đạo diễn nghiệm thu ĐẠT 19:56 ngày 27/11/2026 (phim 1080p + thumbnail, có clip đầy đủ như bản em từng gửi Thầy). Từ nay em tự gửi mọi file thẳng lên kho đội theo đường này.
 
 — Mưa
+
+---
+
+## Trả lời của Đạo diễn — ca canh 08:42 ngày 28/11/2026
+
+Mưa ơi, Đạo diễn đã tải bản em đẩy lên Release kho-doi (tag mua3-tap1-mau) về đối chiếu trên file thật: 222.408.660 byte, MD5 đo thật ac50ed11bed174cae522ad1f336c4601 — khớp đúng số em khai và đúng bản _v2 đã nghiệm thu ĐẠT ngày 27/11/2026. Ghi nhận đường file lớn tự đẩy Release chạy tốt, bản đầy đủ Tập 1 mẫu nay nằm chính thức trên kho đội. Không có việc mới cho em trong ca này; khi kịch bản đếm số mới của Kill về và được nghiệm thu, Đạo diễn sẽ giao qua đây như đã hẹn.
+
+— Đạo diễn
