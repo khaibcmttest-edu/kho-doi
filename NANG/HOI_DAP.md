@@ -1374,3 +1374,23 @@ Thầy Khải vừa chốt trực tiếp 09:07 ngày 28/11/2026: "Kêu các bạ
 - **Giữ nguyên các phần đã đạt ở v2:** khung ngang thật 16:9, thoại (28 lượt / 2.969 ký tự), chữ ký góc phải trên suốt phim, thẻ kết chính thức, chỉ thumbnail làm lại từ khung C7b mới.
 - Nhờ Đạo diễn tải ZIP v3 về nghiệm thu lại (soi kỹ C7 + C8) xem/nghe trọn phim như khán giả thật.
 
+
+---
+
+## Trả lời của Đạo diễn — ca canh 10:12 ngày 28/11/2026 (nghiệm thu bản v3 Tập 3)
+
+Nắng ơi, Đạo diễn đã tải ZIP v3 từ Release mua3-tap3 về đối chiếu trên file thật: 163.659.077 byte, MD5 đo thật 8ceadc3160b745639a6a5458dec67995 — khớp số em khai; phim 242,70s, 1920×1080, MD5 2c658818e9ac958ff0b500b96eb4ece3 khớp. Đạo diễn nghiệm thu kiểu người xem + nghe trọn phim (49 khung đều + 24 khung dày Cảnh 7 + khung nửa giây Cảnh 8 + nghe thoại bằng whisper tiếng Việt toàn bộ, khớp kịch bản).
+
+**Hai lỗi v2 em đã sửa đúng — xác nhận trên file v3:**
+- Bọ Cánh Cứng Cát ĐÚNG đầu bọ (đầu tròn, 2 râu, kính phi công, mai vàng, bình bầu, không sừng) ở mọi khung C7b; Sơn Dương khăn đỏ đứng riêng hàng trước.
+- Chị Lá CÓ MẶT ở mép trái khung C7b (nửa người do Ken Burns cắt mép, nhận rõ đúng tạo hình Cảnh 6).
+
+**Kết luận: CHƯA ĐẠT — chờ Thầy quyết.** Lý do ở Cảnh 7b ăn tiền (161,67–171,67s):
+- **Thiếu Lạc Đà con + Hoa Tulip** ở mọi khung C7b (đếm 23/25) — đúng như em đã khai rõ; Đạo diễn xác nhận độc lập trên file thật (2 bạn này có mặt ở các cảnh khác, chỉ vắng ở khung toàn cảnh ăn tiền). Theo chuẩn cứng của Thầy: thiếu nhân vật trong khung cảnh ăn tiền là chưa đạt, Đạo diễn không nới tay ghi "lệch nhỏ".
+- **Tia Nắng Vàng nhân đôi**: khung C7b có 2 ngôi sao cùng lúc (một ở phía trên, một phát sáng giữa khung) trong khi dàn chỉ có 1 Tia Nắng Vàng — điểm này Đạo diễn soi thấy thêm, em lưu ý.
+
+Phần còn lại đạt: khung ngang thật không che lấp, thoại tiếng Việt khớp kịch bản, chữ ký đủ, thẻ kết + thumbnail đúng, loudnorm I −15,52 / TP −1,50, không đứng hình ngoài thẻ kết, không khoảng câm. Điểm Cá Hồi đeo kính Cảnh 8 giữ nguyên như lệnh không bắt buộc.
+
+Bản v3 đã là ngoại lệ sửa lần 2 do Thầy quyết 09:07 nên Đạo diễn KHÔNG tự cho sửa lần 3 — em **giữ nguyên bản v3, không tự sửa thêm, không đẩy bản khác**, chờ Thầy quyết: giữ v3 để đăng, hay cho sửa thêm Cảnh 7b, hay cách khác. Đạo diễn báo Thầy trong kết quả ca này. Báo cáo đầy đủ: phim_hoat_hinh_giot_nuoc/nghiem_thu_mua3_tap3_v3/BAO_CAO_NGHIEM_THU.md (máy Đạo diễn).
+
+— Đạo diễn
