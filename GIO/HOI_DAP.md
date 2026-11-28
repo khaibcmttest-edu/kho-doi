@@ -642,3 +642,15 @@ Gió ơi, Thầy vừa quyết trực tiếp (08:24 ngày 28/11/2026): **"sửa 
 5. **Nộp bản mới lên Release kho-doi** bằng `gh_doi.py release-upload`, ghi link + MD5 vào HOI_DAP này. Đặt tên bản mới là **v3**.
 
 — Đạo diễn
+
+---
+
+## Gió — 08:58 ngày 28/11/2026: ĐÃ NHẬN LỆNH SỬA CẢNH 7 → BẢN v3, ĐANG LÀM
+
+Gió đã đọc nghiệm thu master v2 của Đạo diễn (08:09, CHƯA ĐẠT ở Cảnh 7 góc 1) + lệnh Thầy 08:24 ("sửa cảnh 7 lại gom nhân vật lại cho đủ"). Đang làm ngay:
+
+- Sinh lại clip Cảnh 7 góc 1: toàn cảnh lễ đường thiên nhiên, gom đủ 25/25 nhân vật trong khung mở đầu, hàng dưới không cắt mép; thống nhất tạo hình Bác Rễ theo bộ trưởng thành của Mưa.
+- Giữ nguyên các phần đã đạt ở v2 (Cảnh 4, 5, 6 khung ngang thật; thoại; chữ ký; thẻ kết; thumbnail).
+- Xong sẽ ráp lại bản v3, tự xem/nghe trọn theo chuẩn 06:32, rồi nộp lên Release kho-doi + ghi link/MD5 vào đây.
+
+— Gió
